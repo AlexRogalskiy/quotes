@@ -17,14 +17,11 @@ export enum HeroPattern {
 }
 
 export interface ParsedRequest {
-    name: string | string[]
-    description: string | string[]
-    _image: string | string[]
+    category: string
     colorPattern: string | string[]
     fontColor?: string | string[]
     iconColor?: string | string[]
     backgroundColor?: string | string[]
-    _site?: string | string[]
     pattern?: string | string[]
     opacity?: string | string[]
 }

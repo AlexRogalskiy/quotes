@@ -21,7 +21,7 @@ interface GetPattern {
     [key: string]: any;
 }
 
-export default getPattern = (pattern: any, opacity: string, colorPattern: string): string => {
+const getPattern = (pattern: any, opacity: string, colorPattern: string): string => {
     const patternMapping: GetPattern = {
         [HeroPattern.brickWall]: brickWall,
         [HeroPattern.bubbles]: bubbles,
@@ -43,3 +43,5 @@ export default getPattern = (pattern: any, opacity: string, colorPattern: string
     const fillOpacity = [colorPattern, opacity];
     return patternFunc.apply(null, fillOpacity);
 };
+
+export default getPattern;

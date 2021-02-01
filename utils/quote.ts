@@ -1,41 +1,39 @@
-import { Icons, ParsedRequest } from "../typings/types"
-import { css } from './getCss'
+import {ParsedRequest} from "../typings/types"
+import {css} from './getCss'
+import * as quoteFromCategory from '../quotes/data.json';
 
-export function quoteRender(parsedRequest: ParsedRequest) {
-  const {
-    name,
-    description,
-    _image,
-    backgroundColor,
-    pattern,
-    colorPattern,
-    fontColor,
-    _site,
-    opacity
-  } = parsedRequest
+export async function quoteRenderer(parsedRequest: ParsedRequest) {
+    const {
+        category,
+        backgroundColor,
+        pattern,
+        colorPattern,
+        fontColor,
+        opacity
+    } = parsedRequest
 
-  return `
+    let quoteCategory = quoteFromCategory[category];
+    let quoteData = quoteCategory[Math.floor(Math.random() * quoteCategory.length)];
+
+    return `
       <svg
-        width="980"
-        height="490"
-        viewBox="0 0 640 320"
+        width="580"
+        height="100%"
+        viewBox="0 0 580 100%"
         xmlns="http://www.w3.org/2000/svg">
-        <foreignObject x="0" y="0" width="900" height="320">
+        <foreignObject x="0" y="0" width="580" height="100%">
             <div xmlns="http://www.w3.org/1999/xhtml">
-              <div class="card-wrapper">
-                <div class="card-wrapper-desc">
-                  <h1 class="font-monserrat700 animate-transition">${name}</h1>
-                  <p class="font-monserratRegular animate-transition">${description}</p>
+              <div class="quote-wrapper">
+                <div class="quote-wrapper-desc">
                   <div class="line"></div>
-                  <p class="site font-monserratRegular">${_site}</p>
-                </div>
-                <div class="card-wrapper-img">
-                  <img src="${_image}" class="card-img animate-image" alt="image-${name}"/>
+                  <p class="font-monserratRegular">${quoteData.quote}</p>
+                  <div class="line"></div>
+                  <h3 class="font-monserrat700">${quoteData.author}</h3>
                 </div>
               </div>
             </div>
         </foreignObject>
-        <style>${css({ backgroundColor, pattern, opacity, colorPattern, fontColor })}</style>
+        <style>${css({backgroundColor, pattern, opacity, colorPattern, fontColor})}</style>
       </svg>
   `
 }
