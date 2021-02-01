@@ -3,7 +3,7 @@
 
 <p>Get your styled quote dynamically 😎</p>
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/alexrogalskiy/cards/main/LICENSE?token=AH44ZFH7IF2KSEDK7LSIW3C7YOFYC)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/alexrogalskiy/quotes/master/LICENSE?token=AH44ZFH7IF2KSEDK7LSIW3C7YOFYC)
 [![Issue](https://img.shields.io/github/issues/alexrogalskiy/quotes)](https://img.shields.io/github/issues/alexrogalskiy/quotes)
 [![Forks](https://img.shields.io/github/forks/alexrogalskiy/quotes)](https://img.shields.io/github/forks/alexrogalskiy/quotes)
 [![Stars](https://img.shields.io/github/stars/alexrogalskiy/quotes)](https://img.shields.io/github/stars/alexrogalskiy/quotes)
@@ -19,7 +19,7 @@ Quotes is a serverless dynamically quote name based on SVG (Scalable Vector Grap
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![quote](https://quoteivo.alexrogalskiy.vercel.app/api?name=[name]&description=[description]&image=[image_url])
+![quote](https://quoteivo.alexrogalskiy.vercel.app/api?category=[category])
 ```
 There are several options you can use, and the options is:
 
@@ -32,10 +32,6 @@ There are several options you can use, and the options is:
 | Pattern | You can use a pattern for the background. You can see the list below | String | plus | ```?pattern=[value]``` |
 | Color Pattern | Fill the color pattern | Hex color code | %231abc9c | ```?colorPattern=[value]``` |
 | Opacity Pattern | Opacity of the pattern background | Float | 0 - 1 | ```?opacity=[value]``` |
-| Instagram | Your Instagram username | String | <account> | ```?instagram=[value]``` |
-| linkedin | Your Linkedin username | String | <account> | ```?linkedin=[value]``` |
-| Github | Your Github username | String | <account> | ```?github=[value]``` |
-| Twitter | Your Twitter username | String | <account> | ```?twitter=[value]``` |
 
 > NB: Remove the square bracket
 
@@ -65,12 +61,12 @@ This is example of using *Quotes*:
 Markdown content: 
 
 ```
-![quote](https://quoteivo.alexrogalskiy.vercel.app/api?name=Alexander%20Rogalskiy&description=Active%20Researcher&image=https://avatars3.githubusercontent.com/u/3901898&backgroundColor=%23FFFFFF&github=alexrogalskiy&pattern=bubbles&opacity=0.4&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+![quote](https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 ```
 
 Result:
 
-![quote](https://quoteivo.alexrogalskiy.vercel.app/api?name=Alexander%20Rogalskiy&description=Active%20Researcher&image=https://avatars3.githubusercontent.com/u/3901898&backgroundColor=%23FFFFFF&github=alexrogalskiy&pattern=bubbles&opacity=0.4&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+![quote](https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
 # Contribution
 Want to make this project better? You can contribute this project, I am very open if there are contributions to this project.
@@ -79,4 +75,4 @@ Want to make this project better? You can contribute this project, I am very ope
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 
-Powered by Typescript and vercel. Code licensed under MIT License.
+Powered by Typescript and Vercel. Code licensed under MIT License.
