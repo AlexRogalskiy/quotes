@@ -31,6 +31,7 @@ export const css = ({backgroundColor, pattern, opacity, colorPattern, fontColor}
       }
       .font-monserratRegular {
         font-family: 'Montserrat', sans-serif;
+        font-style: italic;
         color: ${fontColor};
       }
       .quote-wrapper {
