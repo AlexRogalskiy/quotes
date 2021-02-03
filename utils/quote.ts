@@ -1,5 +1,5 @@
-import {ParsedRequest} from "../typings/types"
-import {css} from './getCss'
+import { ParsedRequest } from "../typings/types"
+import { css } from './getCss'
 import * as quoteFromCategory from '../quotes/data.json';
 
 export async function quoteRenderer(parsedRequest: ParsedRequest) {

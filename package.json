@@ -1,31 +1,39 @@
 {
-  "name": "quotes",
-  "version": "0.1.0",
-  "description": "Automatically generate styled quotes upon request",
-  "main": "index.js",
-  "author": "Alexander Rogalskiy",
-  "license": "MIT",
-  "scripts": {
-    "deploy:dev": "vercel",
-    "deploy:prod": "vercel --prod",
-    "develop": "vercel dev",
-    "test": "jest"
-  },
-  "devDependencies": {
-    "@types/jest": "^26.0.20",
-    "@types/prettier": "^2.1.5",
-    "@vercel/node": "^1.8.6-canary.3",
-    "jest": "^26.6.3",
-    "prettier": "^2.1.2",
-    "ts-jest": "^26.4.4",
-    "typescript": "^4.0.5"
-  },
-  "dependencies": {
-    "hero-patterns": "^2.1.0",
-    "isomorphic-unfetch": "^3.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com-HomeAccount:AlexRogalskiy/quotes.git"
-  }
+    "name": "github-quotes",
+    "version": "0.1.0",
+    "description": "Automatically generate styled quotes upon request",
+    "main": "index.js",
+    "author": "Alexander Rogalskiy",
+    "license": "GPLv3",
+    "scripts": {
+        "deploy:dev": "vercel",
+        "deploy:prod": "vercel --prod",
+        "develop": "vercel dev",
+        "test": "jest"
+    },
+    "dependencies": {
+        "hero-patterns": "^2.1.0",
+        "isomorphic-unfetch": "^3.1.0"
+    },
+    "devDependencies": {
+        "@types/jest": "^26.0.20",
+        "@types/prettier": "^2.1.5",
+        "@vercel/node": "^1.8.6-canary.3",
+        "jest": "^26.6.3",
+        "prettier": "^2.1.2",
+        "ts-jest": "^26.4.4",
+        "typescript": "^4.0.5"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlexRogalskiy/quotes.git"
+    },
+    "keywords": [
+        "github-actions",
+        "javascript"
+    ],
+    "bugs": {
+        "url": "https://github.com/AlexRogalskiy/quotes/issues"
+    },
+    "homepage": "https://github.com/AlexRogalskiy/quotes"
 }

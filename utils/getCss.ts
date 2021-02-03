@@ -1,4 +1,4 @@
-import {readFileSync} from "fs"
+import { readFileSync } from "fs"
 import getPattern from "./bg-hero"
 
 const monserrat700 = readFileSync(
@@ -53,7 +53,7 @@ export const css = ({backgroundColor, pattern, opacity, colorPattern, fontColor}
         margin-top: 10px;
       }
       .quote-wrapper-desc {
-        display: flex; 
+        display: flex;
         flex-direction: column;
         width: 100%;
       }

@@ -1,5 +1,5 @@
-import {NowRequest, NowResponse} from '@vercel/node';
-import {quoteRenderer} from '../utils/quote';
+import { NowRequest, NowResponse } from '@vercel/node';
+import { quoteRenderer } from '../utils/quote';
 
 export default async function render(req: NowRequest, res: NowResponse) {
     try {
