@@ -1,494 +1,2038 @@
 {
-  "general": [
-    {
-      "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-      "author": "Mother Teresa"
-    },
-    {
-      "quote": "When you reach the end of your rope, tie a knot in it and hang on.",
-      "author": "Franklin D. Roosevelt"
-    },
-    {
-      "quote": "Always remember that you are absolutely unique. Just like everyone else.",
-      "author": "Margaret Mead"
-    },
-    {
-      "quote": "The future belongs to those who believe in the beauty of their dreams.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
-      "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
-      "author": "Benjamin Franklin"
-    },
-    {
-      "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
-      "author": "Helen Keller"
-    },
-    {
-      "quote": "It is during our darkest moments that we must focus to see the light.",
-      "author": "Aristotle"
-    },
-    {
-      "quote": "Whoever is happy will make others happy too.",
-      "author": "Anne Frank"
-    },
-    {
-      "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
-      "author": "Ralph Waldo Emerson"
-    },
-    {
-      "quote": "You miss 100% of the shots you don't take.",
-      "author": "Wayne Gretzky"
-    },
-    {
-      "quote": "I have learned over the years that when one's mind is made up, this diminishes fear.",
-      "author": "Rosa Parks"
-    },
-    {
-      "quote": "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
-      "author": "Mother Teresa"
-    },
-    {
-      "quote": "Nothing is impossible, the word itself says, ‘I'm possible!'",
-      "author": "Audrey Hepburn"
-    },
-    {
-      "quote": "Whatever the mind of man can conceive and believe, it can achieve.",
-      "author": "Napoleon Hill"
-    },
-    {
-      "quote": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
-      "author": "Oprah Winfrey"
-    },
-    {
-      "quote": "I would rather die of passion than of boredom.",
-      "author": "Vincent van Gogh"
-    },
-    {
-      "quote": "I attribute my success to this: I never gave or took any excuse.",
-      "author": "Florence Nightingale"
-    },
-    {
-      "quote": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
-      "author": "Sheryl Sandberg"
-    },
-    {
-      "quote": "I didn't fail the test. I just found 100 ways to do it wrong.",
-      "author": "Benjamin Franklin"
-    },
-    {
-      "quote": "Too many of us are not living our dreams because we are living our fears.",
-      "author": "Les Brown"
-    },
-    {
-      "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
-      "author": "Henry Ford"
-    }
-  ],
-  "life": [
-    {
-      "quote": "You will face many defeats in life, but never let yourself be defeated.",
-      "author": "Maya Angelou"
-    },
-    {
-      "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
-      "author": "Abraham Lincoln"
-    },
-    {
-      "quote": "Never let the fear of striking out keep you from playing the game.",
-      "author": "Babe Ruth"
-    },
-    {
-      "quote": "Life is either a daring adventure or nothing at all.",
-      "author": "Helen Keller"
-    },
-    {
-      "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
-      "author": "Thomas A. Edison"
-    },
-    {
-      "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
-      "author": "Dr. Seuss"
-    },
-    {
-      "quote": "If life were predictable it would cease to be life and be without flavor.",
-      "author": "Eleanor Roosevelt"
-    },
-    {
-      "quote": "Life is a succession of lessons which must be lived to be understood.",
-      "author": "Ralph Waldo Emerson"
-    },
-    {
-      "quote": "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
-      "author": "Oscar Wilde"
-    },
-    {
-      "quote": "The only impossible journey is the one you never begin.",
-      "author": "Tony Robbins"
-    },
-    {
-      "quote": "In this life we cannot do great things. We can only do small things with great love.",
-      "author": "Mother Teresa"
-    },
-    {
-      "quote": "Only a life lived for others is a life worthwhile.",
-      "author": "Albert Einstein"
-    },
-    {
-      "quote": "Life is what happens when you're busy making other plans.",
-      "author": "John Lennon"
-    },
-    {
-      "quote": "Go confidently in the direction of your dreams! Live the life you've imagined.",
-      "author": "Henry David Thoreau"
-    }
-  ],
-  "success": [
-    {
-      "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts.",
-      "author": "Winston S. Churchill"
-    },
-    {
-      "quote": "Success usually comes to those who are too busy to be looking for it.",
-      "author": "Henry David Thoreau"
-    },
-    {
-      "quote": "If you really look closely, most overnight successes took a long time.",
-      "author": "Steve Jobs"
-    },
-    {
-      "quote": "The secret of success is to do the common thing uncommonly well.",
-      "author": "John D. Rockefeller Jr."
-    },
-    {
-      "quote": "I find that the harder I work, the more luck I seem to have.",
-      "author": "Thomas Jefferson"
-    },
-    {
-      "quote": "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
-      "author": "Barack Obama"
-    },
-    {
-      "quote": "Don't be distracted by criticism. Remember -- the only taste of success some people get is to take a bite out of you.",
-      "author": "Zig Ziglar"
-    },
-    {
-      "quote": "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
-      "author": "Conrad Hilton"
-    },
-    {
-      "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
-      "author": "Colin Powell"
-    },
-    {
-      "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
-      "author": "Franklin D. Roosevelt"
-    },
-    {
-      "quote": "Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better.",
-      "author": "Jim Rohn"
-    },
-    {
-      "quote": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
-      "author": "James Cameron"
-    },
-    {
-      "quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
-      "author": "David Brinkley"
-    },
-    {
-      "quote": "Try not to become a man of success. Rather become a man of value.",
-      "author": "Albert Einstein"
-    },
-    {
-      "quote": "Always bear in mind that your own resolution to success is more important than any other one thing.",
-      "author": "Abraham Lincoln"
-    }
-  ],
-  "motivational": [
-    {
-      "quote": "The Best Way To Get Started Is To Quit Talking And Begin Doing.",
-      "author": "Walt Disney"
-    },
-    {
-      "quote": "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
-      "author": "Winston Churchill"
-    },
-    {
-      "quote": "Don’t Let Yesterday Take Up Too Much Of Today.",
-      "author": "Will Rogers"
-    },
-    {
-      "quote": "You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.",
-      "author": "Unknown"
-    },
-    {
-      "quote": "It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.",
-      "author": "Vince Lombardi"
-    },
-    {
-      "quote": "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
-      "author": "Steve Jobs"
-    },
-    {
-      "quote": "People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.",
-      "author": "Rob Siltanen"
-    },
-    {
-      "quote": "Failure Will Never Overtake Me If My Determination To Succeed Is Strong Enough.",
-      "author": "Og Mandino"
-    },
-    {
-      "quote": "Entrepreneurs Are Great At Dealing With Uncertainty And Also Very Good At Minimizing Risk. That’s The Classic Entrepreneur.",
-      "author": "Mohnish Pabrai"
-    },
-    {
-      "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
-      "author": "Maya Angelou"
-    },
-    {
-      "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
-      "author": "Johann Wolfgang Von Goethe"
-    },
-    {
-      "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
-      "author": "Brian Tracy"
-    },
-    {
-      "quote": "Whether You Think You Can Or Think You Can’t, You’re Right.",
-      "author": "Henry Ford"
-    },
-    {
-      "quote": "Security Is Mostly A Superstition. Life Is Either A Daring Adventure Or Nothing.",
-      "author": "Helen Keller"
-    },
-    {
-      "quote": "The Man Who Has Confidence In Himself Gains The Confidence Of Others.",
-      "author": "Hasidic Proverb"
-    },
-    {
-      "quote": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
-      "author": "Franklin D. Roosevelt"
-    },
-    {
-      "quote": "Creativity Is Intelligence Having Fun.",
-      "author": "Albert Einstein"
-    },
-    {
-      "quote": "What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time.",
-      "author": "Don Zimmer"
-    },
-    {
-      "quote": "Do What You Can With All You Have, Wherever You Are.",
-      "author": "Theodore Roosevelt"
-    },
-    {
-      "quote": "Develop An ‘Attitude Of Gratitude’. Say Thank You To Everyone You Meet For Everything They Do For You.",
-      "author": "Brian Tracy"
-    },
-    {
-      "quote": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream.",
-      "author": "C.S. Lewis"
-    },
-    {
-      "quote": "To See What Is Right And Not Do It Is A Lack Of Courage.",
-      "author": "Confucius"
-    },
-    {
-      "quote": "Reading Is To The Mind, As Exercise Is To The Body.",
-      "author": "Brian Tracy"
-    },
-    {
-      "quote": "For Every Reason It’s Not Possible, There Are Hundreds Of People Who Have Faced The Same Circumstances And Succeeded.",
-      "author": "Jack Canfield"
-    },
-    {
-      "quote": "Things Work Out Best For Those Who Make The Best Of How Things Work Out.",
-      "author": "John Wooden"
-    },
-    {
-      "quote": "A Room Without Books Is Like A Body Without A Soul.",
-      "author": "Marcus Tullius Cicero"
-    }
-  ],
-  "fun": [
-    {
-      "quote": "Forgive your enemies, but never forget their names.",
-      "author": "John F. Kennedy"
-    },
-    {
-      "quote": "The road to success is always under construction.",
-      "author": "Lily Tomlin"
-    },
-    {
-      "quote": "I’m in shape. Round is a shape.",
-      "author": "George Carlin"
-    },
-    {
-      "quote": "Never have more children than you have car windows.",
-      "author": "Erma Bombeck"
-    },
-    {
-      "quote": "If you can’t live without me, why aren’t you dead already?",
-      "author": "Cynthia Heimel"
-    },
-    {
-      "quote": "He who laughs last didn’t get the joke.",
-      "author": "Charles de Gaulle"
-    },
-    {
-      "quote": "My favourite machine at the gym is the vending machine.",
-      "author": "Caroline Rhea"
-    },
-    {
-      "quote": "If a book about failures doesn’t sell, is it a success?",
-      "author": "Jerry Seinfeld"
-    },
-    {
-      "quote": "If you’re too open-minded; your brains will fall out.",
-      "author": "Lawrence Ferlinghetti"
-    },
-    {
-      "quote": "Never miss a good chance to shut up.",
-      "author": "Will Rogers"
-    },
-    {
-      "quote": "I don’t hate you. I just don’t like that you exist",
-      "author": "Gena Showalter"
-    },
-    {
-      "quote": "Don’t gobblefunk around with words.",
-      "author": "Roald Dahl"
-    },
-    {
-      "quote": "A penny saved is a penny earned.",
-      "author": "Benjamin Franklin"
-    },
-    {
-      "quote": "The funniest people are the saddest ones.",
-      "author": "Confucius"
-    },
-    {
-      "quote": "Why is there so much month left at the end of the money?",
-      "author": "John Barrymore"
-    },
-    {
-      "quote": "I came from a real tough neighbourhood. Once a guy pulled a knife on me. I knew he wasn’t a professional, the knife had butter on it.",
-      "author": "Rodney Dangerfield"
-    },
-    {
-      "quote": "A word to the wise ain’t necessary, it’s the stupid ones who need advice.",
-      "author": "Bill Cosby"
-    },
-    {
-      "quote": "Always go to other people’s funerals, otherwise, they won’t come to yours.",
-      "author": "Yogi Berra"
-    },
-    {
-      "quote": "Women are wiser than men because they know less and understand more.",
-      "author": "James Thurber"
-    },
-    {
-      "quote": "I’d rather have 1% of the effort of 100 men than 100% of my own effort.",
-      "author": "J. Paul Getty"
-    },
-    {
-      "quote": "Hooray! Hooray! The end of the world has been postponed!",
-      "author": "Hergé"
-    }
-  ],
-  "programming": [
-    {
-      "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
-      "author": "Martin Fowler"
-    },
-    {
-      "quote": "First, solve the problem. Then, write the code.",
-      "author": "John Johnson"
-    },
-    {
-      "quote": "Experience is the name everyone gives to their mistakes.",
-      "author": "Oscar Wilde"
-    },
-    {
-      "quote": "Java is to JavaScript what car is to Carpet.",
-      "author": "Chris Heilmann"
-    },
-    {
-      "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.",
-      "author": "Dan Salomon"
-    },
-    {
-      "quote": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
-      "author": " Antoine de Saint-Exupery"
-    },
-    {
-      "quote": "Ruby is rubbish! PHP is phpantastic!",
-      "author": "Nikita Popov"
-    },
-    {
-      "quote": "Code is like humor. When you have to explain it, it’s bad.",
-      "author": "Cory House"
-    },
-    {
-      "quote": "Optimism is an occupational hazard of programming: feedback is the treatment.",
-      "author": "Kent Beck"
-    },
-    {
-      "quote": "When to use iterative development? You should use iterative development only on projects that you want to succeed.",
-      "author": "Martin Fowler"
-    },
-    {
-      "quote": "Before software can be reusable it first has to be usable.",
-      "author": "Ralph Johnson"
-    },
-    {
-      "quote": "Make it work, make it right, make it fast.",
-      "author": "Kent Beck"
-    },
-    {
-      "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
-      "author": "John Woods"
-    },
-    {
-      "quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
-      "author": "Kent Beck"
-    },
-    {
-      "quote": "Truth can only be found in one place: the code.",
-      "author": "Robert C. Martin"
-    },
-    {
-      "quote": "Give a man a program, frustrate him for a day.Teach a man to program, frustrate him for a lifetime.",
-      "author": "Muhammad Waseem"
-    },
-    {
-      "quote": "That's the thing about people who think they hate computers. What they really hate is lousy programmers.",
-      "author": "Larry Niven"
-    },
-    {
-      "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
-      "author": "Alan J. Perlis"
-    },
-    {
-      "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
-      "author": "Edward V. Berard"
-    },
-    {
-      "quote": "Perl – The only language that looks the same before and after RSA encryption.",
-      "author": "Keith Bostic"
-    },
-    {
-      "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
-      "author": "C.A.R. Hoare"
-    },
-    {
-      "quote": "Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches.",
-      "author": "Paul Graham"
-    },
-    {
-      "quote": "Programming isn't about what you know; it's about what you can figure out.",
-      "author": "Chris Pine"
-    }
-  ]
+    "general": [
+        {
+            "quote": "You know you’re in love when you can’t fall asleep because reality is finally better than your dreams.",
+            "author": "Dr. Suess"
+        },
+        {
+            "quote": "I’m selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can’t handle me at my worst, then you sure as hell don’t deserve me at my best.",
+            "author": "Marilyn Monroe"
+        },
+        {
+            "quote": "Life is what happens when you’re busy making other plans.",
+            "author": "John Lennon"
+        },
+        {
+            "quote": "Get busy living or get busy dying.",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "When you reach the end of your rope, tie a knot in it and hang on.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "The first step toward success is taken when you refuse to be a captive of the environment in which you first find yourself.",
+            "author": "Mark Caine"
+        },
+        {
+            "quote": "When one door of happiness closes, another opens; but often we look so long at the closed door that we do not see the one which has been opened for us.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "Twenty years from now you will be more disappointed by the things that you didn’t do than by the ones you did do.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "When I dare to be powerful – to use my strength in the service of my vision, then it becomes less and less important whether I am afraid.",
+            "author": "Audre Lorde"
+        },
+        {
+            "quote": "A friend is one that knows you as you are, understands where you have been, accepts what you have become, and still, gently allows you to grow.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+            "author": "David Brinkley"
+        },
+        {
+            "quote": "Those who dare to fail miserably can achieve greatly.",
+            "author": "John F. Kennedy"
+        },
+        {
+            "quote": "I can’t give you a sure-fire formula for success, but I can give you a formula for failure: try to please everybody all the time.",
+            "author": "Herbert Bayard Swope"
+        },
+        {
+            "quote": "You only live once, but if you do it right, once is enough.",
+            "author": "Mae West"
+        },
+        {
+            "quote": "Would you like me to give you a formula for success? It’s quite simple, really: Double your rate of failure. You are thinking of failure as the enemy of success. But it isn’t at all. You can be discouraged by failure or you can learn from it, so go ahead and make mistakes. Make all you can. Because remember that’s where you will find success.",
+            "author": "Thomas J. Watson"
+        },
+        {
+            "quote": "He that falls in love with himself will have no rivals.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "It is hard to fail, but it is worse never to have tried to succeed.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "I’m a success today because I had a friend who believed in me and I didn’t have the heart to let him down.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world.",
+            "author": "Lucille Ball"
+        },
+        {
+            "quote": "Let us always meet each other with smile, for the smile is the beginning of love.",
+            "author": "Mother Teresa"
+        },
+        {
+            "quote": "Challenges are what make life interesting and overcoming them is what makes life meaningful.",
+            "author": "Joshua J. Marine"
+        },
+        {
+            "quote": "When one door closes, another opens; but we often look so long and so regretfully upon the closed door that we do not see the one that has opened for us.",
+            "author": "Alexander Graham Bell"
+        },
+        {
+            "quote": "Love is a serious mental disease.",
+            "author": "Plato"
+        },
+        {
+            "quote": "Our greatest fear should not be of failure… but of succeeding at things in life that don’t really matter.",
+            "author": "Francis Chan"
+        },
+        {
+            "quote": "It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.",
+            "author": "Leonardo Da Vinci"
+        },
+        {
+            "quote": "Remember that the happiest people are not those getting more, but those giving more.",
+            "author": "H. Jackson Brown, Jr."
+        },
+        {
+            "quote": "The only impossible journey is the one you never begin.",
+            "author": "Anthony Robbins"
+        },
+        {
+            "quote": "Only put off until tomorrow what you are willing to die having left undone.",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "If you want to be happy, be.",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "If you want to live a happy life, tie it to a goal, not to people or things.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Many of life’s failures are people who did not realize how close they were to success when they gave up.",
+            "author": "Thomas A. Edison"
+        },
+        {
+            "quote": "Success is just a war of attrition. Sure, there’s an element of talent you should probably possess. But if you just stick around long enough, eventually something is going to happen.",
+            "author": "Dax Shepard"
+        },
+        {
+            "quote": "The opposite of love is not hate; it’s indifference.",
+            "author": "Elie Wiesel"
+        },
+        {
+            "quote": "Life is ten percent what happens to you and ninety percent how you respond to it.",
+            "author": "Charles Swindoll"
+        },
+        {
+            "quote": "The good news is that the moment you decide that what you know is more important than what you have been taught to believe, you will have shifted gears in your quest for abundance. Success comes from within, not from without.",
+            "author": "Elie Wiesel"
+        },
+        {
+            "quote": "I never knew how to worship until I knew how to love.",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+            "author": "Harriet Tubman"
+        },
+        {
+            "quote": "It is impossible to escape the impression that people commonly use false standards of measurement — that they seek power, success and wealth for themselves and admire them in others, and that they underestimate what is of true value in life.",
+            "author": "Sigmund Freud"
+        },
+        {
+            "quote": "A friend is someone who gives you total freedom to be yourself.",
+            "author": "Jim Morrison"
+        },
+        {
+            "quote": "All that we see and seem is but a dream within a dream.",
+            "author": "Edgar Allan Poe"
+        },
+        {
+            "quote": "Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.",
+            "author": "Harriet Tubman"
+        },
+        {
+            "quote": "Never let the fear of striking out keep you from playing the game.",
+            "author": "Babe Ruth"
+        },
+        {
+            "quote": "Live in the sunshine, swim the sea, drink the wild air.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Life is trying things to see if they work.",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "Success in business requires training and discipline and hard work. But if you’re not frightened by these things, the opportunities are just as great today as they ever were.",
+            "author": "David Rockefeller"
+        },
+        {
+            "quote": "The purpose of our lives is to be happy.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "The No. 1 reason people fail in life is because they listen to their friends, family, and neighbors.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "Your time is limited, so don’t waste it living someone else’s life. Don’t be trapped by dogma – which is living with the results of other people’s thinking.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "Success is how high you bounce when you hit bottom.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "You will face many defeats in life, but never let yourself be defeated.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "May you live all the days of your life.",
+            "author": "Jonathan Swift"
+        },
+        {
+            "quote": "In three words I can sum up everything I’ve learned about life: It goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "You’re not obligated to win. You’re obligated to keep trying. To the best you can do everyday.",
+            "author": "Jason Mraz"
+        },
+        {
+            "quote": "If life were predictable it would cease to be life, and be without flavor.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "If you don’t design your own life plan, chances are you’ll fall into someone else’s plan. And guess what they have planned for you? Not much.",
+            "author": "Jim Rohn"
+        },
+        {
+            "quote": "The question isn’t who is going to let me; it’s who is going to stop me.",
+            "author": "Ayn Rand"
+        },
+        {
+            "quote": "The three great essentials to achieve anything worthwhile are, first, hard work; second, stick-to-itiveness; third, common sense.",
+            "author": "Thomas A. Edison"
+        },
+        {
+            "quote": "Life is like a box of chocolates. You never know what you’re going to get.",
+            "author": "Forrest Gump"
+        },
+        {
+            "quote": "The successful warrior is the average man, with laser-like focus.",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "A man is a success if he gets up in the morning and gets to bed at night, and in between he does what he wants to do.",
+            "author": "Bob Dylan"
+        },
+        {
+            "quote": "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.",
+            "author": "Bil Keane"
+        },
+        {
+            "quote": "Life isn’t about finding yourself. Life is about creating yourself.",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "The whole secret of a successful life is to find out what is one’s destiny to do, and then do it.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "Success? I don’t know what that word means. I’m happy. But success, that goes back to what in somebody’s eyes success means. For me, success is inner peace. That’s a good day for me.",
+            "author": " Denzel Washington"
+        },
+        {
+            "quote": "A kiss is a lovely trick designed by nature to stop speech when words become superfluous.",
+            "author": "Ingrid Bergman"
+        },
+        {
+            "quote": "You miss 100 percent of the shots you never take.",
+            "author": "Wayne Gretzky"
+        },
+        {
+            "quote": "In order to write about life first you must live it.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "Life itself is the most wonderful fairy tale.",
+            "author": "Hans Christian Andersen"
+        },
+        {
+            "quote": "Do not go where the path may lead; go instead where there is no path and leave a trail.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "We are what we repeatedly do; excellence, then, is not an act but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Always forgive your enemies; nothing annoys them so much.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The big lesson in life, baby, is never be scared of anyone or anything.",
+            "author": "Frank Sinatra"
+        },
+        {
+            "quote": "To love and be loved is to feel the sun from both sides.",
+            "author": "David Viscott"
+        },
+        {
+            "quote": "If you aren’t going all the way, why go at all?",
+            "author": "Joe Namath"
+        },
+        {
+            "quote": "Love is an irresistible desire to be irresistibly desired.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Those who believe in telekinetics, raise my hand.",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "I only regret that I have but one life to give for my country.",
+            "author": "Nathan Hale"
+        },
+        {
+            "quote": "The person who reads too much and uses his brain too little will fall into lazy habits of thinking",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Better to have loved and lost, than to have never loved at all.",
+            "author": "St. Augustine"
+        },
+        {
+            "quote": "Life would be tragic if it weren’t funny.",
+            "author": "Stephen Hawking"
+        },
+        {
+            "quote": "To love and be loved is to feel the sun from both sides.",
+            "author": "David Viscott"
+        },
+        {
+            "quote": "Every child is an artist, the problem is staying an artist when you grow up.",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Have no fear of perfection, you’ll never reach it.",
+            "author": "Salvador Dali"
+        },
+        {
+            "quote": "Life is not a problem to be solved, but a reality to be experienced.",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "Curiosity about life in all of its aspects, I think, is still the secret of great creative people.",
+            "author": "Leo Burnett"
+        },
+        {
+            "quote": "Imagination is the beginning of creation. You imagine what you desire, you will what you imagine, and at last, you create what you will.",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "Be yourself; everyone else is already taken.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The journey of a thousand miles begins with one step.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Imagination was given to man to compensate him for what he is not, and a sense of humor was provided to console him for what he is.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "What you do speaks so loudly that I cannot hear what you say.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Spread love everywhere you go: first of all in your own house. Give love to your children, to your wife or husband, to a next door neighbor. Let no one ever come to you without leaving better and happier. Be the living expression of God’s kindness; kindness in your face, kindness in your eyes, kindness in your smile, kindness in your warm greeting.",
+            "author": "Mother Theresa"
+        },
+        {
+            "quote": "Be happy for this moment. This moment is your life.",
+            "author": "Omar Khayyam"
+        },
+        {
+            "quote": "You must be the change you wish to see in the world.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "Strive not to be a success, but rather to be of value.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Keep your face to the sunshine and you can never see the shadow.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "The best way out is always through.",
+            "author": "Robern Frost"
+        },
+        {
+            "quote": "The dream crossed twilight between birth and dying.",
+            "author": "T. S. Eliot"
+        },
+        {
+            "quote": "People are just as happy as they make up their minds to be.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Don’t think. Thinking is the enemy of creativity. It’s self-conscious, and anything self-conscious is lousy. You can’t try to do things. You simply must do things.",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, the just saw something. It seemed obvious to them after a while.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "Sing like no one’s listening, love like you’ve never been hurt, dance like nobody’s watching, and live like it’s heaven on earth.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "The power of imagination makes us infinite.",
+            "author": "John Muir"
+        },
+        {
+            "quote": "Doing the best at this moment puts you in the best place for the next moment.",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "Originality is nothing but judicious imitation.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Life is made of ever so many partings welded together.",
+            "author": "Charles Dickens"
+        },
+        {
+            "quote": "Love is like the wind, you can’t see it, but you can feel it.",
+            "author": "Nicholas Sparks"
+        },
+        {
+            "quote": "Live as if you were to die tomorrow. Learn as if you were to live forever.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "That which does not kill us makes us stronger.",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.",
+            "author": "Bernard M. Baruch"
+        },
+        {
+            "quote": "We must not allow other people’s limited perceptions to define us.",
+            "author": "Virginia Satir"
+        },
+        {
+            "quote": "Do what you can, with what you have, where you are.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "Be yourself; everyone else is already taken.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "This above all: to thine own self be true.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "If you cannot do great things, do small things in a great way.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "If opportunity doesn’t knock, build a door.",
+            "author": "Milton Berle"
+        },
+        {
+            "quote": "Wise men speak because they have something to say; fools because they have to say something.",
+            "author": "Plato"
+        },
+        {
+            "quote": "Strive not to be a success, but rather to be of value.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Two roads diverged in a wood, and I—I took the one less traveled by, And that has made all the difference.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Do not let what you cannot do interfere with what you can do.",
+            "author": "John Wooden"
+        },
+        {
+            "quote": "Whenever you find yourself on the side of the majority, it is time to pause and reflect.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "I haven’t failed. I’ve just found 10,000 ways that won’t work.",
+            "author": "Thomas Edison"
+        },
+        {
+            "quote": "A journey of a thousand leagues begins beneath one’s feet.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Either you run the day, or the day runs you.",
+            "author": "Jim Rohn"
+        },
+        {
+            "quote": "Life shrinks or expands in proportion to one’s courage.",
+            "author": "Anais Nin"
+        },
+        {
+            "quote": "You must be the change you wish to see in the world.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "What you do speaks so loudly that I cannot hear what you say.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Believe and act as if it were impossible to fail.",
+            "author": "Charles Kettering"
+        },
+        {
+            "quote": "The difference between ordinary and extraordinary is that little extra.",
+            "author": "Jimmy Johnson"
+        },
+        {
+            "quote": "The best way to predict the future is to invent it.",
+            "author": "Alan Kay"
+        },
+        {
+            "quote": "If I am not for myself, who is for me? And if I am only for myself, what am I? And if not now, when?",
+            "author": "Rabbi Hillel"
+        },
+        {
+            "quote": "Everything has beauty, but not everyone can see.",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Believe you can and you’re halfway there.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+            "author": "Anne Frank"
+        },
+        {
+            "quote": "Imagination is everything. It is the preview of life’s coming attractions.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Change your thoughts and you change your world.",
+            "author": "Norman Vincent"
+        },
+        {
+            "quote": "Happiness is not something ready made. It comes from your own actions.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Remember that happiness is a way of travel, not a destination.",
+            "author": "Roy M. Goodman"
+        },
+        {
+            "quote": "Too many of us are not living our dreams because we are living our fears.",
+            "author": "Les Brown"
+        },
+        {
+            "quote": "If you want to lift yourself up, lift up someone else.",
+            "author": "Booker T. Washington"
+        },
+        {
+            "quote": "You miss 100% of the shots you don’t take.",
+            "author": "Wayne Gretzky"
+        },
+        {
+            "quote": "It is never too late to be what you might have been.",
+            "author": "George Eliot"
+        },
+        {
+            "quote": "A person who never made a mistake never tried anything new.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
+            "author": "Chinese Proverb"
+        },
+        {
+            "quote": "Great minds discuss ideas; average minds discuss events; small minds discuss people.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "You only live once, but if you do it right, once is enough.",
+            "author": "Mae West"
+        },
+        {
+            "quote": "If you tell the truth, you don’t have to remember anything.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "The only thing worse than being blind is having sight but no vision.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
+            "author": "Chinese Proverb"
+        },
+        {
+            "quote": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "The only thing we have to fear is fear itself.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "If you look at what you have in life, you’ll always have more. If you look at what you don’t have in life, you’ll never have enough.",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "Remember no one can make you feel inferior without your consent.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "For every minute you are angry you lose sixty seconds of happiness.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Being deeply loved by someone gives you strength, while loving someone deeply gives you courage.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "There are two ways of spreading light: to be the candle or the mirror that reflects it.",
+            "author": "Edith Wharton"
+        },
+        {
+            "quote": "The road to success and the road to failure are almost exactly the same.",
+            "author": "Colin R. Davis"
+        },
+        {
+            "quote": "Motivation is a fire from within. If someone else tries to light that fire under you, chances are it will burn very briefly.",
+            "author": "Stephen R. Covey"
+        },
+        {
+            "quote": "In three words I can sum up everything I’ve learned about life: It goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Self-reverence, self-knowledge, self control — these three alone lead to power.",
+            "author": "Alfred, Lord Tennyson"
+        },
+        {
+            "quote": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
+            "author": "Carl Bard"
+        },
+        {
+            "quote": "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "He who angers you conquers you.",
+            "author": "Elizabeth Kenny"
+        },
+        {
+            "quote": "Beauty, without expression, tires.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "The secret of business is to know something that nobody else knows.",
+            "author": "Aristotle Onassis"
+        },
+        {
+            "quote": "The greatest discovery of all time is that a person can change his future by merely changing his attitude.",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "We cannot always build the future of our youth, but we can build our youth for the future.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "It takes courage to grow up and turn out to be who you really are.",
+            "author": "E.E. Cummings"
+        },
+        {
+            "quote": "In this world nothing can be said to be certain, except death and taxes.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "It is the mark of an educated mind to be able to entertain a thought without accepting it.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "A happy family is but an earlier heaven.",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "Don’t walk in front of me, I may not follow. Don’t walk behind me, I may not lead. Walk beside me and be my friend.",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "Courage doesn’t always roar. Sometimes courage is the little voice at the end of the day that says 'I’ll try again tomorrow.'",
+            "author": "Mary Anne Radmacher"
+        },
+        {
+            "quote": "Education is like a double-edged sword. It may be turned to dangerous uses if it is not properly handled.",
+            "author": "Wu Ting-Fang"
+        },
+        {
+            "quote": "Walking with a friend in the dark is better than walking alone in the light.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "Happiness is not a goal; it is a by-product.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Always forgive your enemies; nothing annoys them so much.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The only true wisdom is knowing that you know nothing.",
+            "author": "Socrates"
+        },
+        {
+            "quote": "As a well-spent day brings happy sleep, so a life well spent brings happy death.",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Courage is what it takes to stand up and speak. Courage is also what it takes to sit down and listen.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "Children are our most valuable resource.",
+            "author": "Herbert Hoover"
+        },
+        {
+            "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
+            "author": "Chinese Proverb"
+        },
+        {
+            "quote": "Love is, above all else, the gift of oneself.",
+            "author": "Jean Anouilh"
+        },
+        {
+            "quote": "Music in the soul can be heard by the universe.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Peace begins with a smile.",
+            "author": "Mother Teresa"
+        },
+        {
+            "quote": "Success is liking yourself, liking what you do, and liking how you do it.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "A friend is someone who knows all about you and still loves you.",
+            "author": "Elbert Hubbard"
+        },
+        {
+            "quote": "Never leave that till tomorrow which you can do today.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "If you don’t make mistakes, you’re not working on hard enough problems.",
+            "author": "Frank Wilczek"
+        },
+        {
+            "quote": "We must learn to live together as brothers or perish together as fools.",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "The person who says it cannot be done should not interrupt the person who is doing it.",
+            "author": "Chinese Proverb"
+        },
+        {
+            "quote": "Life is like a camera. Just focus on what’s important, capture the good times, develop from the negatives, and if things don’t work out, just take another shot.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When you judge another, you do not define them; you define yourself.",
+            "author": "Wayne Dyer"
+        },
+        {
+            "quote": "Opportunity is missed by most people because it is dressed in overalls and looks like work.",
+            "author": "Thomas Edison"
+        },
+        {
+            "quote": "Love me when I least deserve it, because that’s when I really need it.",
+            "author": "Swedish Proverb"
+        },
+        {
+            "quote": "The best and most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "If you want to test your memory, try to recall what you were worrying about one year ago today.",
+            "author": "E. Joseph Cossman"
+        },
+        {
+            "quote": "The real opportunity for success lies within the person and not in the job.",
+            "author": "Zig Ziglar"
+        },
+        {
+            "quote": "It takes a great deal of courage to stand up to your enemies, but even more to stand up to your friends.",
+            "author": "J. K. Rowling"
+        },
+        {
+            "quote": "Defeat is not bitter unless you swallow it.",
+            "author": "Joe Clark"
+        },
+        {
+            "quote": "A mind is like a parachute. It doesn’t work if it isn’t open.",
+            "author": "Frank Zappa"
+        },
+        {
+            "quote": "The man who removes a mountain begins by carrying away small stones.",
+            "author": "Chinese Proverb"
+        },
+        {
+            "quote": "The man who removes a mountain begins by carrying away small stones.",
+            "author": "Chinese Proverb"
+        },
+        {
+            "quote": "When you are totally at peace with yourself, nothing can shake you.",
+            "author": "Deepam Chatterjee"
+        },
+        {
+            "quote": "Be a first rate version of yourself, not a second rate version of someone else.",
+            "author": "Judy Garland"
+        },
+        {
+            "quote": "Your worth consists in what you are and not in what you have.",
+            "author": "Thomas Edison"
+        },
+        {
+            "quote": "Others can stop you temporarily – you are the only one who can do it permanently.",
+            "author": "Zig Ziglar"
+        },
+        {
+            "quote": "Life has no limitations, except the ones you make.",
+            "author": "Les Brown"
+        },
+        {
+            "quote": "Peace comes from within. Do not seek it without.",
+            "author": "Muhammad Ali"
+        },
+        {
+            "quote": "Life is very interesting... in the end, some of your greatest pains, become your greatest strengths.",
+            "author": "Drew Barrymore"
+        },
+        {
+            "quote": "To me, photography is an art of observation. It's about finding something interesting in an ordinary place... I've found it has little to do with the things you see and everything to do with the way you see them.",
+            "author": "Elliott Erwitt"
+        },
+        {
+            "quote": "Good management is the art of making problems so interesting and their solutions so constructive that everyone wants to get to work and deal with them.",
+            "author": "Paul Hawken"
+        },
+        {
+            "quote": "Literature is one of the most interesting and significant expressions of humanity.",
+            "author": "P. T. Barnum"
+        },
+        {
+            "quote": "Your life is your canvas, and you are the masterpiece. There are a million ways to be kind, amazing, fabulous, creative, bold, and interesting.",
+            "author": "Kerli"
+        },
+        {
+            "quote": "At every stage of my career I have had interesting and cordial colleagues, some of whom are close friends.",
+            "author": "Daniel Nathans"
+        },
+        {
+            "quote": "Looking back is a way to sharpen the focus on the things you want to change in your life. I think there's something about nostalgia that really puts a fine point on the here-and-now, and that can be incredibly fascinating and interesting and engaging for the mind.",
+            "author": "Sarah Paulson"
+        },
+        {
+            "quote": "Red is such an interesting color to correlate with emotion, because it's on both ends of the spectrum. On one end you have happiness, falling in love, infatuation with someone, passion, all that. On the other end, you've got obsession, jealousy, danger, fear, anger and frustration.",
+            "author": "Taylor Swift"
+        },
+        {
+            "quote": "I always find beauty in things that are odd and imperfect - they are much more interesting.",
+            "author": "Marc Jacobs"
+        },
+        {
+            "quote": "One of my favorite movies of all time is 'It's A Wonderful Life,' which is a pretty interesting choice for a seasonal Christmas favorite, because it's about a guy who wants to commit suicide and is presented with reasons not to.",
+            "author": "Frank Darabont"
+        },
+        {
+            "quote": "It's important to surround yourself with good people, interesting people, young people, young ideas. Go places, learn new stuff. Look at the world with wonder - don't be tired about it.",
+            "author": "Angela Bassett"
+        },
+        {
+            "quote": "The man who removes a mountain begins by carrying away small stones.",
+            "author": "Chinese Proverb"
+        },
+        {
+            "quote": "I never said I wanted a 'happy' life but an interesting one. From separation and loss, I have learned a lot. I have become strong and resilient, as is the case of almost every human being exposed to life and to the world. We don't even know how strong we are until we are forced to bring that hidden strength forward.",
+            "author": "Isabel Allende"
+        },
+        {
+            "quote": "It's okay to lose. Losing teaches you something. Having to try and going through the trials and tribulations to actually overcome, to get there to win, to triumph, that's what makes life interesting.",
+            "author": "Elizabeth Banks"
+        },
+        {
+            "quote": "A figure with curves always offers a lot of interesting angles.",
+            "author": "Wesley Ruggles"
+        },
+        {
+            "quote": "Art is interesting because there can be so many different perspectives in a piece of art. The way I see it may be completely different than the way somebody else sees it. It's interesting to hear what somebody sees in a piece of art compared to somebody else. It could be completely different, and that's interesting to me.",
+            "author": "Joakim Noah"
+        },
+        {
+            "quote": "I don't say I create. I copy, of course. I've never been interested in the point of view of the tailor or creator. Fashion is a visual impression. This is why I often refuse the name of fashion designer. It's a superficial, stupid job. The social-psychological aspect is more interesting.",
+            "author": "Franco Moschino"
+        },
+        {
+            "quote": "My interesting diet tips are eat early and don't nosh between meals. I mean, I can pack it away.",
+            "author": "Carol Burnett"
+        },
+        {
+            "quote": "I love you the more in that I believe you had liked me for my own sake and for nothing else.",
+            "author": "John Keats"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "But man is not made for defeat. A man can be destroyed but not defeated.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "There is nothing permanent except change.",
+            "author": "Heraclitus"
+        },
+        {
+            "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+            "author": "Mother Teresa"
+        },
+        {
+            "quote": "When you reach the end of your rope, tie a knot in it and hang on.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "Always remember that you are absolutely unique. Just like everyone else.",
+            "author": "Margaret Mead"
+        },
+        {
+            "quote": "The future belongs to those who believe in the beauty of their dreams.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "It is during our darkest moments that we must focus to see the light.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Whoever is happy will make others happy too.",
+            "author": "Anne Frank"
+        },
+        {
+            "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "You miss 100% of the shots you don't take.",
+            "author": "Wayne Gretzky"
+        },
+        {
+            "quote": "I have learned over the years that when one's mind is made up, this diminishes fear.",
+            "author": "Rosa Parks"
+        },
+        {
+            "quote": "I alone cannot change the world, but I can cast a stone across the water to create many ripples.",
+            "author": "Mother Teresa"
+        },
+        {
+            "quote": "Nothing is impossible, the word itself says, ‘I'm possible!'",
+            "author": "Audrey Hepburn"
+        },
+        {
+            "quote": "Whatever the mind of man can conceive and believe, it can achieve.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "If you look at what you have in life, you'll always have more. If you look at what you don't have in life, you'll never have enough.",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "I would rather die of passion than of boredom.",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "I attribute my success to this: I never gave or took any excuse.",
+            "author": "Florence Nightingale"
+        },
+        {
+            "quote": "If you're offered a seat on a rocket ship, don't ask what seat! Just get on.",
+            "author": "Sheryl Sandberg"
+        },
+        {
+            "quote": "I didn't fail the test. I just found 100 ways to do it wrong.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Too many of us are not living our dreams because we are living our fears.",
+            "author": "Les Brown"
+        },
+        {
+            "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "You cannot shake hands with a clenched fist.",
+            "author": "Indira Gandhi"
+        },
+        {
+            "quote": "Let us sacrifice our today so that our children can have a better tomorrow.",
+            "author": "A. P. J. Abdul Kalam"
+        },
+        {
+            "quote": "It is better to be feared than loved, if you cannot be both.",
+            "author": "Niccolo Machiavelli"
+        },
+        {
+            "quote": "The most difficult thing is the decision to act, the rest is merely tenacity. The fears are paper tigers. You can do anything you decide to do. You can act to change and control your life; and the procedure, the process is its own reward.",
+            "author": "Amelia Earhart"
+        },
+        {
+            "quote": "Do not mind anything that anyone tells you about anyone else. Judge everyone and everything for yourself.",
+            "author": "Henry James"
+        },
+        {
+            "quote": "Learning never exhausts the mind.",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "There is no charm equal to tenderness of heart.",
+            "author": "Jane Austen"
+        },
+        {
+            "quote": "All that we see or seem is but a dream within a dream.",
+            "author": "Edgar Allan Poe"
+        },
+        {
+            "quote": "Lord, make me an instrument of thy peace. Where there is hatred, let me sow love.",
+            "author": "Francis of Assisi"
+        },
+        {
+            "quote": "The only journey is the one within.",
+            "author": "Rainer Maria Rilke"
+        },
+        {
+            "quote": "Good judgment comes from experience, and a lot of that comes from bad judgment.",
+            "author": "Will Rogers"
+        },
+        {
+            "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "Life without love is like a tree without blossoms or fruit.",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.",
+            "author": "William Blake"
+        },
+        {
+            "quote": "No act of kindness, no matter how small, is ever wasted.",
+            "author": "Aesop"
+        },
+        {
+            "quote": "Love cures people - both the ones who give it and the ones who receive it.",
+            "author": "Karl A. Menninger"
+        },
+        {
+            "quote": "It is far better to be alone, than to be in bad company.",
+            "author": "George Washington"
+        },
+        {
+            "quote": "Work like you don't need the money. Love like you've never been hurt. Dance like nobody's watching.",
+            "author": "Satchel Paige"
+        },
+        {
+            "quote": "If you cannot do great things, do small things in a great way.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "Permanence, perseverance and persistence in spite of all obstacles, discouragements, and impossibilities: It is this, that in all things distinguishes the strong soul from the weak.",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "Independence is happiness.",
+            "author": "Susan B. Anthony"
+        },
+        {
+            "quote": "The supreme art of war is to subdue the enemy without fighting.",
+            "author": "Sun Tzu"
+        },
+        {
+            "quote": "Keep your face always toward the sunshine - and shadows will fall behind you.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "Being entirely honest with oneself is a good exercise.",
+            "author": "Sigmund Freud"
+        },
+        {
+            "quote": "Happiness can exist only in acceptance.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "Love has no age, no limit; and no death.",
+            "author": "John Galsworthy"
+        },
+        {
+            "quote": "You can't blame gravity for falling in love.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "There is only one corner of the universe you can be certain of improving, and that's your own self.",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "Honesty is the first chapter in the book of wisdom.",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "The journey of a thousand miles begins with one step.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "The best preparation for tomorrow is doing your best today.",
+            "author": "H. Jackson Brown, Jr."
+        },
+        {
+            "quote": "A new command I give you: Love one another. As I have loved you, so you must love one another.",
+            "author": "Jesus Christ"
+        },
+        {
+            "quote": "There are two ways of spreading light: to be the candle or the mirror that reflects it.",
+            "author": "Edith Wharton"
+        },
+        {
+            "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.",
+            "author": "Samuel Beckett"
+        },
+        {
+            "quote": "Coming together is a beginning; keeping together is progress; working together is success.",
+            "author": "Edward Everett Hale"
+        },
+        {
+            "quote": "God gave us the gift of life; it is up to us to give ourselves the gift of living well.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Change your life today. Don't gamble on the future, act now, without delay.",
+            "author": "Simone de Beauvoir"
+        },
+        {
+            "quote": "Not all those who wander are lost.",
+            "author": "J. R. R. Tolkien"
+        },
+        {
+            "quote": "Whoever is happy will make others happy too.",
+            "author": "Anne Frank"
+        },
+        {
+            "quote": "I have not failed. I've just found 10,000 ways that won't work.",
+            "author": "Thomas A. Edison"
+        },
+        {
+            "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "There is nothing on this earth more to be prized than true friendship.",
+            "author": "Thomas Aquinas"
+        },
+        {
+            "quote": "A leader is one who knows the way, goes the way, and shows the way.",
+            "author": "John C. Maxwell"
+        },
+        {
+            "quote": "Very little is needed to make a happy life; it is all within yourself, in your way of thinking.",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "If opportunity doesn't knock, build a door.",
+            "author": "Milton Berle"
+        },
+        {
+            "quote": "The secret of getting ahead is getting started.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "When everything seems to be going against you, remember that the airplane takes off against the wind, not with it.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "Let us be grateful to people who make us happy, they are the charming gardeners who make our souls blossom.",
+            "author": "Marcel Proust"
+        },
+        {
+            "quote": "Always remember that you are absolutely unique. Just like everyone else.",
+            "author": "Margaret Mead"
+        },
+        {
+            "quote": "Wise men speak because they have something to say; Fools because they have to say something.",
+            "author": "Plato"
+        },
+        {
+            "quote": "The World is my country, all mankind are my brethren, and to do good is my religion.",
+            "author": "Thomas Paine"
+        },
+        {
+            "quote": "When we are no longer able to change a situation - we are challenged to change ourselves.",
+            "author": "Viktor E. Frankl"
+        },
+        {
+            "quote": "Problems are not stop signs, they are guidelines.",
+            "author": "Robert H. Schuller"
+        },
+        {
+            "quote": "What we achieve inwardly will change outer reality.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
+            "author": "Mother Teresa"
+        },
+        {
+            "quote": "We love life, not because we are used to living but because we are used to loving.",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "All our dreams can come true, if we have the courage to pursue them.",
+            "author": "Walt Disney"
+        },
+        {
+            "quote": "It's not what you look at that matters, it's what you see.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "We know what we are, but know not what we may be.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "A single rose can be my garden... a single friend, my world.",
+            "author": "Leo Buscaglia"
+        },
+        {
+            "quote": "Take up one idea. Make that one idea your life - think of it, dream of it, live on that idea. Let the brain, muscles, nerves, every part of your body, be full of that idea, and just leave every other idea alone. This is the way to success.",
+            "author": "Swami Vivekananda"
+        },
+        {
+            "quote": "Friends show their love in times of trouble, not in happiness.",
+            "author": "Euripides"
+        },
+        {
+            "quote": "You don't choose your family. They are God's gift to you, as you are to them.",
+            "author": "Desmond Tutu"
+        },
+        {
+            "quote": "Life is not a problem to be solved, but a reality to be experienced.",
+            "author": "Soren Kierkegaard"
+        },
+        {
+            "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "The only true wisdom is in knowing you know nothing.",
+            "author": "Socrates"
+        },
+        {
+            "quote": "Everything has beauty, but not everyone sees it.",
+            "author": "Confucius"
+        },
+        {
+            "quote": "A kiss is a lovely trick designed by nature to stop speech when words become superfluous.",
+            "author": "Ingrid Bergman"
+        },
+        {
+            "quote": "For it was not into my ear you whispered, but into my heart. It was not my lips you kissed, but my soul.",
+            "author": "Judy Garland"
+        },
+        {
+            "quote": "If you live to be a hundred, I want to live to be a hundred minus one day so I never have to live without you.",
+            "author": "A. A. Milne"
+        },
+        {
+            "quote": "As we express our gratitude, we must never forget that the highest appreciation is not to utter words, but to live by them.",
+            "author": "John F. Kennedy"
+        },
+        {
+            "quote": "Life's most persistent and urgent question is, 'What are you doing for others?'",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "Happiness resides not in possessions, and not in gold, happiness dwells in the soul.",
+            "author": "Democritus"
+        },
+        {
+            "quote": "The future belongs to those who believe in the beauty of their dreams.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Believe you can and you're halfway there.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "The pessimist complains about the wind; the optimist expects it to change; the realist adjusts the sails.",
+            "author": "William Arthur Ward"
+        },
+        {
+            "quote": "Education is the most powerful weapon which you can use to change the world.",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "Today you are you! That is truer than true! There is no one alive who is you-er than you!",
+            "author": "Dr. Seuss"
+        },
+        {
+            "quote": "Change your thoughts and you change your world.",
+            "author": "Norman Vincent Peale"
+        },
+        {
+            "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Love isn't something you find. Love is something that finds you.",
+            "author": "Loretta Young"
+        },
+        {
+            "quote": "Blessed are the hearts that can bend; they shall never be broken.",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "Do all things with love.",
+            "author": "Og Mandino"
+        },
+        {
+            "quote": "Success is not final, failure is not fatal: it is the courage to continue that counts.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "I will not follow where the path may lead, but I will go where there is no path, and I will leave a trail.",
+            "author": "Muriel Strode"
+        },
+        {
+            "quote": "Love is composed of a single soul inhabiting two bodies.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Where there is love there is life.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "One of the most beautiful qualities of true friendship is to understand and to be understood.",
+            "author": "Lucius Annaeus Seneca"
+        },
+        {
+            "quote": "The only thing necessary for the triumph of evil is for good men to do nothing.",
+            "author": "Edmund Burke"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
+            "author": "Robert Louis Stevenson"
+        },
+        {
+            "quote": "Try to be a rainbow in someone's cloud.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "It is during our darkest moments that we must focus to see the light.",
+            "author": "Aristotle Onassis"
+        },
+        {
+            "quote": "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "Wisdom is oftentimes nearer when we stoop than when we soar.",
+            "author": "William Wordsworth"
+        },
+        {
+            "quote": "When your work speaks for itself, don't interrupt.",
+            "author": "Henry J. Kaiser"
+        },
+        {
+            "quote": "Gestures, in love, are incomparably more attractive, effective and valuable than words.",
+            "author": "Francois Rabelais"
+        },
+        {
+            "quote": "Fiction reveals truths that reality obscures.",
+            "author": "Jessamyn West"
+        },
+        {
+            "quote": "Simplicity is natures first step, and the last of art.",
+            "author": "Philip James Bailey"
+        },
+        {
+            "quote": "As for our majority... one is enough.",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "quote": "Kites rise highest against the wind - not with it.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "I wonder what fool it was that first invented kissing.",
+            "author": "Jonathan Swift"
+        },
+        {
+            "quote": "I cry out for order and find it only in art.",
+            "author": "Helen Hayes"
+        },
+        {
+            "quote": "Nature soaks every evil with either fear or shame.",
+            "author": "Tertullian"
+        },
+        {
+            "quote": "I don't believe it. Prove it to me and I still won't believe it.",
+            "author": "Douglas Adams"
+        },
+        {
+            "quote": "Every failure is a step to success.",
+            "author": "William Whewell"
+        },
+        {
+            "quote": "Love implies anger. The man who is angered by nothing cares about nothing.",
+            "author": "Edward Abbey"
+        },
+        {
+            "quote": "The rule in the art world is: you cater to the masses or you kowtow to the elite; you can't have both.",
+            "author": "Ben Hecht"
+        },
+        {
+            "quote": "The only Zen you can find on the tops of mountains is the Zen you bring up there.",
+            "author": "Robert M. Pirsig"
+        },
+        {
+            "quote": "We are all born mad. Some remain so.",
+            "author": "Samuel Beckett"
+        },
+        {
+            "quote": "We must make the best of those ills which cannot be avoided.",
+            "author": "Clarence Day"
+        },
+        {
+            "quote": "Advice is like snow - the softer it falls, the longer it dwells upon, and the deeper it sinks into the mind.",
+            "author": "Samuel Taylor Coleridge"
+        },
+        {
+            "quote": "Neither blame or praise yourself.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "Find a place inside where there's joy, and the joy will burn out the pain.",
+            "author": "Joseph Campbell"
+        }
+    ],
+    "life": [
+        {
+            "quote": "You will face many defeats in life, but never let yourself be defeated.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "In the end, it's not the years in your life that count. It's the life in your years.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Never let the fear of striking out keep you from playing the game.",
+            "author": "Babe Ruth"
+        },
+        {
+            "quote": "Life is either a daring adventure or nothing at all.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "Many of life's failures are people who did not realize how close they were to success when they gave up.",
+            "author": "Thomas A. Edison"
+        },
+        {
+            "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+            "author": "Dr. Seuss"
+        },
+        {
+            "quote": "If life were predictable it would cease to be life and be without flavor.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Life is a succession of lessons which must be lived to be understood.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The only impossible journey is the one you never begin.",
+            "author": "Tony Robbins"
+        },
+        {
+            "quote": "In this life we cannot do great things. We can only do small things with great love.",
+            "author": "Mother Teresa"
+        },
+        {
+            "quote": "Only a life lived for others is a life worthwhile.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Life is what happens when you're busy making other plans.",
+            "author": "John Lennon"
+        },
+        {
+            "quote": "Go confidently in the direction of your dreams! Live the life you've imagined.",
+            "author": "Henry David Thoreau"
+        }
+    ],
+    "success": [
+        {
+            "quote": "Success is not final; failure is not fatal: It is the courage to continue that counts.",
+            "author": "Winston S. Churchill"
+        },
+        {
+            "quote": "Success usually comes to those who are too busy to be looking for it.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "If you really look closely, most overnight successes took a long time.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "The secret of success is to do the common thing uncommonly well.",
+            "author": "John D. Rockefeller Jr."
+        },
+        {
+            "quote": "I find that the harder I work, the more luck I seem to have.",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "The real test is not whether you avoid this failure, because you won't. It's whether you let it harden or shame you into inaction, or whether you learn from it; whether you choose to persevere.",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "Don't be distracted by criticism. Remember -- the only taste of success some people get is to take a bite out of you.",
+            "author": "Zig Ziglar"
+        },
+        {
+            "quote": "Success seems to be connected with action. Successful people keep moving. They make mistakes but they don't quit.",
+            "author": "Conrad Hilton"
+        },
+        {
+            "quote": "There are no secrets to success. It is the result of preparation, hard work, and learning from failure.",
+            "author": "Colin Powell"
+        },
+        {
+            "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "Successful people do what unsuccessful people are not willing to do. Don't wish it were easier; wish you were better.",
+            "author": "Jim Rohn"
+        },
+        {
+            "quote": "If you set your goals ridiculously high and it's a failure, you will fail above everyone else's success.",
+            "author": "James Cameron"
+        },
+        {
+            "quote": "A successful man is one who can lay a firm foundation with the bricks others have thrown at him.",
+            "author": "David Brinkley"
+        },
+        {
+            "quote": "Try not to become a man of success. Rather become a man of value.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Always bear in mind that your own resolution to success is more important than any other one thing.",
+            "author": "Abraham Lincoln"
+        }
+    ],
+    "motivational": [
+        {
+            "quote": "The Best Way To Get Started Is To Quit Talking And Begin Doing.",
+            "author": "Walt Disney"
+        },
+        {
+            "quote": "The Pessimist Sees Difficulty In Every Opportunity. The Optimist Sees Opportunity In Every Difficulty.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "Don’t Let Yesterday Take Up Too Much Of Today.",
+            "author": "Will Rogers"
+        },
+        {
+            "quote": "You Learn More From Failure Than From Success. Don’t Let It Stop You. Failure Builds Character.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "It’s Not Whether You Get Knocked Down, It’s Whether You Get Up.",
+            "author": "Vince Lombardi"
+        },
+        {
+            "quote": "If You Are Working On Something That You Really Care About, You Don’t Have To Be Pushed. The Vision Pulls You.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "People Who Are Crazy Enough To Think They Can Change The World, Are The Ones Who Do.",
+            "author": "Rob Siltanen"
+        },
+        {
+            "quote": "Failure Will Never Overtake Me If My Determination To Succeed Is Strong Enough.",
+            "author": "Og Mandino"
+        },
+        {
+            "quote": "Entrepreneurs Are Great At Dealing With Uncertainty And Also Very Good At Minimizing Risk. That’s The Classic Entrepreneur.",
+            "author": "Mohnish Pabrai"
+        },
+        {
+            "quote": "We May Encounter Many Defeats But We Must Not Be Defeated.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Knowing Is Not Enough; We Must Apply. Wishing Is Not Enough; We Must Do.",
+            "author": "Johann Wolfgang Von Goethe"
+        },
+        {
+            "quote": "Imagine Your Life Is Perfect In Every Respect; What Would It Look Like?",
+            "author": "Brian Tracy"
+        },
+        {
+            "quote": "Whether You Think You Can Or Think You Can’t, You’re Right.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "Security Is Mostly A Superstition. Life Is Either A Daring Adventure Or Nothing.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "The Man Who Has Confidence In Himself Gains The Confidence Of Others.",
+            "author": "Hasidic Proverb"
+        },
+        {
+            "quote": "The Only Limit To Our Realization Of Tomorrow Will Be Our Doubts Of Today.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "Creativity Is Intelligence Having Fun.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "What You Lack In Talent Can Be Made Up With Desire, Hustle And Giving 110% All The Time.",
+            "author": "Don Zimmer"
+        },
+        {
+            "quote": "Do What You Can With All You Have, Wherever You Are.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "Develop An ‘Attitude Of Gratitude’. Say Thank You To Everyone You Meet For Everything They Do For You.",
+            "author": "Brian Tracy"
+        },
+        {
+            "quote": "You Are Never Too Old To Set Another Goal Or To Dream A New Dream.",
+            "author": "C.S. Lewis"
+        },
+        {
+            "quote": "To See What Is Right And Not Do It Is A Lack Of Courage.",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Reading Is To The Mind, As Exercise Is To The Body.",
+            "author": "Brian Tracy"
+        },
+        {
+            "quote": "For Every Reason It’s Not Possible, There Are Hundreds Of People Who Have Faced The Same Circumstances And Succeeded.",
+            "author": "Jack Canfield"
+        },
+        {
+            "quote": "Things Work Out Best For Those Who Make The Best Of How Things Work Out.",
+            "author": "John Wooden"
+        },
+        {
+            "quote": "A Room Without Books Is Like A Body Without A Soul.",
+            "author": "Marcus Tullius Cicero"
+        }
+    ],
+    "fun": [
+        {
+            "quote": "Forgive your enemies, but never forget their names.",
+            "author": "John F. Kennedy"
+        },
+        {
+            "quote": "The road to success is always under construction.",
+            "author": "Lily Tomlin"
+        },
+        {
+            "quote": "I’m in shape. Round is a shape.",
+            "author": "George Carlin"
+        },
+        {
+            "quote": "Never have more children than you have car windows.",
+            "author": "Erma Bombeck"
+        },
+        {
+            "quote": "If you can’t live without me, why aren’t you dead already?",
+            "author": "Cynthia Heimel"
+        },
+        {
+            "quote": "He who laughs last didn’t get the joke.",
+            "author": "Charles de Gaulle"
+        },
+        {
+            "quote": "My favourite machine at the gym is the vending machine.",
+            "author": "Caroline Rhea"
+        },
+        {
+            "quote": "If a book about failures doesn’t sell, is it a success?",
+            "author": "Jerry Seinfeld"
+        },
+        {
+            "quote": "If you’re too open-minded; your brains will fall out.",
+            "author": "Lawrence Ferlinghetti"
+        },
+        {
+            "quote": "Never miss a good chance to shut up.",
+            "author": "Will Rogers"
+        },
+        {
+            "quote": "I don’t hate you. I just don’t like that you exist",
+            "author": "Gena Showalter"
+        },
+        {
+            "quote": "Don’t gobblefunk around with words.",
+            "author": "Roald Dahl"
+        },
+        {
+            "quote": "A penny saved is a penny earned.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "The funniest people are the saddest ones.",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Why is there so much month left at the end of the money?",
+            "author": "John Barrymore"
+        },
+        {
+            "quote": "I came from a real tough neighbourhood. Once a guy pulled a knife on me. I knew he wasn’t a professional, the knife had butter on it.",
+            "author": "Rodney Dangerfield"
+        },
+        {
+            "quote": "A word to the wise ain’t necessary, it’s the stupid ones who need advice.",
+            "author": "Bill Cosby"
+        },
+        {
+            "quote": "Always go to other people’s funerals, otherwise, they won’t come to yours.",
+            "author": "Yogi Berra"
+        },
+        {
+            "quote": "Women are wiser than men because they know less and understand more.",
+            "author": "James Thurber"
+        },
+        {
+            "quote": "I’d rather have 1% of the effort of 100 men than 100% of my own effort.",
+            "author": "J. Paul Getty"
+        },
+        {
+            "quote": "Hooray! Hooray! The end of the world has been postponed!",
+            "author": "Hergé"
+        }
+    ],
+    "programming": [
+        {
+            "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+            "author": "Martin Fowler"
+        },
+        {
+            "quote": "First, solve the problem. Then, write the code.",
+            "author": "John Johnson"
+        },
+        {
+            "quote": "Experience is the name everyone gives to their mistakes.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Java is to JavaScript what car is to Carpet.",
+            "author": "Chris Heilmann"
+        },
+        {
+            "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.",
+            "author": "Dan Salomon"
+        },
+        {
+            "quote": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+            "author": " Antoine de Saint-Exupery"
+        },
+        {
+            "quote": "Ruby is rubbish! PHP is phpantastic!",
+            "author": "Nikita Popov"
+        },
+        {
+            "quote": "Code is like humor. When you have to explain it, it’s bad.",
+            "author": "Cory House"
+        },
+        {
+            "quote": "Optimism is an occupational hazard of programming: feedback is the treatment.",
+            "author": "Kent Beck"
+        },
+        {
+            "quote": "When to use iterative development? You should use iterative development only on projects that you want to succeed.",
+            "author": "Martin Fowler"
+        },
+        {
+            "quote": "Before software can be reusable it first has to be usable.",
+            "author": "Ralph Johnson"
+        },
+        {
+            "quote": "Make it work, make it right, make it fast.",
+            "author": "Kent Beck"
+        },
+        {
+            "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live",
+            "author": "John Woods"
+        },
+        {
+            "quote": "I'm not a great programmer; I'm just a good programmer with great habits.",
+            "author": "Kent Beck"
+        },
+        {
+            "quote": "Truth can only be found in one place: the code.",
+            "author": "Robert C. Martin"
+        },
+        {
+            "quote": "Give a man a program, frustrate him for a day.Teach a man to program, frustrate him for a lifetime.",
+            "author": "Muhammad Waseem"
+        },
+        {
+            "quote": "That's the thing about people who think they hate computers. What they really hate is lousy programmers.",
+            "author": "Larry Niven"
+        },
+        {
+            "quote": "A language that doesn't affect the way you think about programming is not worth knowing.",
+            "author": "Alan J. Perlis"
+        },
+        {
+            "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+            "author": "Edward V. Berard"
+        },
+        {
+            "quote": "Perl – The only language that looks the same before and after RSA encryption.",
+            "author": "Keith Bostic"
+        },
+        {
+            "quote": "The most important property of a program is whether it accomplishes the intention of its user.",
+            "author": "C.A.R. Hoare"
+        },
+        {
+            "quote": "Object-oriented programming offers a sustainable way to write spaghetti code. It lets you accrete programs as a series of patches.",
+            "author": "Paul Graham"
+        },
+        {
+            "quote": "Programming isn't about what you know; it's about what you can figure out.",
+            "author": "Chris Pine"
+        }
+    ]
 }

@@ -1,21 +1,22 @@
-import { ParsedRequest } from "../typings/types"
+import { CategoryPattern, ParsedRequest } from "../typings/types"
 import { css } from './getCss'
+import { isBlankString, randomElement, randomEnum } from './commons'
 import * as quoteFromCategory from '../quotes/data.json';
 
 export async function quoteRenderer(parsedRequest: ParsedRequest) {
-    const {
-        category,
-        backgroundColor,
-        pattern,
-        colorPattern,
-        fontColor,
-        opacity
-    } = parsedRequest
+  const {
+    category,
+    backgroundColor,
+    pattern,
+    colorPattern,
+    fontColor,
+    opacity
+  } = parsedRequest
 
-    let quoteCategory = quoteFromCategory[category];
-    let quoteData = quoteCategory[Math.floor(Math.random() * quoteCategory.length)];
+  const quoteCategory = isBlankString(category) ? quoteFromCategory[randomEnum(CategoryPattern)] : quoteFromCategory[category];
+  const quoteData = randomElement(quoteCategory);
 
-    return `
+  return `
       <svg
         width="580"
         height="100%"

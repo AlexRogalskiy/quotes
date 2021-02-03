@@ -1,4 +1,4 @@
-import toBase64ImageUrl from '../utils/url'
+import toBase64ImageUrl from '../utils/commons'
 
 describe("Image URL to base64 string", () => {
     test('it should be a string base64', async () => {
