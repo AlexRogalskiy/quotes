@@ -1,7 +1,7 @@
 import { CategoryPattern, ParsedRequest } from "../typings/types"
 import { css } from './getCss'
 import { isBlankString, randomElement, randomEnum } from './commons'
-import * as quoteFromCategory from '../quotes/data.json';
+import * as quoteFromCategory from '../data/quotes.json';
 
 export async function quoteRenderer(parsedRequest: ParsedRequest) {
   const {
