@@ -3,7 +3,6 @@
     "version": "0.1.0",
     "description": "Automatically generate styled quotes upon request",
     "main": "index.js",
-    "author": "Alexander Rogalskiy",
     "license": "GPLv3",
     "scripts": {
         "deploy:dev": "vercel",
@@ -41,5 +40,10 @@
     "bugs": {
         "url": "https://github.com/AlexRogalskiy/quotes/issues"
     },
-    "homepage": "https://github.com/AlexRogalskiy/quotes"
+    "homepage": "https://github.com/AlexRogalskiy/quotes",
+    "author": {
+        "name": "Alexander Rogalskiy",
+        "url": "https://github.com/AlexRogalskiy"
+    },
+    "funding": "https://github.com/sponsors/AlexRogalskiy"
 }
