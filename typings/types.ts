@@ -22,7 +22,8 @@ export enum CategoryPattern {
   success = 'success',
   motivational = 'motivational',
   fun = 'fun',
-  programming = 'programming'
+  programming = 'programming',
+  entrepreneurship = 'entrepreneurship'
 }
 
 export interface ParsedRequest {
