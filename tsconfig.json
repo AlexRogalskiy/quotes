@@ -1,10 +1,12 @@
 {
+    "compileOnSave": false,
     "compilerOptions": {
         "strict": false,
         "allowJs": true,
         "noEmit": true,
         "esModuleInterop": true,
         "skipLibCheck": true,
+        "skipDefaultLibCheck": true,
         "importHelpers": true,
         "isolatedModules": true,
         "noUnusedLocals": true,
@@ -16,19 +18,22 @@
             "esnext",
             "dom"
         ],
+        "typeRoots": [
+            "node_modules/@types"
+        ],
         "target": "ES2018",
         "module": "commonjs",
         "resolveJsonModule": true,
         "moduleResolution": "node",
         "sourceMap": false,
         "declaration": true,
-        "declarationMap": true,
-        "skipDefaultLibCheck": true
+        "declarationMap": true
     },
     "exclude": [
         "node_modules",
         "**/tests/**/*",
-        "**/*.test.ts"
+        "**/*.test.ts",
+        "tmp"
     ],
     "include": [
         "hero-patterns.d.ts",
