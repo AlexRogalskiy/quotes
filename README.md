@@ -22,7 +22,7 @@ Quotes is a serverless dynamically quote name based on SVG (Scalable Vector Grap
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![quote](https://quoteivo.alexrogalskiy.vercel.app/api?category=[category])
+![Styled Quotes](https://quoteivo.alexrogalskiy.vercel.app/api?category=[category])
 ```
 There are several options you can use, and the options is:
 
@@ -64,12 +64,12 @@ This is example of using *Quotes*:
 Markdown content: 
 
 ```
-![quote](https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+![Styled Quotes](https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 ```
 
 Result:
 
-![quote](https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+![Styled Quotes](https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
 # Contribution
 Want to make this project better? You can contribute this project, I am very open if there are contributions to this project.
