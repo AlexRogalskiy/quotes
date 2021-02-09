@@ -1,11 +1,13 @@
-import { CategoryPattern, ParsedRequest } from "../typings/types"
+import { CategoryPattern, ParsedRequest } from '../typings/types'
 import { css } from './getCss'
 import { isBlankString, randomElement, randomEnum } from './commons'
-import * as quoteFromCategory from '../data/quotes.json';
+import * as quoteFromCategory from '../data/quotes.json'
 
 export async function quoteRenderer(parsedRequest: ParsedRequest) {
   const {
-    category,
+    categoryType,
+    heightSize,
+    widthSize,
     backgroundColor,
     pattern,
     colorPattern,
@@ -13,16 +15,17 @@ export async function quoteRenderer(parsedRequest: ParsedRequest) {
     opacity
   } = parsedRequest
 
-  const quoteCategory = isBlankString(category) ? quoteFromCategory[randomEnum(CategoryPattern)] : quoteFromCategory[category];
-  const quoteData = randomElement(quoteCategory);
+  const quoteCategory = isBlankString(categoryType)
+    ? quoteFromCategory[randomEnum(CategoryPattern)]
+    : quoteFromCategory[categoryType]
+  const quoteData = randomElement(quoteCategory)
 
   return `
-      <svg
-        width="580"
-        height="100%"
-        viewBox="0 0 580 100%"
+    <svg
+        width="${widthSize}"
+        height="${heightSize}"
         xmlns="http://www.w3.org/2000/svg">
-        <foreignObject x="0" y="0" width="580" height="100%">
+        <foreignObject x="0" y="0" width="${widthSize}" height="${heightSize}">
             <div xmlns="http://www.w3.org/1999/xhtml">
               <div class="quote-wrapper">
                 <div class="quote-wrapper-desc">

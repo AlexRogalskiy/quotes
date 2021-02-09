@@ -6,7 +6,6 @@ module.exports = {
   testEnvironment: 'node',
   testMatch: [ '**/*.test.ts', '**/__tests__/**/?(*.)+(spec|test).ts' ],
   testRunner: 'jest-circus/runner',
-  testRegex: '(/__tests__/.*|\\.(test|spec))\\.[tj]sx?$',
   testPathIgnorePatterns: [ '/node_modules/', '/__fixtures__/' ],
   transform: {
     "^.+\\.(ts)$": "ts-jest"

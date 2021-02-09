@@ -1,5 +1,5 @@
-import { readFileSync } from "fs"
-import getPattern from "./bg-hero"
+import { readFileSync } from 'fs'
+import getPattern from './bg-hero'
 
 const monserrat700 = readFileSync(
   `${__dirname}/../fonts/montserrat-v15-latin-700.woff2`

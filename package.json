@@ -3,7 +3,7 @@
     "version": "0.1.0",
     "description": "Automatically generate styled quotes upon request",
     "main": "index.js",
-    "license": "GPLv3",
+    "license": "GPL-3.0",
     "scripts": {
         "deploy:dev": "vercel",
         "deploy:prod": "vercel --prod",

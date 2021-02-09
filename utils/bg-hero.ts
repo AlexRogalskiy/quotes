@@ -1,4 +1,4 @@
-import { HeroPattern } from '../typings/types';
+import { HeroPattern } from '../typings/types'
 import {
   brickWall,
   bubbles,
@@ -15,8 +15,8 @@ import {
   ticTacToe,
   topography,
   wiggle,
-} from 'hero-patterns';
-import { isBlankString, randomEnum } from "./commons";
+} from 'hero-patterns'
+import { isBlankString, randomEnum } from './commons'
 
 interface GetPattern {
   [key: string]: any;
@@ -39,12 +39,12 @@ const getPattern = (pattern: any, opacity: string, colorPattern: string): string
     [HeroPattern.ticTacToe]: ticTacToe,
     [HeroPattern.topography]: topography,
     [HeroPattern.wiggle]: wiggle,
-  };
+  }
 
-  const patternFunc = isBlankString(pattern) ? patternMapping[randomEnum(HeroPattern)] : patternMapping[pattern];
-  const fillOpacity = [colorPattern, opacity];
+  const patternFunc = isBlankString(pattern) ? patternMapping[randomEnum(HeroPattern)] : patternMapping[pattern]
+  const fillOpacity = [colorPattern, opacity]
 
-  return patternFunc.apply(null, fillOpacity);
-};
+  return patternFunc.apply(null, fillOpacity)
+}
 
-export default getPattern;
+export default getPattern

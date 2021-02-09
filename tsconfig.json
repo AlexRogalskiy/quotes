@@ -31,8 +31,6 @@
     },
     "exclude": [
         "node_modules",
-        "**/tests/**/*",
-        "**/*.test.ts",
         "tmp"
     ],
     "include": [
