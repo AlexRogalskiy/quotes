@@ -1,6 +1,14 @@
 {
     "general": [
         {
+            "quote": "We fail to realize that mastery is not about perfection. It's about a process, a journey. The master is the one who stays on the path day after day, year after year. The master is the one who is willing to try, and fail, and try again, for as long as he or she lives.",
+            "author": "George Leonard, Mastery."
+        },
+        {
+            "quote": "Are you willing to wear your white belt?",
+            "author": "George Leonard, Mastery."
+        },
+        {
             "quote": "You’re braver than you believe, and stronger than you seem, and smarter than you think.",
             "author": "A.A. Mine"
         },
@@ -34416,7 +34424,7 @@
         },
         {
             "author": "[A comment on a blog]",
-            "quote": "While I\u2019ve always appreciated beautiful code, I share Jonathan\u2019s concern about studying it too much. I think studying beauty in music and painting has led us to modern classical music and painting that the majority of us just don\u2019t get. Beauty can be seen when it emerges, but isn\u2019t something to strive for in isolation of a larger context. In the software world, the larger context would be the utility of the software to the end user. "
+            "quote": "While I 've always appreciated beautiful code, I share Jonathan 's concern about studying it too much. I think studying beauty in music and painting has led us to modern classical music and painting that the majority of us just don 't get. Beauty can be seen when it emerges, but isn 't something to strive for in isolation of a larger context. In the software world, the larger context would be the utility of the software to the end user. "
         },
         {
             "author": "unknown",
@@ -34464,7 +34472,7 @@
         },
         {
             "author": "http://secretsofstudying.com/",
-            "quote": "To solve your problems you must learn new skills, adapt new thought patterns, and become a different person than you were before that problem.  God has crafted you for success. In the middle of every adversity lie your best opportunities. Discover it, build upon it and move forward in your journey to live an extraordinary life.  You owe it to yourself to live a great life. Don\u2019t let negative thoughts pull you down. Be grateful and open to learn and grow. "
+            "quote": "To solve your problems you must learn new skills, adapt new thought patterns, and become a different person than you were before that problem.  God has crafted you for success. In the middle of every adversity lie your best opportunities. Discover it, build upon it and move forward in your journey to live an extraordinary life.  You owe it to yourself to live a great life. Don 't let negative thoughts pull you down. Be grateful and open to learn and grow. "
         },
         {
             "author": "unknown",
@@ -34492,7 +34500,7 @@
         },
         {
             "author": "Mark Chu-Carroll",
-            "quote": "So - what are the most important problems in software engineering? I\u2019d answer \u201cdealing with complexity\u201d. "
+            "quote": "So - what are the most important problems in software engineering? I 'd answer \u201cdealing with complexity\u201d. "
         },
         {
             "author": "Paul Graham (a talk at Y Combinator, for startup creators).",
@@ -34544,15 +34552,15 @@
         },
         {
             "author": "Joesgoals.com",
-            "quote": "Mastering isn\u2019t a survival instinct; it\u2019s an urge to excel. Mastering is one of the experiences that delineates us from animals. It is striving to be more tomorrow than we are today; to perfectly pitch the ball over home plate; to craft the perfect sentence in an article; to open the oven and feel the warm, richly-scented cloud telling you dinner is going to be absolutely extraordinary. We humans crave perfection, to be masters of our domain, to distinguish ourselves by sheer skill and prowess. "
+            "quote": "Mastering isn 't a survival instinct; it 's an urge to excel. Mastering is one of the experiences that delineates us from animals. It is striving to be more tomorrow than we are today; to perfectly pitch the ball over home plate; to craft the perfect sentence in an article; to open the oven and feel the warm, richly-scented cloud telling you dinner is going to be absolutely extraordinary. We humans crave perfection, to be masters of our domain, to distinguish ourselves by sheer skill and prowess. "
         },
         {
             "author": "Joesgoals.com",
-            "quote": "It(mastering)\u2019s knowing what you are doing. "
+            "quote": "It(mastering) 's knowing what you are doing. "
         },
         {
             "author": "Stevey, Refactoring Trilogy, Part 1.",
-            "quote": "Well then. How could you possibly live without automated refactoring tools? How else could you coordinate the caterpillar-like motions of all Java\u2019s identical tiny legs, its thousands of similar parts? I\u2019ll tell you how: Ruby is a butterfly. "
+            "quote": "Well then. How could you possibly live without automated refactoring tools? How else could you coordinate the caterpillar-like motions of all Java 's identical tiny legs, its thousands of similar parts? I 'll tell you how: Ruby is a butterfly. "
         },
         {
             "author": "Marc (http://kickin-the-darkness.blogspot.com/)",
@@ -34568,7 +34576,7 @@
         },
         {
             "author": "David Gorman (ImThere.com)",
-            "quote": "If something isn\u2019t working, you need to look back and figure out what got you excited in the first place. "
+            "quote": "If something isn 't working, you need to look back and figure out what got you excited in the first place. "
         },
         {
             "author": "Marc Andreessen (http://blog.pmarca.com/)",
@@ -34632,7 +34640,7 @@
         },
         {
             "author": "Albert Einstein",
-            "quote": "In theory, there\u2019s no difference between theory and practice. But in practice, there is. "
+            "quote": "In theory, there 's no difference between theory and practice. But in practice, there is. "
         },
         {
             "author": "Erik Naggum",
@@ -34656,7 +34664,7 @@
         },
         {
             "author": "BetterExplained.com",
-            "quote": "You can\u2019t get to version 500 if you don\u2019t start with a version 1. "
+            "quote": "You can 't get to version 500 if you don 't start with a version 1. "
         },
         {
             "author": "BetterExplained.com",
@@ -34676,7 +34684,7 @@
         },
         {
             "author": "Ben Hoyts (micropledge)",
-            "quote": "C\u2019s great for what it\u2019s great for. "
+            "quote": "C 's great for what it 's great for. "
         },
         {
             "author": "Paolo Bonzini",
@@ -34696,7 +34704,7 @@
         },
         {
             "author": "engtech (internetducttape.com)",
-            "quote": "The minute you put the blame on someone else you\u2019ve switch things from being a problem you can control to a problem outside of your control. "
+            "quote": "The minute you put the blame on someone else you 've switch things from being a problem you can control to a problem outside of your control. "
         },
         {
             "author": "OO Sucks (bluetail.com)",
@@ -34732,7 +34740,7 @@
         },
         {
             "author": "H. Hardy, A mathematician's apology.",
-            "quote": "Good work is no done by \u2018humble\u2019 men. "
+            "quote": "Good work is no done by \u2018humble ' men. "
         },
         {
             "author": "Dennis (blog comment)",
@@ -34740,7 +34748,7 @@
         },
         {
             "author": "G. H. Hardy",
-            "quote": "The proof is by reductio ad absurdum, and reductio ad absurdum, which Euclid loved so much, is one of a mathematician\u2019s finest weapons. It is a far finer gambit than any chess gambit: a chess player may offer the sacrifice of a pawn or even a piece, but a mathematician offers the game. "
+            "quote": "The proof is by reductio ad absurdum, and reductio ad absurdum, which Euclid loved so much, is one of a mathematician 's finest weapons. It is a far finer gambit than any chess gambit: a chess player may offer the sacrifice of a pawn or even a piece, but a mathematician offers the game. "
         },
         {
             "author": "Joss Whedon",
@@ -34816,7 +34824,7 @@
         },
         {
             "author": "M.A. Jackson",
-            "quote": "Rules of Optimization: Rule 1: Don\u2019t do it. Rule 2 (for experts only): Don\u2019t do it yet. "
+            "quote": "Rules of Optimization: Rule 1: Don 't do it. Rule 2 (for experts only): Don 't do it yet. "
         },
         {
             "author": "W.A. Wulf",
@@ -34832,11 +34840,11 @@
         },
         {
             "author": "Ralph Nader",
-            "quote": "The job of a leader today is not to create followers. It\u2019s to create more leaders. "
+            "quote": "The job of a leader today is not to create followers. It 's to create more leaders. "
         },
         {
             "author": "The little book of leadership",
-            "quote": "The president was visiting NASA headquarters and stopped to talk to a man who was holding a mop. \u201cAnd what do you do?\u201d he asked. The man, a janitor, replied, \u201cI\u2019m helping to put a man on the moon, sir.\u201d "
+            "quote": "The president was visiting NASA headquarters and stopped to talk to a man who was holding a mop. \u201cAnd what do you do?\u201d he asked. The man, a janitor, replied, \u201cI 'm helping to put a man on the moon, sir.\u201d "
         },
         {
             "author": "Phil Dourado",
@@ -34884,7 +34892,7 @@
         },
         {
             "author": "Nathan Weizenbaum",
-            "quote": "It\u2019s hard to grasp abstractions if you don\u2019t understand what they\u2019re abstracting away from. "
+            "quote": "It 's hard to grasp abstractions if you don 't understand what they 're abstracting away from. "
         },
         {
             "author": "Paul Graham",
@@ -34972,11 +34980,11 @@
         },
         {
             "author": "Linus Torvalds",
-            "quote": "Software is like sex: It\u2019s better when it\u2019s free. "
+            "quote": "Software is like sex: It 's better when it 's free. "
         },
         {
-            "author": "Eagleson\u2019s Law",
-            "quote": "Any code of your own that you haven\u2019t looked at for six or more months might as well have been written by someone else. "
+            "author": "Eagleson 's Law",
+            "quote": "Any code of your own that you haven 't looked at for six or more months might as well have been written by someone else. "
         },
         {
             "author": "Francis Glassborow",
@@ -35000,7 +35008,7 @@
         },
         {
             "author": "Thomas J. Watson, Chairman of the Board, IBM, circa 1948",
-            "quote": "I think there\u2019s a world market for about 5 computers. "
+            "quote": "I think there 's a world market for about 5 computers. "
         },
         {
             "author": "John Von Neumann, circa 1949",
@@ -35056,19 +35064,19 @@
         },
         {
             "author": "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
-            "quote": "When you\u2019ve got the code all ripped apart, it\u2019s like a car that\u2019s all disassembled. You\u2019ve got all the parts tying all over your garage and you have to replace the broken part or the car will never run. It\u2019s not fun until the code gets back to the baseline again. "
+            "quote": "When you 've got the code all ripped apart, it 's like a car that 's all disassembled. You 've got all the parts tying all over your garage and you have to replace the broken part or the car will never run. It 's not fun until the code gets back to the baseline again. "
         },
         {
             "author": "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
-            "quote": "Well, if you talk about programming to a group of programmers who use the same language, they can become almost evangelistic about the language. They form a tight-knit community, hold to certain beliefs, and follow certain rules in their programming. It\u2019s like a church with a programming language for a Bible. "
+            "quote": "Well, if you talk about programming to a group of programmers who use the same language, they can become almost evangelistic about the language. They form a tight-knit community, hold to certain beliefs, and follow certain rules in their programming. It 's like a church with a programming language for a Bible. "
         },
         {
             "author": "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
-            "quote": "It\u2019s a problem if the design doesn\u2019t let you add features at a later date. If you have to redo a program, the hours you spend can cause you to lose your competitive edge. A flexible program demonstrates the difference between a good designer and someone who is just getting a piece of code out. "
+            "quote": "It 's a problem if the design doesn 't let you add features at a later date. If you have to redo a program, the hours you spend can cause you to lose your competitive edge. A flexible program demonstrates the difference between a good designer and someone who is just getting a piece of code out. "
         },
         {
             "author": "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
-            "quote": "[How friendly will this machine be?] Well, I don\u2019t think it\u2019s a matter of friendliness, because ultimately if the program is going to accomplish anything of value, it will probably be relatively complex. "
+            "quote": "[How friendly will this machine be?] Well, I don 't think it 's a matter of friendliness, because ultimately if the program is going to accomplish anything of value, it will probably be relatively complex. "
         },
         {
             "author": "Gary Kildall (inventor of CP/M, one of the first OS for the micro).",
@@ -35084,7 +35092,7 @@
         },
         {
             "author": "Malcolm Gladwell, Who says big ideas are rare?",
-            "quote": "That is the inevitable human response. We\u2019re reluctant to believe that great discoveries are in the air. We want to believe that great discoveries are in our heads\u2014and to each party in the multiple the presence of the other party is invariably cause for suspicion. "
+            "quote": "That is the inevitable human response. We 're reluctant to believe that great discoveries are in the air. We want to believe that great discoveries are in our heads\u2014and to each party in the multiple the presence of the other party is invariably cause for suspicion. "
         },
         {
             "author": "Malcolm Gladwell, Who says big ideas are rare?",
@@ -35108,7 +35116,7 @@
         },
         {
             "author": "Nassim Taleb",
-            "quote": "Wear your best for your execution and stand dignified. Your last recourse against randomness is how you act \u2014 if you can\u2019t control outcomes, you can control the elegance of your behaviour. You will always have the last word. "
+            "quote": "Wear your best for your execution and stand dignified. Your last recourse against randomness is how you act \u2014 if you can 't control outcomes, you can control the elegance of your behaviour. You will always have the last word. "
         },
         {
             "author": "Anonymous",
@@ -35168,7 +35176,7 @@
         },
         {
             "author": "Linux Torvalds",
-            "quote": "It was Edison who said \u20181% inspiration, 99% perspiration\u2019. That may have been true a hundred years ago. These days it's \u20180.01% inspiration, 99.99% perspiration\u2019, and the inspiration is the easy part. "
+            "quote": "It was Edison who said \u20181% inspiration, 99% perspiration '. That may have been true a hundred years ago. These days it's \u20180.01% inspiration, 99.99% perspiration ', and the inspiration is the easy part. "
         },
         {
             "author": "Bertrand Russell",
@@ -35176,11 +35184,11 @@
         },
         {
             "author": "37 Signal, Getting real",
-            "quote": "No matter how much you plan you\u2019re likely to get half wrong anyway. So don\u2019t do the \u2018paralysis through analysis\u2019 thing. That only slows progress and saps morale. "
+            "quote": "No matter how much you plan you 're likely to get half wrong anyway. So don 't do the \u2018paralysis through analysis ' thing. That only slows progress and saps morale. "
         },
         {
             "author": "Steve Jobs",
-            "quote": "[Innovation] comes from saying no to 1,000 things to make sure we don\u2019t get on the wrong track or try to do too much. We\u2019re always thinking about new markets we could enter, but it\u2019s only by saying no that you can concentrate on the things that are really important. "
+            "quote": "[Innovation] comes from saying no to 1,000 things to make sure we don 't get on the wrong track or try to do too much. We 're always thinking about new markets we could enter, but it 's only by saying no that you can concentrate on the things that are really important. "
         },
         {
             "author": "Hans Hofmann",
@@ -35196,7 +35204,7 @@
         },
         {
             "author": "Richard Sites",
-            "quote": "I\u2019d rather write programs to write programs than write programs. "
+            "quote": "I 'd rather write programs to write programs than write programs. "
         },
         {
             "author": "Sebastien, sur commentcamarche.net",
