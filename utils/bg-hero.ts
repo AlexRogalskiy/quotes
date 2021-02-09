@@ -19,7 +19,7 @@ import {
 import { isBlankString, randomEnum } from './commons'
 
 interface GetPattern {
-  [key: string]: any;
+  [key: string]: any
 }
 
 const getPattern = (pattern: any, opacity: string, colorPattern: string): string => {
