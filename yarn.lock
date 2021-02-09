@@ -688,9 +688,9 @@
     "@typescript-eslint/types" "4.14.2"
     eslint-visitor-keys "^2.0.0"
 
-"@vercel/node@^1.8.6-canary.3":
-  version "1.8.6-canary.3"
-  resolved "https://registry.npmjs.org/@vercel/node/-/node-1.8.6-canary.3.tgz"
+"@vercel/node@^1.9.0":
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@vercel/node/-/node-1.9.0.tgz#6b64f3b9a962ddb1089276fad00f441a1f4b9cf0"
   dependencies:
     "@types/node" "*"
     ts-node "8.9.1"
