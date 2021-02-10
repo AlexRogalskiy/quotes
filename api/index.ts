@@ -1,6 +1,7 @@
 import { NowRequest, NowResponse } from '@vercel/node'
 import { quoteRenderer } from '../utils/quote'
-import { isBlankString, toString } from '../utils/commons'
+import { notBlankOrElse, toString } from '../utils/commons'
+import { CONFIG } from '../utils/config'
 
 export default async function render(req: NowRequest, res: NowResponse) {
   try {
@@ -16,14 +17,14 @@ export default async function render(req: NowRequest, res: NowResponse) {
       colorPattern
     } = req.query
 
-    const categoryType = toString(category)
-    const widthSize = isBlankString(toString(width)) ? "100%" : toString(width)
-    const heightSize = isBlankString(toString(height)) ? "100%" : toString(height)
+    const c = toString(category)
+    const w = notBlankOrElse(toString(width), CONFIG.image.width)
+    const h = notBlankOrElse(toString(height), CONFIG.image.height)
 
     const quote = await quoteRenderer({
-      categoryType,
-      widthSize,
-      heightSize,
+      category: c,
+      width: w,
+      height: h,
       iconColor,
       backgroundColor,
       fontColor,

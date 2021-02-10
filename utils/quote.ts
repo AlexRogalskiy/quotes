@@ -5,9 +5,9 @@ import * as quoteFromCategory from '../data/quotes.json'
 
 export async function quoteRenderer(parsedRequest: ParsedRequest) {
   const {
-    categoryType,
-    heightSize,
-    widthSize,
+    category,
+    width,
+    height,
     backgroundColor,
     pattern,
     colorPattern,
@@ -15,17 +15,17 @@ export async function quoteRenderer(parsedRequest: ParsedRequest) {
     opacity
   } = parsedRequest
 
-  const quoteCategory = isBlankString(categoryType)
+  const quoteCategory = isBlankString(category)
     ? quoteFromCategory[randomEnum(CategoryPattern)]
-    : quoteFromCategory[categoryType]
+    : quoteFromCategory[category]
   const quoteData = randomElement(quoteCategory)
 
   return `
     <svg
-        width="${widthSize}"
-        height="${heightSize}"
+        width="${width}"
+        height="${height}"
         xmlns="http://www.w3.org/2000/svg">
-        <foreignObject x="0" y="0" width="${widthSize}" height="${heightSize}">
+        <foreignObject x="0" y="0" width="${width}" height="${height}">
             <div xmlns="http://www.w3.org/1999/xhtml">
               <div class="quote-wrapper">
                 <div class="quote-wrapper-desc">

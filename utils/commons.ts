@@ -17,6 +17,17 @@ export const isBlankString = (str: string): boolean => {
   return (!str || /^\s*$/.test(str))
 }
 
+export const toUrl = (str: string): string => {
+  if (isBlankString(str)) throw Error("Source URL should not be blank or empty")
+  str = str.startsWith('http') ? str : 'http://' + str
+  str = str.endsWith('.json') ? str : str + '.json'
+  return str
+}
+
+export const notBlankOrElse = (str: string, defaultValue: string): string => {
+  return isBlankString(str) ? defaultValue : str
+}
+
 export const toString = (str: string | string[]): string => {
   return Array.isArray(str) ? str[0] : str
 }

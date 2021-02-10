@@ -27,9 +27,9 @@ export enum CategoryPattern {
 }
 
 export interface ParsedRequest {
-  categoryType: string
-  widthSize: string
-  heightSize: string
+  category: string
+  width: string
+  height: string
   colorPattern: string | string[]
   fontColor?: string | string[]
   iconColor?: string | string[]
