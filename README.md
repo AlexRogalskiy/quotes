@@ -1,7 +1,7 @@
-<div align="center">
-<h1>Quotes</h1>
+# _Styled quotes_
 
-<p>Get your styled quote dynamically 😎</p>
+<div align="center">
+<p>Create your styled quotes dynamically</p>
 
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
@@ -13,69 +13,73 @@
 
 </div>
 
-# Description
-A few months ago, Github launched a new feature call Magic Readme which is that file readme will be appear in your github profile and you can set your skills, portfolio, etc in that file readme.
+## _Table of contents_
 
-Quotes is a serverless dynamically quote name based on SVG (Scalable Vector Graphics) which is you can make your own quote name and set in your magic readme. For the tech stack, Quotes using Typescript and serverless function from Vercel and also this project had been deployed on Vercel.
+<!--ts-->
+<!--te-->
 
-# How to use this?
+## _Description_
+
+Quotes is a serverless dynamically function that generates styled quote images based on SVG (Scalable Vector Graphics).
+For the tech stack, Quotes using Typescript and serverless function from Vercel as this project had been deployed on Vercel stack.
+
+## _How to use_
+
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![Styled Quotes](https://quoteivo.alexrogalskiy.vercel.app/api?category=[category])
+![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 ```
-There are several options you can use, and the options is:
 
-|  Options  | Description |   Type     | Example | Query Params | 
-|---------- | ---------- | ------- | ----------- | ------------ |
-| Background Color | Background color for the quote name | Hex color code | %23ffffff | ```?backgroundColor=[value]``` |
-| Icon Color | Colorize the icons in quote name | Hex color code | %23e64a19 | ```?iconColor=[value]``` |
-| Font Color | Font color for the quote name | Hex color code | %23000000 | ```?fontColor=[value]``` |
-| Site | If you have a site, you can fill this one | String | https://alexrogalskiy.tech | ```?site=[value]``` |
-| Pattern | You can use a pattern for the background. You can see the list below | String | plus | ```?pattern=[value]``` |
-| Color Pattern | Fill the color pattern | Hex color code | %231abc9c | ```?colorPattern=[value]``` |
-| Opacity Pattern | Opacity of the pattern background | Float | 0 - 1 | ```?opacity=[value]``` |
+There are several options you can use from the list:
 
-> NB: Remove the square bracket
+|  Options         | Description                            |   Type            | Example       | Query Params                   | 
+| ---------------- | -------------------------------------- | ----------------- | ------------- | ------------------------------ |
+| Background Color | Background color for the quote image   | Hex color code    | %23ffffff     | ```?backgroundColor=[value]``` |
+| Opacity Pattern  | Background opacity of the pattern      | Float number      | 0 - 1         | ```?opacity=[value]```         |
+| Color Pattern    | Color pattern for the signage          | Hex color code    | %231abc9c     | ```?colorPattern=[value]```    |
+| Font Color       | Font color for the quote text          | Hex color code    | %23000000     | ```?fontColor=[value]```       |
+| Pattern          | Pattern for the background             | String constant   | plus          | ```?pattern=[value]```         |
 
-Pattern in Quotes, i'm used the [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/), and here the list: 
+Pattern in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 
-| Pattern | Value | 
-| -------- | ---- |
-| Plus | plus |
-| Topography | topography |
-| Texture | texture |
-| Hideout | hideout |
-| FallingTriangles | falllingTriangles |
-| I Like Food | iLikeFood |
-| Four point stars | fourPointStars |
-| Brick wall | brickWall |
-| Wiggle | wiggle |
-| Bubbles | bubbles |
-| Floating Cogs | floatingCogs |
-| Leaf | leaf |
-| Rain | rain |
-| Polkadots | polkadots |
-| Tic Tac Toe | ticTacToe |
+| Name              | Value             | 
+| ----------------- | ----------------- |
+| Plus              | plus              |
+| Topography        | topography        |
+| Texture           | texture           |
+| Hideout           | hideout           |
+| FallingTriangles  | falllingTriangles |
+| I Like Food       | iLikeFood         |
+| Four point stars  | fourPointStars    |
+| Brick wall        | brickWall         |
+| Wiggle            | wiggle            |
+| Bubbles           | bubbles           |
+| Floating Cogs     | floatingCogs      |
+| Leaf              | leaf              |
+| Rain              | rain              |
+| Polkadots         | polkadots         |
+| Tic Tac Toe       | ticTacToe         |
 
-# Example
-This is example of using *Quotes*:
+## _Example_
 
-Markdown content: 
+This is example of using _**Styled Quotes**_:
 
 ```
-![Styled Quotes](https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 ```
 
 Result:
 
-![Styled Quotes](https://styled-quotes.vercel.app/api?category=general&backgroundColor=%23FFFFFF&pattern=topography&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
-# Contribution
+## _Contribution_
+
 Want to make this project better? You can contribute this project, I am very open if there are contributions to this project.
 
 ---
+
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)
 
-Powered by Typescript and Vercel. Code licensed under MIT License.
+Powered by Typescript and Vercel. Code licensed under GPL-3.0 license.
