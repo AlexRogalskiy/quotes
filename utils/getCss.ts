@@ -1,15 +1,18 @@
-import { readFileSync } from 'fs'
 import getPattern from './bg-hero'
+import { ColorOptions } from '../typings/types'
+import { monserrat700, monserratRegular } from './font'
+import { isBlankString } from "./commons";
 
-const monserrat700 = readFileSync(
-  `${__dirname}/../fonts/montserrat-v15-latin-700.woff2`
-).toString("base64")
-const monserratRegular = readFileSync(
-  `${__dirname}/../fonts/montserrat-v15-latin-regular.woff2`
-).toString("base64")
+export const css = (colorOptions: ColorOptions): string => {
+    const {
+        fontColor,
+        backgroundColor,
+        pattern,
+        opacity,
+        colorPattern
+    } = colorOptions
 
-export const css = ({backgroundColor, pattern, opacity, colorPattern, fontColor}): string => {
-  return `
+    return `
       @font-face{
         font-family: 'Montserrat';
         font-style: normal;
@@ -36,7 +39,7 @@ export const css = ({backgroundColor, pattern, opacity, colorPattern, fontColor}
       }
       .quote-wrapper {
         background: ${backgroundColor};
-        background-image: ${getPattern(`${pattern == undefined ? '' : pattern}`, `${opacity}`, `${colorPattern}`)};
+        background-image: ${getPattern(`${isBlankString(pattern) ? '' : pattern}`, `${opacity}`, `${colorPattern}`)};
         margin: 0;
         box-sizing: border-box;
         display: flex;

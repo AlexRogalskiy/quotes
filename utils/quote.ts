@@ -1,26 +1,30 @@
-import { CategoryPattern, ParsedRequest } from '../typings/types'
+import { CategoryPattern, ColorOptions, ParsedRequest } from '../typings/types'
 import { css } from './getCss'
 import { isBlankString, randomElement, randomEnum } from './commons'
 import * as quoteFromCategory from '../data/quotes.json'
+import { CONFIG } from "./config";
 
-export async function quoteRenderer(parsedRequest: ParsedRequest) {
-  const {
-    category,
-    width,
-    height,
-    backgroundColor,
-    pattern,
-    colorPattern,
-    fontColor,
-    opacity
-  } = parsedRequest
+type QuoteData = {
+    quote: string
+    author: string
+}
 
-  const quoteCategory = isBlankString(category)
-    ? quoteFromCategory[randomEnum(CategoryPattern)]
-    : quoteFromCategory[category]
-  const quoteData = randomElement(quoteCategory)
+export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<string> {
+    const {
+        category,
+        width,
+        height,
+        ...rest
+    } = parsedRequest
 
-  return `
+    const options: ColorOptions = {...CONFIG.colorOptions, ...rest}
+
+    const quotes: QuoteData[] = isBlankString(category)
+        ? quoteFromCategory[randomEnum(CategoryPattern)]
+        : quoteFromCategory[category]
+    const quoteData: QuoteData = randomElement(quotes)
+
+    return `
     <svg
         width="${width}"
         height="${height}"
@@ -37,7 +41,7 @@ export async function quoteRenderer(parsedRequest: ParsedRequest) {
               </div>
             </div>
         </foreignObject>
-        <style>${css({backgroundColor, pattern, opacity, colorPattern, fontColor})}</style>
+        <style>${css(options)}</style>
       </svg>
   `
 }
