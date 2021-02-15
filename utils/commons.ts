@@ -11,7 +11,7 @@ export const toBase64ImageUrl = async (imgUrl): Promise<string> => {
 }
 
 export const isNonEmptyString = (str: string): boolean => {
-    return str && str.length > 0
+    return str !== undefined && str !== null && str.length > 0
 }
 
 export const isBlankString = (str: string): boolean => {
@@ -48,10 +48,24 @@ export const randomEnum = <T>(anEnum: T): T[keyof T] => {
     return enumValues[randomIndex]
 }
 
+export const toFormatString = (obj): string => {
+    return `(${objToString(obj)})`
+}
+
+const objToString = (obj): string => {
+    let str = ''
+    for (const p in obj) {
+        if (Object.prototype.hasOwnProperty.call(obj, p)) {
+            str += `${p} => ${typeof obj[p] === 'object' ? `[${objToString(obj[p])}]` : `${obj[p]},`}`
+        }
+    }
+    return str
+}
+
 export const pluck = <T, K extends keyof T>(o: T, propertyNames: K[]): T[K][] => {
     return propertyNames.map(n => o[n])
 }
 
 export const mergeProps = <T>(...obj: unknown[]): T => {
-    return _.mergeWith({}, ...obj, (o, s) => (_.value === null ? o : s))
+    return _.mergeWith({}, ...obj, (o, s) => (_._.value === undefined ? o : s))
 }

@@ -1,6 +1,6 @@
 import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest } from '../typings/types'
 import { css } from './getCss'
-import { mergeProps, randomElement, randomEnum } from './commons'
+import { mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import * as quoteFromCategory from '../data/quotes.json'
 import { CONFIG } from './config'
 
@@ -19,6 +19,14 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
 
     const colorOptions: ColorOptions = mergeProps(CONFIG.colorOptions, rest)
     const imageOptions: ImageOptions = mergeProps(CONFIG.imageOptions, {width, height})
+
+    console.log(
+        `\n>>> Generating quote with parameters:
+        category=${category},
+        colorOptions=${toFormatString(colorOptions)}
+        imageOptions=${toFormatString(imageOptions)}
+        `
+    )
 
     const quotes: QuoteData[] = category === undefined
         ? quoteFromCategory[randomEnum(CategoryPattern)]
