@@ -1,7 +1,6 @@
 import getPattern from './bg-hero'
 import { ColorOptions } from '../typings/types'
 import { monserrat700, monserratRegular } from './font'
-import { isBlankString } from "./commons";
 
 export const css = (colorOptions: ColorOptions): string => {
     const {
@@ -39,7 +38,7 @@ export const css = (colorOptions: ColorOptions): string => {
       }
       .quote-wrapper {
         background: ${backgroundColor};
-        background-image: ${getPattern(`${isBlankString(pattern) ? '' : pattern}`, `${opacity}`, `${colorPattern}`)};
+        background-image: ${getPattern(`${pattern === undefined ? '' : pattern}`, `${opacity}`, `${colorPattern}`)};
         margin: 0;
         box-sizing: border-box;
         display: flex;

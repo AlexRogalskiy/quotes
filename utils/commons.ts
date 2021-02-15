@@ -1,4 +1,5 @@
 import fetch from 'isomorphic-unfetch'
+import _ from 'lodash'
 
 export const randomElement = <T>(arr: Array<T>): T => arr[Math.floor(Math.random() * arr.length)]
 
@@ -40,13 +41,17 @@ export const toInt = (str: string, defaultValue: number): number => {
     }
 }
 
-export const pluck = <T, K extends keyof T>(o: T, propertyNames: K[]): T[K][] => {
-    return propertyNames.map((n) => o[n]);
-}
-
 // @ts-ignore
 export const randomEnum = <T>(anEnum: T): T[keyof T] => {
     const enumValues = (Object.values(anEnum) as unknown) as T[keyof T][]
     const randomIndex = Math.floor(Math.random() * enumValues.length)
     return enumValues[randomIndex]
+}
+
+export const pluck = <T, K extends keyof T>(o: T, propertyNames: K[]): T[K][] => {
+    return propertyNames.map(n => o[n])
+}
+
+export const mergeProps = <T>(...obj: unknown[]): T => {
+    return _.mergeWith({}, ...obj, (o, s) => (_.value === null ? o : s))
 }

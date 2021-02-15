@@ -27,13 +27,13 @@ export enum CategoryPattern {
 }
 
 export interface ParsedRequest {
-    category?: string
+    category?: CategoryPattern | undefined
     width?: string
     height?: string
     colorPattern?: string | string[]
     fontColor?: string | string[]
     backgroundColor?: string | string[]
-    pattern?: string
+    pattern?: HeroPattern | undefined
     opacity?: string | string[]
 }
 

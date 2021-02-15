@@ -1,8 +1,8 @@
-import { CategoryPattern, ColorOptions, ParsedRequest } from '../typings/types'
+import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest } from '../typings/types'
 import { css } from './getCss'
-import { isBlankString, randomElement, randomEnum } from './commons'
+import { mergeProps, randomElement, randomEnum } from './commons'
 import * as quoteFromCategory from '../data/quotes.json'
-import { CONFIG } from "./config";
+import { CONFIG } from './config'
 
 type QuoteData = {
     quote: string
@@ -17,19 +17,20 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
         ...rest
     } = parsedRequest
 
-    const options: ColorOptions = {...CONFIG.colorOptions, ...rest}
+    const colorOptions: ColorOptions = mergeProps(CONFIG.colorOptions, rest)
+    const imageOptions: ImageOptions = mergeProps(CONFIG.imageOptions, {width, height})
 
-    const quotes: QuoteData[] = isBlankString(category)
+    const quotes: QuoteData[] = category === undefined
         ? quoteFromCategory[randomEnum(CategoryPattern)]
         : quoteFromCategory[category]
     const quoteData: QuoteData = randomElement(quotes)
 
     return `
     <svg
-        width="${width}"
-        height="${height}"
+        width="${imageOptions.width}"
+        height="${imageOptions.height}"
         xmlns="http://www.w3.org/2000/svg">
-        <foreignObject x="0" y="0" width="${width}" height="${height}">
+        <foreignObject x="0" y="0" width="${imageOptions.width}" height="${imageOptions.height}">
             <div xmlns="http://www.w3.org/1999/xhtml">
               <div class="quote-wrapper">
                 <div class="quote-wrapper-desc">
@@ -41,7 +42,7 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
               </div>
             </div>
         </foreignObject>
-        <style>${css(options)}</style>
+        <style>${css(colorOptions)}</style>
       </svg>
   `
 }

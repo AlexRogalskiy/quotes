@@ -1,7 +1,7 @@
 import { NowRequest, NowResponse, VercelResponse } from '@vercel/node'
 import { quoteRenderer } from '../utils/quote'
-import { notBlankOrElse, toString } from '../utils/commons'
-import { CONFIG } from '../utils/config'
+import { toString } from '../utils/commons'
+import { CategoryPattern, HeroPattern } from '../typings/types'
 
 export default async function render(req: NowRequest, res: NowResponse): Promise<VercelResponse> {
     try {
@@ -16,14 +16,11 @@ export default async function render(req: NowRequest, res: NowResponse): Promise
             colorPattern
         } = req.query
 
-        const quoteWidth = notBlankOrElse(toString(width), CONFIG.imageOptions.width)
-        const quoteHeight = notBlankOrElse(toString(height), CONFIG.imageOptions.height)
-
         const quote = await quoteRenderer({
-            category: toString(category),
-            pattern: toString(pattern),
-            width: quoteWidth,
-            height: quoteHeight,
+            category: (<any>CategoryPattern)[toString(category)],
+            pattern: (<any>HeroPattern)[toString(pattern)],
+            width: toString(width),
+            height: toString(height),
             backgroundColor,
             fontColor,
             opacity,
@@ -34,6 +31,7 @@ export default async function render(req: NowRequest, res: NowResponse): Promise
         res.setHeader('Pragma', 'no-cache')
         res.setHeader('Expires', '-1')
         res.setHeader('Content-type', 'image/svg+xml')
+        res.setHeader('X-Powered-By', 'Vercel')
 
         return res.send(quote)
     } catch (error) {
