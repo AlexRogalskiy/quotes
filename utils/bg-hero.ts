@@ -1,4 +1,3 @@
-import { HeroPattern } from '../typings/types'
 import {
     brickWall,
     bubbles,
@@ -16,6 +15,8 @@ import {
     topography,
     wiggle,
 } from 'hero-patterns'
+
+import { HeroPattern } from '../typings/types'
 import { isBlankString, randomEnum } from './commons'
 
 type PatternOperator = (fill: string, opacity: string) => string
