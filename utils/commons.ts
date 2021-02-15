@@ -33,7 +33,7 @@ export const toString = (str: string | string[]): string => {
     return Array.isArray(str) ? str[0] : str
 }
 
-export const toInt = (str: string, defaultValue: number): number => {
+export const toInt = (str: string, defaultValue?: number): number | undefined => {
     try {
         return parseInt(str) || defaultValue
     } catch (e) {
