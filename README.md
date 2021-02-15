@@ -10,6 +10,7 @@
 [![Issue](https://img.shields.io/github/issues/alexrogalskiy/quotes)](https://img.shields.io/github/issues/alexrogalskiy/quotes)
 [![Forks](https://img.shields.io/github/forks/alexrogalskiy/quotes)](https://img.shields.io/github/forks/alexrogalskiy/quotes)
 [![Stars](https://img.shields.io/github/stars/alexrogalskiy/quotes)](https://img.shields.io/github/stars/alexrogalskiy/quotes)
+[![Maintainability](https://api.codeclimate.com/v1/badges/f264cd43073e2c5ea56b/maintainability)](https://codeclimate.com/github/AlexRogalskiy/quotes/maintainability)
 
 </div>
 
