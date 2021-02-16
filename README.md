@@ -110,7 +110,9 @@ This is example of using _**Styled Quotes**_:
 
 Result:
 
-![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+<div id="quotes_block_id" align="center" style="align-content: center">
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+</div>
 
 ## _Visitor stats_
 
