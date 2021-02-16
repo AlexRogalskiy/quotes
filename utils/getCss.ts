@@ -3,13 +3,12 @@ import { ColorOptions } from '../typings/types'
 import { monserrat700, monserratRegular } from './font'
 
 export const css = (colorOptions: ColorOptions): string => {
-    const {
-        fontColor,
-        backgroundColor,
-        pattern,
-        opacity,
-        colorPattern
-    } = colorOptions
+    const { fontColor, backgroundColor, pattern, opacity, colorPattern } = colorOptions
+    const backgroundPattern = getPattern(
+        `${pattern === undefined ? '' : pattern}`,
+        `${opacity}`,
+        `${colorPattern}`
+    )
 
     return `
       @font-face{
@@ -38,7 +37,7 @@ export const css = (colorOptions: ColorOptions): string => {
       }
       .quote-wrapper {
         background: ${backgroundColor};
-        background-image: ${getPattern(`${pattern === undefined ? '' : pattern}`, `${opacity}`, `${colorPattern}`)};
+        background-image: ${backgroundPattern};
         margin: 0;
         box-sizing: border-box;
         display: flex;

@@ -14,18 +14,18 @@ export default async function render(req: NowRequest, res: NowResponse): Promise
             fontColor,
             pattern,
             opacity,
-            colorPattern
+            colorPattern,
         } = req.query
 
         const quote = await quoteRenderer({
-            category: (<any>CategoryPattern)[toString(category)],
-            pattern: (<any>HeroPattern)[toString(pattern)],
+            category: CategoryPattern[toString(category)] as CategoryPattern,
+            pattern: HeroPattern[toString(pattern)] as HeroPattern,
             width: toString(width),
             height: toString(height),
             backgroundColor,
             fontColor,
             opacity,
-            colorPattern
+            colorPattern,
         })
 
         res.setHeader('Cache-Control', 'no-cache,max-age=0,no-store,s-maxage=0,proxy-revalidate')
@@ -39,7 +39,7 @@ export default async function render(req: NowRequest, res: NowResponse): Promise
         return res.send({
             status: 'Error',
             name: error.name,
-            message: error.message
+            message: error.message,
         })
     }
 }

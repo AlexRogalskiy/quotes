@@ -10,15 +10,10 @@ type QuoteData = {
 }
 
 export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<string> {
-    const {
-        category,
-        width,
-        height,
-        ...rest
-    } = parsedRequest
+    const { category, width, height, ...rest } = parsedRequest
 
     const colorOptions: ColorOptions = mergeProps(CONFIG.colorOptions, rest)
-    const imageOptions: ImageOptions = mergeProps(CONFIG.imageOptions, {width, height})
+    const imageOptions: ImageOptions = mergeProps(CONFIG.imageOptions, { width, height })
 
     console.log(
         `\n>>> Generating quote with parameters:
@@ -28,9 +23,8 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
         `
     )
 
-    const quotes: QuoteData[] = category === undefined
-        ? quoteFromCategory[randomEnum(CategoryPattern)]
-        : quoteFromCategory[category]
+    const quotes: QuoteData[] =
+        category === undefined ? quoteFromCategory[randomEnum(CategoryPattern)] : quoteFromCategory[category]
     const quoteData: QuoteData = randomElement(quotes)
 
     return `

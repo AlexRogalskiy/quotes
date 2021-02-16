@@ -13,7 +13,7 @@ export enum HeroPattern {
     leaf = 'leaf',
     rain = 'rain',
     polkaDots = 'polkaDots',
-    ticTacToe = 'ticTacToe'
+    ticTacToe = 'ticTacToe',
 }
 
 export enum CategoryPattern {
@@ -23,7 +23,7 @@ export enum CategoryPattern {
     motivational = 'motivational',
     fun = 'fun',
     programming = 'programming',
-    entrepreneurship = 'entrepreneurship'
+    entrepreneurship = 'entrepreneurship',
 }
 
 export interface ParsedRequest {

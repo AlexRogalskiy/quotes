@@ -45,9 +45,8 @@ const getPattern = (pattern: string, opacity: string, colorPattern: string): str
     const patternFunc: PatternOperator = isBlankString(pattern)
         ? patternMapping[randomEnum(HeroPattern)]
         : patternMapping[pattern]
-    const fillOpacity = [colorPattern, opacity]
 
-    return patternFunc.apply(null, fillOpacity)
+    return patternFunc(colorPattern, opacity)
 }
 
 export default getPattern

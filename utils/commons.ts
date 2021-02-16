@@ -1,13 +1,15 @@
 import fetch from 'isomorphic-unfetch'
 import _ from 'lodash'
 
-export const randomElement = <T>(arr: Array<T>): T => arr[Math.floor(Math.random() * arr.length)]
+export const randomElement = <T>(arr: T[]): T => arr[Math.floor(Math.random() * arr.length)]
 
 export const toBase64ImageUrl = async (imgUrl): Promise<string> => {
     const fetchImageUrl = await fetch(imgUrl)
     const responseArrBuffer = await fetchImageUrl.arrayBuffer()
 
-    return `data:${fetchImageUrl.headers.get('Content-Type') || 'image/png'};base64,${Buffer.from(responseArrBuffer).toString('base64')}`
+    return `data:${fetchImageUrl.headers.get('Content-Type') || 'image/png'};base64,${Buffer.from(
+        responseArrBuffer
+    ).toString('base64')}`
 }
 
 export const isNonEmptyString = (str: string): boolean => {
@@ -19,9 +21,9 @@ export const isBlankString = (str: string): boolean => {
 }
 
 export const toUrl = (str: string): string => {
-    if (isBlankString(str)) throw Error("Source URL should not be blank or empty")
-    str = str.startsWith('http') ? str : 'http://' + str
-    str = str.endsWith('.json') ? str : str + '.json'
+    if (isBlankString(str)) throw Error('Source URL should not be blank or empty')
+    str = str.startsWith('http') ? str : `http://${str}`
+    str = str.endsWith('.json') ? str : `${str}.json`
     return str
 }
 
@@ -41,7 +43,6 @@ export const toInt = (str: string, defaultValue?: number): number | undefined =>
     }
 }
 
-// @ts-ignore
 export const randomEnum = <T>(anEnum: T): T[keyof T] => {
     const enumValues = (Object.values(anEnum) as unknown) as T[keyof T][]
     const randomIndex = Math.floor(Math.random() * enumValues.length)
