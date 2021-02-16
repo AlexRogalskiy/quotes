@@ -8,11 +8,11 @@ export default async function render(req: NowRequest, res: NowResponse): Promise
     try {
         const {
             category,
+            pattern,
             width,
             height,
             backgroundColor,
             fontColor,
-            pattern,
             opacity,
             colorPattern,
         } = req.query

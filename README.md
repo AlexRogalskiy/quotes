@@ -67,7 +67,7 @@ For the tech stack, _**Styled Quotes**_ using Typescript and serverless function
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=[backgroundColor]&opacity=[opacity]&colorPattern=[colorPattern]&fontColor=[fontColor])
+![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=[value]&opacity=[value]&colorPattern=[value]&fontColor=[value]&pattern=[pattern]&category=[value]&width=[width]&height=[height])
 ```
 
 There are several options you can use from the list:
@@ -75,10 +75,13 @@ There are several options you can use from the list:
 |  Options         | Description                            |   Type            | Example       | Query Params                   | 
 | ---------------- | -------------------------------------- | ----------------- | ------------- | ------------------------------ |
 | Background Color | Background color for the quote image   | Hex color code    | %23ffffff     | ```?backgroundColor=[value]``` |
-| Opacity Pattern  | Background opacity of the pattern      | Float number      | 0 - 1         | ```?opacity=[value]```         |
-| Color Pattern    | Color pattern for the signage          | Hex color code    | %231abc9c     | ```?colorPattern=[value]```    |
-| Font Color       | Font color for the quote text          | Hex color code    | %23000000     | ```?fontColor=[value]```       |
-| Pattern          | Pattern for the background             | String constant   | plus          | ```?pattern=[value]```         |
+| Opacity Pattern  | Background opacity of the pattern      | Float number      | 0 - 1         | ```&opacity=[value]```         |
+| Color Pattern    | Color pattern for the signage          | Hex color code    | %231abc9c     | ```&colorPattern=[value]```    |
+| Font Color       | Font color for the quote text          | Hex color code    | %23000000     | ```&fontColor=[value]```       |
+| Pattern          | Pattern for the background             | String constant   | plus          | ```&pattern=[value]```         |
+| Category         | Quote category                         | String constant   | programming   | ```&category=[value]```        |
+| Width            | Quote image width                      | String            | 100%          | ```&width=[value]```           |
+| Height           | Quote image height                     | String            | 100%          | ```&height=[value]```          |
 
 Pattern in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 

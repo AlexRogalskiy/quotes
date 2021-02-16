@@ -16,7 +16,8 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
     const imageOptions: ImageOptions = mergeProps(CONFIG.imageOptions, { width, height })
 
     console.log(
-        `\n>>> Generating quote with parameters:
+        `
+        >>> Generating quote with parameters:
         category=${category},
         colorOptions=${toFormatString(colorOptions)}
         imageOptions=${toFormatString(imageOptions)}

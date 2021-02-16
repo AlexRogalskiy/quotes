@@ -1,7 +1,11 @@
 import fetch from 'isomorphic-unfetch'
 import _ from 'lodash'
 
-export const randomElement = <T>(arr: T[]): T => arr[Math.floor(Math.random() * arr.length)]
+export const random = (max: number): number => {
+    return Math.floor(Math.random() * max)
+}
+
+export const randomElement = <T>(arr: T[]): T => arr[random(arr.length)]
 
 export const toBase64ImageUrl = async (imgUrl): Promise<string> => {
     const fetchImageUrl = await fetch(imgUrl)
@@ -45,7 +49,7 @@ export const toInt = (str: string, defaultValue?: number): number | undefined =>
 
 export const randomEnum = <T>(anEnum: T): T[keyof T] => {
     const enumValues = (Object.values(anEnum) as unknown) as T[keyof T][]
-    const randomIndex = Math.floor(Math.random() * enumValues.length)
+    const randomIndex = random(enumValues.length)
     return enumValues[randomIndex]
 }
 
@@ -69,4 +73,16 @@ export const pluck = <T, K extends keyof T>(o: T, propertyNames: K[]): T[K][] =>
 
 export const mergeProps = <T>(...obj: unknown[]): T => {
     return _.mergeWith({}, ...obj, (o, s) => (_.isNull(s) ? o : s))
+}
+
+/**
+ * Utility function to create a K:V from a list of strings
+ * @param o initial input array to operate by
+ * @param func
+ */
+export const strToEnum = <T extends string, V>(o: T[], func: (v: T) => V): { [K in T]: V } => {
+    return o.reduce((res, key) => {
+        res[key] = func(key)
+        return res
+    }, Object.create(null))
 }
