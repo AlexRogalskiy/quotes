@@ -67,10 +67,6 @@ const objToString = (obj): string => {
     return str
 }
 
-export const pluck = <T, K extends keyof T>(o: T, propertyNames: K[]): T[K][] => {
-    return propertyNames.map(n => o[n])
-}
-
 export const mergeProps = <T>(...obj: unknown[]): T => {
     return _.mergeWith({}, ...obj, (o, s) => (_.isNull(s) ? o : s))
 }
