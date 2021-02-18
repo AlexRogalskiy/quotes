@@ -86,23 +86,94 @@ There are several options you can use from the list:
 
 Pattern in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 
-| Name              | Value             | 
-| ----------------- | ----------------- |
-| Plus              | plus              |
-| Topography        | topography        |
-| Texture           | texture           |
-| Hideout           | hideout           |
-| FallingTriangles  | falllingTriangles |
-| I Like Food       | iLikeFood         |
-| Four point stars  | fourPointStars    |
-| Brick wall        | brickWall         |
-| Wiggle            | wiggle            |
-| Bubbles           | bubbles           |
-| Floating Cogs     | floatingCogs      |
-| Leaf              | leaf              |
-| Rain              | rain              |
-| Polkadots         | polkadots         |
-| Tic Tac Toe       | ticTacToe         |
+| Name                          | Value                         | 
+| ----------------------------- | ----------------------------- |
+| Jigsaw                        | jigsaw                        |
+| Overcast                      | overcast                      |
+| Formal Invitation             | formalInvitation              |
+| Topography                    | topography                    |
+| Texture                       | texture                       |
+| Jupiter                       | jupiter                       |
+| Architect                     | architect                     |
+| Cutout                        | cutout                        |
+| Hideout                       | hideout                       |
+| Graph Paper                   | graphPaper                    |
+| Yyy                           | yyy                           |
+| Squares                       | squares                       |
+| Falling Triangles             | fallingTriangles              |
+| Piano Man                     | pianoMan                      |
+| Pie Factory                   | pieFactory                    |
+| Dominos                       | dominos                       |
+| Hexagons                      | hexagons                      |
+| Charlie Brown                 | charlieBrown                  |
+| Autumn                        | autumn                        |
+| Temple                        | temple                        |
+| Stamp Collection              | stampCollection               |
+| DeathStar                     | deathStar                     |
+| Church on Sunday              | churchOnSunday                |
+| I Like Food                   | iLikeFood                     |
+| Overlapping Hexagons          | overlappingHexagons           |
+| Four Point Stars              | fourPointStars                |
+| Bamboo                        | bamboo                        |
+| Bathroom Floor                | bathroomFloor                 |
+| CorkScrew                     | corkScrew                     | 
+| Happy Intersection            | happyIntersection             |
+| Kiwi                          | kiwi                          |
+| Lisbon                        | lisbon                        |
+| Random Shapes                 | randomShapes                  |
+| Steel Beams                   | steelBeams                    |
+| Tiny Checkers                 | tinyCheckers                  |
+| X Equals                      | xEquals                       |
+| Anchors Away                  | anchorsAway                   |
+| Bevel Circle                  | bevelCircle                   |
+| Brick Wall                    | brickWall                     |
+| Fancy Rectangles              | fancyRectangles               |
+| Heavy Rain                    | heavyRain                     |
+| Overlapping Circles           | overlappingCircles            |
+| Plus                          | plus                          |
+| Rounded Plus Connected        | roundedPlusConnected          |
+| Volcano Lamp                  | volcanoLamp                   |
+| Wiggle                        | wiggle                        |
+| Bubbles                       | bubbles                       |
+| Cage                          | cage                          |
+| Connections                   | connections                   |
+| Current                       | current                       |
+| Diagonal Stripes              | diagonalStripes               |
+| Flipped Diamonds              | flippedDiamonds               |
+| Floating Cogs                 | floatingCogs                  |
+| Glamorous                     | glamorous                     |
+| Hounds tooth                  | houndstooth                   |
+| Leaf                          | leaf                          |
+| Lines In Motion               | linesInMotion                 |
+| Moroccan                      | moroccan                      |
+| Morphing Diamonds             | morphingDiamonds              |
+| Rails                         | rails                         |
+| Rain                          | rain                          |
+| Skulls                        | skulls                        |
+| Squares In Squares            | squaresInSquares              |
+| Stripes                       | stripes                       |
+| Tic Tac Toe                   | ticTacToe                     |
+| ZigZag                        | zigZag                        |
+| Aztec                         | aztec                         |
+| BankNote                      | bankNote                      |
+| Boxes                         | boxes                         |
+| Circles And Squares           | circlesAndSquares             |
+| CircuitBoard                  | circuitBoard                  |
+| Curtain                       | curtain                       |
+| Diagonal Lines                | diagonalLines                 |
+| Endless Clouds                | endlessClouds                 |
+| Eyes                          | eyes                          |
+| Floor Tile                    | floorTile                     |
+| Groovy                        | groovy                        |
+| Intersecting Circles          | intersectingCircles           |
+| Melt                          | melt                          |
+| Overlapping Diamonds          | overlappingDiamonds           |
+| Parkay Floor                  | parkayFloor                   |
+| Pixel Dots                    | pixelDots                     |
+| Polka Dots                    | polkaDots                     |
+| Signal                        | signal                        |
+| Slanted Stars                 | slantedStars                  |
+| Wallpaper                     | wallpaper                     |
 
 ## _Example_
 
@@ -114,7 +185,7 @@ This is example of using _**Styled Quotes**_:
 
 Result:
 
-<div id="quotes_block_id" align="center" style="align-content: center">
+<div align="center" style="align-content: center">
     <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
 </div>
 
@@ -128,14 +199,14 @@ Result:
 
 ## _Licensing_
 
-_**Styled quotes**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/quotes/blob/master/LICENSE)].
+_**Styled Quotes**_ is distributed under LGPL version 3 or later, [[License](https://github.com/AlexRogalskiy/quotes/blob/master/LICENSE)].
 LGPLv3 is additional permissions on top of GPLv3.
 
 ![license](https://user-images.githubusercontent.com/19885116/48661948-6cf97e80-ea7a-11e8-97e7-b45332a13e49.png)
 
 ## _Authors_
 
-_**Styled quotes**_ is maintained by the following GitHub team-members:
+_**Styled Quotes**_ is maintained by the following GitHub team-members:
 
 * [![Author](https://img.shields.io/badge/author-AlexRogalskiy-FB8F0A)](https://github.com/AlexRogalskiy)
 
@@ -164,9 +235,13 @@ See also the list of [contributors][contributors] who participated in this proje
 
 [![Stargazers repo roster for @AlexRogalskiy/quotes](https://reporoster.com/stars/AlexRogalskiy/quotes)][stars]
 
+## _Forks_
+
+[![Forkers repo roster for @AlexRogalskiy/quotes](https://reporoster.com/forks/AlexRogalskiy/quotes)][forkers]
+
 ## _Development Support_
 
-Like _**Styled quotes**_ ? Consider buying me a coffee :\)
+Like _**Styled Quotes**_ ? Consider buying me a coffee :\)
 
 [![Become a Patron](https://img.shields.io/badge/Become_Patron-Support_me_on_Patreon-blue.svg?style=flat-square&logo=patreon&color=e64413)](https://www.patreon.com/alexrogalskiy)
 [![Buy Me A Coffee](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-yellow.svg?logo=buy%20me%20a%20coffee)](https://www.buymeacoffee.com/AlexRogalskiy)
@@ -185,4 +260,5 @@ Like _**Styled quotes**_ ? Consider buying me a coffee :\)
   [pulls]:          https://github.com/AlexRogalskiy/quotes/pulls
   [wiki]:           https://github.com/AlexRogalskiy/quotes/wiki
   [stars]:          https://github.com/AlexRogalskiy/quotes/stargazers
+  [forkers]:        https://github.com/AlexRogalskiy/quotes/network/members
   [contributors]:   https://github.com/AlexRogalskiy/quotes/graphs/contributors
