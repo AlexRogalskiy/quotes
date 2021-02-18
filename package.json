@@ -71,10 +71,16 @@
                 "@semantic-release/npm",
                 {
                     "npmPublish": false,
+                    "tarballDir": "dist",
                     "allowSameVersion": true
                 }
             ],
-            "@semantic-release/github"
+            [
+                "@semantic-release/github",
+                {
+                    "assets": "dist/*.tgz"
+                }
+            ]
         ]
     },
     "bugs": {
