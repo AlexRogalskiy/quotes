@@ -87,94 +87,94 @@ There are several options you can use from the list:
 
 Pattern in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 
-| Name                          | Value                         | 
-| ----------------------------- | ----------------------------- |
-| Jigsaw                        | jigsaw                        |
-| Overcast                      | overcast                      |
-| Formal Invitation             | formalInvitation              |
-| Topography                    | topography                    |
-| Texture                       | texture                       |
-| Jupiter                       | jupiter                       |
-| Architect                     | architect                     |
-| Cutout                        | cutout                        |
-| Hideout                       | hideout                       |
-| Graph Paper                   | graphPaper                    |
-| Yyy                           | yyy                           |
-| Squares                       | squares                       |
-| Falling Triangles             | fallingTriangles              |
-| Piano Man                     | pianoMan                      |
-| Pie Factory                   | pieFactory                    |
-| Dominos                       | dominos                       |
-| Hexagons                      | hexagons                      |
-| Charlie Brown                 | charlieBrown                  |
-| Autumn                        | autumn                        |
-| Temple                        | temple                        |
-| Stamp Collection              | stampCollection               |
-| DeathStar                     | deathStar                     |
-| Church on Sunday              | churchOnSunday                |
-| I Like Food                   | iLikeFood                     |
-| Overlapping Hexagons          | overlappingHexagons           |
-| Four Point Stars              | fourPointStars                |
-| Bamboo                        | bamboo                        |
-| Bathroom Floor                | bathroomFloor                 |
-| CorkScrew                     | corkScrew                     | 
-| Happy Intersection            | happyIntersection             |
-| Kiwi                          | kiwi                          |
-| Lisbon                        | lisbon                        |
-| Random Shapes                 | randomShapes                  |
-| Steel Beams                   | steelBeams                    |
-| Tiny Checkers                 | tinyCheckers                  |
-| X Equals                      | xEquals                       |
-| Anchors Away                  | anchorsAway                   |
-| Bevel Circle                  | bevelCircle                   |
-| Brick Wall                    | brickWall                     |
-| Fancy Rectangles              | fancyRectangles               |
-| Heavy Rain                    | heavyRain                     |
-| Overlapping Circles           | overlappingCircles            |
-| Plus                          | plus                          |
-| Rounded Plus Connected        | roundedPlusConnected          |
-| Volcano Lamp                  | volcanoLamp                   |
-| Wiggle                        | wiggle                        |
-| Bubbles                       | bubbles                       |
-| Cage                          | cage                          |
-| Connections                   | connections                   |
-| Current                       | current                       |
-| Diagonal Stripes              | diagonalStripes               |
-| Flipped Diamonds              | flippedDiamonds               |
-| Floating Cogs                 | floatingCogs                  |
-| Glamorous                     | glamorous                     |
-| Hounds tooth                  | houndstooth                   |
-| Leaf                          | leaf                          |
-| Lines In Motion               | linesInMotion                 |
-| Moroccan                      | moroccan                      |
-| Morphing Diamonds             | morphingDiamonds              |
-| Rails                         | rails                         |
-| Rain                          | rain                          |
-| Skulls                        | skulls                        |
-| Squares In Squares            | squaresInSquares              |
-| Stripes                       | stripes                       |
-| Tic Tac Toe                   | ticTacToe                     |
-| ZigZag                        | zigZag                        |
-| Aztec                         | aztec                         |
-| BankNote                      | bankNote                      |
-| Boxes                         | boxes                         |
-| Circles And Squares           | circlesAndSquares             |
-| CircuitBoard                  | circuitBoard                  |
-| Curtain                       | curtain                       |
-| Diagonal Lines                | diagonalLines                 |
-| Endless Clouds                | endlessClouds                 |
-| Eyes                          | eyes                          |
-| Floor Tile                    | floorTile                     |
-| Groovy                        | groovy                        |
-| Intersecting Circles          | intersectingCircles           |
-| Melt                          | melt                          |
-| Overlapping Diamonds          | overlappingDiamonds           |
-| Parkay Floor                  | parkayFloor                   |
-| Pixel Dots                    | pixelDots                     |
-| Polka Dots                    | polkaDots                     |
-| Signal                        | signal                        |
-| Slanted Stars                 | slantedStars                  |
-| Wallpaper                     | wallpaper                     |
+| **Name**                          | **Value**                     | 
+| --------------------------------- | ----------------------------- |
+| **Jigsaw**                        | jigsaw                        |
+| **Overcast**                      | overcast                      |
+| **Formal Invitation**             | formalInvitation              |
+| **Topography**                    | topography                    |
+| **Texture**                       | texture                       |
+| **Jupiter**                       | jupiter                       |
+| **Architect**                     | architect                     |
+| **Cutout**                        | cutout                        |
+| **Hideout**                       | hideout                       |
+| **Graph Paper**                   | graphPaper                    |
+| **Yyy**                           | yyy                           |
+| **Squares**                       | squares                       |
+| **Falling Triangles**             | fallingTriangles              |
+| **Piano Man**                     | pianoMan                      |
+| **Pie Factory**                   | pieFactory                    |
+| **Dominos**                       | dominos                       |
+| **Hexagons**                      | hexagons                      |
+| **Charlie Brown**                 | charlieBrown                  |
+| **Autumn**                        | autumn                        |
+| **Temple**                        | temple                        |
+| **Stamp Collection**              | stampCollection               |
+| **Death Star**                    | deathStar                     |
+| **Church on Sunday**              | churchOnSunday                |
+| **I Like Food**                   | iLikeFood                     |
+| **Overlapping Hexagons**          | overlappingHexagons           |
+| **Four Point Stars**              | fourPointStars                |
+| **Bamboo**                        | bamboo                        |
+| **Bathroom Floor**                | bathroomFloor                 |
+| **CorkScrew**                     | corkScrew                     | 
+| **Happy Intersection**            | happyIntersection             |
+| **Kiwi**                          | kiwi                          |
+| **Lisbon**                        | lisbon                        |
+| **Random Shapes**                 | randomShapes                  |
+| **Steel Beams**                   | steelBeams                    |
+| **Tiny Checkers**                 | tinyCheckers                  |
+| **X Equals**                      | xEquals                       |
+| **Anchors Away**                  | anchorsAway                   |
+| **Bevel Circle**                  | bevelCircle                   |
+| **Brick Wall**                    | brickWall                     |
+| **Fancy Rectangles**              | fancyRectangles               |
+| **Heavy Rain**                    | heavyRain                     |
+| **Overlapping Circles**           | overlappingCircles            |
+| **Plus**                          | plus                          |
+| **Rounded Plus Connected**        | roundedPlusConnected          |
+| **Volcano Lamp**                  | volcanoLamp                   |
+| **Wiggle**                        | wiggle                        |
+| **Bubbles**                       | bubbles                       |
+| **Cage**                          | cage                          |
+| **Connections**                   | connections                   |
+| **Current**                       | current                       |
+| **Diagonal Stripes**              | diagonalStripes               |
+| **Flipped Diamonds**              | flippedDiamonds               |
+| **Floating Cogs**                 | floatingCogs                  |
+| **Glamorous**                     | glamorous                     |
+| **Hounds tooth**                  | houndstooth                   |
+| **Leaf**                          | leaf                          |
+| **Lines In Motion**               | linesInMotion                 |
+| **Moroccan**                      | moroccan                      |
+| **Morphing Diamonds**             | morphingDiamonds              |
+| **Rails**                         | rails                         |
+| **Rain**                          | rain                          |
+| **Skulls**                        | skulls                        |
+| **Squares In Squares**            | squaresInSquares              |
+| **Stripes**                       | stripes                       |
+| **Tic Tac Toe**                   | ticTacToe                     |
+| **ZigZag**                        | zigZag                        |
+| **Aztec**                         | aztec                         |
+| **BankNote**                      | bankNote                      |
+| **Boxes**                         | boxes                         |
+| **Circles And Squares**           | circlesAndSquares             |
+| **CircuitBoard**                  | circuitBoard                  |
+| **Curtain**                       | curtain                       |
+| **Diagonal Lines**                | diagonalLines                 |
+| **Endless Clouds**                | endlessClouds                 |
+| **Eyes**                          | eyes                          |
+| **Floor Tile**                    | floorTile                     |
+| **Groovy**                        | groovy                        |
+| **Intersecting Circles**          | intersectingCircles           |
+| **Melt**                          | melt                          |
+| **Overlapping Diamonds**          | overlappingDiamonds           |
+| **Parkay Floor**                  | parkayFloor                   |
+| **Pixel Dots**                    | pixelDots                     |
+| **Polka Dots**                    | polkaDots                     |
+| **Signal**                        | signal                        |
+| **Slanted** Stars                 | slantedStars                  |
+| **Wallpaper**                     | wallpaper                     |
 
 ## _Example_
 
