@@ -1,6 +1,630 @@
 {
     "general": [
         {
+            "quote": "If you let go a little, you will have a little peace. If you let go a lot, you will have a lot of peace.",
+            "author": "Ajahn Chah"
+        },
+        {
+            "quote": "Reality does not conform to the ideal, but confirms it.",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.",
+            "author": "Robert Fulghum"
+        },
+        {
+            "quote": "A good teacher is like a candle — it consumes itself to light the way for others.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Keep your eyes on the stars and your feet on the ground.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "The more you care, the stronger you can be.",
+            "author": "Jim Rohn"
+        },
+        {
+            "quote": "When we feel love and kindness toward others, it not only makes others feel loved and cared for, but it helps us also to develop inner happiness and peace.",
+            "author": "Tenzin Gyatso, 14th Dalai Lama"
+        },
+        {
+            "quote": "We lost because we told ourselves we lost.",
+            "author": "Leo Tolstoy "
+        },
+        {
+            "quote": "No man can succeed in a line of endeavor which he does not like.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "Short words are best and the old words when short are best of all.",
+            "author": "Winston Churchill "
+        },
+        {
+            "quote": "A man should look for what is, and not for what he thinks should be.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "We have committed the Golden Rule to memory; let us now commit it to life.",
+            "author": "Edwin Markham"
+        },
+        {
+            "quote": "Nature is a mutable cloud which is always and never the same.",
+            "author": "Ralph Emerson"
+        },
+        {
+            "quote": "At first you may not have succeeded, but neither did Albert Einstein.",
+            "author": "Byron Pulsifer"
+        },
+        {
+            "quote": "If we are not fully ourselves, truly in the present moment, we miss everything.",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "To enjoy life, we must touch much of it lightly.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Focusing your life solely on making a buck shows a poverty of ambition. It asks too little of yourself. And it will leave you unfulfilled.",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "Beauty is not in the face; beauty is a light in the heart.",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "Argue for your limitations, and sure enough theyre yours.",
+            "author": "Richard Bach "
+        },
+        {
+            "quote": "If we are facing in the right direction, all we have to do is keep on walking.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be as you wish to seem.",
+            "author": "Socrates "
+        },
+        {
+            "quote": "Always be smarter than the people who hire you.",
+            "author": "Lena Horne"
+        },
+        {
+            "quote": "Keeping a little ahead of conditions is one of the secrets of business, the trailer seldom goes far.",
+            "author": "Charles Schwab"
+        },
+        {
+            "quote": "One needs something to believe in, something for which one can have whole-hearted enthusiasm. One needs to feel that ones life has meaning, that one is needed in this world.",
+            "author": "Hannah Senesh"
+        },
+        {
+            "quote": "Begin at once to live and count each separate day as a separate life.",
+            "author": "Seneca"
+        },
+        {
+            "quote": "To be able to give away riches is mandatory if you wish to possess them. This is the only way that you will be truly rich.",
+            "author": "Mahummad Ali"
+        },
+        {
+            "quote": "All that really belongs to us is time; even he who has nothing else has that.",
+            "author": "Baltasar Gracian"
+        },
+        {
+            "quote": "Everyone should carefully observe which way his heart draws him, and then choose that way with all his strength.",
+            "author": "Hasidic saying"
+        },
+        {
+            "quote": "The truest greatness lies in being kind, the truest wisdom in a happy mind.",
+            "author": "Ella Wilcox"
+        },
+        {
+            "quote": "Feeling and longing are the motive forces behind all human endeavor and human creations.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "The most successful people are those who are good at plan B.",
+            "author": "James Yorke"
+        },
+        {
+            "quote": "We are Divine enough to ask and we are important enough to receive.",
+            "author": "Wayne Dyer"
+        },
+        {
+            "quote": "Correction does much, but encouragement does more.",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Forgiveness is choosing to love. It is the first skill of self-giving love.",
+            "author": "Mohandas Gandhi"
+        },
+        {
+            "quote": "To me success means effectiveness in the world, that I am able to carry my ideas and values into the world — that I am able to change it in positive ways.",
+            "author": "Maxine Kingston"
+        },
+        {
+            "quote": "Reality is merely an illusion, albeit a very persistent one.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "When we seek to discover the best in others, we somehow bring out the best in ourselves.",
+            "author": "William Ward"
+        },
+        {
+            "quote": "It is only possible to live happily ever after on a day to day basis.",
+            "author": "Margaret Bonnano"
+        },
+        {
+            "quote": "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Life is change. Growth is optional. Choose wisely.",
+            "author": "Karen Clark"
+        },
+        {
+            "quote": "One fails forward toward success.",
+            "author": "Charles Kettering"
+        },
+        {
+            "quote": "Our intention creates our reality.",
+            "author": "Wayne Dyer"
+        },
+        {
+            "quote": "There is no duty we so underrate as the duty of being happy. By being happy we sow anonymous benefits upon the world.",
+            "author": "Robert Louis Stevenson"
+        },
+        {
+            "quote": "A single conversation across the table with a wise person is worth a months study of books.",
+            "author": "Chinese Proverb"
+        },
+        {
+            "quote": "Never promise more than you can perform.",
+            "author": "Publilius Syrus"
+        },
+        {
+            "quote": "Appreciation can make a day, even change a life. Your willingness to put it into words is all that is necessary.",
+            "author": "Margaret Cousins"
+        },
+        {
+            "quote": "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
+            "author": "Tenzin Gyatso, 14th Dalai Lama"
+        },
+        {
+            "quote": "Feeling and longing are the motive forces behind all human endeavor and human creations.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "An invincible determination can accomplish almost anything and in this lies the great distinction between great men and little men.",
+            "author": "Thomas Fuller"
+        },
+        {
+            "quote": "The less effort, the faster and more powerful you will be.",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "At times our own light goes out and is rekindled by a spark from another person. Each of us has cause to think with deep gratitude of those who have lighted the flame within us.",
+            "author": "Albert Schweitzer"
+        },
+        {
+            "quote": "With realization of ones own potential and self-confidence in ones ability, one can build a better world.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "To accomplish great things, we must not only act, but also dream; not only plan, but also believe.",
+            "author": "Anatole France"
+        },
+        {
+            "quote": "The road leading to a goal does not separate you from the destination; it is essentially a part of it.",
+            "author": "Charles DeLint"
+        },
+        {
+            "quote": "Every man dies. Not every man really lives.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "It is not so important to know everything as to appreciate what we learn.",
+            "author": "Hannah More"
+        },
+        {
+            "quote": "May our hearts garden of awakening bloom with hundreds of flowers.",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "Truth is generally the best vindication against slander.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Character develops itself in the stream of life.",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Our greatest glory is not in never failing but rising everytime we fall.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I will prepare and some day my chance will come.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "From little acorns mighty oaks do grow.",
+            "author": "American Proverb"
+        },
+        {
+            "quote": "In reality, the only way a relationship will last is if you see your relationship as a place that you go to give, and not a place that you go to take.",
+            "author": "Anthony Robbins"
+        },
+        {
+            "quote": "No man can succeed in a line of endeavor which he does not like.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "Those who are free of resentful thoughts surely find peace.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "Silences make the real conversations between friends. Not the saying but the never needing to say is what counts.",
+            "author": "Margaret Runbeck"
+        },
+        {
+            "quote": "Smile, breathe and go slowly.",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "Look forward to spring as a time when you can start to see what nature has to offer once again.",
+            "author": "Byron Pulsifer"
+        },
+        {
+            "quote": "A man is not where he lives but where he loves.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "It does not matter how slowly you go as long as you do not stop.",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Your mind will answer most questions if you learn to relax and wait for the answer.",
+            "author": "William  Burroughs"
+        },
+        {
+            "quote": "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
+            "author": "Everett Dirksen"
+        },
+        {
+            "quote": "Criticism is something you can easily avoid by saying nothing, doing nothing, and being nothing.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Deep listening is miraculous for both listener and speaker.When someone receives us with open-hearted, non-judging, intensely interested listening, our spirits expand.",
+            "author": "Sue Patton Thoele"
+        },
+        {
+            "quote": "The exercise of an extraordinary gift is the supremest pleasure in life.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Nothing in life is to be feared. It is only to be understood.",
+            "author": "Marie Curie"
+        },
+        {
+            "quote": "Trust your own instinct. Your mistakes might as well be your own, instead of someone elses.",
+            "author": "Billy Wilder"
+        },
+        {
+            "quote": "To free us from the expectations of others, to give us back to ourselves — there lies the great, singular power of self-respect.",
+            "author": "Joan Didion"
+        },
+        {
+            "quote": "Thought is the blossom; language the bud; action the fruit behind it.",
+            "author": "Ralph Emerson"
+        },
+        {
+            "quote": "There are no failures — just experiences and your reactions to them.",
+            "author": "Tom Krause"
+        },
+        {
+            "quote": "Great indeed is the sublimity of the Creative, to which all beings owe their beginning and which permeates all heaven.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "We cannot direct the wind but we can adjust the sails.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
+            "author": "Desiderius Erasmus"
+        },
+        {
+            "quote": "Many people have gone further than they thought they could because someone else thought they could.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you have made mistakes, there is always another chance for you. You may have a fresh start any moment you choose.",
+            "author": "Mary Pickford"
+        },
+        {
+            "quote": "If you surrender to the wind, you can ride it.",
+            "author": "Toni Morrison"
+        },
+        {
+            "quote": "An obstacle may be either a stepping stone or a stumbling block.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The true way to render ourselves happy is to love our work and find in it our pleasure.",
+            "author": "Francoise de Motteville"
+        },
+        {
+            "quote": "Argue for your limitations, and sure enough they're yours.",
+            "author": "Richard Bach"
+        },
+        {
+            "quote": "While we try to teach our children all about life, our children teach us what life is all about.",
+            "author": "Angela Schwindt"
+        },
+        {
+            "quote": "Bold is not the act of foolishness but the attribute and inner strength to act when others will not so as to move forward not backward.",
+            "author": "Byron Pulsifer"
+        },
+        {
+            "quote": "A fine quotation is a diamond on the finger of a man of wit, and a pebble in the hand of a fool.",
+            "author": "Joseph Roux"
+        },
+        {
+            "quote": "The best remedy for a short temper is a long walk.",
+            "author": "Jacqueline Schiff"
+        },
+        {
+            "quote": "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
+            "author": "Old German proverb"
+        },
+        {
+            "quote": "Fate is in your hands and no one elses",
+            "author": "Byron Pulsifer"
+        },
+        {
+            "quote": "Thought is the blossom; language the bud; action the fruit behind it.",
+            "author": "Ralph Emerson"
+        },
+        {
+            "quote": "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+            "author": "Ralph Emerson"
+        },
+        {
+            "quote": "A life spent making mistakes is not only more honourable but more useful than a life spent in doing nothing.",
+            "author": "Bernard Shaw"
+        },
+        {
+            "quote": "One secret of success in life is for a man to be ready for his opportunity when it comes.",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "quote": "It is better to conquer yourself than to win a thousand battles. Then the victory is yours. It cannot be taken from you, not by angels or by demons, heaven or hell.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "The only real valuable thing is intuition.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Do what you can. Want what you have. Be who you are.",
+            "author": "Forrest Church"
+        },
+        {
+            "quote": "It takes both sunshine and rain to make a rainbow.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If we are not fully ourselves, truly in the present moment, we miss everything.",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "Everything that irritates us about others can lead us to an understanding about ourselves.",
+            "author": "Carl Jung"
+        },
+        {
+            "quote": "When your desires are strong enough you will appear to possess superhuman powers to achieve.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "When one has the feeling of dislike for evil, when one feels tranquil, one finds pleasure in listening to good teachings; when one has these feelings and appreciates them, one is free of fear.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "Being angry never solves anything.",
+            "author": "Catherine Pulsifer"
+        },
+        {
+            "quote": "Character cannot be developed in ease and quiet. Only through experience of trial and suffering can the soul be strengthened, vision cleared, ambition inspired, and success achieved.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "And as we let our own light shine, we unconsciously give other people permission to do the same.",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "If you look over your left shoulder and it is saying to go this and your other shoulder is telling you to go the other way. Then just follow your heart and you will be OK.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "To want to be what one can be is purpose in life.",
+            "author": "Cynthia Ozick"
+        },
+        {
+            "quote": "Change will not come if we wait for some other person or some other time. We are the ones we've been waiting for. We are the change that we seek.",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "Nothing is predestined: The obstacles of your past can become the gateways that lead to new beginnings.",
+            "author": "Ralph Blum"
+        },
+        {
+            "quote": "The less effort, the faster and more powerful you will be.",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "It is fatal to enter any war without the will to win it.",
+            "author": "General Douglas MacArthur"
+        },
+        {
+            "quote": "Be a good listener. Your ears will never get you in trouble.",
+            "author": "Frank Tyger"
+        },
+        {
+            "quote": "Do not waste yourself in rejection, nor bark against the bad, but chant the beauty of the good.",
+            "author": "Ralph Emerson"
+        },
+        {
+            "quote": "Everything that irritates us about others can lead us to a better understanding of ourselves.",
+            "author": "Carl Jung"
+        },
+        {
+            "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
+            "author": "Thomas Edison"
+        },
+        {
+            "quote": "We are what we repeatedly do. Excellence, then, is not an act but a habit.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Great talent finds happiness in execution.",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "There is nothing like returning to a place that remains unchanged to find the ways in which you yourself have altered.",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "You cannot do a kindness too soon because you never know how soon it will be too late.",
+            "author": "Ralph Emerson"
+        },
+        {
+            "quote": "The superior man acts before he speaks, and afterwards speaks according to his action.",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Success means having the courage, the determination, and the will to become the person you believe you were meant to be.",
+            "author": "George Sheehan"
+        },
+        {
+            "quote": "Things do not change, we change.",
+            "author": "Henry Thoreau"
+        },
+        {
+            "quote": "Happiness does not come from having much, but from being attached to little.",
+            "author": "Cheng Yen"
+        },
+        {
+            "quote": "The price of greatness is responsibility.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "Chaos is inherent in all compounded things. Strive on with diligence.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "Spirituality can be severed from both vicious sectarianism and thoughtless banalities. Spirituality, I have come to see, is nothing less than the thoughtful love of life.",
+            "author": "Robert C. Solomon"
+        },
+        {
+            "quote": "Our kindness may be the most persuasive argument for that which we believe.",
+            "author": "Gordon  Hinckley"
+        },
+        {
+            "quote": "The beginning of wisdom is found in doubting; by doubting we come to the question, and by seeking we may come upon the truth.",
+            "author": "Pierre Abelard"
+        },
+        {
+            "quote": "Friendship with oneself is all important because without it one cannot be friends with anybody else in the world.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Look forward to spring as a time when you can start to see what nature has to offer once again.",
+            "author": "Byron Pulsifer"
+        },
+        {
+            "quote": "I believe that a simple and unassuming manner of life is best for everyone, best both for the body and the mind.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Take no thought of who is right or wrong or who is better than. Be not for or against.",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.",
+            "author": "Keshavan Nair"
+        },
+        {
+            "quote": "As our case is new, we must think and act anew.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Well done is better than well said.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "It is difficult to achieve a spirit of genuine cooperation as long as people remain indifferent to the feelings and happiness of others.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "True silence is the rest of the mind; it is to the spirit what sleep is to the body, nourishment and refreshment.",
+            "author": "William Penn"
+        },
+        {
+            "quote": "The wisest men follow their own direction.",
+            "author": "Euripides"
+        },
+        {
+            "quote": "No snowflake in an avalanche ever feels responsible.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "We never live; we are always in the expectation of living.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Our true wealth is the good we do in this world. None of us has faith unless we desire for our neighbours what we desire for ourselves.",
+            "author": "Mohammed"
+        },
+        {
+            "quote": "The biggest adventure you can ever take is to live the life of your dreams.",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "Small opportunities are often the beginning of great enterprises.",
+            "author": "Demosthenes"
+        },
+        {
+            "quote": "The Creator has not given you a longing to do that which you have no ability to do.",
+            "author": "Orison Marden"
+        },
+        {
+            "quote": "Experience is not what happens to a man. It is what a man does with what happens to him.",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "Our true wealth is the good we do in this world. None of us has faith unless we desire for our neighbours what we desire for ourselves.",
+            "author": "Mohammed"
+        },
+        {
+            "quote": "Without faith, nothing is possible. With it, nothing is impossible.",
+            "author": "Mary Bethune"
+        },
+        {
+            "quote": "Can you imagine what I would do if I could do all I can?",
+            "author": "Sun Tzu"
+        },
+        {
+            "quote": "All great achievements require time.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Make the most of yourself, for that is all there is of you.",
+            "author": "Ralph Emerson"
+        },
+        {
             "quote": "We fail to realize that mastery is not about perfection. It's about a process, a journey. The master is the one who stays on the path day after day, year after year. The master is the one who is willing to try, and fail, and try again, for as long as he or she lives.",
             "author": "George Leonard, Mastery."
         },
@@ -322,15 +946,15 @@
         },
         {
             "quote": "Today is the tomorrow we worried about yesterday.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It's easier to see the mistakes on someone else's paper.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Every man dies. Not every man really lives.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To lead people walk behind them.",
@@ -370,7 +994,7 @@
         },
         {
             "quote": "The day is already blessed, find peace within it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "From error to error one discovers the entire truth.",
@@ -406,7 +1030,7 @@
         },
         {
             "quote": "From small beginnings come great things.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Learning is a treasure that will follow its owner everywhere",
@@ -618,15 +1242,15 @@
         },
         {
             "quote": "The day is already blessed, find peace within it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It takes both sunshine and rain to make a rainbow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A beautiful thing is never perfect.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Only do what your heart tells you.",
@@ -686,7 +1310,7 @@
         },
         {
             "quote": "Every new day is another chance to change your life.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Smile, breathe, and go slowly.",
@@ -710,11 +1334,11 @@
         },
         {
             "quote": "Some pursue happiness, others create it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It's easier to see the mistakes on someone else's paper.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Think how hard physics would be if particles could think.",
@@ -738,7 +1362,7 @@
         },
         {
             "quote": "We do what we do because we believe.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Great talent finds happiness in execution.",
@@ -778,7 +1402,7 @@
         },
         {
             "quote": "The harder you fall, the higher you bounce.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Trusting our intuition often saves us from disaster.",
@@ -826,7 +1450,7 @@
         },
         {
             "quote": "Everyone smiles in the same language.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A short saying often contains much wisdom.",
@@ -922,7 +1546,7 @@
         },
         {
             "quote": "You can do what's reasonable or you can decide what's possible.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Nothing strengthens authority so much as silence.",
@@ -950,7 +1574,7 @@
         },
         {
             "quote": "Friendship isn't a big thing. It's a million little things.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Time is the most valuable thing a man can spend.",
@@ -970,7 +1594,7 @@
         },
         {
             "quote": "A good plan today is better than a perfect plan tomorrow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Be as you wish to seem.",
@@ -1006,7 +1630,7 @@
         },
         {
             "quote": "Someone remembers, someone cares; your name is whispered in someone's prayers.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Without faith, nothing is possible. With it, nothing is impossible.",
@@ -1022,7 +1646,7 @@
         },
         {
             "quote": "Don't be pushed by your problems; be led by your dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Whatever we expect with confidence becomes our own self-fulfilling prophecy.",
@@ -1038,7 +1662,7 @@
         },
         {
             "quote": "A beautiful thing is never perfect.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Fear is a darkroom where negatives develop.",
@@ -1062,7 +1686,7 @@
         },
         {
             "quote": "Change your thoughts, change your life!",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Never ignore a gut feeling, but never believe that it's enough.",
@@ -1082,7 +1706,7 @@
         },
         {
             "quote": "Today is the tomorrow you worried about yesterday.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There is no way to happiness, happiness is the way.",
@@ -1090,11 +1714,11 @@
         },
         {
             "quote": "The day always looks brighter from behind a smile.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A beautiful thing is never perfect.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "No alibi will save you from accepting the responsibility.",
@@ -1114,7 +1738,7 @@
         },
         {
             "quote": "A stumble may prevent a fall.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "He who talks more is sooner exhausted.",
@@ -1154,7 +1778,7 @@
         },
         {
             "quote": "Put your future in good hands � your own.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We choose our destiny in the way we treat others.",
@@ -1366,7 +1990,7 @@
         },
         {
             "quote": "Today is the tomorrow we worried about yesterday.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There is no way to prosperity, prosperity is the way.",
@@ -1426,7 +2050,7 @@
         },
         {
             "quote": "What you see depends on what you're looking for.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The heart has its reasons which reason knows not of.",
@@ -1486,7 +2110,7 @@
         },
         {
             "quote": "Worry gives a small thing a big shadow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Do, or do not. There is no try.",
@@ -1510,7 +2134,7 @@
         },
         {
             "quote": "Don't be pushed by your problems; be led by your dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Efficiency is doing things right; effectiveness is doing the right things.",
@@ -1522,7 +2146,7 @@
         },
         {
             "quote": "Worry gives a small thing a big shadow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Blaze with the fire that is never extinguished.",
@@ -1618,7 +2242,7 @@
         },
         {
             "quote": "Every man dies. Not every man really lives.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If there is no struggle, there is no progress.",
@@ -1638,7 +2262,7 @@
         },
         {
             "quote": "Friendship isn't a big thing. It's a million little things.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Goals are the fuel in the furnace of achievement.",
@@ -1750,7 +2374,7 @@
         },
         {
             "quote": "Don't be pushed by your problems; be led by your dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Nothing happens unless first we dream.",
@@ -1790,11 +2414,11 @@
         },
         {
             "quote": "To get something you never had, you have to do something you never did.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Be thankful when you don't know something for it gives you the opportunity to learn.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Strength does not come from physical capacity. It comes from an indomitable will.",
@@ -1822,7 +2446,7 @@
         },
         {
             "quote": "Letting go isn�t the end of the world; it�s the beginning of a new life.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "All the great performers I have worked with are fuelled by a personal dream.",
@@ -1870,11 +2494,11 @@
         },
         {
             "quote": "Our greatest glory is not in never failing but rising everytime we fall.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Being right is highly overrated. Even a stopped clock is right twice a day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To be upset over what you don't have is to waste what you do have.",
@@ -1894,7 +2518,7 @@
         },
         {
             "quote": "Love is not blind; it simply enables one to see things others fail to see.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Life is a process. We are a process. The universe is a process.",
@@ -1914,7 +2538,7 @@
         },
         {
             "quote": "If you get up one more time than you fall, you will make it through.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The beginning of knowledge is the discovery of something we do not understand.",
@@ -1938,7 +2562,7 @@
         },
         {
             "quote": "Don't focus on making the right decision, focus on making the decision the right one.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Everything is perfect in the universe � even your desire to improve it.",
@@ -1998,11 +2622,11 @@
         },
         {
             "quote": "Love is just a word until someone comes along and gives it meaning.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We all have problems. The way we solve them is what makes us different.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The secret to a rich life is to have more beginnings than endings.",
@@ -2130,7 +2754,7 @@
         },
         {
             "quote": "To get something you never had, you have to do something you never did.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "What you do not want done to yourself, do not do to others.",
@@ -2198,7 +2822,7 @@
         },
         {
             "quote": "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It is fatal to enter any war without the will to win it.",
@@ -2366,7 +2990,7 @@
         },
         {
             "quote": "Letting go isn�t the end of the world; it�s the beginning of a new life.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Shoot for the moon. Even if you miss, you'll land among the stars.",
@@ -2390,7 +3014,7 @@
         },
         {
             "quote": "Every day may not be good, but there's something good in every day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The truth you believe and cling to makes you unavailable to hear anything new.",
@@ -2410,7 +3034,7 @@
         },
         {
             "quote": "Some people think it's holding that makes one strong � sometimes it's letting go.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The universe is full of magical things, patiently waiting for our wits to grow sharper.",
@@ -2438,11 +3062,11 @@
         },
         {
             "quote": "Being right is highly overrated. Even a stopped clock is right twice a day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Love is just a word until someone comes along and gives it meaning.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I have done my best: that is about all the philosophy of living one needs.",
@@ -2458,7 +3082,7 @@
         },
         {
             "quote": "Our greatest glory is not in never failing but rising everytime we fall.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Knowledge is a process of piling up facts; wisdom lies in their simplification.",
@@ -2474,7 +3098,7 @@
         },
         {
             "quote": "To get something you never had, you have to do something you never did.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If you cannot do great things, do small things in a great way.",
@@ -2550,7 +3174,7 @@
         },
         {
             "quote": "Why worry about things you can�t control when you can keep yourself busy controlling the things that depend on you?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "When you are content to be simply yourself and don't compare or compete, everybody will respect you.",
@@ -2674,7 +3298,7 @@
         },
         {
             "quote": "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If we have a positive mental attitude, then even when surrounded by hostility, we shall not lack inner peace.",
@@ -2782,7 +3406,7 @@
         },
         {
             "quote": "As the rest of the world is walking out the door, your best friends are the ones walking in.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Patience is a virtue but you will never ever accomplish anything if you don't exercise action over patience.",
@@ -2930,7 +3554,7 @@
         },
         {
             "quote": "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Experience is not what happens to a man. It is what a man does with what happens to him.",
@@ -2938,7 +3562,7 @@
         },
         {
             "quote": "A good teacher is like a candle � it consumes itself to light the way for others.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The only thing to do with good advice is to pass it on. It is never of any use to oneself.",
@@ -2946,7 +3570,7 @@
         },
         {
             "quote": "Life is not measured by the breaths we take, but by the moments that take our breath.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The smallest flower is a thought, a life answering to some feature of the Great Whole, of whom they have a persistent intuition.",
@@ -3062,11 +3686,11 @@
         },
         {
             "quote": "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The real measure of your wealth is how much youd be worth if you lost all your money.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
@@ -3178,7 +3802,7 @@
         },
         {
             "quote": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Mind is everything: muscle, pieces of rubber. All that I am, I am because of my mind.",
@@ -3186,7 +3810,7 @@
         },
         {
             "quote": "The real measure of your wealth is how much youd be worth if you lost all your money.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
@@ -3194,7 +3818,7 @@
         },
         {
             "quote": "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "By nature man hates change; seldom will he quit his old home till it has actually fallen around his ears.",
@@ -3322,7 +3946,7 @@
         },
         {
             "quote": "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
@@ -3514,7 +4138,7 @@
         },
         {
             "quote": "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Give it all you've got because you never know if there's going to be a next time.",
@@ -3618,7 +4242,7 @@
         },
         {
             "quote": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The only way to tell the truth is to speak with kindness. Only the words of a loving man can be heard.",
@@ -3662,11 +4286,11 @@
         },
         {
             "quote": "When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Why worry about things you can�t control when you can keep yourself busy controlling the things that depend on you?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There are things so deep and complex that only intuition can reach it in our stage of development as human beings.",
@@ -3718,7 +4342,7 @@
         },
         {
             "quote": "Every sixty seconds you spend angry, upset or mad, is a full minute of happiness you�ll never get back.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A little more persistence, a little more effort, and what seemed hopeless failure may turn to glorious success.",
@@ -3814,7 +4438,7 @@
         },
         {
             "quote": "Why worry about things you can�t control when you can keep yourself busy controlling the things that depend on you?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
@@ -3870,7 +4494,7 @@
         },
         {
             "quote": "If we are facing in the right direction, all we have to do is keep on walking.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The minute you settle for less than you deserve, you get even less than you settled for.",
@@ -3886,7 +4510,7 @@
         },
         {
             "quote": "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.",
@@ -3906,11 +4530,11 @@
         },
         {
             "quote": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If we are facing in the right direction, all we have to do is keep on walking.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We could never learn to be brave and patient if there were only joy in the world.",
@@ -4010,7 +4634,7 @@
         },
         {
             "quote": "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I am a man of fixed and unbending principles, the first of which is to be flexible at all times.",
@@ -4054,7 +4678,7 @@
         },
         {
             "quote": "A good teacher is like a candle � it consumes itself to light the way for others.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There are two primary choices in life: to accept conditions as they exist, or accept responsibility for changing them.",
@@ -4146,7 +4770,7 @@
         },
         {
             "quote": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "When one tugs at a single thing in nature, he finds it attached to the rest of the world.",
@@ -4474,7 +5098,7 @@
         },
         {
             "quote": "An obstacle may be either a stepping stone or a stumbling block.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The pain passes, but the beauty remains.",
@@ -4650,7 +5274,7 @@
         },
         {
             "quote": "I've never seen a smiling face that was not beautiful.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "In all things of nature there is something of the marvellous.",
@@ -4702,7 +5326,7 @@
         },
         {
             "quote": "Kindness is the greatest wisdom.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Action will remove the doubts that theory cannot solve.",
@@ -4710,7 +5334,7 @@
         },
         {
             "quote": "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Your big opportunity may be right where you are now.",
@@ -4718,7 +5342,7 @@
         },
         {
             "quote": "Kindness is the greatest wisdom.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "People who say it cannot be done should not interrupt those who are doing it.",
@@ -4750,11 +5374,11 @@
         },
         {
             "quote": "You don't drown by falling in water. You drown by staying there.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Correction does much, but encouragement does more.",
@@ -4790,7 +5414,7 @@
         },
         {
             "quote": "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Life is 10% what happens to you and 90% how you react to it.",
@@ -4798,11 +5422,11 @@
         },
         {
             "quote": "We all have problems. The way we solve them is what makes us different.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "An obstacle may be either a stepping stone or a stumbling block.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To want to be what one can be is purpose in life.",
@@ -4850,7 +5474,7 @@
         },
         {
             "quote": "Never tell me the sky�s the limit when there are footprints on the moon.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You must welcome change as the rule but not as your ruler.",
@@ -4866,7 +5490,7 @@
         },
         {
             "quote": "We do what we do because we believe.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Formula for success: under promise and over deliver.",
@@ -4882,7 +5506,7 @@
         },
         {
             "quote": "Some people think it's holding that makes one strong � sometimes it's letting go.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Genius is one percent inspiration and ninety-nine percent perspiration.",
@@ -5118,7 +5742,7 @@
         },
         {
             "quote": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If it is not right do not do it; if it is not true do not say it.",
@@ -5162,7 +5786,7 @@
         },
         {
             "quote": "A smile is a light in the window of your face to show your heart is at home.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The greatest good you can do for another is not just to share your riches but to reveal to him his own.",
@@ -5238,11 +5862,11 @@
         },
         {
             "quote": "You may only be someone in the world, but to someone else, you may be the world.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The real measure of your wealth is how much youd be worth if you lost all your money.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
@@ -5442,7 +6066,7 @@
         },
         {
             "quote": "If we are facing in the right direction, all we have to do is keep on walking.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I find hope in the darkest of days, and focus in the brightest. I do not judge the universe.",
@@ -5458,7 +6082,7 @@
         },
         {
             "quote": "A bend in the road is not the end of the road...unless you fail to make the turn.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I would maintain that thanks are the highest form of thought, and that gratitude is happiness doubled by wonder.",
@@ -5470,7 +6094,7 @@
         },
         {
             "quote": "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Living at risk is jumping off the cliff and building your wings on the way down.",
@@ -5506,7 +6130,7 @@
         },
         {
             "quote": "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The person who lives life fully, glowing with life's energy, is the person who lives a successful life.",
@@ -5522,7 +6146,7 @@
         },
         {
             "quote": "A smile is a light in the window of your face to show your heart is at home.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
@@ -5590,7 +6214,7 @@
         },
         {
             "quote": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "All difficult things have their origin in that which is easy, and great things in that which is small.",
@@ -5610,11 +6234,11 @@
         },
         {
             "quote": "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
@@ -5702,7 +6326,7 @@
         },
         {
             "quote": "If we are facing in the right direction, all we have to do is keep on walking.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Every time you smile at someone, it is an action of love, a gift to that person, a beautiful thing.",
@@ -5726,7 +6350,7 @@
         },
         {
             "quote": "Courage is the discovery that you may not win, and trying when you know you can lose.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
@@ -5858,7 +6482,7 @@
         },
         {
             "quote": "The real measure of your wealth is how much youd be worth if you lost all your money.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "People take different roads seeking fulfilment and happiness. Just because theyre not on your road doesn't mean they've gotten lost.",
@@ -6274,7 +6898,7 @@
         },
         {
             "quote": "Being right is highly overrated. Even a stopped clock is right twice a day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Love doesn't make the world go round, love is what makes the ride worthwhile.",
@@ -6406,11 +7030,11 @@
         },
         {
             "quote": "Put your future in good hands � your own.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Don't be pushed by your problems; be led by your dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You are important enough to ask and you are blessed enough to receive back.",
@@ -6434,7 +7058,7 @@
         },
         {
             "quote": "A good rest is half the work.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Don't judge each day by the harvest you reap but by the seeds that you plant.",
@@ -6446,7 +7070,7 @@
         },
         {
             "quote": "You can do what's reasonable or you can decide what's possible.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To be tested is good. The challenged life may be the best therapist.",
@@ -6546,11 +7170,11 @@
         },
         {
             "quote": "All the flowers of all the tomorrows are in the seeds of today.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Some pursue happiness, others create it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Your sacred space is where you can find yourself again and again.",
@@ -6710,11 +7334,11 @@
         },
         {
             "quote": "A man is not where he lives but where he loves.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You can do what's reasonable or you can decide what's possible.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The greatest remedy for anger is delay.",
@@ -6730,7 +7354,7 @@
         },
         {
             "quote": "The day is already blessed, find peace within it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You might well remember that nothing can bring you success but yourself.",
@@ -6754,11 +7378,11 @@
         },
         {
             "quote": "Being right is highly overrated. Even a stopped clock is right twice a day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The world doesn�t happen to you it happens from you.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It is only possible to live happily ever after on a day to day basis.",
@@ -6770,7 +7394,7 @@
         },
         {
             "quote": "More powerful than the will to win is the courage to begin.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Wisdom is the supreme part of happiness.",
@@ -6898,7 +7522,7 @@
         },
         {
             "quote": "Don't be pushed by your problems; be led by your dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I'm not afraid of storms, for Im learning how to sail my ship.",
@@ -6954,7 +7578,7 @@
         },
         {
             "quote": "What we see is mainly what we look for.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If you correct your mind, the rest of your life will fall into place.",
@@ -6994,7 +7618,7 @@
         },
         {
             "quote": "Every new day is another chance to change your life.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Do good by stealth, and blush to find it fame.",
@@ -7186,7 +7810,7 @@
         },
         {
             "quote": "Don't wait for people to be friendly. Show them how.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Practice yourself, for heavens sake in little things, and then proceed to greater.",
@@ -7202,7 +7826,7 @@
         },
         {
             "quote": "A man is not where he lives but where he loves.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "From error to error one discovers the entire truth.",
@@ -7218,7 +7842,7 @@
         },
         {
             "quote": "Every day may not be good, but there's something good in every day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Well begun is half done.",
@@ -7382,11 +8006,11 @@
         },
         {
             "quote": "Everyone smiles in the same language.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We do what we do because we believe.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Whoso loves, believes the impossible.",
@@ -7558,7 +8182,7 @@
         },
         {
             "quote": "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Silence is a true friend who never betrays.",
@@ -7630,11 +8254,11 @@
         },
         {
             "quote": "An obstacle may be either a stepping stone or a stumbling block.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A beautiful thing is never perfect.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A man sees in the world what he carries in his heart.",
@@ -7646,7 +8270,7 @@
         },
         {
             "quote": "Never let lack of money interfere with having fun.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Excellence is not a skill. It is an attitude.",
@@ -7770,7 +8394,7 @@
         },
         {
             "quote": "He who has health has hope, and he who has hope has everything.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "All great achievements require time.",
@@ -7802,11 +8426,11 @@
         },
         {
             "quote": "Invent your world. Surround yourself with people, color, sounds, and work that nourish you.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Today is the tomorrow you worried about yesterday.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Without faith, nothing is possible. With it, nothing is impossible.",
@@ -7902,11 +8526,11 @@
         },
         {
             "quote": "The difficulties of life are intended to make us better, not bitter.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A good rest is half the work.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We choose our destiny in the way we treat others.",
@@ -7938,7 +8562,7 @@
         },
         {
             "quote": "Change your words. Change your world.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Worry often gives a small thing a big shadow.",
@@ -7958,7 +8582,7 @@
         },
         {
             "quote": "To get something you never had, you have to do something you never did.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I know but one freedom and that is the freedom of the mind.",
@@ -7966,7 +8590,7 @@
         },
         {
             "quote": "Every day may not be good, but there's something good in every day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A short saying often contains much wisdom.",
@@ -7994,7 +8618,7 @@
         },
         {
             "quote": "Open minds lead to open doors.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "They can do all because they think they can.",
@@ -8074,7 +8698,7 @@
         },
         {
             "quote": "You can do what's reasonable or you can decide what's possible.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Nothing is so strong as gentleness. Nothing is so gentle as real strength.",
@@ -8102,7 +8726,7 @@
         },
         {
             "quote": "All the flowers of all the tomorrows are in the seeds of today.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Self-complacency is fatal to progress.",
@@ -8170,7 +8794,7 @@
         },
         {
             "quote": "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Ask yourself the secret of your success. Listen to your answer, and practice it.",
@@ -8286,7 +8910,7 @@
         },
         {
             "quote": "It's easier to see the mistakes on someone else's paper.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Chaos is inherent in all compounded things. Strive on with diligence.",
@@ -8326,7 +8950,7 @@
         },
         {
             "quote": "We all have problems. The way we solve them is what makes us different.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Real magic in relationships means an absence of judgement of others.",
@@ -8462,7 +9086,7 @@
         },
         {
             "quote": "A friend is someone who understands your past, believes in your future, and accepts you just the way you are.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The path to success is to take massive, determined action.",
@@ -8542,7 +9166,7 @@
         },
         {
             "quote": "If you come to a fork in the road, take it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Life is 10% what happens to you and 90% how you react to it.",
@@ -8570,7 +9194,7 @@
         },
         {
             "quote": "If we are facing in the right direction, all we have to do is keep on walking.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It is not only for what we do that we are held responsible, but also for what we do not do.",
@@ -8582,7 +9206,7 @@
         },
         {
             "quote": "As the rest of the world is walking out the door, your best friends are the ones walking in.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The greatest minds are capable of the greatest vices as well as of the greatest virtues.",
@@ -8606,7 +9230,7 @@
         },
         {
             "quote": "Nobody can do everything, but everybody can do something.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The world has the habit of making room for the man whose actions show that he knows where he is going.",
@@ -8822,7 +9446,7 @@
         },
         {
             "quote": "Why worry about tomorrow, when today is all we have?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Speak when you are angry and you will make the best speech you will ever regret.",
@@ -8894,7 +9518,7 @@
         },
         {
             "quote": "Most smiles are started by another smile.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Think how hard physics would be if particles could think.",
@@ -8938,7 +9562,7 @@
         },
         {
             "quote": "A man is not where he lives but where he loves.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Experience keeps a dear school, but fools will learn in no other.",
@@ -8970,7 +9594,7 @@
         },
         {
             "quote": "Someone remembers, someone cares; your name is whispered in someone's prayers.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It is more important to know where you are going than to get there quickly. Do not mistake activity for achievement.",
@@ -8986,7 +9610,7 @@
         },
         {
             "quote": "When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Those that know, do. Those that understand, teach.",
@@ -9134,7 +9758,7 @@
         },
         {
             "quote": "When you lose, don't lose the lesson.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Character develops itself in the stream of life.",
@@ -9162,7 +9786,7 @@
         },
         {
             "quote": "An obstacle may be either a stepping stone or a stumbling block.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Everything can be taken from a man but ... the last of the human freedoms � to choose ones attitude in any given set of circumstances, to choose ones own way.",
@@ -9226,7 +9850,7 @@
         },
         {
             "quote": "If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves.",
@@ -9310,7 +9934,7 @@
         },
         {
             "quote": "We do what we do because we believe.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Never bend your head. Always hold it high. Look the world right in the eye.",
@@ -9390,7 +10014,7 @@
         },
         {
             "quote": "The steeper the mountain the harder the climb the better the view from the finishing line",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Aim for success, not perfection. Never give up your right to be wrong, because then you will lose the ability to learn new things and move forward with your life.",
@@ -9494,7 +10118,7 @@
         },
         {
             "quote": "Don't let what you can't do stop you from doing what you can do.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Complaining doesn't change a thing only taking action does.",
@@ -9574,7 +10198,7 @@
         },
         {
             "quote": "The day is already blessed, find peace within it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Tension is who you think you should be. Relaxation is who you are.",
@@ -9690,7 +10314,7 @@
         },
         {
             "quote": "You can do what's reasonable or you can decide what's possible.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Nothing diminishes anxiety faster than action.",
@@ -9710,7 +10334,7 @@
         },
         {
             "quote": "Today is the tomorrow we worried about yesterday.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Through pride we are ever deceiving ourselves. But deep down below the surface of the average conscience a still, small voice says to us, Something is out of tune.",
@@ -9750,7 +10374,7 @@
         },
         {
             "quote": "Put your future in good hands � your own.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The wise man does not lay up his own treasures. The more he gives to others, the more he has for his own.",
@@ -9794,7 +10418,7 @@
         },
         {
             "quote": "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The greatest antidote to insecurity and the sense of fear is compassion � it brings one back to the basis of one's inner strength",
@@ -9850,7 +10474,7 @@
         },
         {
             "quote": "As the rest of the world is walking out the door, your best friends are the ones walking in.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future.",
@@ -9986,7 +10610,7 @@
         },
         {
             "quote": "A bend in the road is not the end of the road...unless you fail to make the turn.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Don't be afraid to go out on a limb. That's where the fruit is.",
@@ -10082,7 +10706,7 @@
         },
         {
             "quote": "Life is not measured by the breaths we take, but by the moments that take our breath.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Chaos and Order are not enemies, only opposites.",
@@ -10126,7 +10750,7 @@
         },
         {
             "quote": "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We are Divine enough to ask and we are important enough to receive.",
@@ -10146,7 +10770,7 @@
         },
         {
             "quote": "Every sixty seconds you spend angry, upset or mad, is a full minute of happiness you�ll never get back.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Be your own hero, it's cheaper than a movie ticket.",
@@ -10206,7 +10830,7 @@
         },
         {
             "quote": "As the rest of the world is walking out the door, your best friends are the ones walking in.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Stay away from what might have been and look at what will be.",
@@ -10226,7 +10850,7 @@
         },
         {
             "quote": "Don't wait for people to be friendly. Show them how.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Tension is who you think you should be. Relaxation is who you are.",
@@ -10298,7 +10922,7 @@
         },
         {
             "quote": "The day always looks brighter from behind a smile.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Absence makes the heart grow fonder.",
@@ -10350,7 +10974,7 @@
         },
         {
             "quote": "Don't let what you can't do stop you from doing what you can do.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Four steps to achievement: Plan purposefully. Prepare prayerfully. Proceed positively. Pursue persistently.",
@@ -10358,7 +10982,7 @@
         },
         {
             "quote": "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Joy is the best makeup.",
@@ -10510,7 +11134,7 @@
         },
         {
             "quote": "Never let lack of money interfere with having fun.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Begin at once to live and count each separate day as a separate life.",
@@ -10538,7 +11162,7 @@
         },
         {
             "quote": "We do what we do because we believe.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work. When you spend time having fun, you know you're being self-indulgent.",
@@ -10730,7 +11354,7 @@
         },
         {
             "quote": "To get something you never had, you have to do something you never did.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Make the most of yourself, for that is all there is of you.",
@@ -10758,7 +11382,7 @@
         },
         {
             "quote": "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Let us revere, let us worship, but erect and open-eyed, the highest, not the lowest; the future, not the past!",
@@ -10770,7 +11394,7 @@
         },
         {
             "quote": "You can never cross the ocean unless you have the courage to lose sight of the shore.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Everyone can taste success when the going is easy, but few know how to taste victory when times get tough.",
@@ -10902,7 +11526,7 @@
         },
         {
             "quote": "Today is the tomorrow we worried about yesterday.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Promises are the uniquely human way of ordering the future, making it predictable and reliable to the extent that this is humanly possible.",
@@ -11090,7 +11714,7 @@
         },
         {
             "quote": "Open minds lead to open doors.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You are special, you are unique, you are the best!",
@@ -11398,11 +12022,11 @@
         },
         {
             "quote": "When you lose, don't lose the lesson.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Kindness is the greatest wisdom.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We may encounter many defeats but we must not be defeated.",
@@ -11410,11 +12034,11 @@
         },
         {
             "quote": "Every day may not be good, but there's something good in every day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A stumble may prevent a fall.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "He that respects himself is safe from others; he wears a coat of mail that none can pierce.",
@@ -11594,11 +12218,11 @@
         },
         {
             "quote": "Change your thoughts, change your life!",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The best place to find a helping hand is at the end of your own arm.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The purpose of learning is growth, and our minds, unlike our bodies, can continue growing as we continue to live.",
@@ -11670,7 +12294,7 @@
         },
         {
             "quote": "The harder you fall, the higher you bounce.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Notice that the stiffest tree is most easily cracked, while the bamboo or willow survives by bending with the wind.",
@@ -11754,7 +12378,7 @@
         },
         {
             "quote": "Don't fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "All fixed set patterns are incapable of adaptability or pliability. The truth is outside of all fixed patterns.",
@@ -11986,7 +12610,7 @@
         },
         {
             "quote": "Don't focus on making the right decision, focus on making the decision the right one.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
@@ -12062,7 +12686,7 @@
         },
         {
             "quote": "All the flowers of all the tomorrows are in the seeds of today.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Do not follow where the path may lead. Go, instead, where there is no path and leave a trail.",
@@ -12090,7 +12714,7 @@
         },
         {
             "quote": "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You cannot make yourself feel something you do not feel, but you can make yourself do right in spite of your feelings.",
@@ -12190,7 +12814,7 @@
         },
         {
             "quote": "Don't fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To be aware of a single shortcoming in oneself is more useful than to be aware of a thousand in someone else.",
@@ -12302,7 +12926,7 @@
         },
         {
             "quote": "Why worry about tomorrow, when today is all we have?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Transformation doesn't take place with a vacuum; instead, it occurs when we are indirectly and directly connected to all those around us.",
@@ -12310,7 +12934,7 @@
         },
         {
             "quote": "Every man dies. Not every man really lives.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "They must often change, who would be constant in happiness or wisdom.",
@@ -12362,7 +12986,7 @@
         },
         {
             "quote": "To get something you never had, you have to do something you never did.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The one who always loses, is the only person who gets the reward.",
@@ -12438,7 +13062,7 @@
         },
         {
             "quote": "Giving up doesn't always mean you are weak. Sometimes it means that you are strong enough to let go.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Autumn is a second spring when every leaf is a flower.",
@@ -12526,7 +13150,7 @@
         },
         {
             "quote": "We do what we do because we believe.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Learn to listen. Opportunity could be knocking at your door very softly.",
@@ -12574,7 +13198,7 @@
         },
         {
             "quote": "Everyone smiles in the same language.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Thousands of candles can be lighted from a single candle, and the life of the candle will not be shortened. Happiness never decreases by being shared.",
@@ -12594,7 +13218,7 @@
         },
         {
             "quote": "Letting go isn�t the end of the world; it�s the beginning of a new life.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Nature gave us one tongue and two ears so we could hear twice as much as we speak.",
@@ -12654,7 +13278,7 @@
         },
         {
             "quote": "We cannot direct the wind but we can adjust the sails.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "He who conquers others is strong; He who conquers himself is mighty.",
@@ -12674,7 +13298,7 @@
         },
         {
             "quote": "Peace of mind is not the absence of conflict from life, but the ability to cope with it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Adversity isn't set against you to fail; adversity is a way to build your character so that you can succeed over and over again through perseverance.",
@@ -12782,7 +13406,7 @@
         },
         {
             "quote": "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "All serious daring starts from within.",
@@ -12834,7 +13458,7 @@
         },
         {
             "quote": "The harder you fall, the higher you bounce.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Always seek out the seed of triumph in every adversity.",
@@ -12894,7 +13518,7 @@
         },
         {
             "quote": "Every day may not be good, but there's something good in every day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Meditation brings wisdom; lack of mediation leaves ignorance. Know well what leads you forward and what hold you back, and choose the path that leads to wisdom.",
@@ -12906,7 +13530,7 @@
         },
         {
             "quote": "What we see is mainly what we look for.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It is impossible to feel grateful and depressed in the same moment.",
@@ -12922,7 +13546,7 @@
         },
         {
             "quote": "The best place to find a helping hand is at the end of your own arm.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The worst bankrupt in the world is the person who has lost his enthusiasm.",
@@ -12962,7 +13586,7 @@
         },
         {
             "quote": "A beautiful thing is never perfect.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You give before you get.",
@@ -12994,7 +13618,7 @@
         },
         {
             "quote": "Don't let today's disappointments cast a shadow on tomorrow's dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To listen well is as powerful a means of communication and influence as to talk well.",
@@ -13006,7 +13630,7 @@
         },
         {
             "quote": "When you don't know what you believe, everything becomes an argument. Everything is debatable. But when you stand for something, decisions are obvious.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You only lose what you cling to.",
@@ -13122,7 +13746,7 @@
         },
         {
             "quote": "Why worry about tomorrow, when today is all we have?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "One of the advantages of being disorderly is that one is constantly making exciting discoveries.",
@@ -13162,7 +13786,7 @@
         },
         {
             "quote": "Everyone smiles in the same language.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If you want a thing done well, do it yourself.",
@@ -13218,7 +13842,7 @@
         },
         {
             "quote": "A good teacher is like a candle � it consumes itself to light the way for others.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Be kind whenever possible. It is always possible.",
@@ -13234,7 +13858,7 @@
         },
         {
             "quote": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Risk more than others think is safe. Care more than others think is wise. Dream more than others think is practical.Expect more than others think is possible.",
@@ -13322,7 +13946,7 @@
         },
         {
             "quote": "What you see depends on what you're looking for.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Be your own hero, it's cheaper than a movie ticket.",
@@ -13350,7 +13974,7 @@
         },
         {
             "quote": "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Gratitude is not only the greatest of virtues, but the paren't of all the others.",
@@ -13362,7 +13986,7 @@
         },
         {
             "quote": "You may only be someone in the world, but to someone else, you may be the world.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
@@ -13566,11 +14190,11 @@
         },
         {
             "quote": "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We cannot direct the wind but we can adjust the sails.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "This world, after all our science and sciences, is still a miracle; wonderful, inscrutable, magical and more, to whosoever will think of it.",
@@ -13674,7 +14298,7 @@
         },
         {
             "quote": "A good rest is half the work.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Goals are the fuel in the furnace of achievement.",
@@ -13742,7 +14366,7 @@
         },
         {
             "quote": "A good rest is half the work.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You won't skid if you stay in a rut.",
@@ -13818,7 +14442,7 @@
         },
         {
             "quote": "Our greatest glory is not in never failing but rising everytime we fall.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It all depends on how we look at things, and not how they are in themselves.",
@@ -13834,7 +14458,7 @@
         },
         {
             "quote": "Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To climb steep hills requires a slow pace at first.",
@@ -13934,7 +14558,7 @@
         },
         {
             "quote": "Many people have gone further than they thought they could because someone else thought they could.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To free us from the expectations of others, to give us back to ourselves � there lies the great, singular power of self-respect.",
@@ -14142,7 +14766,7 @@
         },
         {
             "quote": "One who asks a question is a fool for five minutes; one who does not ask a question remains a fool forever.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Those who are free of resentful thoughts surely find peace.",
@@ -14178,7 +14802,7 @@
         },
         {
             "quote": "What you see depends on what you're looking for.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If you spend too much time thinking about a thing, you'll never get it done.",
@@ -14282,7 +14906,7 @@
         },
         {
             "quote": "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We are the leaves of one branch, the drops of one sea, the flowers of one garden.",
@@ -14366,7 +14990,7 @@
         },
         {
             "quote": "Why worry about things you can�t control when you can keep yourself busy controlling the things that depend on you?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The best and most beautiful things in the world cannot be seen, nor touched... but are felt in the heart.",
@@ -14394,7 +15018,7 @@
         },
         {
             "quote": "To get something you never had, you have to do something you never did.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A person who never made a mistake never tried anything new.",
@@ -14418,7 +15042,7 @@
         },
         {
             "quote": "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You, yourself, as much as anybody in the entire universe, deserve your love and affection.",
@@ -14582,7 +15206,7 @@
         },
         {
             "quote": "Why worry about tomorrow, when today is all we have?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There is no need for temples, no need for complicated philosophies. My brain and my heart are my temples; my philosophy is kindness.",
@@ -14646,7 +15270,7 @@
         },
         {
             "quote": "A smile is a light in the window of your face to show your heart is at home.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You might well remember that nothing can bring you success but yourself.",
@@ -14698,7 +15322,7 @@
         },
         {
             "quote": "You don't drown by falling in water. You drown by staying there.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Obstacles are those things you see when you take your eyes off the goal.",
@@ -14722,7 +15346,7 @@
         },
         {
             "quote": "Letting go isn�t the end of the world; it�s the beginning of a new life.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Science is organized knowledge. Wisdom is organized life.",
@@ -14858,7 +15482,7 @@
         },
         {
             "quote": "Everyone smiles in the same language.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There is no way to happiness, happiness is the way.",
@@ -14894,11 +15518,11 @@
         },
         {
             "quote": "Why worry about things you can�t control when you can keep yourself busy controlling the things that depend on you?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Why worry about tomorrow, when today is all we have?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Know, first, who you are, and then adorn yourself accordingly.",
@@ -14970,7 +15594,7 @@
         },
         {
             "quote": "Be thankful when you don't know something for it gives you the opportunity to learn.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Ignorance never settle a question.",
@@ -15002,7 +15626,7 @@
         },
         {
             "quote": "A stumble may prevent a fall.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The years teach much which the days never know.",
@@ -15102,7 +15726,7 @@
         },
         {
             "quote": "Don't let what you can't do stop you from doing what you can do.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Wisdom is the reward you get for a lifetime of listening when you'd have preferred to talk.",
@@ -15118,7 +15742,7 @@
         },
         {
             "quote": "Being right is highly overrated. Even a stopped clock is right twice a day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To ensure good health: eat lightly, breathe deeply, live moderately, cultivate cheerfulness, and maintain an interest in life.",
@@ -15190,7 +15814,7 @@
         },
         {
             "quote": "The day always looks brighter from behind a smile.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Allow the world to live as it chooses, and allow yourself to live as you choose.",
@@ -15202,7 +15826,7 @@
         },
         {
             "quote": "From small beginnings come great things.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "One secret of success in life is for a man to be ready for his opportunity when it comes.",
@@ -15214,7 +15838,7 @@
         },
         {
             "quote": "Open minds lead to open doors.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The most important point is to accept yourself and stand on your two feet.",
@@ -15242,7 +15866,7 @@
         },
         {
             "quote": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Creativity comes from trust. Trust your instincts. And never hope more than you work.",
@@ -15454,7 +16078,7 @@
         },
         {
             "quote": "Everyone smiles in the same language.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If you lose today, win tomorrow. In this never-ending spirit of challenge is the heart of a victor.",
@@ -15482,7 +16106,7 @@
         },
         {
             "quote": "You can do what's reasonable or you can decide what's possible.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We must overcome the notion that we must be regular. It robs you of the chance to be extraordinary and leads you to the mediocre.",
@@ -15522,7 +16146,7 @@
         },
         {
             "quote": "Everyone smiles in the same language.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "There are two kinds of failures: those who thought and never did, and those who did and never thought.",
@@ -15578,7 +16202,7 @@
         },
         {
             "quote": "Never tell me the sky�s the limit when there are footprints on the moon.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "When people are like each other they tend to like each other.",
@@ -15690,7 +16314,7 @@
         },
         {
             "quote": "Change your words. Change your world.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If you must tell me your opinions, tell me what you believe in. I have plenty of douts of my own.",
@@ -15934,7 +16558,7 @@
         },
         {
             "quote": "The harder you fall, the higher you bounce.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Kindness is more important than wisdom, and the recognition of this is the beginning of wisdom.",
@@ -15946,7 +16570,7 @@
         },
         {
             "quote": "Don't focus on making the right decision, focus on making the decision the right one.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The way is not in the sky. The way is in the heart.",
@@ -16250,7 +16874,7 @@
         },
         {
             "quote": "Many people have gone further than they thought they could because someone else thought they could.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Keep true to the dreams of thy youth.",
@@ -16262,7 +16886,7 @@
         },
         {
             "quote": "Most smiles are started by another smile.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Through meditation and by giving full attention to one thing at a time, we can learn to direct attention where we choose.",
@@ -16306,7 +16930,7 @@
         },
         {
             "quote": "Count your joys instead of your woes. Count your friends instead of your foes.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The cause is hidden. The effect is visible to all.",
@@ -16398,7 +17022,7 @@
         },
         {
             "quote": "Change your thoughts, change your life!",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You have to take it as it happens, but you should try to make it happen the way you want to take it.",
@@ -16450,7 +17074,7 @@
         },
         {
             "quote": "The best place to find a helping hand is at the end of your own arm.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The key to transforming our hearts and minds is to have an understanding of how our thoughts and emotions work.",
@@ -16558,7 +17182,7 @@
         },
         {
             "quote": "It takes both sunshine and rain to make a rainbow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "An idea that is developed and put into action is more important than an idea that exists only as an idea.",
@@ -16590,7 +17214,7 @@
         },
         {
             "quote": "If you come to a fork in the road, take it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Iron rusts from disuse; water loses its purity from stagnation... even so does inaction sap the vigour of the mind.",
@@ -16714,7 +17338,7 @@
         },
         {
             "quote": "Today is the tomorrow you worried about yesterday.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Every gift from a friend is a wish for your happiness.",
@@ -16778,7 +17402,7 @@
         },
         {
             "quote": "An obstacle may be either a stepping stone or a stumbling block.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I am not afraid of tomorrow, for I have seen yesterday and I love today.",
@@ -16854,7 +17478,7 @@
         },
         {
             "quote": "If you get up one more time than you fall, you will make it through.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "All great men are gifted with intuition. They know without reasoning or analysis, what they need to know.",
@@ -16918,7 +17542,7 @@
         },
         {
             "quote": "Worry gives a small thing a big shadow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Fine words and an insinuating appearance are seldom associated with true virtue",
@@ -16994,7 +17618,7 @@
         },
         {
             "quote": "As the rest of the world is walking out the door, your best friends are the ones walking in.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "With courage you will dare to take risks, have the strength to be compassionate, and the wisdom to be humble. Courage is the foundation of integrity.",
@@ -17058,7 +17682,7 @@
         },
         {
             "quote": "As the rest of the world is walking out the door, your best friends are the ones walking in.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The winner ain't the one with the fastest car it's the one who refuses to lose.",
@@ -17066,7 +17690,7 @@
         },
         {
             "quote": "Be thankful when you don't know something for it gives you the opportunity to learn.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The best way out is always through.",
@@ -17190,7 +17814,7 @@
         },
         {
             "quote": "We cannot direct the wind but we can adjust the sails.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Ask yourself the secret of your success. Listen to your answer, and practice it.",
@@ -17198,7 +17822,7 @@
         },
         {
             "quote": "Letting go isn�t the end of the world; it�s the beginning of a new life.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "When you discover your mission, you will feel its demand. It will fill you with enthusiasm and a burning desire to get to work on it.",
@@ -17210,7 +17834,7 @@
         },
         {
             "quote": "If I could reach up and hold a star for every time you've made me smile, the entire evening sky would be in the palm of my hand.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Let go of your attachment to being right, and suddenly your mind is more open. You're able to benefit from the unique viewpoints of others, without being crippled by your own judgement.",
@@ -17230,7 +17854,7 @@
         },
         {
             "quote": "Don't be pushed by your problems; be led by your dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
@@ -17390,11 +18014,11 @@
         },
         {
             "quote": "Giving up doesn't always mean you are weak; sometimes it means that you are strong enough to let go.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I am always doing that which I cannot do, in order that I may learn how to do it.",
@@ -17498,7 +18122,7 @@
         },
         {
             "quote": "From small beginnings come great things.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Kind words can be short and easy to speak, but their echoes are truly endless.",
@@ -17550,7 +18174,7 @@
         },
         {
             "quote": "We all have problems. The way we solve them is what makes us different.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The man who trusts men will make fewer mistakes than he who distrusts them.",
@@ -17578,7 +18202,7 @@
         },
         {
             "quote": "Kindness is the greatest wisdom.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To bring anything into your life, imagine that it's already there.",
@@ -17614,7 +18238,7 @@
         },
         {
             "quote": "The best place to find a helping hand is at the end of your own arm.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Man cannot discover new oceans unless he has the courage to lose sight of the shore.",
@@ -17686,7 +18310,7 @@
         },
         {
             "quote": "Why worry about things you can�t control when you can keep yourself busy controlling the things that depend on you?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Spring is a time for rebirth and the fulfilment of new life.",
@@ -17746,7 +18370,7 @@
         },
         {
             "quote": "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If you love someone, set them free. If they come back they're yours; if they don't they never were.",
@@ -17810,7 +18434,7 @@
         },
         {
             "quote": "A smile is a light in the window of your face to show your heart is at home.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Time you enjoyed wasting was not wasted.",
@@ -17858,11 +18482,11 @@
         },
         {
             "quote": "Everyone smiles in the same language.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A good rest is half the work.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "God has given you one face, and you make yourself another.",
@@ -17874,7 +18498,7 @@
         },
         {
             "quote": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Your ability to learn faster than your competition is your only sustainable competitive advantage.",
@@ -17950,7 +18574,7 @@
         },
         {
             "quote": "The difficulties of life are intended to make us better, not bitter.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Slow down and enjoy life. It's not only the scenery you miss by going too fast � you also miss the sense of where you are going and why.",
@@ -17990,7 +18614,7 @@
         },
         {
             "quote": "Don't be pushed by your problems; be led by your dreams.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "For every failure, there's an alternative course of action. You just have to find it. When you come to a roadblock, take a detour.",
@@ -18014,7 +18638,7 @@
         },
         {
             "quote": "Courage is the discovery that you may not win, and trying when you know you can lose.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To know oneself is to study oneself in action with another person.",
@@ -18086,11 +18710,11 @@
         },
         {
             "quote": "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A stumble may prevent a fall.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Never regret. If it's good, it's wonderful. If it's bad, it's experience.",
@@ -18126,7 +18750,7 @@
         },
         {
             "quote": "The best place to find a helping hand is at the end of your own arm.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Meaning is not what you start with but what you end up with.",
@@ -18258,7 +18882,7 @@
         },
         {
             "quote": "Change your words. Change your world.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The key to growth is the introduction of higher dimensions of consciousness into our awareness.",
@@ -18314,7 +18938,7 @@
         },
         {
             "quote": "Worry gives a small thing a big shadow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Those who are blessed with the most talent don't necessarily outperform everyone else. It's the people with follow-through who excel.",
@@ -18322,7 +18946,7 @@
         },
         {
             "quote": "An obstacle may be either a stepping stone or a stumbling block.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The weak can never forgive. Forgiveness is the attribute of the strong.",
@@ -18378,7 +19002,7 @@
         },
         {
             "quote": "Be thankful when you don't know something for it gives you the opportunity to learn.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Any of us can achieve virtue, if by virtue we merely mean the avoidance of the vices that do not attract us.",
@@ -18478,7 +19102,7 @@
         },
         {
             "quote": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Argue for your limitations, and sure enough they're yours.",
@@ -18506,7 +19130,7 @@
         },
         {
             "quote": "A good plan today is better than a perfect plan tomorrow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If you have knowledge, let others light their candles in it.",
@@ -18518,7 +19142,7 @@
         },
         {
             "quote": "A stumble may prevent a fall.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "He who wishes to secure the good of others, has already secured his own.",
@@ -18566,7 +19190,7 @@
         },
         {
             "quote": "Friendship isn't a big thing. It's a million little things.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Wise men talk because they have something to say; fools, because they have to say something.",
@@ -18630,7 +19254,7 @@
         },
         {
             "quote": "A man is not where he lives but where he loves.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You can't shake hands with a clenched fist.",
@@ -18654,7 +19278,7 @@
         },
         {
             "quote": "Many people have gone further than they thought they could because someone else thought they could.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The truth which has made us free will in the end make us glad also.",
@@ -18666,7 +19290,7 @@
         },
         {
             "quote": "Yesterday is history. Tomorrow is a mystery. And today? Today is a gift that's why they call it the present.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Kind words do not cost much. Yet they accomplish much.",
@@ -18734,7 +19358,7 @@
         },
         {
             "quote": "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Learn to listen. Opportunity could be knocking at your door very softly.",
@@ -18762,7 +19386,7 @@
         },
         {
             "quote": "Beware of the half truth. You may have gotten hold of the wrong half.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "At the center of your being you have the answer; you know who you are and you know what you want.",
@@ -18970,7 +19594,7 @@
         },
         {
             "quote": "Why worry about tomorrow, when today is all we have?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "As you think, so shall you become.",
@@ -18982,7 +19606,7 @@
         },
         {
             "quote": "Most smiles are started by another smile.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You can't create in a vacuum. Life gives you the material and dreams can propel new beginnings.",
@@ -19050,7 +19674,7 @@
         },
         {
             "quote": "Change your words. Change your world.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Take it easy � but take it.",
@@ -19126,11 +19750,11 @@
         },
         {
             "quote": "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A smile is a light in the window of your face to show your heart is at home.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I have just three things to teach: simplicity, patience, compassion. These three are your greatest treasures.",
@@ -19158,7 +19782,7 @@
         },
         {
             "quote": "A bend in the road is not the end of the road...unless you fail to make the turn.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "When you judge another, you do not define them, you define yourself.",
@@ -19186,7 +19810,7 @@
         },
         {
             "quote": "Change your thoughts, change your life!",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "When performance exceeds ambition, the overlap is called success.",
@@ -19210,7 +19834,7 @@
         },
         {
             "quote": "A good rest is half the work.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Tension is who you think you should be. Relaxation is who you are.",
@@ -19318,7 +19942,7 @@
         },
         {
             "quote": "Most smiles are started by another smile.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Example has more followers than reason.",
@@ -19346,7 +19970,7 @@
         },
         {
             "quote": "The real measure of your wealth is how much youd be worth if you lost all your money.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Trust your hunches. They're usually based on facts filed away just below the conscious level.",
@@ -19362,7 +19986,7 @@
         },
         {
             "quote": "Never tell me the sky�s the limit when there are footprints on the moon.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Be kind whenever possible. It is always possible.",
@@ -19454,7 +20078,7 @@
         },
         {
             "quote": "Every new day is another chance to change your life.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To keep the body in good health is a duty... otherwise we shall not be able to keep our mind strong and clear.",
@@ -19570,7 +20194,7 @@
         },
         {
             "quote": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time.",
@@ -19582,7 +20206,7 @@
         },
         {
             "quote": "Love is just a word until someone comes along and gives it meaning.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I know but one freedom and that is the freedom of the mind.",
@@ -19618,7 +20242,7 @@
         },
         {
             "quote": "Kindness is the greatest wisdom.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "To know your purpose is to live a life of direction, and in that direction is found peace and tranquillity.",
@@ -19754,7 +20378,7 @@
         },
         {
             "quote": "Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Life is like riding a bicycle. To keep your balance you must keep moving.",
@@ -19762,7 +20386,7 @@
         },
         {
             "quote": "It's not who you are that holds you back, it's who you think you're not.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "A subtle thought that is in error may yet give rise to fruitful inquiry that can establish truths of great value.",
@@ -19794,7 +20418,7 @@
         },
         {
             "quote": "Each time we face a fear, we gain strength, courage, and confidence in the doing.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I seek constantly to improve my manners and graces, for they are the sugar to which all are attracted.",
@@ -19850,11 +20474,11 @@
         },
         {
             "quote": "All the flowers of all the tomorrows are in the seeds of today.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The difficulties of life are intended to make us better, not bitter.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Man is not sum of what he has already, but rather the sum of what he does not yet have, of what he could have.",
@@ -19862,7 +20486,7 @@
         },
         {
             "quote": "A stumble may prevent a fall.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We can only be said to be alive in those moments when our hearts are conscious of our treasures.",
@@ -20054,7 +20678,7 @@
         },
         {
             "quote": "You may only be someone in the world, but to someone else, you may be the world.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Most people are about as happy as they make up their minds to be",
@@ -20062,7 +20686,7 @@
         },
         {
             "quote": "Every sixty seconds you spend angry, upset or mad, is a full minute of happiness you�ll never get back.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If we had no winter, the spring would not be so pleasant; if we did not sometimes taste of adversity, prosperity would not be so welcome.",
@@ -20194,7 +20818,7 @@
         },
         {
             "quote": "Life is not measured by the breaths we take, but by the moments that take our breath.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Setting an example is not the main means of influencing another, it is the only means.",
@@ -20398,7 +21022,7 @@
         },
         {
             "quote": "It's easier to see the mistakes on someone else's paper.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Compassion and happiness are not a sign of weakness but a sign of strength.",
@@ -20490,7 +21114,7 @@
         },
         {
             "quote": "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Nothing ever goes away until it has taught us what we need to know.",
@@ -20502,7 +21126,7 @@
         },
         {
             "quote": "A good teacher is like a candle � it consumes itself to light the way for others.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Follow effective action with quiet reflection. From the quiet reflection will come even more effective action.",
@@ -20722,7 +21346,7 @@
         },
         {
             "quote": "It's not who you are that holds you back, it's who you think you're not.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "It is not so important to know everything as to appreciate what we learn.",
@@ -20762,7 +21386,7 @@
         },
         {
             "quote": "It is better to take many small steps in the right direction than to make a great leap forward only to stumble backward.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Time is the most valuable thing a man can spend.",
@@ -20842,7 +21466,7 @@
         },
         {
             "quote": "A good teacher is like a candle � it consumes itself to light the way for others.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "You must welcome change as the rule but not as your ruler.",
@@ -20878,7 +21502,7 @@
         },
         {
             "quote": "You may only be someone in the world, but to someone else, you may be the world.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "I am glad that I paid so little attention to good advice; had I abided by it I might have been saved from some of my most valuable mistakes.",
@@ -20978,11 +21602,11 @@
         },
         {
             "quote": "Why compare yourself with others? No one in the entire world can do a better job of being you than you.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Don't fear failure so much that you refuse to try new things. The saddest summary of life contains three descriptions: could have, might have, and should have.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Patience is the companion of wisdom.",
@@ -21014,7 +21638,7 @@
         },
         {
             "quote": "As the rest of the world is walking out the door, your best friends are the ones walking in.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Take no thought of who is right or wrong or who is better than. Be not for or against.",
@@ -21030,7 +21654,7 @@
         },
         {
             "quote": "Why worry about tomorrow, when today is all we have?",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Live through feeling and you will live through love. For feeling is the language of the soul, and feeling is truth.",
@@ -21094,7 +21718,7 @@
         },
         {
             "quote": "Never be afraid to try, remember... Amateurs built the ark, Professionals built the Titanic.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If I am not for myself, who will be for me? If I am not for others, what am I? And if not now, when?",
@@ -21286,11 +21910,11 @@
         },
         {
             "quote": "Never miss an opportunity to make others happy, even if you have to leave them alone in order to do it.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If we are facing in the right direction, all we have to do is keep on walking.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Give me six hours to chop down a tree and I will spend the first four sharpening the axe.",
@@ -21354,7 +21978,7 @@
         },
         {
             "quote": "Don't miss all the beautiful colors of the rainbow looking for that pot of gold.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Truth, and goodness, and beauty are but different faces of the same all.",
@@ -21374,7 +21998,7 @@
         },
         {
             "quote": "A beautiful thing is never perfect.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Keep your eyes on the stars and your feet on the ground.",
@@ -21518,7 +22142,7 @@
         },
         {
             "quote": "Being right is highly overrated. Even a stopped clock is right twice a day.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "We know from science that nothing in the universe exists as an isolated or independent entity.",
@@ -21594,11 +22218,11 @@
         },
         {
             "quote": "When you lose, don't lose the lesson.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Worry gives a small thing a big shadow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "Successful people ask better questions, and as a result, they get better answers.",
@@ -21614,7 +22238,7 @@
         },
         {
             "quote": "A good plan today is better than a perfect plan tomorrow.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "The awareness of our own strength makes us modest.",
@@ -21626,7 +22250,7 @@
         },
         {
             "quote": "A good rest is half the work.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "He who conquers others is strong; He who conquers himself is mighty.",
@@ -21658,7 +22282,7 @@
         },
         {
             "quote": "Count your joys instead of your woes. Count your friends instead of your foes.",
-            "author": ""
+            "author": "Unknown"
         },
         {
             "quote": "If you break your neck, if you have nothing to eat, if your house is on fire, then you got a problem. Everything else is inconvenience.",
