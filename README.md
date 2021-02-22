@@ -12,6 +12,7 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/quotes/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/quotes)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/quotes)
+[![Tokei](https://tokei.rs/b1/github/AlexRogalskiy/quotes?category=lines)](https://github.com/XAMPPRocky/tokei)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/alexrogalskiy/quotes/master/LICENSE?token=AH44ZFH7IF2KSEDK7LSIW3C7YOFYC)
 [![Issue](https://img.shields.io/github/issues/alexrogalskiy/quotes)](https://img.shields.io/github/issues/alexrogalskiy/quotes)
@@ -77,16 +78,16 @@ It's simple, you can copy paste this markdown content, like this one:
 
 There are several options you can use from the list:
 
-|  Options         | Description                            |   Type            | Example       | Query Params                   | 
-| ---------------- | -------------------------------------- | ----------------- | ------------- | ------------------------------ |
-| Background Color | Background color for the quote image   | Hex color code    | %23ffffff     | ```?backgroundColor=[value]``` |
-| Opacity Pattern  | Background opacity of the pattern      | Float number      | 0 - 1         | ```&opacity=[value]```         |
-| Color Pattern    | Color pattern for the signage          | Hex color code    | %231abc9c     | ```&colorPattern=[value]```    |
-| Font Color       | Font color for the quote text          | Hex color code    | %23000000     | ```&fontColor=[value]```       |
-| Pattern          | Pattern for the background             | String constant   | plus          | ```&pattern=[value]```         |
-| Category         | Quote category                         | String constant   | programming   | ```&category=[value]```        |
-| Width            | Quote image width                      | String            | 100%          | ```&width=[value]```           |
-| Height           | Quote image height                     | String            | 100%          | ```&height=[value]```          |
+|  **Options**         | **Description**                        |   **Type**        | **Example**   | **Query Params**               | 
+| -------------------- | -------------------------------------- | ----------------- | ------------- | ------------------------------ |
+| **Background Color** | Background color for the quote image   | Hex color code    | %23ffffff     | ```?backgroundColor=[value]``` |
+| **Opacity Pattern**  | Background opacity of the pattern      | Float number      | 0 - 1         | ```&opacity=[value]```         |
+| **Color Pattern**    | Color pattern for the signage          | Hex color code    | %231abc9c     | ```&colorPattern=[value]```    |
+| **Font Color**       | Font color for the quote text          | Hex color code    | %23000000     | ```&fontColor=[value]```       |
+| **Pattern**          | Pattern for the background             | String constant   | plus          | ```&pattern=[value]```         |
+| **Category**         | Quote category                         | String constant   | programming   | ```&category=[value]```        |
+| **Width**            | Quote image width                      | String            | 100%          | ```&width=[value]```           |
+| **Height**           | Quote image height                     | String            | 100%          | ```&height=[value]```          |
 
 Pattern in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 
