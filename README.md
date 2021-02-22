@@ -89,7 +89,19 @@ There are several options you can use from the list:
 | **Width**            | Quote image width                      | String            | 100%          | ```&width=[value]```           |
 | **Height**           | Quote image height                     | String            | 100%          | ```&height=[value]```          |
 
-Pattern in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
+Here is a list of categories supported by Quotes API:
+
+| **Name**                          | **Value**                     | 
+| --------------------------------- | ----------------------------- |
+| **General**                       | general                       |
+| **Life**                          | life                          |
+| **Success**                       | success                       |
+| **Motivational**                  | motivational                  |
+| **Fun**                           | fun                           |
+| **Programming**                   | programming                   |
+| **Entrepreneurship**              | entrepreneurship              |
+
+Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 
 | **Name**                          | **Value**                     | 
 | --------------------------------- | ----------------------------- |
