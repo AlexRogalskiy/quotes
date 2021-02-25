@@ -1,6 +1,6 @@
 import { ConfigOptions } from '../typings/types'
 
-export const CONFIG: ConfigOptions = {
+export const CONFIG: Readonly<ConfigOptions> = {
     colorOptions: {
         colorPattern: '#FFE0E9',
         fontColor: '#0A83DC',
