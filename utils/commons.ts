@@ -59,12 +59,14 @@ export const toFormatString = (obj): string => {
 
 const objToString = (obj): string => {
     let str = ''
-    let i = 0, entries = Object.entries(obj)
-    for (let [key, value] of entries) {
+    let i = 0
+
+    const entries = Object.entries(obj)
+    for (const [key, value] of entries) {
         if (Object.prototype.hasOwnProperty.call(obj, key)) {
             str += `${key} => ${typeof value === 'object' ? `[${objToString(value)}]` : `${value}, `}`
         }
-        if (++i == entries.length) {
+        if (++i === entries.length) {
             str = str.substring(0, str.length - 2)
         }
     }
