@@ -94,6 +94,7 @@ export enum CategoryPattern {
     success = 'success',
     motivational = 'motivational',
     fun = 'fun',
+    movie = 'movie',
     programming = 'programming',
     entrepreneurship = 'entrepreneurship',
 }
