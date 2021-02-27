@@ -98,6 +98,7 @@ Here is a list of categories supported by Quotes API:
 | **Success**                       | success                       |
 | **Motivational**                  | motivational                  |
 | **Fun**                           | fun                           |
+| **Movie**                         | movie                         |
 | **Programming**                   | programming                   |
 | **Entrepreneurship**              | entrepreneurship              |
 
