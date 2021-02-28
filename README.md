@@ -1,5 +1,7 @@
 # _Styled quotes_
 
+> Generate [styled quote](https://en.wikipedia.org/wiki/Quote) SVG images
+
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/quotes)
 ![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/quotes)
 ![Lines of code](https://tokei.rs/b1/github/AlexRogalskiy/quotes?category=lines)
@@ -95,8 +97,9 @@ Here is a list of categories supported by Quotes API:
 | --------------------------------- | ----------------------------- |
 | **General**                       | general                       |
 | **Life**                          | life                          |
+| **Love**                          | love                          |
 | **Success**                       | success                       |
-| **Motivational**                  | motivational                  |
+| **Motivation**                    | motivation                    |
 | **Fun**                           | fun                           |
 | **Movie**                         | movie                         |
 | **Programming**                   | programming                   |

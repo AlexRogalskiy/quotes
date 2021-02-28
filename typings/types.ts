@@ -91,8 +91,9 @@ export enum HeroPattern {
 export enum CategoryPattern {
     general = 'general',
     life = 'life',
+    love = 'love',
     success = 'success',
-    motivational = 'motivational',
+    motivation = 'motivation',
     fun = 'fun',
     movie = 'movie',
     programming = 'programming',
