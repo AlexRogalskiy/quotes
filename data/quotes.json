@@ -1,6 +1,2634 @@
 {
     "general": [
         {
+            "quote": "Don't let schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "You cannot escape the responsibility of tomorrow by evading it today.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Golf is a good walk spoiled.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Yard those yet image themselves. Late live for practice. According democratic leg fire science range. Avoid whose and present thing administration owner. Capital music sort after.",
+            "author": "Melissa Holland"
+        },
+        {
+            "quote": "We've demonstrated a strong track record of being very disciplined with the use of our cash. We don't let it burn a hole in our pocket, we don't allow it to motivate us to do stupid acquisitions. And so I think that we'd like to continue to keep our powder dry, because we do feel that there are one or more strategic opportunities in the future.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "Even death is not to be feared by one who has lived wisely.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "The life of the dead is placed in the memory of the living.",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Without education we are in a horrible and deadly danger of taking educated people seriously.",
+            "author": "Gilbert K. Chesterton"
+        },
+        {
+            "quote": "Piety requires us to honor truth above our friends.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Kindness eases everything almost as much as money does.",
+            "author": "Mason Cooley"
+        },
+        {
+            "quote": "The role of leadership is to transform the complex situation into small pieces and prioritize them.",
+            "author": "Carlos Ghosn"
+        },
+        {
+            "quote": "He was an embittered atheist, the sort of atheist who does not so much disbelieve in God as personally dislike Him.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "It is usually the imagination that is wounded first, rather than the heart; it being much more sensitive.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Knowing others is wisdom, knowing yourself is Enlightenment.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "If God treats you well by teaching you a disastrous lesson, you never forget it.",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Anonymous"
+        },
+        {
+            "quote": "All the world's a stage, and all the men and women merely players: they have their exits and their entrances and one man in his time plays many parts, his acts being seven ages.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Where there is reverence there is fear, but there is not reverence everywhere that there is fear, because fear presumably has a wider extension than reverence.",
+            "author": "Socrates"
+        },
+        {
+            "quote": "I have friends in overalls whose friendship I would not swap for the favor of the kings of the world.",
+            "author": "Thomas A. Edison"
+        },
+        {
+            "quote": "Leadership is a privilege to better the lives of others. It is not an opportunity to satisfy personal greed.",
+            "author": "Mwai Kibaki"
+        },
+        {
+            "quote": "We are fast approaching the stage of the ultimate inversion: the stage where the government is free to do anything it pleases, while the citizens may act only by permission which is the stage of the darkest periods of human history, the stage of rule by brute force.",
+            "author": "Ayn Rand"
+        },
+        {
+            "quote": "Do what you say you will do.",
+            "author": "Ron Dickson"
+        },
+        {
+            "quote": "I do not believe that civilization will be wiped out in a war fought with the atomic bomb. Perhaps two-thirds of the people of the earth will be killed.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "On neither the sun, nor death, can a man look fixedly.",
+            "author": "Francois de La Rochefoucauld"
+        },
+        {
+            "quote": "There was never an angry man that thought his anger unjust.",
+            "author": "Saint Francis de Sales"
+        },
+        {
+            "quote": "Deceiving others. That is what the world calls a romance.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Machines are worshipped because they are beautiful and valued because they confer power they are hated because they are hideous and loathed because they impose slavery.",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "You are never too old to set another goal or to dream a new dream.",
+            "author": "C. S. Lewis"
+        },
+        {
+            "quote": "Nothing is more despicable than respect based on fear.",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "Technological progress has merely provided us with more efficient means for going backwards.",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "In this journey you must become a lover of your enemies, so that the purity of your love may attract the hearts.",
+            "author": "Abdu'l-Baha"
+        },
+        {
+            "quote": "Rather than love, than money, than fame, give me truth.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Courage is doing what you're afraid to do.  There can be no courage unless you're scared.",
+            "author": "Eddie Rickenbacher"
+        },
+        {
+            "quote": "As with the Christian religion, the worst advertisement for Socialism is its adherents.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "Education is not the filling of a pail, but the lighting of a fire.",
+            "author": "William Butler Yeats"
+        },
+        {
+            "quote": "The mother's heart is the child's schoolroom.",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "Before success comes in any man's life, he's sure to meet with much temporary defeat and, perhaps some failures. When defeat overtakes a man, the easiest and the most logical thing to do is to quit. That's exactly what the majority of men do.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "The secret of my success is a two word answer: Know people.",
+            "author": "Harvey S. Firestone"
+        },
+        {
+            "quote": "Every time I see an adult on a bicycle, I no longer despair for the future of the human race.",
+            "author": "H. G. Wells"
+        },
+        {
+            "quote": "If we have data, let's look at data.  If all we have are opinions, let's go with mind.",
+            "author": "Jim Barksdale"
+        },
+        {
+            "quote": "From their experience or from the recorded experience of others (history), men learn only what their passions and their metaphysical prejudices allow them to learn.",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "People who drink to drown their sorrow should be told that sorrow knows how to swim.",
+            "author": "Ann Landers"
+        },
+        {
+            "quote": "Religion flourishes in greater purity, without than with the aid of Government.",
+            "author": "James Madison"
+        },
+        {
+            "quote": "It is not in the power of even the most crafty dissimulation to conceal love long, where it really is, nor to counterfeit it long where it is not.",
+            "author": "Francois de La Rochefoucauld"
+        },
+        {
+            "quote": "In my opinion MS is a lot better at making money than it is at making good operating systems.",
+            "author": "Linus Torvalds"
+        },
+        {
+            "quote": "I worked in a pet store and people would ask how big I would get.",
+            "author": "Rodney Dangerfield"
+        },
+        {
+            "quote": "If the facts don't fit the theory, change the facts.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Piety requires us to honor truth above our friends.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Hilton Doyle",
+            "author": "Schmidt"
+        },
+        {
+            "quote": "Excellence is the best deterrent to racism or sexism.",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "You can't build a reputation on what you are going to do.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "A man always remembers his first love with special tenderness, but after that he begins to bunch them.",
+            "author": "H. L. Mencken"
+        },
+        {
+            "quote": "But I, being poor, have only my dreams I have spread my dreams under your feet Tread softly because you tread on my dreams.",
+            "author": "William Butler Yeats"
+        },
+        {
+            "quote": "It has always been my belief that a man should do his best, regardless of how much he receives for his services, or the number of people he may be serving or the class of people served.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "What is moral is what you feel good after, and what is immoral is what you feel bad after.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "What this country needs what every country needs occasionally is a good hard bloody war to revive the vice of patriotism on which its existence as a nation depends.",
+            "author": "Ambrose Bierce"
+        },
+        {
+            "quote": "The skilful employer of men will employ the wise man, the brave man, the covetous man, and the stupid man.",
+            "author": "Sun Tzu"
+        },
+        {
+            "quote": "Men never do evil so completely and cheerfully as when they do it from religious conviction.",
+            "author": "Blaise Pascal"
+        },
+        {
+            "quote": "Faith indeed tells what the senses do not tell, but not the contrary of what they see. It is above them and not contrary to them.",
+            "author": "Blaise Pascal"
+        },
+        {
+            "quote": "Freedom is what you do with what's been done to you.",
+            "author": "Jean-Paul Sartre"
+        },
+        {
+            "quote": "How could man rejoice in victory and delight in the slaughter of men?",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "It is after all the greatest art to limit and isolate oneself.",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "For good or for ill, air mastery is today the supreme expression of military power and fleets and armies, however vital and important, must accept a subordinate rank.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "The truth is incontrovertible. Malice may attack it, ignorance may deride it, but in the end, there it is.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "To accomplish great things, we must not only act, but also dream not only plan, but also believe.",
+            "author": "Anatole France"
+        },
+        {
+            "quote": "It is not necessary to change. Survival is not mandatory.",
+            "author": "W. Edwards Deming"
+        },
+        {
+            "quote": "Be careful about reading health books. You may die of a misprint.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "You have to be vigilant about keeping your own fire alive.",
+            "author": "Tift Merritt"
+        },
+        {
+            "quote": "I'd rather attempt to do something great and fail than to attempt to do nothing and succeed.",
+            "author": "Robert H. Schuller"
+        },
+        {
+            "quote": "The secret of success in life is for a man to be ready for his opportunity when it comes.",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "quote": "Get busy living or get busy dying",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "I just invent, then wait until man comes around to needing what I've invented.",
+            "author": "R. Buckminster Fuller"
+        },
+        {
+            "quote": "The only things worth learning are the things you learn after you know it all.",
+            "author": "Harry S. Truman"
+        },
+        {
+            "quote": "We must all obey the great law of change. It is the most powerful law of nature.",
+            "author": "Edmund Burke"
+        },
+        {
+            "quote": "In Republics, the great danger is, that the majority may not sufficiently respect the rights of the minority.",
+            "author": "James Madison"
+        },
+        {
+            "quote": "Always fall in with what you're asked to accept. Take what is given, and make it over your way. My aim in life has always been to hold my own with whatever's going. Not against: with.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Art is the daughter of freedom.",
+            "author": "Friedrich Schiller"
+        },
+        {
+            "quote": "In a drama of the highest order there is little food for censure or hatred it teaches rather self-knowledge and self-respect.",
+            "author": "Percy Bysshe Shelley"
+        },
+        {
+            "quote": "He who is to be a good ruler must have first been ruled.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "My trade and art is to live.",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "Consistency is contrary to nature, contrary to life. The only completely consistent people are dead.",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "Life is the nothing without best, you only need rest",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Every noble work is at first impossible.",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "A child of five would understand this. Send someone to fetch a child of five.",
+            "author": "Groucho Marx"
+        },
+        {
+            "quote": "The successful revolutionary is a statesman, the unsuccessful one a criminal.",
+            "author": "Erich Fromm"
+        },
+        {
+            "quote": "Let us with caution indulge the supposition that morality can be maintained without religion. Reason and experience both forbid us to expect that national morality can prevail in exclusion of religious principle.",
+            "author": "George Washington"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Priyanka"
+        },
+        {
+            "quote": "Every government degenerates when trusted to the rulers of the people alone. The people themselves are its only safe depositories.",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "The three great elements of modern civilization, Gun powder, Printing, and the Protestant religion.",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "I think really, China, Chinese, I think they really have a long history of civilization, rich culture.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "If there is any principle of the Constitution that more imperatively calls for attachment than any other it is the principle of free thought, not free thought for those who agree with us but freedom for the thought that we hate.",
+            "author": "Oliver Wendell Holmes"
+        },
+        {
+            "quote": "The secret of success is constancy to purpose.",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.1",
+            "author": "Mark Twain sanjeet"
+        },
+        {
+            "quote": "There comes a time when the mind takes a higher plane of knowledge but can never prove how it got there.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "If there is a God, he'll have to beg my forgiveness.",
+            "author": "Anonymous"
+        },
+        {
+            "quote": "Art is the beautiful way of doing things. Science is the effective way of doing things. Business is the economic way of doing things.",
+            "author": "Elbert Hubbard"
+        },
+        {
+            "quote": "Life, an age to the miserable, and a moment to the happy.",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "Without art, the crudeness of reality would make the world unbearable.",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "The best government is that which teaches us to govern ourselves.",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "You're in pretty good shape for the shape you are in.",
+            "author": "Dr. Seuss"
+        },
+        {
+            "quote": "I became famous, I think, really because of the interpretation of other people's songs, way back when, and that's what I enjoy the most. And I'm a lazy bugger.",
+            "author": "Rod Stewart"
+        },
+        {
+            "quote": "Show me a thoroughly satisfied man and I will show you a failure.",
+            "author": "Thomas A. Edison"
+        },
+        {
+            "quote": "Isn't it sad to go to your grave without ever wondering why you were born? Who, with such a thought, would not spring from bed, eager to resume discovering the world and rejoicing to be part of it?",
+            "author": "Richard Dawkins"
+        },
+        {
+            "quote": "Civilization is the progress toward a society of privacy. The savage's whole existence is public, ruled by the laws of his tribe. Civilization is the process of setting man free from men.",
+            "author": "Ayn Rand"
+        },
+        {
+            "quote": "All changes, even the most longed for, have their melancholy for what we leave behind us is a part of ourselves we must die to one life before we can enter another.",
+            "author": "Anatole France"
+        },
+        {
+            "quote": "Imagination is but another name for super intelligence.",
+            "author": "Edgar Rice Burroghs"
+        },
+        {
+            "quote": "The most positive men are the most credulous.",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "A drunkard would not give money to sober people. He said they would only eat it, and buy clothes and send their children to school with it.",
+            "author": "Samuel Butler"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Humans are amphibians - half spirit and half animal. As spirits they belong to the eternal world, but as animals they inhabit time.",
+            "author": "C. S. Lewis"
+        },
+        {
+            "quote": "The last thing one discovers in composing a work is what to put first.",
+            "author": "T. S. Eliot"
+        },
+        {
+            "quote": "Say not, 'I have found the truth,' but rather, 'I have found a truth.'",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Well, if Fortune be a woman, she's a good wench for this gear.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "That God cannot lie, is no advantage to your argument, because it is no proof that priests can not, or that the Bible does not.",
+            "author": "Thomas Paine"
+        },
+        {
+            "quote": "To Follow by faith alone is to follow blindly.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "If you do no more than you're paid for, you have no real basis for requesting more pay because you're already getting all you're earning.",
+            "author": "Anonymous"
+        },
+        {
+            "quote": "A successful lawsuit is the one worn by a policeman.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "I prefer my history dead. Dead history is writ in ink, the living sort in blood.",
+            "author": "George R.R. Martin"
+        },
+        {
+            "quote": "Great achievement is usually born of great sacrifice, and is never the result of selfishness.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "A great city, whose image dwells in the memory of man, is the type of some great idea. Rome represents conquest Faith hovers over the towers of Jerusalem and Athens embodies the pre-eminent quality of the antique world, Art.",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "quote": "Certainly the best works, and of greatest merit for the public, have proceeded from the unmarried, or childless men.",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "The bad gains respect through imitation, the good loses it especially in art.",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "I would like to be remembered as someone who did the best she could with the talent she had.",
+            "author": "J. K. Rowling"
+        },
+        {
+            "quote": "In bourgeois society capital is independent and has individuality, while the living person is dependent and has no individuality.",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "The dollar votes more times than the man.",
+            "author": "Anonymous"
+        },
+        {
+            "quote": "None but a coward dares to boast that he has never known fear.",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "Freedom is never voluntarily given by the oppressor it must be demanded by the oppressed.",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "Do not hire a man who does your work for money, but him who does it for love of it.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Lots of people want to ride with you in the limo, but what you want is someone who will take the bus with you when the limo breaks down.",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "Henceforth I ask not good fortune. I myself am good fortune.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "All architecture is great architecture after sunset perhaps architecture is really a nocturnal art, like the art of fireworks.",
+            "author": "Gilbert K. Chesterton"
+        },
+        {
+            "quote": "When a man assumes a public trust he should consider himself a public property.",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "“Nothing is more fruitful for man than the knowledge of his own shortcomings.”",
+            "author": "Abdu'l-Baha"
+        },
+        {
+            "quote": "Beauty is eternity gazing at itself in a mirror.",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "“I’m not going to make it.”—Brand.<br>“Yes, you are.  Yes, you are.”—Cooper",
+            "author": "Anonymous"
+        },
+        {
+            "quote": "You know, when you don't go on TV and talk about how many women you sleep with, some people in Hollywood, that are supposedly 'in the know,' start whispering that you're gay. If I were gay, I wouldn't be ashamed to admit it, but I'm not.",
+            "author": "Adam Sandler"
+        },
+        {
+            "quote": "If I can put one touch of rosy sunset into the life of any man or woman, I shall feel that I have worked with God.",
+            "author": "Gilbert K. Chesterton"
+        },
+        {
+            "quote": "If GM had kept up with technology like the computer industry has, we would all be driving $25 cars that got 1,000 MPG.",
+            "author": "Bill Gates"
+        },
+        {
+            "quote": "Your quote",
+            "author": "Author"
+        },
+        {
+            "quote": "In these times you have to be an optimist to open your eyes when you awake in the morning.",
+            "author": "Carl Sandburg"
+        },
+        {
+            "quote": "Let us not listen to those who think we ought to be angry with our enemies, and who believe this to be great and manly. Nothing is so praiseworthy, nothing so clearly shows a great and noble soul, as clemency and readiness to forgive.",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Love sought is good, but given unsought, is better.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Instead of noblemen, let us have noble villages of men.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "We make a living by what we get, but we make a life by what we give.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "If you have one true friend you have more than your share.",
+            "author": "Thomas Fuller"
+        },
+        {
+            "quote": "Truth is always strange, stranger than fiction.",
+            "author": "Lord Byron"
+        },
+        {
+            "quote": "I learned from a very young age that if I pursued the things that truly excited me, that they would reward in more important ways, like happiness.",
+            "author": "Brandon Boyd"
+        },
+        {
+            "quote": "The mark of fear is not easily removed.",
+            "author": "Ernest Gaines"
+        },
+        {
+            "quote": "The kind of people I look for to fill top management spots are the mavericks. These are the guys who try to do more than they're expected to do - they always reach.",
+            "author": "Lee Iacocca"
+        },
+        {
+            "quote": "Who dares nothing, need hope for nothing.",
+            "author": "Friedrich Schiller"
+        },
+        {
+            "quote": "I hope I shall possess firmness and virtue enough to maintain what I consider the most enviable of all titles, the character of an honest man.",
+            "author": "George Washington"
+        },
+        {
+            "quote": "The want of logic annoys. Too much logic bores. Life eludes logic, and everything that logic alone constructs remains artificial and forced.",
+            "author": "André Gide"
+        },
+        {
+            "quote": "The fact that we imagine ourselves to be right and everybody else wrong is the greatest of all obstacles in the path towards unity...",
+            "author": "Abdu'l-Baha"
+        },
+        {
+            "quote": "I can't change the direction of the wind, but I can adjust my sails to always reach my destination.",
+            "author": "Jimmy Dean"
+        },
+        {
+            "quote": "Faith is spiritualized imagination.",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "The power of a book lies in its power to turn a solitary act into a shared vision. As long as we have books, we are not alone.",
+            "author": "Laura Bush"
+        },
+        {
+            "quote": "These are the times that try men's souls.",
+            "author": "Thomas Paine"
+        },
+        {
+            "quote": "My movies just kind of sneak up on you. I don't have to worry too much about what everybody is going to say. Anyway, I really don't pay attention to what the world says about my movies. I just care about what my buddies think.",
+            "author": "Adam Sandler"
+        },
+        {
+            "quote": "The psychical, whatever its nature may be, is itself unconscious.",
+            "author": "Sigmund Freud"
+        },
+        {
+            "quote": "Must not all things at the last be swallowed up in death?",
+            "author": "Plato"
+        },
+        {
+            "quote": "We continue to recognize the greater ability of some to earn more than others. But we do assert that the ambition of the individual to obtain for him a proper security is an ambition to be preferred to the appetite for great wealth and great power.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "Why has elegance found so little following? That is the reality of it. Elegance has the disadvantage, if that's what it is, that hard work is needed to achieve it and a good education to appreciate it.",
+            "author": "Edsger Dijkstra"
+        },
+        {
+            "quote": "Never was it given to mortal man - To lie so boldly as we women can.",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "To a philosopher all news, as it is called, is gossip, and they who edit and read it are old women over their tea.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Oh, if I had been loved at the age of seventeen, what an idiot I would be today. Happiness is like smallpox: if you catch it too soon, it can completely ruin your constitution.",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "Our character is not so much the product of race and heredity as of those circumstances by which nature forms our habits, by which we are nurtured and live.",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "The paradox of courage is that a man must be a little careless of his life even in order to keep it.",
+            "author": "Gilbert K. Chesterton"
+        },
+        {
+            "quote": "A well-spent day brings happy sleep.",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "The bird a nest, the spider a web, man friendship.",
+            "author": "William Blake"
+        },
+        {
+            "quote": "We've got this gift of love, but love is like a precious plant. You can't just accept it and leave it in the cupboard or just think it's going to get on by itself. You've got to keep watering it. You've got to really look after it and nurture it.",
+            "author": "John Lennon"
+        },
+        {
+            "quote": "Many people would no more think of entering journalism than the sewage business - which at least does us all some good.",
+            "author": "Stephen Fry"
+        },
+        {
+            "quote": "The tax on capital gains directly affects investment decisions, the mobility and flow of risk capital... the ease or difficulty experienced by new ventures in obtaining capital, and thereby the strength and potential for growth in the economy.",
+            "author": "John F. Kennedy"
+        },
+        {
+            "quote": "Freedom is the right to tell people what they do not want to hear.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "People ask the difference between a leader and a boss. The leader leads, and the boss drives.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "Hallow the body as a temple to comeliness and sanctify the heart as a sacrifice to love; love recompenses the adorers.",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "Shall I tell you what true evil is? It is to submit to you. It is when we surrender our freedom, our dignity instead of defying you.",
+            "author": "Captain Jean-Luc Picard"
+        },
+        {
+            "quote": "When the tyrant has disposed of foreign enemies by conquest or treaty, and there is nothing more to fear from them, then he is always stirring up some war or other, in order that the people may require a leader.",
+            "author": "Plato"
+        },
+        {
+            "quote": "Party-spirit at best is but the madness of many for the gain of a few.",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "The best artist has that thought alone Which is contained within the marble shell The sculptor's hand can only break the spell To free the figures slumbering in the stone.",
+            "author": "Michelangelo"
+        },
+        {
+            "quote": "You will find men who want to be carried on the shoulders of others, who think that the world owes them a living. They don't seem to see that we must all lift together and pull together.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "I never look at the brass. It only encourages them.",
+            "author": "Thomas Beechum"
+        },
+        {
+            "quote": "When so many are lonely as seem to be lonely, it would be inexcusably selfish to be lonely alone.",
+            "author": "Tennessee Williams"
+        },
+        {
+            "quote": "Analyzing humor is like dissecting a frog. Few people are interested and the frog dies of it.",
+            "author": "E. B. White"
+        },
+        {
+            "quote": "Writing has nothing to do with communication between person and person, only with communication between different parts of a person's mind.",
+            "author": "Rebecca West"
+        },
+        {
+            "quote": "We come nearest to the great when we are great in humility.",
+            "author": "Rabindranath Tagore"
+        },
+        {
+            "quote": "The greatest good you can do for another is not just to share your riches but to reveal to him his own.",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "quote": "The revelation of thought takes men out of servitude into freedom.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "I think it's your mental attitude. So many of us start dreading age in high school and that's a waste of a lovely life. 'Oh... I'm 30, oh, I'm 40, oh, 50.' Make the most of it.",
+            "author": "Betty White"
+        },
+        {
+            "quote": "Most people have no concept of how an automatic transmission works, yet they know how to drive a car. You don't have to study physics to understand the laws of motion to drive a car. You don't have to understand any of this stuff to use Macintosh.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "Talent wins games, but teamwork and intelligence wins championships.",
+            "author": "Michael Jordan"
+        },
+        {
+            "quote": "Old age has deformities enough of its own. It should never add to them the deformity of vice.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Most people live in a myth and grow violently angry if anyone dares to tell them the truth about themselves.",
+            "author": "Robert Anton Wilson"
+        },
+        {
+            "quote": "Pictures must not be too picturesque.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "People really don’t like to hear success explained away as luck — especially successful people.",
+            "author": "Michael Lewis"
+        },
+        {
+            "quote": "A corporation's primary goal is to make money. Government's primary role is to take a big chunk of that money and give it to others.",
+            "author": "Larry Ellison"
+        },
+        {
+            "quote": "One thing is certain in business. You and everyone around you will make mistakes.",
+            "author": "Richard Branson"
+        },
+        {
+            "quote": "Experience teaches us that it is much easier to prevent an enemy from posting themselves than it is to dislodge them after they have got possession.",
+            "author": "George Washington"
+        },
+        {
+            "quote": "Great is truth, but still greater, from a practical point of view, is silence about truth. By simply not mentioning certain subjects... totalitarian propagandists have influenced opinion much more effectively than they could have by the most eloquent denunciations.",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "Without wearing any mask we are conscious of, we have a special face for each friend.",
+            "author": "Oliver Wendell Holmes"
+        },
+        {
+            "quote": "What is truth? said jesting Pilate and would not stay for an answer.",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "The weak can never forgive. Forgiveness is the attribute of the strong.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "Slang is a language that rolls up its sleeves, spits on its hands and goes to work.",
+            "author": "Carl Sandburg"
+        },
+        {
+            "quote": "They must often change, who would be constant in happiness or wisdom.",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Actors are one family over the entire world.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Get busy living or get busy dying",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Hustle in silence and let your success make the noise.",
+            "author": "Anonymous"
+        },
+        {
+            "quote": "It is a great act of cleverness to be able to conceal one's being clever.",
+            "author": "Francois de La Rochefoucauld"
+        },
+        {
+            "quote": "His talent was as natural as the pattern that was made by the dust on a butterfly's wings. At one time he understood it no more than the butterfly did and he did not know when it was brushed or marred.",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "I have to be alone very often. I'd be quite happy if I spent from Saturday night until Monday morning alone in my apartment. That's how I refuel.",
+            "author": "Audrey Hepburn"
+        },
+        {
+            "quote": "If everyone demanded peace instead of another television set, then there'd be peace.",
+            "author": "John Lennon"
+        },
+        {
+            "quote": "Don't gamble; take all your savings and buy some good stock and hold it till it goes up, then sell it. If it don't go up, don't buy it.",
+            "author": "Will Rogers"
+        },
+        {
+            "quote": "Look to the future, because that is where you'll spend the rest of your life.",
+            "author": "George Burns"
+        },
+        {
+            "quote": "This year July 4th is the 5th.",
+            "author": "Steven Howell"
+        },
+        {
+            "quote": "It is not funny that anything else should fall down only that a man should fall down. Why do we laugh? Because it is a gravely religious matter: it is the Fall of Man. Only man can be absurd: for only man can be dignified.",
+            "author": "Gilbert K. Chesterton"
+        },
+        {
+            "quote": "It’s very hard to design something that you almost do not see because it just seems so obvious, natural and inevitable.",
+            "author": "Jonathon Ive"
+        },
+        {
+            "quote": "Wit is the lowest form of humor.",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "Not to expose your true feelings to an adult seems to be instinctive from the age of seven or eight onwards.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "You miss 100% of the shots you don’t take.",
+            "author": "Wayne Gretzky"
+        },
+        {
+            "quote": "I never travel without my diary. One should always have something sensational to read in the train.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "No man ever prayed heartily without learning something.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Take a simple idea and take it seriously.",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "Education is simply the soul of a society as it passes from one generation to another.",
+            "author": "Gilbert K. Chesterton"
+        },
+        {
+            "quote": "I never had a policy; I have just tried to do my very best each and every day.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Faith is the great cop-out, the great excuse to evade the need to think and evaluate evidence. Faith is belief in spite of, even perhaps because of, the lack of evidence.",
+            "author": "Richard Dawkins"
+        },
+        {
+            "quote": "Courage is the first of human qualities because it is the quality which guarantees the others.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "A man is usually more careful of his money than he is of his principles.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "From the moment I picked your book up until I laid it down I was convulsed with laughter. Someday I intend reading it.",
+            "author": "Groucho Marx"
+        },
+        {
+            "quote": "Nothing doth more hurt in a state than that cunning men pass for wise.",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "If you want to build a ship, don’t drum up people to collect wood and don’t assign them tasks and work, but rather teach them to long for the endless immensity of the sea.",
+            "author": "Antoine de Saint-Exupéry"
+        },
+        {
+            "quote": "The will to win, the desire to succeed, the urge to reach your full potential... these are the keys that will unlock the door to personal excellence.",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Sometimes when you innovate, you make mistakes. It is best to admit them quickly, and get on with improving your other innovations.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "I think if there's something one needs to change with oneself, it doesn't have to happen in the New Year. You can do that any time you please - not that it's not a good inspirational tactic for the people that it works for.",
+            "author": "Brittany Murphy"
+        },
+        {
+            "quote": "Utility is the great idol of the age, to which all powers must do service and all talents swear allegiance.",
+            "author": "Friedrich Schiller"
+        },
+        {
+            "quote": "Hilton Doyle",
+            "author": "Schmidt"
+        },
+        {
+            "quote": "In true education, anything that comes to our hand is as good as a book: the prank of a page- boy, the blunder of a servant, a bit of table talk - they are all part of the curriculum.",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "Do your work with your whole heart, and you will succeed - there's so little competition.",
+            "author": "Elbert Hubbard"
+        },
+        {
+            "quote": "True art is characterized by an irresistible urge in the creative artist.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Old age is always wakeful as if, the longer linked with life, the less man has to do with aught that looks like death.",
+            "author": "Herman Melville"
+        },
+        {
+            "quote": "It is, generally, in the season of prosperity that men discover their real temper, principles, and designs.",
+            "author": "Edmund Burke"
+        },
+        {
+            "quote": "Wit is the lowest form of humor.",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "What is true of the individual will be tomorrow true of the whole nation if individuals will but refuse to lose heart and hope.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "As a child, I was more afraid of tetanus shots than, for example, Dracula.",
+            "author": "Dave Barry"
+        },
+        {
+            "quote": "God's dice always have a lucky roll.",
+            "author": "Sophocles"
+        },
+        {
+            "quote": "He that hopes no good fears no ill.",
+            "author": "Thomas Fuller"
+        },
+        {
+            "quote": "If a man does his best, what else is there?",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "I no doubt deserved my enemies, but I don't believe I deserved my friends.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "All things are difficult before they are easy.",
+            "author": "Thomas Fuller"
+        },
+        {
+            "quote": "Do not be too moral. You may cheat yourself out of much life so. Aim above morality. Be not simply good be good for something.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "No sadder proof can be given by a man of his own littleness than disbelief in great men.",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "Art saved me it got me through my depression and self-loathing, back to a place of innocence.",
+            "author": "Jeanette Winterson"
+        },
+        {
+            "quote": "If physical death is the price that I must pay to free my white brothers and sisters from a permanent death of the spirit, then nothing can be more redemptive.",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "What's going to change in the future? Better to ask what will not change.",
+            "author": "AV"
+        },
+        {
+            "quote": "I found I could say things with color and shapes that I couldn't say any other way - things I had no words for.",
+            "author": "Georgia O'Keeffe"
+        },
+        {
+            "quote": "The best way to get a bad law repealed is to enforce it strictly.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "When written in Chinese, the word 'crisis' is composed of two characters. One represents danger and the other represents opportunity.",
+            "author": "John F. Kennedy"
+        },
+        {
+            "quote": "People's minds are changed through observation and not through argument.",
+            "author": "Will Rogers"
+        },
+        {
+            "quote": "Produce great men, the rest follows.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "In the Soviet army it takes more courage to retreat than advance.",
+            "author": "Joseph Stalin"
+        },
+        {
+            "quote": "Books constitute capital. A library book lasts as long as a house, for hundreds of years. It is not, then, an article of mere consumption but fairly of capital, and often in the case of professional men, setting out in life, it is their only capital.",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "Work gives you meaning and purpose and life is empty without it.",
+            "author": "Stephen Hawking"
+        },
+        {
+            "quote": "When the war of the giants is over the wars of the pygmies will begin.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "Your quote",
+            "author": "Author"
+        },
+        {
+            "quote": "Nixon is one of the few in the history of this country to run for high office talking out of both sides of his mouth at the same time and lying out of both sides.",
+            "author": "Harry S. Truman"
+        },
+        {
+            "quote": "My share of the work may be limited, but the fact that it is work makes it precious.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "Microsoft isn't evil, they just make really crappy operating systems.",
+            "author": "Linus Torvalds"
+        },
+        {
+            "quote": "But Apple really beats to a different drummer. I used to say that Apple should be the Sony of this business, but in reality, I think Apple should be the Apple of th is business.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "Art is not a thing it is a way.",
+            "author": "Elbert Hubbard"
+        },
+        {
+            "quote": "Simplify, simplify.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Never permit a dichotomy to rule your life, a dichotomy in which you hate what you do so you can have pleasure in your spare time. Look for a situation in which your work will give you as much happiness as your spare time.",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "My eyesight is not nearly as good. My hearing is probably going away. My memory is slipping too. But I'm still around.",
+            "author": "John Wooden"
+        },
+        {
+            "quote": "Every day begins with an act of courage and hope: getting out of bed.",
+            "author": "Mason Cooley"
+        },
+        {
+            "quote": "After all is said and done - more is said than done.",
+            "author": "Anonymous"
+        },
+        {
+            "quote": "It is unbecoming for young men to utter maxims.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "In seed time learn, in harvest teach, in winter enjoy.",
+            "author": "William Blake"
+        },
+        {
+            "quote": "Writing fiction has become a priestly business in countries that have lost their faith.",
+            "author": "Gore Vidal"
+        },
+        {
+            "quote": "It is part of a good man to do great and noble deeds, though he risk everything.",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "It is a grand mistake to think of being great without goodness and I pronounce it as certain that there was never a truly great man that was not at the same time truly virtuous.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "A great value of antiquity lies in the fact that its writings are the only ones that modern men still read with exactness.",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Hdjdjzu",
+            "author": "Jxjxjxkc"
+        },
+        {
+            "quote": "A man willing to work, and unable to find work, is perhaps the saddest sight that fortune's inequality exhibits under this sun.",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "It is harder to conceal ignorance than to acquire knowledge.",
+            "author": "Arnold H. Glasow"
+        },
+        {
+            "quote": "The communication of the dead is tongued with fire beyond the language of the living.",
+            "author": "T. S. Eliot"
+        },
+        {
+            "quote": "Beware of false knowledge it is more dangerous than ignorance.",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "He who fights with monsters might take care lest he thereby become a monster. Is not life a hundred times too short for us to bore ourselves?",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "A man paints with his brains and not with his hands.",
+            "author": "Michelangelo"
+        },
+        {
+            "quote": "People think that computer science is the art of geniuses but the actual reality is the opposite, just many people doing things that build on eachother, like a wall of mini stones.",
+            "author": "Donald Knuth"
+        },
+        {
+            "quote": "Love and doubt have never been on speaking terms.",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "What is called genius is the abundance of life and health.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Evolution never looks to the future.",
+            "author": "Richard Dawkins"
+        },
+        {
+            "quote": "Si tu travailles avec un marteau-piqueur pendant un tremblement de terre, désynchronise-toi, sinon tu travailles pour rien.",
+            "author": "JCVD"
+        },
+        {
+            "quote": "B-----d Freedom waves Her fustian flag in mockery over slaves.",
+            "author": "Thomas Moore"
+        },
+        {
+            "quote": "I'd rather entrust the government of the United States to the first 400 people listed in the Boston telephone directory than to the faculty of Harvard University.",
+            "author": "William F. Buckley, Jr."
+        },
+        {
+            "quote": "Freedom - to walk free and own no superior.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "The true measure of a man is how he treats someone who can do him absolutely no good.",
+            "author": "Samuel Johnson"
+        },
+        {
+            "quote": "People don't buy what you do, they buy why you do it.",
+            "author": "Simon Sinek"
+        },
+        {
+            "quote": "If I'm honest I have to tell you I still read fairy-tales and I like them best of all.",
+            "author": "Audrey Hepburn"
+        },
+        {
+            "quote": "The intention to live as long as possible isn't one of the mind's best intentions, because quantity isn't the same as quality.",
+            "author": "Deepak Chopra"
+        },
+        {
+            "quote": "I know a lot about cars, man. I can look at any car's headlights and tell you exactly which way it's coming.",
+            "author": "Mitch Hedberg"
+        },
+        {
+            "quote": "Wine comes in at the mouth<br>And love comes in at the eye<br>That's all we shall know for truth<br>Before we grow old and die.",
+            "author": "William Butler Yeats"
+        },
+        {
+            "quote": "Every man is guilty of all the good he did not do.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Some are so very studious of learning what was done by the ancients that they know not how to live with the moderns.",
+            "author": "William Penn"
+        },
+        {
+            "quote": "I haven't had that one great love, which is good. I don't want that to be in the past - I want it to be in the future.",
+            "author": "Taylor Swift"
+        },
+        {
+            "quote": "Communism has never come to power in a country that was not disrupted by war or corruption, or both.",
+            "author": "John F. Kennedy"
+        },
+        {
+            "quote": "I don't believe the most successful people are the ones who got the best grades, got into the best schools, or made the most money.",
+            "author": "Ben Stein"
+        },
+        {
+            "quote": "Our forces saved the remnants of the Jewish people of Europe for a new life and a new hope in the reborn land of Israel. Along with all men of good will, I salute the young state and wish it well.",
+            "author": "Dwight D. Eisenhower"
+        },
+        {
+            "quote": "The hardest thing to learn in life is which bridge to cross and which to burn.",
+            "author": "David Russell"
+        },
+        {
+            "quote": "There is no pleasure in having nothing to do; the fun is having lots to do and not doing it.",
+            "author": "Mary Wilson Little"
+        },
+        {
+            "quote": "We have one life it soon will be past what we do for God is all that will last.",
+            "author": "Muhammad Ali"
+        },
+        {
+            "quote": "What's important at the grocery store is just as important in engines or medical systems. If the customer isn't satisfied, if the stuff is getting stale, if the shelf isn't right, or if the offerings aren't right, it's the same thing. You manage it like a small organization. You don't get hung up on zeros.",
+            "author": "Jack Welch"
+        },
+        {
+            "quote": "Have patience—wait, but do not sit idle; work while you are waiting; smile while you are wearied with monotony; be firm while everything around you is being shaken; be joyous while the ugly face of despair grins at you; speak aloud while the malevolent forces of the nether world try to crush your mind; be valiant and courageous while men all around you are cringing with fear and cowardice.",
+            "author": "Abdu'l-Baha"
+        },
+        {
+            "quote": "Your quote",
+            "author": "Author"
+        },
+        {
+            "quote": "Put not your trust in money, but put your money in trust.",
+            "author": "Oliver Wendell Holmes"
+        },
+        {
+            "quote": "Hope is a good breakfast, but it is a bad supper.",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "Each year has been so robust with problems and successes and learning experiences and human experienes that a year is a lifetime at Apple. So this has been ten lifetimes.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "Sometimes it's the smallest decisions that can change your life forever.",
+            "author": "Keri Russell"
+        },
+        {
+            "quote": "The strongest and most effective force in guaranteeing the long-term maintenance of power is not violence in all the forms deployed by the dominant to control the dominated, but consent in all the forms in which the dominated acquiesce in their own domination.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "If there is anything that a man can do well, I say let him do it. Give him a chance.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Cowards die many times before their deaths the valiant never taste of death but once.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "It is impossible to imagine a more complete fusion with nature than that of the Gypsy.",
+            "author": "Franz Liszt"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain updated"
+        },
+        {
+            "quote": "I never come back home with the same moral character I went out with; something or other becomes unsettled where I had achieved internal peace; some one or other of the things I had put to flight reappears on the scene.",
+            "author": "Lucius Annaeus Seneca"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Let me smile with the wise, and feed with the rich.",
+            "author": "Samuel Johnson"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Shubham Verma"
+        },
+        {
+            "quote": "It's more fun to be a pirate than to join the navy.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "All men by nature desire knowledge.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "It is amazing how you can surround yourself with so many people you can call friends, and yet actually only have one or two real ones.",
+            "author": "Jerry Grant Blakeney"
+        },
+        {
+            "quote": "Anybody who has been seriously engaged in scientific work of any kind realizes that over the entrance to the gates of the temple of science are written the words: 'Ye must have faith.'",
+            "author": "Max Planck"
+        },
+        {
+            "quote": "Education is the period during which you are being instructed by somebody you do not know, about something you do not want to know.",
+            "author": "Gilbert K. Chesterton"
+        },
+        {
+            "quote": "ett djupt citat",
+            "author": "Anonymous"
+        },
+        {
+            "quote": "The impersonal hand of government can never replace the helping hand of a neighbor.",
+            "author": "Hubert H. Humphrey"
+        },
+        {
+            "quote": "Tact is the ability to describe others as they see themselves.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "On the whole, human beings want to be good, but not too good, and not quite all the time.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "Ye stars! which are the poetry of heaven!",
+            "author": "Lord Byron"
+        },
+        {
+            "quote": "The most dangerous man to any government is the man who is able to think things out... without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane, intolerable.",
+            "author": "H. L. Mencken"
+        },
+        {
+            "quote": "Covetousness is both the beginning and the end of the devil's alphabet - the first vice in corrupt nature that moves, and the last which dies.",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "Golf is a game in which one endeavors to control a ball with implements ill adapted for the purpose.",
+            "author": "Woodrow Wilson"
+        },
+        {
+            "quote": "If you told someone you wanted to make a thermostat and they looked at the numbers, no one would do it. No one would have made the iPod…no one would have made the iPhone.",
+            "author": "Tony Fadell"
+        },
+        {
+            "quote": "The time you enjoy wasting is not wasted time.",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "It is incontestable and deplorable that Negroes have committed crimes but they are derivative crimes. They are born of the greater crimes of the white society.",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "It is not funny that anything else should fall down only that a man should fall down. Why do we laugh? Because it is a gravely religious matter: it is the Fall of Man. Only man can be absurd: for only man can be dignified.",
+            "author": "Gilbert K. Chesterton"
+        },
+        {
+            "quote": "It will be I, it will be the silence, where I am, I don't know, I'll never know, in the silence you don't know, you must go on, I can't go on, I'll go on.",
+            "author": "Samuel Beckett"
+        },
+        {
+            "quote": "If everyone demanded peace instead of another television set, then there'd be peace.",
+            "author": "John Lennon"
+        },
+        {
+            "quote": "It is only when we forget all our learning that we begin to know.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "The communication of the dead is tongued with fire beyond the language of the living.",
+            "author": "T. S. Eliot"
+        },
+        {
+            "quote": "A true friend freely, advises justly, assists readily, adventures boldly, takes all patiently, defends courageously, and continues a friend unchangeably.",
+            "author": "William Penn"
+        },
+        {
+            "quote": "Smart businesses do not look at labor costs alone anymore. They do look at market access, transportation, telecommunications infrastructure and the education and skill level of the workforce, the development of capital and the regulatory market.",
+            "author": "Janet Napolitano"
+        },
+        {
+            "quote": "We choose our joys and sorrows long before we experience them.",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "There is no such thing as failure. There are only results.",
+            "author": "Tony Robbins"
+        },
+        {
+            "quote": "God does not play dice.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Ultimately, America's answer to the intolerant man is diversity, the very diversity which our heritage of religious freedom has inspired.",
+            "author": "Robert Kennedy"
+        },
+        {
+            "quote": "Necessity is blind until it becomes conscious. Freedom is the consciousness of necessity.",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "The best thing about the future is that it comes only one day at a time.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "The only real security that a man can have in this world is a reserve of knowledge, experience and ability.",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "Far better is it to dare mighty things, to win glorious triumphs, even though checkered by failure... than to rank with those poor spirits who neither enjoy nor suffer much, because they live in a gray twilight that knows not victory nor defeat.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "If you are a writer you locate yourself behind a wall of silence and no matter what you are doing, driving a car or walking or doing housework you can still be writing, because you have that space.",
+            "author": "Joyce Carol Oates"
+        },
+        {
+            "quote": "Art can never exist without naked beauty displayed.",
+            "author": "William Blake"
+        },
+        {
+            "quote": "Conservative, n: A statesman who is enamored of existing evils, as distinguished from the Liberal who wishes to replace them with others.",
+            "author": "Ambrose Bierce"
+        },
+        {
+            "quote": "Old age is always wakeful as if, the longer linked with life, the less man has to do with aught that looks like death.",
+            "author": "Herman Melville"
+        },
+        {
+            "quote": "Courage in danger is half the battle.",
+            "author": "Plautus"
+        },
+        {
+            "quote": "If you want a vision of the future, imagine a boot stamping on a human face - forever.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "Be kind whenever possible. It is always possible.",
+            "author": "Nag R1"
+        },
+        {
+            "quote": "The only thing we have to fear is fear itself.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "To refrain from imitation is the best revenge.",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "The universe we observe has precisely the properties we should expect if there is, at bottom, no design, no purpose, no evil, no good, nothing but blind, pitiless indifference.",
+            "author": "Richard Dawkins"
+        },
+        {
+            "quote": "It takes courage to grow up and become who you really are.",
+            "author": "E.E. Cummings"
+        },
+        {
+            "quote": "Expect the best, plan for the worst, and prepare to be surprised.",
+            "author": "Denis Waitley"
+        },
+        {
+            "quote": "Intervention only works when the people concerned seem to be keen for peace.",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "I had crossed the line. I was free but there was no one to welcome me to the land of freedom. I was a stranger in a strange land.",
+            "author": "Harriet Tubman"
+        },
+        {
+            "quote": "The only reason for time is so that everything doesn't happen at once.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Turkey wants a policy of engagement exactly like President Obama's new approach. Policy of engagement, less confrontation, less tense attitude, especially in the region.",
+            "author": "Ahmet Davutoglu"
+        },
+        {
+            "quote": "Tact is the ability to describe others as they see themselves.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "yeah this could actually be a dope rap beat",
+            "author": "Leslie Hochsztein"
+        },
+        {
+            "quote": "I must uphold my ideals, for perhaps the time will come when I shall be able to carry them out.",
+            "author": "Anne Frank"
+        },
+        {
+            "quote": "There is the truth; everything else is a cache.",
+            "author": "Anonymous"
+        },
+        {
+            "quote": "God hangs the greatest weights upon the smallest wires.",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "There is nothing I love as much as a good fight.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "Time spent with cats is never wasted.",
+            "author": "Sigmund Freud"
+        },
+        {
+            "quote": "A whole stack of memories never equal one little hope.",
+            "author": "Charles M. Schulz"
+        },
+        {
+            "quote": "Change your thoughts and you change your world.",
+            "author": "Norman Vincent Peale"
+        },
+        {
+            "quote": "Always forgive your enemies - nothing annoys them so much.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The one charm about marriage is that it makes a life of deception absolutely necessary for both parties.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Prosperity is not without many fears and distastes adversity not without many comforts and hopes.",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "Indeed, history is nothing more than a tableau of crimes and misfortunes.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Men show their character in nothing more clearly than what they think laughable.",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Religion is the sigh of the oppressed creature, the heart of a heartless world, and the soul of soulless conditions. It is the opium of the people.",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "…For everything has a trace of the divine in it.",
+            "author": "Yann Martel"
+        },
+        {
+            "quote": "The worst government is often the most moral. One composed of cynics is often very tolerant and humane. But when fanatics are on top there is no limit to oppression.",
+            "author": "H. L. Mencken"
+        },
+        {
+            "quote": "Information is the oxygen of the modern age. It seeps through the walls topped by barbed wire, it wafts across the electrified borders.",
+            "author": "Ronald Reagan"
+        },
+        {
+            "quote": "The slightest acquaintance with history shows that powerful republics are the most warlike and unscrupulous of nations.",
+            "author": "Ambrose Bierce"
+        },
+        {
+            "quote": "I am of a healthy long lived race, and our minds improve with age.",
+            "author": "William Butler Yeats"
+        },
+        {
+            "quote": "The meaning of peace is the absence of opposition to socialism.",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "In a gentle way, you can shake the world.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "There are many people in the world who really don't understand-or say they don't-what is the great issue between the free world and the Communist world. Let them come to Berlin!",
+            "author": "John F. Kennedy"
+        },
+        {
+            "quote": "A 'scream' is always just that - a noise and not music.",
+            "author": "Carl Jung"
+        },
+        {
+            "quote": "Basically my wife was immature. I'd be at home in the bath and she'd come in and sink my boats.",
+            "author": "Woody Allen"
+        },
+        {
+            "quote": "By all means let's be open-minded, but not so open-minded that our brains drop out.",
+            "author": "Richard Dawkins"
+        },
+        {
+            "quote": "What you do not want done to yourself, do not do to others.",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Future. That period of time in which our affairs prosper, our friends are true and our happiness is assured.",
+            "author": "Ambrose Bierce"
+        },
+        {
+            "quote": "They would need to be already wise, in order to love wisdom.",
+            "author": "Friedrich Schiller"
+        },
+        {
+            "quote": "The movies are the only business where you can go out front and applaud yourself.",
+            "author": "Will Rogers"
+        },
+        {
+            "quote": "We should not judge people by their peak of excellence but by the distance they have traveled from the point where they started.",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "The light which puts out our eyes is darkness to us. Only that day dawns to which we are awake. There is more day to dawn. The sun is but a morning star.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Don't change on me. Don't extort me unless you intend to do it forever.",
+            "author": "Tupac Shakur"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Serious sport has nothing to do with fair play. It is bound up with hatred, jealousy, boastfulness, disregard of all rules and sadistic pleasure in witnessing violence. In other words, it is war minus the shooting.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "Traditional science assumes, for the most part, that an objective observer independent reality exists the universe, stars, galaxies, sun, moon and earth would still be there if no one was looking.",
+            "author": "Deepak Chopra"
+        },
+        {
+            "quote": "The simple truth is that balding African-American men look cool when they shave their heads, whereas balding white men look like giant thumbs.",
+            "author": "Dave Barry"
+        },
+        {
+            "quote": "It is easy enough to be friendly to one's friends. But to befriend the one who regards himself as your enemy is the quintessence of true religion. The other is mere business.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "White... is not a mere absence of colour it is a shining and affirmative thing, as fierce as red, as definite as black... God paints in many colours but He never paints so gorgeously, I had almost said so gaudily, as when He paints in white.",
+            "author": "Gilbert K. Chesterton"
+        },
+        {
+            "quote": "A healthy attitude is contagious but don't wait to catch it from others. Be a carrier.",
+            "author": "Tom Stoppard"
+        },
+        {
+            "quote": "For centuries the death penalty, often accompanied by barbarous refinements, has been trying to hold crime in check yet crime persists. Why? Because the instincts that are warring in man are not, as the law claims, constant forces in a state of equilibrium.",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "Writing fiction is for me a fraught business, an occasion of daily dread for at least the first half of the novel, and sometimes all the way through. The work process is totally different from writing nonfiction. You have to sit down every day and make it up.",
+            "author": "Joan Didion"
+        },
+        {
+            "quote": "Let your Discourse with Men of Business be Short and Comprehensive.",
+            "author": "George Washington"
+        },
+        {
+            "quote": "A little knowledge that acts is worth infinitely more than much knowledge that is idle.",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "Be yourself; everyone else is already taken.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "One can be instructed in society, one is inspired only in solitude.",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Capital isn't that important in business. Experience isn't that important. You can get both of these things. What is important is ideas.",
+            "author": "Harvey S. Firest one"
+        },
+        {
+            "quote": "Individual rights are the means of subordinating society to moral law.",
+            "author": "Ayn Rand"
+        },
+        {
+            "quote": "Telling a teenager the facts of life is like giving a fish a bath.",
+            "author": "Arnold H. Glasow"
+        },
+        {
+            "quote": "Politics has become so expensive that it takes a lot of money even to be defeated.",
+            "author": "Will Rogers"
+        },
+        {
+            "quote": "Right now it's only a notion, but I think I can get the money to make it into a concept, and later turn it into an idea.",
+            "author": "Woody Allen"
+        },
+        {
+            "quote": "There are three classes of men; lovers of wisdom, lovers of honor, and lovers of gain.",
+            "author": "Plato"
+        },
+        {
+            "quote": "An insincere and evil friend is more to be feared than a wild beast a wild beast may wound your body, but an evil friend will wound your mind.",
+            "author": "Buddha"
+        },
+        {
+            "quote": "All modern revolutions have ended in a reinforcement of the power of the State.",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "People sleep peaceably in their beds at night only because rough men stand ready to do violence on their behalf.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "I love sleep. My life has the tendency to fall apart when I'm awake, you know?",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "Have convictions. Be friendly. Stick to your beliefs as they stick to theirs. Work as hard as they do.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Efforts and courage are not enough without purpose and direction.",
+            "author": "John F. Kennedy"
+        },
+        {
+            "quote": "Any man who has had the job I've had and didn't have a sense of humor wouldn't still be here.",
+            "author": "Harry S. Truman"
+        },
+        {
+            "quote": "Dig within. Within is the wellspring of Good; and it is always ready to bubble up, if you just dig.",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "Words, words, words! They shut one off from the universe. Three quarters of the time one's never in contact with things, only with the beastly words that stand for them.",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "I will show you fear in a handful of dust.",
+            "author": "T. S. Eliot"
+        },
+        {
+            "quote": "Wit is educated insolence.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "We must conceive of this whole universe as one commonwealth of which both gods and men are members.",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "If you work hard and you play well, all of those critics will quiet themselves pretty quickly.",
+            "author": "Peyton Manning"
+        },
+        {
+            "quote": "Results! Why, man, I have gotten a lot of results. I know several thousand things that won't work.",
+            "author": "Thomas A. Edison"
+        },
+        {
+            "quote": "A great empire, like a great cake, is most easily diminished at the edges.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "abc49@gmail.com",
+            "author": "abc49"
+        },
+        {
+            "quote": "If you give people tools, and they use their natural abilities and their curiosity, they will develop things in ways that will surprise you very much beyond what you might have expected.",
+            "author": "Bill Gates"
+        },
+        {
+            "quote": "Who dares nothing, need hope for nothing.",
+            "author": "Friedrich Schiller"
+        },
+        {
+            "quote": "The strong man is strongest when alone.",
+            "author": "Friedrich Schiller"
+        },
+        {
+            "quote": "We are free to yield to truth.",
+            "author": "Horace"
+        },
+        {
+            "quote": "Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "Must not all things at the last be swallowed up in death?",
+            "author": "Plato"
+        },
+        {
+            "quote": "Sir, my concern is not whether God is on our side; my greatest concern is to be on God's side, for God is always right.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is heard no more it is a tale told by an idiot, full of sound and fury, signifying nothing.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "The person who grieves suffers his passion to grow upon him he indulges it, he loves it but this never happens in the case of actual pain, which no man ever willingly endured for any considerable time.",
+            "author": "Edmund Burke"
+        },
+        {
+            "quote": "God does not play dice.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Faith - you can do very little with it, but you can do nothing without it.",
+            "author": "Samuel Butler"
+        },
+        {
+            "quote": "A sense is what has the power of receiving into itself the sensible forms of things without the matter, in the way in which a piece of wax takes on the impress of asignet-ring without the iron or gold.",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Hatred is settled anger.",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Those who are incapable of committing great crimes do not readily suspect them in others.",
+            "author": "Francois de La Rochefoucauld"
+        },
+        {
+            "quote": "Life is the art of drawing sufficient conclusions from insufficient premises.",
+            "author": "Samuel Butler"
+        },
+        {
+            "quote": "Old age: I fall asleep during the funerals of my friends.",
+            "author": "Mason Cooley"
+        },
+        {
+            "quote": "In this world of sin and sorrow there is always something to be thankful for as for me, I rejoice that I am not a Republican.",
+            "author": "H. L. Mencken"
+        },
+        {
+            "quote": "The Lord gave us two ends - one to sit on and the other to think with. Success depends on which one we use the most.",
+            "author": "Ann Landers"
+        },
+        {
+            "quote": "Wise men don't need advice. Fools won't take it.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "To be prepared for war is one of the most effective means of preserving peace.",
+            "author": "George Washington"
+        },
+        {
+            "quote": "You know, when you don't go on TV and talk about how many women you sleep with, some people in Hollywood, that are supposedly 'in the know,' start whispering that you're gay. If I were gay, I wouldn't be ashamed to admit it, but I'm not.",
+            "author": "Adam Sandler"
+        },
+        {
+            "quote": "Perseverance - a lowly virtue whereby mediocrity achieves an inglorious success.",
+            "author": "Ambrose Bierce"
+        },
+        {
+            "quote": "A man has a property in his opinions and the free communication of them.",
+            "author": "James Madison"
+        },
+        {
+            "quote": "Do the difficult things while they are easy and do the great things while they are small. A journey of a thousand miles must begin with a single step.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Human society sustains itself by transforming nature into garbage.",
+            "author": "Mason Cooley"
+        },
+        {
+            "quote": "The thing is, Obama is right that it would be a calamity for the government to default on its debt by not meeting its obligations. Such a thing has never happened and can't be allowed to happen.",
+            "author": "John Podhoretz"
+        },
+        {
+            "quote": "If past history was all there was to the game, the richest people would be librarians.",
+            "author": "Warren Buffett"
+        },
+        {
+            "quote": "Men always want to be a woman's first love - women like to be a man's last romance.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "A family with the wrong members in control that, perhaps, is as near as one can come to describing England in a phrase.",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "Think in the morning. Act in the noon. Eat in the evening. Sleep in the night.",
+            "author": "William Blake"
+        },
+        {
+            "quote": "I was not encouraged to follow the career of a writer because my parents thought that I was going to starve to death. They thought nobody can make a living from being a writer in Brazil. They were not wrong.",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Our dead are never dead to us, until we have forgotten them.",
+            "author": "George Eliot"
+        },
+        {
+            "quote": "I like playing music because it's a good living and I get satisfaction from it. But I can't feed my family with satisfaction.",
+            "author": "James Hetfield"
+        },
+        {
+            "quote": "For the past 33 years, I have looked in the mirror every morning and asked myself: 'If today were the last day of my life, would I want to do what I am about to do today?' And whenever the answer has been 'No' for too many days in a row, I know I need to change something.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "We are called to be architects of the future, not its victims.",
+            "author": "R. Buckminster Fuller"
+        },
+        {
+            "quote": "The sons of Judah have to choose that God may again choose them. The divine principle of our race is action, choice, resolved memory.",
+            "author": "George Eliot"
+        },
+        {
+            "quote": "There is not a person alive who is not capable of greatly contributing to the well-being of the planet. Just changing your attitude can affect the world around you.",
+            "author": "Susan Jeffers"
+        },
+        {
+            "quote": "The confidence in another man's virtue is no light evidence of a man's own, and God willingly favors such a confidence.",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "We must lay hold of the fact that economic laws are not made by nature. They are made by human beings.",
+            "author": "Franklin D. Roosevelt"
+        },
+        {
+            "quote": "To have faith is to trust yourself to the water. When you swim you don't grab hold of the water, because if you do you will sink and drown. Instead you relax, and float.",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "I have had all of the disadvantages required for success.",
+            "author": "Larry Ellison"
+        },
+        {
+            "quote": "If there is any delay in that feedback loop between thinking of something and seeing it and building on it, then there is this whole world of ideas which will neverbe.",
+            "author": "Bret Victor"
+        },
+        {
+            "quote": "Money is the worst currency that ever grew among mankind. This sacks cities, this drives men from their homes, this teaches and corrupts the worthiest minds to turn base deeds.",
+            "author": "Sophocles"
+        },
+        {
+            "quote": "I will govern my life and thoughts as if the whole world were to see the one and read the other, for what does it signify to make anything a secret to my neighbor, when to God, who is the searcher of our hearts, all our privacies are open?",
+            "author": "Lucius Annaeus Seneca"
+        },
+        {
+            "quote": "Life is nothing without friends.",
+            "author": "Boka"
+        },
+        {
+            "quote": "I never saved anything for the swim back.",
+            "author": "Vincent Freeman"
+        },
+        {
+            "quote": "Everyone has been made for some particular work, and the desire for that work has been put in every heart.",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "My advice to you is get married: if you find a good wife you'll be happy if not, you'll become a philosopher.",
+            "author": "Socrates"
+        },
+        {
+            "quote": "Life has its own hidden forces which you can only discover by living.",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "The things that will destroy America are prosperity-at-any-price, peace-at-any-price, safety-first instead of duty-first, the love of soft living, and the get-rich-quick theory of life.",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "The years like great black oxen tread the world, and God, the herdsman goads them on behind, and I am broken by their passing feet.",
+            "author": "William Butler Yeats"
+        },
+        {
+            "quote": "Violent men have not been known in history to die to a man. They die up to a point.",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "Życie to pasmo nieustannych porażek i rozczarowań, ale tylko od Ciebie zależy jak zamienisz je w swój życiowy sukces.",
+            "author": "Emil W.Wachol"
+        },
+        {
+            "quote": "The lunatic, the lover, and the poet, are of imagination; all compact.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "To love one that is great, is almost to be great one's self.",
+            "author": "Samuel Johnson"
+        },
+        {
+            "quote": "The greatest remedy for anger is delay.",
+            "author": "Thomas Paine"
+        },
+        {
+            "quote": "When you are in any contest, you should work as if there were - to the very last minute - a chance to lose it. This is battle, this is politics, this is anything.",
+            "author": "Dwight D. Eisenhower"
+        },
+        {
+            "quote": "A man who carries a cat by the tail learns something he can learn in no other way.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Texas has a lot of electrical votes.",
+            "author": "Yogi Berra"
+        },
+        {
+            "quote": "The laws of nature are but the mathematical thoughts of God.",
+            "author": "Euclid"
+        },
+        {
+            "quote": "What's another word for Thesaurus?",
+            "author": "Steven Wright"
+        },
+        {
+            "quote": "It is best for the wise man not to seem wise.",
+            "author": "Aeschylus"
+        },
+        {
+            "quote": "If time be of all things the most precious, wasting time must be the greatest prodigality.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "There are two ways to get enough.  One is to continue to accumulate more and more.  The other is to desire less.",
+            "author": "G. K. Chesterton"
+        },
+        {
+            "quote": "There's plenty of money to be made in the center of the court.",
+            "author": "Warren Buffett"
+        },
+        {
+            "quote": "The gambling known as business looks with austere disfavor upon the business known as gambling.",
+            "author": "Ambrose Bierce"
+        },
+        {
+            "quote": "All of the books in the world contain no more information than is broadcast as video in a single large American city in a single year. Not all bits have equal value.",
+            "author": "Carl Sagan"
+        },
+        {
+            "quote": "Middle age is when your age starts to show around your middle.",
+            "author": "Bob Hope"
+        },
+        {
+            "quote": "Rome was not built in one day.",
+            "author": "John Heywood"
+        },
+        {
+            "quote": "God made the Idiot for practice, and then He made the School Board.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "There is nothing new in the world except the history you do not know.",
+            "author": "Harry S. Truman"
+        },
+        {
+            "quote": "Who dares nothing, need hope for nothing.",
+            "author": "Friedrich Schiller"
+        },
+        {
+            "quote": "You're beautiful",
+            "author": "James Blunt"
+        },
+        {
+            "quote": "A mother's arms are more comforting than anyone else's.",
+            "author": "Princess Diana"
+        },
+        {
+            "quote": "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance.",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "The highest art is always the most religious, and the greatest artist is always a devout person.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree.",
+            "author": "Martin Luther"
+        },
+        {
+            "quote": "Women are not making it to the top. A hundred and ninety heads of state nine are women. Of all the people in parliament in the world, thirteen per cent are women. In the corporate sector, women at the top - C-level jobs, board seats - tops out at fifteen, sixteen per cent.",
+            "author": "Sheryl Sandberg"
+        },
+        {
+            "quote": "Know then this truth, enough for man to know virtue alone is happiness below.",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "No group and no government can properly prescribe precisely what should constitute the body of knowledge with which true education is concerned.",
+            "author": "FranklinD. Roosevelt"
+        },
+        {
+            "quote": "Men seldom, or rather never for a length of time and deliberately, rebel against anything that does not deserve rebelling against.",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+            "author": "Linus Torvalds"
+        },
+        {
+            "quote": "Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "I busted a mirror and got seven years bad luck, but my lawyer thinks he can get me five.",
+            "author": "Steven Wright"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Nothing is so fatal to religion as indifference.",
+            "author": "Edmund Burke"
+        },
+        {
+            "quote": "For death is no more than a turning of us over from time to eternity.",
+            "author": "William Penn"
+        },
+        {
+            "quote": "Victims always feel alone and helpless.",
+            "author": "Deepak Chopra"
+        },
+        {
+            "quote": "Fashion is only the attempt to realize art in living forms and social intercourse.",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "The words were on their way, and when they arrived, she would hold them in her hands like clouds, and she would ring them out like the rain.",
+            "author": "Markus Zusak"
+        },
+        {
+            "quote": "A happy life must be to a great extent a quiet life, for it is only in an atmosphere of quiet that true joy dare live.",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "You don't have to deserve your mother's love. You have to deserve your father's.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Life's greatest happiness is to be convinced we are loved.",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "We must respect the other fellow's religion, but only in the sense and to the extent that we respect his theory that his wife is beautiful and his children smart.",
+            "author": "H. L. Mencken"
+        },
+        {
+            "quote": "Love is the answer to everything. It's the only reason to do anything. If you don't write stories you love, you'll never make it. If you don't write stories that other people love, you'll never make it.",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "A lie can travel half way around the world while the truth is putting on its shoes.",
+            "author": "Charles Spurgeon"
+        },
+        {
+            "quote": "There is a sort of jealousy which needs very little fire it is hardly a passion, but a blight bred in the cloudy, damp despondency of uneasy egoism.",
+            "author": "George Eliot"
+        },
+        {
+            "quote": "All you need is ignorance and confidence and the success is sure.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "The only good luck many great men ever had was being born with the ability and determination to overcome bad luck.",
+            "author": "Channing Pollock"
+        },
+        {
+            "quote": "You can't move so fast that you try to change the mores faster than people can accept it. That doesn't mean you do nothing, but it means that you do the things that need to be done according to priority.",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "God created man and, finding him not sufficiently alone, gave him a companion to make him feel his solitude more keenly.",
+            "author": "Paul Valery"
+        },
+        {
+            "quote": "The person you consider ignorant and insignificant is the one who came from God, that he might learn bliss from grief and knowledge from gloom.",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "The ordinary man with extraordinary power is the chief danger for mankind - not the fiend or the sadist.",
+            "author": "Erich Fromm"
+        },
+        {
+            "quote": "I am often amazed at how much more capability and enthusiasm for science there is among elementary school youngsters than among college students.",
+            "author": "Carl Sagan"
+        },
+        {
+            "quote": "No man ever achieved worth-while success who did not, at one time or other, find himself with at least one foot hanging well over the brink of failure.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "Our goals can only be reached through a vehicle of a plan, in which we must fervently believe, and upon which we must vigorously act. There is no other route to success.",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Life is never fair, and perhaps it is a good thing for most of us that it is not.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "What we become depends on what we read after all of the professors have finished with us. The greatest university of all is a collection of books.",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "Cats are inquisitive, but hate to admit it.",
+            "author": "Mason Cooley"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "The sweltering summer of the Negro's legitimate discontent will not pass until there is an invigorating autumn of freedom and equality.",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "The communication of the dead is tongued with fire beyond the language of the living.",
+            "author": "T. S. Eliot"
+        },
+        {
+            "quote": "Experience teaches us that it is much easier to prevent an enemy from posting themselves than it is to dislodge them after they have got possession.",
+            "author": "George Washington"
+        },
+        {
+            "quote": "The moment a person forms a theory, his imagination sees in every object only the traits which favor that theory.",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "Is he alone who has courage on his right hand and faith on his left hand?",
+            "author": "Charles Lindbergh"
+        },
+        {
+            "quote": "It is not hard to understand modern art. If it hangs on a wall it's a painting, and if you can walk around it it's a sculpture.",
+            "author": "Tom Stoppard"
+        },
+        {
+            "quote": "We must conceive of this whole universe as one commonwealth of which both gods and men are members.",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Go confidently in the direction of your dreams. Live the life you have imagined.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Scientific research and other studies have demonstrated that arts education can enhance American students' math and language skills and improve test scores which in turn increase chances of higher education and good jobs in the future.",
+            "author": "Thad Cochran"
+        },
+        {
+            "quote": "When death comes it is never our tenderness that we repent from, but our severity.",
+            "author": "George Eliot"
+        },
+        {
+            "quote": "Linguistic philosophers continue to argue that probably music is not a language, that is in the philosophical debate. Another point of view is to say that music is a very profound language.",
+            "author": "Robert Fripp"
+        },
+        {
+            "quote": "My mother said to me, 'If you are a soldier, you will become a general. If you are a monk, you will become the Pope.' Instead, I was a painter, and became Picasso.",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Beauty is eternity gazing at itself in a mirror.",
+            "author": "Khalil Gibran"
+        },
+        {
+            "quote": "A man cannot be said to succeed in this life who does not satisfy one friend.",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Small debts are like small shot they are rattling on every side, and can scarcely be escaped without a wound: great debts are like cannon of loud noise, but little danger.",
+            "author": "Samuel Johnson"
+        },
+        {
+            "quote": "The true measure of a man is how he treats someone who can do him absolutely no good.",
+            "author": "Samuel Johnson"
+        },
+        {
+            "quote": "Let's make sure history never forgets the name... Enterprise",
+            "author": "Captain Jean-Luc Picard"
+        },
+        {
+            "quote": "Love many things, for therein lies the true strength, and whosoever loves much performs much, and can accomplish much, and what is done in love is done well.",
+            "author": "Vincent Van Gogh"
+        },
+        {
+            "quote": "Every man's work, whether it be literature, or music or pictures or architecture or anything else, is always a portrait of himself.",
+            "author": "Samuel Butler"
+        },
+        {
+            "quote": "One touch of nature makes the whole world kin.",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "To his dog, every man is Napoleon; hence the constant popularity of dogs.",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "To act as a superior man, a samurai of relationship, you must feel the entire situation with your whole body. A closed body is unable to sense subtle cues and signals, and therefore unable to act with mastery in the moment.",
+            "author": "David Deida"
+        },
+        {
+            "quote": "Seize the time... Live now! Make now always the most precious time. Now will never come again.",
+            "author": "Captain Jean-Luc Picard"
+        },
+        {
+            "quote": "Man needs, for his happiness, not only the enjoyment of this or that, but hope and enterprise and change.",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "If we listened to our intellect, we'd never have a love affair. We'd never have a friendship. We'd never go into business, because we'd be cynical. Well, that's nonsense. You've got to jump off cliffs all the time and build your wings on the way down.",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "For fools rush in where angels fear to tread.",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "I've learned that you shouldn't go through life with a catcher's mitt on both hands you need to be able to throw something back.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "The thing we fear we bring to pass.",
+            "author": "Elbert Hubbard"
+        },
+        {
+            "quote": "Don't think you are wiser, everyone has his/her fool part",
+            "author": "Adekunle Adeyemi"
+        },
+        {
+            "quote": "If you have a particular faith or religion, that is good. But you can survive without it.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "The taxpayer - that's someone who works for the federal government but doesn't have to take the civil service examination.",
+            "author": "Ronald Reagan"
+        },
+        {
+            "quote": "A good traveler has no fixed plans, and is not intent on arriving.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "If you live a life of make-believe, your life isn't worth anything until you do something that does challenge your reality. And to me, sailing the open ocean is a real challenge, because it's life or death.",
+            "author": "Morgan Freeman"
+        },
+        {
+            "quote": "We find delight in the beauty and happiness of children that makes the heart too big for the body.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "I buy expensive suits. They just look cheap on me.",
+            "author": "Warren Buffett"
+        },
+        {
+            "quote": "Wise men don't need advice. Fools won't take it.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Be at war with your vices, at peace with your neighbors, and let every new year find you a better man.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Human beings should be held accountable. Leave God alone. He has enough problems.",
+            "author": "Elie Wiesel"
+        },
+        {
+            "quote": "Education is what remains after one has forgotten what one has learned in school.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "I never dared to be radical when young for fear it would make me conservative when old.",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "At fifteen life had taught me undeniably that surrender, in its place, was as honorable as resistance, especially if one had no choice.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Segregation has no place in the education system.",
+            "author": "Richard Dawkins"
+        },
+        {
+            "quote": "In the morning a man walks with his whole body in the evening, only with his legs.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "The important thing is that men should have a purpose in life. It should be something useful, something good.",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "It is with trifles, and when he is off guard, that a man best reveals his character.",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "If a cluttered desk is a sign of a cluttered mind, of what, then, is an empty desk a sign?",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "A compromise is the art of dividing a cake in such a way that everyone believes he has the biggest piece.",
+            "author": "Ludwig Erhard"
+        },
+        {
+            "quote": "It is good even for old men to learn wisdom.",
+            "author": "Aeschylus"
+        },
+        {
+            "quote": "Statistical thinking will one day be as necessary a qualification for efficient citizenship as the ability to read and write.",
+            "author": "H. G. Wells"
+        },
+        {
+            "quote": "A smile is a facelift that's in everyone's price range!",
+            "author": "Tom Wilson"
+        },
+        {
+            "quote": "To his dog, every man is Napoleon; hence the constant popularity of dogs.",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "Mirth is the sweet wine of human life. It should be offered sparkling with zestful life unto God.",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "When men and woman die, as poets sung, his heart's the last part moves, her last, the tongue.",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Any book that helps a child to form a habit of reading, to make reading one of his deep and continuing needs, is good for him.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "The great city is that which has the greatest man or woman: if it be a few ragged huts, it is still the greatest city in the whole world.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "If there is anything that a man can do well, I say let him do it. Give him a chance.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "I have more than once in my time woken up feeling like death.",
+            "author": "Christopher Hitchens"
+        },
+        {
+            "quote": "Keep love in your heart. A life without it is like a sunless garden when the flowers are dead.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "History teaches that war begins when governments believe the price of aggression is cheap.",
+            "author": "Ronald Reagan"
+        },
+        {
+            "quote": "Healthy citizens are the greatest asset any country can have.",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "You need to overcome the tug of people against you as you reach for high goals.",
+            "author": "George S. Patton"
+        },
+        {
+            "quote": "Things do not happen. Things are made to happen.",
+            "author": "John F. Kennedy"
+        },
+        {
+            "quote": "The first requisite for the happiness of the people is the abolition of religion.",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "Truthful words are not beautiful beautiful words are not truthful. Good words are not persuasive persuasive words are not good.",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "When even one American - who has done nothing wrong - is forced by fear to shut his mind and close his mouth - then all Americans are in peril.",
+            "author": "Harry S.Truman"
+        },
+        {
+            "quote": "Our actions seem to have their lucky and unlucky stars, to which a great part of that blame and that commendation is due which is given to the actions themselves.",
+            "author": "Francois de La Rochefoucauld"
+        },
+        {
+            "quote": "The things I want to know are in books my best friend is the man who'll get me a book I ain't read.",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Os homens trazem em si a crueldade. Não devemos esquecer-nos disso, devemos ter cuidado. É preciso defender a possibilidade de criar e defender esse espaço de consciência, de lucidez. Essa é a nossa pequenina esperança.",
+            "author": "Jose Saramago"
+        },
+        {
+            "quote": "I had a stick of CareFree gum, but it didn't work. I felt pretty good while I was blowing that bubble, but as soon as the gum lost its flavor, I was back to pondering my mortality.",
+            "author": "Mitch Hedberg"
+        },
+        {
+            "quote": "With my wife I don't get no respect. I made a toast on her birthday to 'the best woman a man ever had.' The waiter joined me.",
+            "author": "Rodney Dangerfield"
+        },
+        {
+            "quote": "Education comes from within; you get it by struggle and effort and thought.",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "Advertising is legalized lying.",
+            "author": "H. G. Wells"
+        },
+        {
+            "quote": "If the nineteenth century was the age of the editorial chair, ours is the century of the psychiatrist's couch.",
+            "author": "Marshall McLuhan"
+        },
+        {
+            "quote": "Acting deals with very delicate emotions. It is not putting up a mask. Each time an actor acts he does not hide he exposes himself.",
+            "author": "Rodney Dangerfield"
+        },
+        {
+            "quote": "Leadership is the art of getting someone else to do something you want done because he wants to do it.",
+            "author": "Dwight D. Eisenhower"
+        },
+        {
+            "quote": "Every mind must make its choice between truth and repose. It cannot have both.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "None but a coward dares to boast that he has never known fear.",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "I see great things in baseball. It's our game - the American game.",
+            "author": "Walt Whitman"
+        },
+        {
+            "quote": "In the revolt against idealism, the ambiguities of the word experience have been perceived, with the result that realists have more and more avoided the word.",
+            "auhor": "Bertrand Russell"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Toleration is the best religion.",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "The health of the people is really the foundation upon which all their happiness and all their powers as a state depend.",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "quote": "Never let your schooling interfere with your education.",
+            "author": "Priyanka"
+        },
+        {
+            "quote": "It isn't about 'games', for me, personally, and it never really was. It was about creating something, anything, far bigger than yourself.",
+            "author": "Shigeru Miyamoto"
+        },
+        {
+            "quote": "For modes of faith let graceless zealots fight, His can't be wrong whose life is in the right.",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "Everything's got a moral, if only you can find it.",
+            "author": "Lewis Carroll"
+        },
+        {
+            "quote": "God, to me, it seems, is a verb not a noun, proper or improper.",
+            "author": "R. Buckminster Fuller"
+        },
+        {
+            "quote": "People will survive, and they will find happiness. Happiness only comes when you're not looking for it.",
+            "author": "Hugh Laurie"
+        },
+        {
+            "quote": "Nothing in the world is more dangerous than sincere ignorance and conscientious stupidity.",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "Imagination is the real and eternal world of which this vegetable universe is but a faint shadow.",
+            "author": "William Blake"
+        },
+        {
+            "quote": "We are the miracle of force and matter making itself over into imagination and will. Incredible. The Life Force experimenting with forms. You for one. Me for another. The Universe has shouted itself alive. We are one of the shouts.",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "The belief that all genuine education comes about through experience does not mean that all experiences are genuinely or equally educative.",
+            "author": "John Dewey"
+        },
+        {
+            "quote": "A man is as good as he has to be, and a woman as bad as she dares.",
+            "author": "Elbert Hubbard"
+        },
+        {
+            "quote": "I have known more men destroyed by the desire to have wife and child and to keep them in comfort than I have seen destroyed by drink and harlots.",
+            "author": "WilliamButler Yeats"
+        },
+        {
+            "quote": "If there is anything I've learned from Linux, it's that projects have a life of their own, and you should not try to enforce your vision too strongly on them.",
+            "author": "Linus Torvalds"
+        },
+        {
+            "quote": "Life is thickly sown with thorns, and I know no other remedy than to pass quickly through them. The longer we dwell on our misfortunes, the greater is their power to harm us.",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Women encourage men to be childish, then scold them.",
+            "author": "Mason Cooley"
+        },
+        {
+            "quote": "If there is anything I've learned from Linux, it's that projects have a life of their own, and you should not try to enforce your vision too strongly on them.",
+            "author": "Linus Torvalds"
+        },
+        {
+            "quote": "It has become almost a cliche to remark that nobody boasts of ignorance of literature, but it is socially acceptable to boast ignorance of science and proudly claim incompetence in mathematics.",
+            "author": "Richard Dawkins"
+        },
+        {
             "quote": "Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.",
             "author": "Stephen Richards"
         },
