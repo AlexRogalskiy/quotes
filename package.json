@@ -24,7 +24,8 @@
     "dependencies": {
         "hero-patterns": "^2.1.0",
         "isomorphic-unfetch": "^3.1.0",
-        "lodash": "^4.17.20"
+        "lodash": "^4.17.20",
+        "lunr": "^2.3.9"
     },
     "devDependencies": {
         "@semantic-release/github": "^7.2.0",
@@ -35,8 +36,9 @@
         "@types/prettier": "^2.1.5",
         "@typescript-eslint/eslint-plugin": "^4.15.0",
         "@typescript-eslint/parser": "^4.15.0",
+        "@types/lunr": "^2.3.3",
         "@vercel/node": "^1.9.0",
-        "del-cli": "3.0.0",
+        "del-cli": "^3.0.1",
         "eslint": "^7.18.0",
         "eslint-config-prettier": "^6.15.0",
         "eslint-plugin-github": "^4.1.1",
@@ -44,6 +46,7 @@
         "eslint-plugin-jest": "^23.20.0",
         "eslint-plugin-node": "^11.1.0",
         "eslint-plugin-prettier": "^3.1.4",
+        "eslint-plugin-spellcheck": "0.0.8",
         "jest": "^26.6.3",
         "jest-circus": "^26.6.3",
         "prettier": "^2.1.2",

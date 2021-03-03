@@ -1,5 +1,6 @@
 import fetch from 'isomorphic-unfetch'
 import _ from 'lodash'
+import { Index } from 'lunr'
 
 export const random = (max: number): number => {
     return Math.floor(Math.random() * max)
@@ -14,6 +15,10 @@ export const toBase64ImageUrl = async (imgUrl): Promise<string> => {
     return `data:${fetchImageUrl.headers.get('Content-Type') || 'image/png'};base64,${Buffer.from(
         responseArrBuffer
     ).toString('base64')}`
+}
+
+export const isString = (value): boolean => {
+    return null !== value && typeof value === 'string'
 }
 
 export const isNonEmptyString = (str: string): boolean => {
@@ -45,6 +50,28 @@ export const toInt = (str: string, defaultValue?: number): number | undefined =>
     } catch (e) {
         return defaultValue
     }
+}
+
+export const getSearchResultSet = <T>(
+    data: T[],
+    index: lunr.Index,
+    query: Index.QueryString
+): (T | undefined)[] => {
+    const results = getSearchResults(index, query)
+
+    return results.map(result => {
+        return data.find(item => result.ref === item['id'])
+    })
+}
+
+export const getSearchResults = (index: lunr.Index, query: Index.QueryString): Index.Result[] => {
+    // return index.query(q => {
+    //         q.term(index.tokenizer("comment"), {
+    //             wildcard: lunr.Query.wildcard.TRAILING,
+    //             presence: lunr.Query.presence.REQUIRED
+    //         });
+    //     });
+    return index.search(query)
 }
 
 export const randomEnum = <T>(anEnum: T): T[keyof T] => {

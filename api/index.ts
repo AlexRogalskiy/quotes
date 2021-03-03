@@ -8,6 +8,7 @@ export default async function render(req: NowRequest, res: NowResponse): Promise
     try {
         const {
             category,
+            keywords,
             pattern,
             width,
             height,
@@ -22,6 +23,7 @@ export default async function render(req: NowRequest, res: NowResponse): Promise
             pattern: HeroPattern[toString(pattern)] as HeroPattern,
             width: toString(width),
             height: toString(height),
+            keywords,
             backgroundColor,
             fontColor,
             opacity,

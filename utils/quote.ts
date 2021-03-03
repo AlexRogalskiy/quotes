@@ -1,7 +1,8 @@
 import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest } from '../typings/types'
+
+import { getSearchResults, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'
-import { mergeProps, randomElement, randomEnum, toFormatString } from './commons'
-import * as quoteFromCategory from '../data/quotes.json'
+import quotes from './quotes'
 import { CONFIG } from './config'
 
 type QuoteData = {
@@ -10,7 +11,7 @@ type QuoteData = {
 }
 
 export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<string> {
-    const { category, width, height, ...rest } = parsedRequest
+    const { category, keywords, width, height, ...rest } = parsedRequest
 
     const colorOptions: ColorOptions = mergeProps(CONFIG.colorOptions, rest)
     const imageOptions: ImageOptions = mergeProps(CONFIG.imageOptions, { width, height })
@@ -24,11 +25,10 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
         `
     )
 
-    const quotes: QuoteData[] =
-        category === undefined ? quoteFromCategory[randomEnum(CategoryPattern)] : quoteFromCategory[category]
-    const quoteData: QuoteData = randomElement(quotes)
+    const quoteData: QuoteData | null = keywords ? getQuoteByKeywords(keywords) : getQuoteByCategory(category)
 
-    return `
+    return quoteData
+        ? `
     <svg
         width="${imageOptions.width}"
         height="${imageOptions.height}"
@@ -48,4 +48,25 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
         <style>${css(colorOptions)}</style>
       </svg>
   `
+        : ''
+}
+
+const getQuoteByKeywords = (keywords: string | string[]): QuoteData | null => {
+    const index = require('./search').index
+    const query = typeof keywords === 'string' ? keywords.split(',') : keywords
+    const results = getSearchResults(index, query.join(' '))
+    const result = randomElement(results)
+
+    if (result) {
+        const data = result.ref.split('_')
+        return quotes[data[0]][data[1]]
+    }
+
+    return null
+}
+
+const getQuoteByCategory = (category: string | undefined): QuoteData => {
+    const data: QuoteData[] = category ? quotes[category] : quotes[randomEnum(CategoryPattern)]
+
+    return randomElement(data)
 }

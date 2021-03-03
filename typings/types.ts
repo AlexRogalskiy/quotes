@@ -104,6 +104,7 @@ export interface ParsedRequest {
     category?: CategoryPattern | undefined
     width?: string
     height?: string
+    keywords?: string | string[]
     colorPattern?: string | string[]
     fontColor?: string | string[]
     backgroundColor?: string | string[]

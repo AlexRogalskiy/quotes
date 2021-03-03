@@ -1,6 +1,6 @@
 # _Styled quotes_
 
-> Generate [styled quote](https://en.wikipedia.org/wiki/Quote) SVG images
+> Generate SVG [styled quotes](https://en.wikipedia.org/wiki/Quote)
 
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/AlexRogalskiy/quotes)
 ![GitHub Release Date](https://img.shields.io/github/release-date/AlexRogalskiy/quotes)
@@ -76,7 +76,7 @@ For the tech stack, _**Styled Quotes**_ using Typescript and serverless function
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=[value]&opacity=[value]&colorPattern=[value]&fontColor=[value]&pattern=[pattern]&category=[value]&width=[width]&height=[height])
+![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=[value]&opacity=[value]&colorPattern=[value]&fontColor=[value]&pattern=[pattern]&category=[value]&width=[width]&height=[height]&keywords=[keywords])
 ```
 
 There are several options you can use from the list:
@@ -91,6 +91,7 @@ There are several options you can use from the list:
 | **Category**         | Quote category                         | String constant   | programming   | ```&category=[value]```        |
 | **Width**            | Quote image width                      | String            | 100%          | ```&width=[value]```           |
 | **Height**           | Quote image height                     | String            | 100%          | ```&height=[value]```          |
+| **Keywords**         | Quote keywords                         | String | String[] | love          | ```&Keywords=[value]```        |
 
 Here is a list of categories supported by Quotes API:
 
