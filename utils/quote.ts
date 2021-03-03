@@ -1,10 +1,20 @@
 import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest } from '../typings/types'
+import gradient from 'gradient-string'
+import randomColor from 'randomcolor'
 
-import { getSearchResults, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
+import {
+    delim,
+    getSearchResults,
+    mergeProps,
+    randomElement,
+    randomEnum,
+    toFormatString
+} from './commons'
 import { css } from './getCss'
-import quotes from './quotes'
 import { idx } from './search'
 import { CONFIG } from './config'
+
+import quotes from './quotes'
 
 type QuoteData = {
     quote: string
@@ -19,11 +29,13 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
 
     console.log(
         `
-        >>> Generating quote with parameters:
+        ${gradient(randomColor(), randomColor())(delim)}
+        Generating quote with parameters:
         category=${category},
         keywords=${keywords},
         colorOptions=${toFormatString(colorOptions)}
         imageOptions=${toFormatString(imageOptions)}
+        ${gradient(randomColor(), randomColor())(delim)}
         `
     )
 

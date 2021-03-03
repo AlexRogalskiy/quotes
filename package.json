@@ -13,6 +13,7 @@
         "lint": "eslint --cache --fix --quiet --format codeframe --ext js,ts .",
         "reinstall": "del-cli ./node_modules ./package-lock.json ./yarn.lock",
         "postreinstall": "yarn setup",
+        "prepare": "rimraf coverage .cache",
         "setup": "yarn",
         "semantic-release": "semantic-release",
         "test": "TZ=utc jest",
@@ -51,6 +52,8 @@
         "jest-circus": "^26.6.3",
         "prettier": "^2.1.2",
         "semantic-release": ">=17.2.3",
+        "randomcolor": "^0.5.4",
+        "gradient-string": "^1.2.0",
         "ts-jest": "^26.4.4",
         "ts-node": ">=9.0.0",
         "typescript": "^4.1.3"

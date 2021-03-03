@@ -1,7 +1,10 @@
 import fetch from 'isomorphic-unfetch'
 import _ from 'lodash'
 import lunr from 'lunr'
+
 import { existsSync, mkdirSync } from 'fs'
+
+export const delim = '>'.repeat(80)
 
 export const random = (max: number): number => {
     return Math.floor(Math.random() * max)
