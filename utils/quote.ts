@@ -2,14 +2,7 @@ import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest } from '../t
 import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
 
-import {
-    delim,
-    getSearchResults,
-    mergeProps,
-    randomElement,
-    randomEnum,
-    toFormatString
-} from './commons'
+import { delim, getSearchResults, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'
 import { idx } from './search'
 import { CONFIG } from './config'
