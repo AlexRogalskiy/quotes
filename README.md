@@ -83,15 +83,15 @@ There are several options you can use from the list:
 
 |  **Options**           | **Description**                        |   **Type**                     | **Example**   | **Query Params**               | 
 | ---------------------- | -------------------------------------- | ------------------------------ | ------------- | ------------------------------ |
-| [**Background Color**] | Background color for the quote image   | <code>Hex color code</code>    | %23ffffff     | ```?backgroundColor=[value]``` |
-| [**Opacity Pattern**]  | Background opacity of the pattern      | <code>Float number</code>      | 0 - 1         | ```&opacity=[value]```         |
-| [**Color Pattern**]    | Color pattern for the signage          | <code>Hex color code</code>    | %231abc9c     | ```&colorPattern=[value]```    |
-| [**Font Color**]       | Font color for the quote text          | <code>Hex color code</code>    | %23000000     | ```&fontColor=[value]```       |
-| [**Pattern**]          | Pattern for the background             | <code>String constant</code>   | plus          | ```&pattern=[value]```         |
-| [**Category**]         | Quote category                         | <code>String constant</code>   | programming   | ```&category=[value]```        |
-| [**Width**]            | Quote image width                      | <code>String</code>            | 100%          | ```&width=[value]```           |
-| [**Height**]           | Quote image height                     | <code>String</code>            | 100%          | ```&height=[value]```          |
-| [**Keywords**]         | Quote keywords                         | <code>String | String[]</code> | love          | ```&keywords=[value]```        |
+| **[Background Color]** | Background color for the quote image   | <code>Hex color code</code>    | %23ffffff     | ```?backgroundColor=[value]``` |
+| **[Opacity Pattern]**  | Background opacity of the pattern      | <code>Float number</code>      | 0 - 1         | ```&opacity=[value]```         |
+| **[Color Pattern]**    | Color pattern for the signage          | <code>Hex color code</code>    | %231abc9c     | ```&colorPattern=[value]```    |
+| **[Font Color]**       | Font color for the quote text          | <code>Hex color code</code>    | %23000000     | ```&fontColor=[value]```       |
+| **[Pattern]**          | Pattern for the background             | <code>String constant</code>   | plus          | ```&pattern=[value]```         |
+| **[Category]**         | Quote category                         | <code>String constant</code>   | programming   | ```&category=[value]```        |
+| **[Width]**            | Quote image width                      | <code>String</code>            | 100%          | ```&width=[value]```           |
+| **[Height]**           | Quote image height                     | <code>String</code>            | 100%          | ```&height=[value]```          |
+| **[Keywords]**         | Quote keywords                         | <code>String/String[]</code>   | love          | ```&keywords=[value]```        |
 
 Here is a list of categories supported by Quotes API:
 
