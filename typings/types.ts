@@ -125,7 +125,13 @@ export interface ImageOptions {
     readonly height: string
 }
 
+export interface IndexOptions {
+    readonly path: string
+    readonly name: string
+}
+
 export interface ConfigOptions {
     readonly colorOptions: ColorOptions
     readonly imageOptions: ImageOptions
+    readonly indexOptions: IndexOptions
 }

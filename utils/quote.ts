@@ -3,6 +3,7 @@ import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest } from '../t
 import { getSearchResults, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'
 import quotes from './quotes'
+import { idx } from './search'
 import { CONFIG } from './config'
 
 type QuoteData = {
@@ -20,6 +21,7 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
         `
         >>> Generating quote with parameters:
         category=${category},
+        keywords=${keywords},
         colorOptions=${toFormatString(colorOptions)}
         imageOptions=${toFormatString(imageOptions)}
         `
@@ -52,9 +54,8 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
 }
 
 const getQuoteByKeywords = (keywords: string | string[]): QuoteData | null => {
-    const index = require('./search').index
     const query = typeof keywords === 'string' ? keywords.split(',') : keywords
-    const results = getSearchResults(index, query.join(' '))
+    const results = getSearchResults(idx, query.join(' '))
     const result = randomElement(results)
 
     if (result) {

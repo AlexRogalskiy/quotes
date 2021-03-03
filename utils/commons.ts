@@ -1,12 +1,19 @@
 import fetch from 'isomorphic-unfetch'
 import _ from 'lodash'
-import { Index } from 'lunr'
+import lunr from 'lunr'
+import { existsSync, mkdirSync } from 'fs'
 
 export const random = (max: number): number => {
     return Math.floor(Math.random() * max)
 }
 
 export const randomElement = <T>(arr: T[]): T => arr[random(arr.length)]
+
+export const ensureDirExists = (dir: string): void => {
+    if (!existsSync(dir)) {
+        mkdirSync(dir, { recursive: true })
+    }
+}
 
 export const toBase64ImageUrl = async (imgUrl): Promise<string> => {
     const fetchImageUrl = await fetch(imgUrl)
@@ -55,7 +62,7 @@ export const toInt = (str: string, defaultValue?: number): number | undefined =>
 export const getSearchResultSet = <T>(
     data: T[],
     index: lunr.Index,
-    query: Index.QueryString
+    query: lunr.Index.QueryString
 ): (T | undefined)[] => {
     const results = getSearchResults(index, query)
 
@@ -64,7 +71,7 @@ export const getSearchResultSet = <T>(
     })
 }
 
-export const getSearchResults = (index: lunr.Index, query: Index.QueryString): Index.Result[] => {
+export const getSearchResults = (index: lunr.Index, query: lunr.Index.QueryString): lunr.Index.Result[] => {
     // return index.query(q => {
     //         q.term(index.tokenizer("comment"), {
     //             wildcard: lunr.Query.wildcard.TRAILING,

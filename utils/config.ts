@@ -11,4 +11,8 @@ export const CONFIG: Readonly<ConfigOptions> = {
         width: '100%',
         height: '100%',
     },
+    indexOptions: {
+        path: '.cache',
+        name: 'lunr-index.json',
+    },
 }
