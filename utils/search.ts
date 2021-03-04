@@ -23,12 +23,10 @@ export const createIndex = (): lunr.Index => {
 
 const storeIndex = (): lunr.Index => {
     try {
+        ensureDirExists(`${CONFIG.indexOptions.path}`)
+        const indexPath = join(`${CONFIG.indexOptions.path}`, `${CONFIG.indexOptions.name}`)
+
         const index = createIndex()
-
-        const filePath = join(__dirname, '../', `${CONFIG.indexOptions.path}`)
-        ensureDirExists(filePath)
-
-        const indexPath = join(filePath, `${CONFIG.indexOptions.name}`)
         writeFileSync(indexPath, JSON.stringify(index))
         return index
     } catch (e) {
@@ -39,8 +37,7 @@ const storeIndex = (): lunr.Index => {
 
 const restoreIndex = (): lunr.Index => {
     try {
-        const filePath = join(__dirname, '../', `${CONFIG.indexOptions.path}`)
-        const indexPath = join(filePath, `${CONFIG.indexOptions.name}`)
+        const indexPath = join(`${CONFIG.indexOptions.path}`, `${CONFIG.indexOptions.name}`)
         const index = readFileSync(indexPath, 'utf-8')
         return lunr.Index.load(JSON.parse(index))
     } catch (e) {
