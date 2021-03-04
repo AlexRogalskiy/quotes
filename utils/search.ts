@@ -3,7 +3,7 @@ import { readFileSync, writeFileSync } from 'fs'
 import { join } from 'path'
 
 import quotes from './quotes'
-import { ensureDirExists } from './commons'
+import { ensureDirExists, tempDir } from './commons'
 import { CategoryPattern, QuoteData } from '../typings/types'
 import { profile } from './env'
 
@@ -23,7 +23,7 @@ export const createIndex = (): lunr.Index => {
 
 const storeIndex = (): lunr.Index => {
     try {
-        const filePath = join(__dirname, '../', `${profile.indexOptions.path}`)
+        const filePath = join(tempDir, `${profile.indexOptions.path}`)
         ensureDirExists(filePath)
 
         const index = createIndex()
@@ -38,7 +38,7 @@ const storeIndex = (): lunr.Index => {
 
 const restoreIndex = (): lunr.Index => {
     try {
-        const filePath = join(__dirname, '../', `${profile.indexOptions.path}`)
+        const filePath = join(tempDir, `${profile.indexOptions.path}`)
         const indexPath = join(filePath, `${profile.indexOptions.name}`)
         const index = readFileSync(indexPath, 'utf-8')
         return lunr.Index.load(JSON.parse(index))

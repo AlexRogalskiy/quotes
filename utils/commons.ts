@@ -1,12 +1,15 @@
 import fetch from 'isomorphic-unfetch'
 import _ from 'lodash'
 import lunr from 'lunr'
+import { tmpdir } from 'os'
 
 import { existsSync, mkdirSync } from 'fs'
 
 export const delimiterBy = (value = '>', num = 80): string => value.repeat(num)
 
 export const delim = delimiterBy()
+
+export const tempDir = tmpdir()
 
 export const random = (max: number): number => {
     return Math.floor(Math.random() * max)
