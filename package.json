@@ -17,7 +17,7 @@
         "prepare": "rimraf coverage .cache",
         "setup": "yarn",
         "semantic-release": "semantic-release",
-        "test": "TZ=utc jest",
+        "test": "env-cmd -e test jest",
         "test:coverage": "jest --collectCoverage",
         "test:watch": "jest --watch",
         "test:all": "npm run test",
