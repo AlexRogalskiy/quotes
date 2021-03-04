@@ -5,7 +5,7 @@ import { join } from 'path'
 import quotes from './quotes'
 import { ensureDirExists } from './commons'
 import { CategoryPattern, QuoteData } from '../typings/types'
-import { CONFIG } from './config'
+import { profile } from './env'
 
 export const createIndex = (): lunr.Index => {
     return lunr(function () {
@@ -14,7 +14,7 @@ export const createIndex = (): lunr.Index => {
 
         for (const category of Object.values(CategoryPattern)) {
             for (const [index, value] of (quotes[category] as QuoteData[]).entries()) {
-                value.id = `${category}${CONFIG.indexOptions.delim}${index}`
+                value.id = `${category}${profile.indexOptions.delim}${index}`
                 this.add(value)
             }
         }
@@ -23,10 +23,11 @@ export const createIndex = (): lunr.Index => {
 
 const storeIndex = (): lunr.Index => {
     try {
-        ensureDirExists(`${CONFIG.indexOptions.path}`)
-        const indexPath = join(`${CONFIG.indexOptions.path}`, `${CONFIG.indexOptions.name}`)
+        const filePath = join(__dirname, '../', `${profile.indexOptions.path}`)
+        ensureDirExists(filePath)
 
         const index = createIndex()
+        const indexPath = join(filePath, `${profile.indexOptions.name}`)
         writeFileSync(indexPath, JSON.stringify(index))
         return index
     } catch (e) {
@@ -37,7 +38,8 @@ const storeIndex = (): lunr.Index => {
 
 const restoreIndex = (): lunr.Index => {
     try {
-        const indexPath = join(`${CONFIG.indexOptions.path}`, `${CONFIG.indexOptions.name}`)
+        const filePath = join(__dirname, '../', `${profile.indexOptions.path}`)
+        const indexPath = join(filePath, `${profile.indexOptions.name}`)
         const index = readFileSync(indexPath, 'utf-8')
         return lunr.Index.load(JSON.parse(index))
     } catch (e) {

@@ -5,9 +5,9 @@
     "main": "index.js",
     "license": "GPL-3.0",
     "scripts": {
-        "deploy:dev": "vercel",
-        "deploy:prod": "vercel --prod",
-        "develop": "vercel dev",
+        "deploy:dev": "env-cmd -e prod vercel",
+        "deploy:prod": "env-cmd -e prod vercel --prod",
+        "develop": "env-cmd -e dev vercel dev",
         "format": "prettier --single-quote --write **/*.ts",
         "format:check": "prettier --check **/*.ts",
         "lint": "eslint --cache --fix --quiet --format codeframe --ext js,ts .",
@@ -26,7 +26,8 @@
         "hero-patterns": "^2.1.0",
         "isomorphic-unfetch": "^3.1.0",
         "lodash": "^4.17.20",
-        "lunr": "^2.3.9"
+        "lunr": "^2.3.9",
+        "env-cmd": "^10.1.0"
     },
     "devDependencies": {
         "@semantic-release/github": "^7.2.0",

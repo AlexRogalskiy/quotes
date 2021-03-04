@@ -5,15 +5,15 @@ import randomColor from 'randomcolor'
 import { delim, getSearchResults, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'
 import { idx } from './search'
-import { CONFIG } from './config'
+import { profile } from './env'
 
 import quotes from './quotes'
 
 export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<string> {
     const { category, keywords, width, height, ...rest } = parsedRequest
 
-    const colorOptions: ColorOptions = mergeProps(CONFIG.colorOptions, rest)
-    const imageOptions: ImageOptions = mergeProps(CONFIG.imageOptions, { width, height })
+    const colorOptions: ColorOptions = mergeProps(profile.colorOptions, rest)
+    const imageOptions: ImageOptions = mergeProps(profile.imageOptions, { width, height })
 
     console.log(
         `
@@ -59,7 +59,7 @@ const getQuoteByKeywords = (keywords: string | string[]): QuoteData | null => {
     const result = randomElement(results)
 
     if (result) {
-        const data = result.ref.split(CONFIG.indexOptions.delim)
+        const data = result.ref.split(profile.indexOptions.delim)
         return quotes[data[0]][data[1]]
     }
 

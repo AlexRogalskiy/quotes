@@ -101,44 +101,131 @@ export enum CategoryPattern {
 }
 
 export type QuoteData = {
+    /**
+     * Quote identifier
+     */
     id?: string
+    /**
+     * Quote text
+     */
     quote: string
+    /**
+     * Quote author
+     */
     author: string
 }
 
 export interface ParsedRequest {
+    /**
+     * Quote category
+     */
     category?: CategoryPattern | undefined
+    /**
+     * Quote image width
+     */
     width?: string
+    /**
+     * Quote image height
+     */
     height?: string
+    /**
+     * Quote keywords
+     */
     keywords?: string | string[]
+    /**
+     * Quote image color pattern
+     */
     colorPattern?: string | string[]
+    /**
+     * Quote text font color
+     */
     fontColor?: string | string[]
+    /**
+     * Quote image background color
+     */
     backgroundColor?: string | string[]
+    /**
+     * Quote image background pattern
+     */
     pattern?: HeroPattern | undefined
+    /**
+     * Quote image background opacity
+     */
     opacity?: string | string[]
 }
 
 export interface ColorOptions {
+    /**
+     * Image color pattern
+     */
     readonly colorPattern: string | string[]
+    /**
+     * Image text font color
+     */
     readonly fontColor: string | string[]
+    /**
+     * Image background color
+     */
     readonly backgroundColor: string | string[]
+    /**
+     * Image background opacity
+     */
     readonly opacity: string | string[]
+    /**
+     * Image background pattern
+     */
     readonly pattern?: string
 }
 
 export interface ImageOptions {
+    /**
+     * Image width
+     */
     readonly width: string
+    /**
+     * Image height
+     */
     readonly height: string
 }
 
 export interface IndexOptions {
+    /**
+     * Index identifier delimiter
+     */
     readonly delim: string
+    /**
+     * Index file path
+     */
     readonly path: string
+    /**
+     * Index file name
+     */
     readonly name: string
 }
 
-export interface ConfigOptions {
+export enum Profile {
+    dev = 'dev',
+    prod = 'prod',
+}
+
+export interface QuoteOptions {
+    /**
+     * Color configuration options.
+     */
     readonly colorOptions: ColorOptions
+    /**
+     * Image configuration options.
+     */
     readonly imageOptions: ImageOptions
+    /**
+     * Index configuration options.
+     */
     readonly indexOptions: IndexOptions
+}
+
+export type ConfigOptions = {
+    readonly /**
+     * Profile configuration options.
+     */
+    [K in Profile]: QuoteOptions
 }
