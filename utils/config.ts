@@ -13,7 +13,7 @@ export const CONFIG: Readonly<ConfigOptions> = {
     },
     indexOptions: {
         delim: '_',
-        path: '.cache',
+        path: '.vercel/cache',
         name: 'lunr-index.json',
     },
 }
