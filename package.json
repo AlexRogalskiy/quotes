@@ -108,6 +108,11 @@
             ]
         ]
     },
+    "husky": {
+        "hooks": {
+            "pre-commit": "npm test:all"
+        }
+    },
     "bugs": {
         "url": "https://github.com/AlexRogalskiy/quotes/issues"
     },
