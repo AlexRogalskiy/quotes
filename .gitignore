@@ -6,6 +6,7 @@
 
 # Cache files
 .eslintcache
+lunr-index.json
 
 # Package files
 *.jar
