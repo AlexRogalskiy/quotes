@@ -126,6 +126,7 @@ export interface ImageOptions {
 }
 
 export interface IndexOptions {
+    readonly delim: string
     readonly path: string
     readonly name: string
 }

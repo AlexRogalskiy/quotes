@@ -4,7 +4,9 @@ import lunr from 'lunr'
 
 import { existsSync, mkdirSync } from 'fs'
 
-export const delim = '>'.repeat(80)
+export const delimBy = (value = '>', num = 80): string => value.repeat(num)
+
+export const delim = delimBy()
 
 export const random = (max: number): number => {
     return Math.floor(Math.random() * max)

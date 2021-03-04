@@ -14,7 +14,7 @@ export const createIndex = (): lunr.Index => {
 
         for (const category of Object.values(CategoryPattern)) {
             for (const [index, value] of quotes[category].entries()) {
-                value.id = `${category}_${index}`
+                value.id = `${category}${CONFIG.indexOptions.delim}${index}`
                 this.add(value)
             }
         }

@@ -64,7 +64,7 @@ const getQuoteByKeywords = (keywords: string | string[]): QuoteData | null => {
     const result = randomElement(results)
 
     if (result) {
-        const data = result.ref.split('_')
+        const data = result.ref.split(CONFIG.indexOptions.delim)
         return quotes[data[0]][data[1]]
     }
 
@@ -73,6 +73,5 @@ const getQuoteByKeywords = (keywords: string | string[]): QuoteData | null => {
 
 const getQuoteByCategory = (category: string | undefined): QuoteData => {
     const data: QuoteData[] = category ? quotes[category] : quotes[randomEnum(CategoryPattern)]
-
     return randomElement(data)
 }

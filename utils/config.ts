@@ -12,6 +12,7 @@ export const CONFIG: Readonly<ConfigOptions> = {
         height: '100%',
     },
     indexOptions: {
+        delim: '_',
         path: '.cache',
         name: 'lunr-index.json',
     },
