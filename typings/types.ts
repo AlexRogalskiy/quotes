@@ -100,6 +100,12 @@ export enum CategoryPattern {
     entrepreneurship = 'entrepreneurship',
 }
 
+export type QuoteData = {
+    id?: string
+    quote: string
+    author: string
+}
+
 export interface ParsedRequest {
     category?: CategoryPattern | undefined
     width?: string

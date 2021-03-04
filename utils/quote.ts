@@ -1,4 +1,4 @@
-import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest } from '../typings/types'
+import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest, QuoteData } from '../typings/types'
 import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
 
@@ -8,11 +8,6 @@ import { idx } from './search'
 import { CONFIG } from './config'
 
 import quotes from './quotes'
-
-type QuoteData = {
-    quote: string
-    author: string
-}
 
 export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<string> {
     const { category, keywords, width, height, ...rest } = parsedRequest

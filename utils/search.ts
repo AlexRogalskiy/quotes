@@ -4,7 +4,7 @@ import { join } from 'path'
 
 import quotes from './quotes'
 import { ensureDirExists } from './commons'
-import { CategoryPattern } from '../typings/types'
+import { CategoryPattern, QuoteData } from '../typings/types'
 import { CONFIG } from './config'
 
 export const createIndex = (): lunr.Index => {
@@ -13,7 +13,7 @@ export const createIndex = (): lunr.Index => {
         this.field('author')
 
         for (const category of Object.values(CategoryPattern)) {
-            for (const [index, value] of quotes[category].entries()) {
+            for (const [index, value] of (quotes[category] as QuoteData[]).entries()) {
                 value.id = `${category}${CONFIG.indexOptions.delim}${index}`
                 this.add(value)
             }
