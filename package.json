@@ -69,7 +69,7 @@
         "access": "public"
     },
     "engines": {
-        "node": ">= 10.x"
+        "node": ">= 12.x"
     },
     "keywords": [
         "vercel",
