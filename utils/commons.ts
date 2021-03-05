@@ -80,13 +80,19 @@ export const getSearchResultSet = <T>(
 }
 
 export const getSearchResults = (index: lunr.Index, query: lunr.Index.QueryString): lunr.Index.Result[] => {
-    // return index.query(q => {
-    //         q.term(index.tokenizer("comment"), {
-    //             wildcard: lunr.Query.wildcard.TRAILING,
-    //             presence: lunr.Query.presence.REQUIRED
-    //         });
-    //     });
     return index.search(query)
+}
+
+export const getSearchResultsByTerms = (
+    index: lunr.Index,
+    term: string | string[] | lunr.Token | lunr.Token[]
+): lunr.Index.Result[] => {
+    return index.query(q => {
+        q.term(term, {
+            wildcard: lunr.Query.wildcard.TRAILING,
+            presence: lunr.Query.presence.REQUIRED,
+        })
+    })
 }
 
 export const randomEnum = <T>(anEnum: T): T[keyof T] => {
