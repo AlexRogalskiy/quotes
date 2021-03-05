@@ -121,6 +121,10 @@ export interface ParsedRequest {
      */
     category?: CategoryPattern | undefined
     /**
+     * Quote image background pattern
+     */
+    pattern?: HeroPattern | undefined
+    /**
      * Quote image width
      */
     width?: string
@@ -144,10 +148,6 @@ export interface ParsedRequest {
      * Quote image background color
      */
     backgroundColor?: string | string[]
-    /**
-     * Quote image background pattern
-     */
-    pattern?: HeroPattern | undefined
     /**
      * Quote image background opacity
      */
@@ -174,7 +174,7 @@ export interface ColorOptions {
     /**
      * Image background pattern
      */
-    readonly pattern?: string
+    readonly pattern?: HeroPattern | undefined
 }
 
 export interface ImageOptions {
@@ -192,7 +192,7 @@ export interface IndexOptions {
     /**
      * Index identifier delimiter
      */
-    readonly delim: string
+    readonly delimiter: string
     /**
      * Index file path
      */
@@ -208,7 +208,7 @@ export enum Profile {
     prod = 'prod',
 }
 
-export interface QuoteOptions {
+export interface ProfileOptions {
     /**
      * Color configuration options.
      */
@@ -223,9 +223,9 @@ export interface QuoteOptions {
     readonly indexOptions: IndexOptions
 }
 
+/**
+ * Profile configuration options.
+ */
 export type ConfigOptions = {
-    readonly /**
-     * Profile configuration options.
-     */
-    [K in Profile]: QuoteOptions
+    readonly [K in Profile]: ProfileOptions
 }

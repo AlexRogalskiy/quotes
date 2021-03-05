@@ -5,7 +5,7 @@ import { monserrat700, monserratRegular } from './font'
 
 export const css = (colorOptions: ColorOptions): string => {
     const { fontColor, backgroundColor, pattern, opacity, colorPattern } = colorOptions
-    const backgroundPattern = getPattern(`${pattern ? pattern : ''}`, `${opacity}`, `${colorPattern}`)
+    const backgroundPattern = getPattern(pattern, String(opacity), String(colorPattern))
 
     return `
       @font-face{

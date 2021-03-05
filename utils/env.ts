@@ -1,8 +1,8 @@
-import { QuoteOptions } from '../typings/types'
+import { ProfileOptions } from '../typings/types'
 import { CONFIG } from './config'
 
-const quoteOptions = (): QuoteOptions => {
+const profileOptions = (): ProfileOptions => {
     return process.env.AWS_LAMBDA_FUNCTION_VERSION ? CONFIG.prod : CONFIG.dev
 }
 
-export const profile = quoteOptions()
+export const profile = profileOptions()

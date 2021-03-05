@@ -1,8 +1,21 @@
-import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest, QuoteData } from '../typings/types'
+import {
+    CategoryPattern,
+    ColorOptions,
+    ImageOptions,
+    ParsedRequest,
+    QuoteData
+} from '../typings/types'
 import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
 
-import { delim, getSearchResults, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
+import {
+    delim,
+    getSearchResults,
+    mergeProps,
+    randomElement,
+    randomEnum,
+    toFormatString
+} from './commons'
 import { css } from './getCss'
 import { idx } from './search'
 import { profile } from './env'
@@ -54,16 +67,16 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
 }
 
 const getQuoteByKeywords = (keywords: string | string[]): QuoteData | null => {
-    const query = typeof keywords === 'string' ? keywords.split(',') : keywords
-    const results = getSearchResults(idx, query.join(' '))
-    const result = randomElement(results)
+    keywords = typeof keywords === 'string' ? keywords.split(',') : keywords
+    const searchResults = getSearchResults(idx, keywords.join(' '))
+    const searchData = randomElement(searchResults)
 
-    if (result) {
-        const data = result.ref.split(profile.indexOptions.delim)
-        return quotes[data[0]][data[1]]
-    }
+    return searchData ? getQuoteById(searchData.ref) : null
+}
 
-    return null
+const getQuoteById = (value: string): QuoteData => {
+    const data = value.split(profile.indexOptions.delimiter)
+    return quotes[data[0]][data[1]]
 }
 
 const getQuoteByCategory = (category: string | undefined): QuoteData => {

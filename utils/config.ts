@@ -13,7 +13,7 @@ export const CONFIG: Readonly<ConfigOptions> = {
             height: '100%',
         },
         indexOptions: {
-            delim: '_',
+            delimiter: '_',
             path: '.cache',
             name: 'lunr-index.json',
         },
@@ -30,7 +30,7 @@ export const CONFIG: Readonly<ConfigOptions> = {
             height: '100%',
         },
         indexOptions: {
-            delim: '_',
+            delimiter: '_',
             path: '.cache',
             name: 'lunr-index.json',
         },
