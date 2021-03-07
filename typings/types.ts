@@ -100,6 +100,7 @@ export enum CategoryPattern {
     entrepreneurship = 'entrepreneurship',
     popular = 'popular',
     humor = 'humor',
+    philosophy = 'philosophy',
 }
 
 export type QuoteData = {
