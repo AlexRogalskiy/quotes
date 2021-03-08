@@ -130,6 +130,7 @@ Here is a list of categories supported by Quotes API:
 | **Knowledge**                     | knowledge                     |
 | **Science**                       | science                       |
 | **Books**                         | books                         |
+| **Health**                        | health                        |
 
 Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 
