@@ -103,6 +103,22 @@ export enum CategoryPattern {
     philosophy = 'philosophy',
     god = 'god',
     inspire = 'inspire',
+    truth = 'truth',
+    wisdom = 'wisdom',
+    poetry = 'poetry',
+    romance = 'romance',
+    death = 'death',
+    happiness = 'happiness',
+    faith = 'faith',
+    hope = 'hope',
+    writing = 'writing',
+    religion = 'religion',
+    relationships = 'relationships',
+    spirituality = 'spirituality',
+    time = 'time',
+    knowledge = 'knowledge',
+    science = 'science',
+    books = 'books',
 }
 
 export type QuoteData = {

@@ -114,6 +114,22 @@ Here is a list of categories supported by Quotes API:
 | **Philosophy**                    | philosophy                    |
 | **God**                           | god                           |
 | **Inspire**                       | inspire                       |
+| **Truth**                         | truth                         |
+| **Wisdom**                        | wisdom                        |
+| **Poetry**                        | poetry                        |
+| **Romance**                       | romance                       |
+| **Death**                         | death                         |
+| **Happiness**                     | happiness                     |
+| **Faith**                         | faith                         |
+| **Hope**                          | hope                          |
+| **Writing**                       | writing                       |
+| **Religion**                      | religion                      |
+| **Relationships**                 | relationships                 |
+| **Spirituality**                  | spirituality                  |
+| **Time**                          | time                          |
+| **Knowledge**                     | knowledge                     |
+| **Science**                       | science                       |
+| **Books**                         | books                         |
 
 Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 
