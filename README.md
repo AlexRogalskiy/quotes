@@ -131,6 +131,7 @@ Here is a list of categories supported by Quotes API:
 | **Science**                       | science                       |
 | **Books**                         | books                         |
 | **Health**                        | health                        |
+| **Gratitude**                     | gratitude                     |
 
 Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 
