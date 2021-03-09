@@ -1,3 +1,4 @@
+import * as books from '../data/anger_quotes.json'
 import * as books from '../data/books_quotes.json'
 import * as courage from '../data/courage_quotes.json'
 import * as death from '../data/death_quotes.json'
@@ -38,6 +39,7 @@ import { QuoteMapper } from '../typings/types'
 
 const getQuoteData = (): QuoteMapper =>
     mergeProps<QuoteMapper>(
+        anger,
         books,
         courage,
         death,
