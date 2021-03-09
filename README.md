@@ -135,6 +135,8 @@ Here is a list of categories supported by Quotes API:
 | **Courage**                       | courage                       |
 | **Responsibility**                | responsibility                |
 | **Anger**                         | anger                         |
+| **Stress**                        | stress                        |
+| **Sadness**                       | sadness                       |
 
 Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 

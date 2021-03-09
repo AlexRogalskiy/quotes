@@ -124,6 +124,8 @@ export enum CategoryPattern {
     courage = 'courage',
     responsibility = 'responsibility',
     anger = 'anger',
+    stress = 'stress',
+    sadness = 'sadness',
 }
 
 export type QuoteData = {
