@@ -121,6 +121,7 @@ export enum CategoryPattern {
     books = 'books',
     health = 'health',
     gratitude = 'gratitude',
+    courage = 'courage',
 }
 
 export type QuoteData = {

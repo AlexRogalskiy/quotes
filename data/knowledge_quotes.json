@@ -1,6 +1,4206 @@
 {
     "knowledge": [
         {
+            "quote": "Reading is sowing. Rereading is the harvest",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "The right book for the right person is not enough. It needs to be the right book, for the right person at the right time",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "The more that you read, the more things you will know. The more that you learn, the more places you’ll go. Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "The smarter you get, the slower you read",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "We read books to find out who we are. Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "A reader lives a thousand lives before he dies. The man who never reads lives only one. George R.R",
+            "author": "Martin"
+        },
+        {
+            "quote": "You become knowledgeable by reading. You become strong by doing. You become wise by thinking",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Some day you will be old enough to start reading fairy tales again. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "I find television very educating. Every time somebody turns on the set, I go into the other room and read a book",
+            "author": "Groucho Marx"
+        },
+        {
+            "quote": "It is what you read when you don’t have to that determines what you will be when you can’t help it",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Everywhere I have sought peace and not found it, except in a corner with a book",
+            "author": "Thomas à Kempis"
+        },
+        {
+            "quote": "You can never get a cup of tea large enough or a book long enough to suit me. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "It is a most wonderful comfort to sit alone beneath a lamp, book spread before you, and commune with someone from the past whom you have never met",
+            "author": "Yoshida Kenko"
+        },
+        {
+            "quote": "In my whole life, I have known no wise people who didn’t read all the time – none, zero",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "A book is a dream that you hold in your hands",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "Read the best books first, or you may not have a chance to read them at all",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "I was raised by books. Books, and then my parents",
+            "author": "Elon Musk (Tesla)"
+        },
+        {
+            "quote": "View reading as an investment",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking",
+            "author": "Haruki Murakami"
+        },
+        {
+            "quote": "A novel worth reading is an education of the heart. It enlarges your sense of human possibility, of what human nature is, of what happens in the world. It’s a creator of inwardness",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "Fools have a habit of believing that everything written by a famous author is admirable. For my part I read only to please myself and like only what suits my taste",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "A wise reader reads the book of genius not with his heart, not so much with his brain, but with his spine. It is there that occurs the telltale tingle",
+            "author": "Vladimir Nabokov"
+        },
+        {
+            "quote": "Sometimes, you read a book and it fills you with this weird evangelical zeal, and you become convinced that the shattered world will never be put back together unless and until all living humans read the book",
+            "author": "John Green (The Fault in Our Stars)"
+        },
+        {
+            "quote": "Man reading should be man intensely alive. The book should be a ball of light in one’s hand",
+            "author": "Ezra Pound"
+        },
+        {
+            "quote": "Reading a book isn’t a race – the better the book, the slower it should be absorbed",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "I can’t imagine a man really enjoying a book and reading it only once. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "We read to know we are not alone. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "A truly great book should be read in youth, again in maturity and once more in old age, as a fine building should be seen by morning light, at noon and by moonlight",
+            "author": "Robertson Davies"
+        },
+        {
+            "quote": "At every moment, you should be reading the best book you know of in the world for you",
+            "author": "Patrick Collison"
+        },
+        {
+            "quote": "Reading is not a chore. Reading is theft. It is a robbery. Someone smarter than you has spent 20 years beating their head against the wall trying to solve the problem you’re dealing with. You can steal that hard-won knowledge and make it yours. That is power",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "A book is something that can be read ten years after publication. A real book, twenty. Otherwise it is a magazine report with bookbinding",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "What a great treasure can be hidden in a small, selected library! A company of the wisest and the most deserving people from all the civilized countries of the world, for thousands of years, can make the results of their studies and their wisdom available to us. The thought which they might not even reveal to their best friends is written here in clear words for us, people from another century. Yes, we should be grateful for the best books, for the best spiritual achievements in our lives",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "We are sensitized by the books we read. And the more books we read, and the deeper their lessons sink into us, the more pairs of glasses we have. And those glasses enable us to see things we would have otherwise missed",
+            "author": "Alain de Botton"
+        },
+        {
+            "quote": "Reading the whole book is not important, understanding what you are reading is",
+            "author": "@AmuseChimp"
+        },
+        {
+            "quote": "Reading: One of the best ways to upgrade human software",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "Remember: reading is a journey to find the great books for you",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Education is the most powerful weapon which you can use to change the world",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "Books are a uniquely portable magic",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Some books should be tasted, some devoured, but only a few should be chewed and digested thoroughly",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "My alma mater was books, a good library… I could spend the rest of my life reading, just satisfying my curiosity",
+            "author": "Malcolm X"
+        },
+        {
+            "quote": "When I wasn’t working, the weekends would usually find me alone in an empty apartment, making do with the company of books",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "Reading, after a certain age, diverts the mind too much from its creative pursuits. Any man who reads too much and uses his own brain too little falls into lazy habits of thinking",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "When we read, another person thinks for us: we merely repeat his mental process",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "A man only learns in two ways, one by reading, and the other by association with smarter people",
+            "author": "Will Rogers"
+        },
+        {
+            "quote": "I read myself to sleep every night",
+            "author": "Charlie Munger (One of the richest man in the world)"
+        },
+        {
+            "quote": "I just sit in my office and read all day",
+            "author": "Warren Buffett (One of the richest man in the world)"
+        },
+        {
+            "quote": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today",
+            "author": "Malcolm X"
+        },
+        {
+            "quote": "The man who doesn’t read good books has no advantage over the man who can’t read them",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Good friends, good books and a sleepy conscience: this is the ideal life",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "If one cannot enjoy reading a book over and over again, there is no use in reading it at all",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Let us read, and let us dance; these two amusements will never do any harm to the world",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "The reading of all good books is like conversation with the finest minds of past centuries",
+            "author": "René Descartes"
+        },
+        {
+            "quote": "In reality every reader is, while he is reading, the reader of his own self. The writer’s work is merely a kind of optical instrument which he offers to the reader to enable him to discern what, without this book, he would perhaps never have perceived in himself",
+            "author": "Marcel Proust"
+        },
+        {
+            "quote": "Show me a family of readers, and I will show you the people who move the world",
+            "author": "Napoleon Bonaparte"
+        },
+        {
+            "quote": "You think your pain and your heartbreak are unprecedented in the history of the world, but then you read. It was books that taught me that the things that tormented me most were the very things that connected me with all the people who were alive, who had ever been alive",
+            "author": "James Baldwin"
+        },
+        {
+            "quote": "I cannot remember the books I’ve read any more than the meals I have eaten; even so, they have made me",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "I kept always two books in my pocket, one to read, one to write in",
+            "author": "Robert Louis Stevenson"
+        },
+        {
+            "quote": "Reading brings us unknown friends",
+            "author": "Honoré de Balzac"
+        },
+        {
+            "quote": "Only a generation of readers will spawn a generation of writers",
+            "author": "Steven Spielberg"
+        },
+        {
+            "quote": "No matter how busy you may think you are, you must find time for reading, or surrender yourself to self-chosen ignorance",
+            "author": "Confucius"
+        },
+        {
+            "quote": "You are what you read",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "Sow the right seeds",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Reading means borrowing",
+            "author": "Georg Christoph Lichtenberg"
+        },
+        {
+            "quote": "So many books, so little time",
+            "author": "Frank Zappa"
+        },
+        {
+            "quote": "Beware of the person of one book",
+            "author": "Thomas Aquinas"
+        },
+        {
+            "quote": "Today a reader, tomorrow a leader",
+            "author": "Margaret Fuller"
+        },
+        {
+            "quote": "Reading, reflecting, and meditating",
+            "author": "Naval Ravikant (On where he gets his best ideas)"
+        },
+        {
+            "quote": "I guess there are never enough books",
+            "author": "John Steinbeck"
+        },
+        {
+            "quote": "No two persons ever read the same book",
+            "author": "Edmund Wilson"
+        },
+        {
+            "quote": "Go to bed smarter than when you woke up",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "Reading is a discount ticket to everywhere",
+            "author": "Mary Schmich"
+        },
+        {
+            "quote": "If they wrote it to make money, don’t read it",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Literature is a luxury; fiction is a necessity. G.K",
+            "author": "Chesterton"
+        },
+        {
+            "quote": "One who believes all of a book would be better off without books",
+            "author": "Mencius"
+        },
+        {
+            "quote": "Forget speed-reading. Anything worth reading is worth reading slowly",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Reading new books is overrated. Rereading good old books is underrated. D",
+            "author": "Muthukrishnan"
+        },
+        {
+            "quote": "A great book takes years to write but only hours to read. The reader nets the difference",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Many people, myself among them, feel better at the mere sight of a book",
+            "author": "Jane Smiley"
+        },
+        {
+            "quote": "I am but a small child wandering upon the vast shores of knowledge, every now and then finding a small bright pebble to be content with",
+            "author": "Plato"
+        },
+        {
+            "quote": "Read a lot. Expect something big, something exalting or deepening from a book. No book is worth reading that isn’t worth rereading",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "All of the smartest people I’ve met, regardless of where they received their formal education, were mostly self-taught, incredibly curious and voracious readers",
+            "author": "Jim O’Shaughnessy"
+        },
+        {
+            "quote": "Through reading we discover the world, and through writing we discover ourselves",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Once you do come across a treasure chest, a life-changing book — throw all of this out the window. Do whatever you can to absorb it. Go all in",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Reading science, math, and philosophy one hour per day will likely put you at the upper echelon of human success within seven years",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "60 minutes of reading. 60 minutes of exercise. 20 minutes of meditation. 140 minutes in total, each day. Will significantly change your how you feel for the remaining 1300 minutes of the day",
+            "author": "@LifeMathMoney"
+        },
+        {
+            "quote": "Sit in a room and read – and read and read. And read the right books by the right people. Your mind is brought onto that level, and you have a nice, mild, slow-burning rapture all the time",
+            "author": "Joseph Campbell (The Power of Myth, Amazon book)"
+        },
+        {
+            "quote": "The best moments in reading are when you come across something — a thought, a feeling, a way of looking at things — that you’d thought special, particular to you. And here it is, set down by someone else, a person you’ve never met, maybe even someone long dead. And it’s as if a hand has come out and taken yours",
+            "author": "Hector (The History Boys)"
+        },
+        {
+            "quote": "Combine reading, thinking and doing and you become unstoppable",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "A great book should leave you with many experiences, and slightly exhausted at the end. You live several lives while reading",
+            "author": "William Styron"
+        },
+        {
+            "quote": "Reading was my escape and my comfort, my consolation, my stimulant of choice: reading for the pure pleasure of it, for the beautiful stillness that surrounds you when you hear an author’s words reverberating in your head",
+            "author": "Paul Auster"
+        },
+        {
+            "quote": "Reading is the sole means by which we slip, involuntarily, often helplessly, into another’s skin, another’s voice, another’s soul",
+            "author": "Joyce Carol Oates"
+        },
+        {
+            "quote": "If I read a book that cost me $20 and I get one good idea, I’ve gotten one of the greatest bargains of all time",
+            "author": "Tom Peters"
+        },
+        {
+            "quote": "One glance at a book and you hear the voice of another person, perhaps someone dead for 1000 years. To read is to voyage through time",
+            "author": "Carl Sagan"
+        },
+        {
+            "quote": "Closed in a room, my imagination becomes the universe, and the rest of the world is missing out",
+            "author": "Criss Jami"
+        },
+        {
+            "quote": "I was reading the dictionary. I thought it was a poem about everything",
+            "author": "Steven Wright"
+        },
+        {
+            "quote": "A donkey carrying a pile of holy books is still a donkey",
+            "author": "Zen proverb"
+        },
+        {
+            "quote": "To be completely cured of newspapers, spend a year reading the previous week’s newspapers",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "From the moment I picked up your book until I put it down, I was convulsed with laughter. Some day I intend reading it",
+            "author": "Groucho Marx"
+        },
+        {
+            "quote": "A vacation is a very expensive way to schedule the time to read a book in peace",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "People with shelves of untouched books think they’re better than people with closets of untouched shoes",
+            "author": "Michael (@mmay3r)"
+        },
+        {
+            "quote": "Netflix is overrated. Reading books is underrated",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "Reading fast gives you two things that should never mix: surface knowledge and overconfidence",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "If you go home with somebody, and they don’t have books, don’t f*ck ’em!",
+            "author": "John Waters"
+        },
+        {
+            "quote": "F*ck your shoe collection. Show me your book collection",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Most people don’t read. Or if they do, they’re just reading mind candy",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Books are no more threatened by Kindle than stairs by elevators",
+            "author": "Stephen Fry"
+        },
+        {
+            "quote": "Speed reading was made for people who don’t want to read",
+            "author": "@AmuseChimp"
+        },
+        {
+            "quote": "Be careful about reading health books. You may die of a misprint",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "′Classic′ – a book which people praise and don’t read",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Knowledge makes a man unfit to be a slave",
+            "author": "Frederick Douglass"
+        },
+        {
+            "quote": "Fools admire everything in an author of reputation",
+            "author": "Voltaire (Candide)"
+        },
+        {
+            "quote": "It’s not about the quantity of books you read, but the quality, not the speed at which you read but your understanding, not the knowledge you gain but the actions you take and the change you create",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Reading is faster than listening. Doing is faster than watching",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "It is well sometimes to half understand a poem in the same manner that we half understand the world. G. K",
+            "author": "Chesterton"
+        },
+        {
+            "quote": "Reading and experience train your model of the world. And even if you forget the experience or what you read, its effect on your model of the world persists. Your mind is like a compiled program you’ve lost the source of. It works, but you don’t know why",
+            "author": "Paul Graham"
+        },
+        {
+            "quote": "Old books teach urgent new lessons. People read more than ever, but mostly low-value material. Unwanted emails, ragebait articles, insane social media babble… largely worthless ephemera. Quiet libraries are full of half-forgotten marvels. The undimmed genius of the ages",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "The writer who has not tortured his sentences tortures his reader",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "What you read doesn’t matter if you don’t think. What you think doesn’t matter if you don’t do. What you do doesn’t matter if you aren’t happy",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Your mind automatically generates thoughts related to the information you consume. Be conscious of your information diet",
+            "author": "Michael (@mmay3r)"
+        },
+        {
+            "quote": "Sometimes you need to go on a little detour before you’re ready for what the book has to give you",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Counting how many books you finish will make you a better finisher, but a worse reader",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "You don’t have to burn books to destroy a culture. Just get people to stop reading them",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "Read what you love until you love to read",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "But the first lesson reading teaches is how to be alone",
+            "author": "Jonathan Franzen (How to Be Alone)"
+        },
+        {
+            "quote": "Better to know a few things which are good and necessary than many things which are useless and mediocre",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "Once can never read too little of bad, or too much of good books: bad books are intellectual poison; they destroy the mind",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "It would be a good thing to buy books if one could also buy the time to read them; but one usually confuses the purchase of books with the acquisition of their contents. To desire that a man should retain everything he has ever read, is the same as wishing him to retain in his stomach all that he has ever eaten",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "You must linger among a limited number of master thinkers, and digest their works, if you would derive ideas which shall win firm hold in your mind",
+            "author": "Seneca"
+        },
+        {
+            "quote": "Wisdom is acquired through pain, not through books. Reading helps you make sense of your mistakes faster and get more wisdom per unit of pain. Pain is the currency. Readers pay less",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "To train your body, lift increasingly heavier weights. To train your mind, read increasingly tougher books",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Abraham Lincoln said, \"Give me six hours to chop down a tree and I will spend the first four sharpening the axe\". You have 24 to chop every day. Sleep, exercise, meditation, reading – those are some of your sharpening tools. Do not chop for 18 hours with a blunt axe",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Fools read popular books. The wise the ones they need",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Reading for school is overrated. Reading for pleasure is underrated",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "Reading only increases the information inside your head. If gaining more clarity is your goal, reading won’t do it. Meditation and journaling will",
+            "author": "Kunal (@CrazyPolymath)"
+        },
+        {
+            "quote": "Curiously enough, one cannot read a book; one can only reread it. A good reader, a major reader, and active and creative reader is a rereader",
+            "author": "Vladimir Nabokov (Lectures on Literature)"
+        },
+        {
+            "quote": "Reread the greats until absorbed. Number of books read is a vanity metric",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Reading is the ultimate meta-skill and can be traded for anything else",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Meditation, yoga, reading philosophy, non-judgmental awareness, and coaching",
+            "author": "Naval Ravikant (On his dharma practice (\"right way of living\"))"
+        },
+        {
+            "quote": "Read books that are relevant to what you want to achieve and reading will never seem boring",
+            "author": "James Clear"
+        },
+        {
+            "quote": "The quality of your thoughts is determined by the quality of your reading",
+            "author": "James Clear"
+        },
+        {
+            "quote": "The great thing about reading is that it broadens your life. George R.R",
+            "author": "Martin"
+        },
+        {
+            "quote": "Books don’t offer real escape, but they can stop a mind scratching itself raw",
+            "author": "David Mitchell"
+        },
+        {
+            "quote": "A fondness for reading, which, properly directed, must be an education in itself",
+            "author": "Jane Austen"
+        },
+        {
+            "quote": "Great books help you understand, and they help you feel understood",
+            "author": "John Green"
+        },
+        {
+            "quote": "Read, think and think some more. Your life changes and if your thinking doesn’t, you’re screwed",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "To acquire the habit of reading is to construct for yourself a refuge from almost all the miseries of life",
+            "author": "William Somerset Maugham"
+        },
+        {
+            "quote": "I grew up on books, and then I switched to blogs and then I switched to Twitter and Facebook, and then I realized I wasn’t really learning anything, I was just taking little dopamine snacks all day long",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Reading is the gateway skill that makes all other learning possible, from complex word problems and the meaning of our history to scientific discovery and technological proficiency",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "When I am attacked by gloomy thoughts, nothing helps me so much as running to my books. They quickly absorb me and banish the clouds from my mind",
+            "author": "Michel de Montaigne (Essais)"
+        },
+        {
+            "quote": "The value of reading is now as much about the capacity to focus as the content of the book. Regular reading is a practice that directs our focus towards something specific. It is a counterpoint to a culture of increasingly fractured attention and compulsive pseudo-multitasking",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "One of the most incredible things about reading: A good book can give you a new way to interpret your past experiences. Whenever you learn a new mental model or idea, it’s like the \"software\" in your brain gets updated. Suddenly, you can learn new lessons from old moments",
+            "author": "James Clear"
+        },
+        {
+            "quote": "A book is a garden, an orchard, a storehouse, a party, a company by the way, a counselor, a multitude of counselors",
+            "author": "Charles Baudelaire"
+        },
+        {
+            "quote": "Employ your time in improving yourself by other men’s writings, so that you shall gain easily what others have labored hard for",
+            "author": "Socrates"
+        },
+        {
+            "quote": "I believe in the discipline of mastering the best of what other people have figured out",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "Understanding more of what you read is better than reading faster",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "While others are doing speed-reading, read good books twice as slow",
+            "author": "@AmuseChimp"
+        },
+        {
+            "quote": "When intelligent people read, they ask themselves a simple question: What do I plan to do with this information?",
+            "author": "Ryan Holiday"
+        },
+        {
+            "quote": "Read, think, apply, get feedback, repeat. Those who iterate fast today will be leaders tomorrow",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Speed reading is a compelling way to consume more content while gaining less insight. The purpose of reading is to learn and reflect. It’s about quality, not quantity. A great book should be savored like a gourmet meal, not inhaled like fast food",
+            "author": "Adam Grant"
+        },
+        {
+            "quote": "Read slowly. Take your time to reflect. Speed reading is nonsense. Don’t make it a race to the last page. Retention and understanding is everything",
+            "author": "@LifeMathMoney"
+        },
+        {
+            "quote": "Skim quickly to find something worth reading, and then absorb it slowly. Words per minute is a vanity metric – any book worth reading requires pausing to reflect",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "I no longer track books read or even care about books read. It’s about understanding concepts",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "At any given time I’m reading 10 or 20 books. If the book is getting a little boring I’ll skip ahead. Sometimes I’ll start reading a book in the middle because some paragraph caught my eye. And I feel no obligation whatsoever to finish the book",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Bad reading metrics: Books finished per month. Percentage of books finished from books started. Words per $ spent. Words per minute. The only metric that matters: Learning and enjoyment per word",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "The value and enjoyment I get from reading skyrocketed when I realised I should pass on anything that’s not absolutely fascinating. Other than that, I accept no other \"should\". Curiosity is an incredible gift and should never be constrained by made up rules",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Since you’re not reading to pass an exam, long-term retention is the ultimate goal",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Most of my reading is rereading",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "I keep to old books, for they teach me something; from the new I learn very little",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Never read a book if you don’t expect to be surprised by something in it, while reading it",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "A good book gets better at the second reading. A great book at the third. Any book not worth rereading isn’t worth reading",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "To save time and increase your brainpower don’t read anything with a title that has X [ways/ideas/tips/hacks/things] you need to do right now to [insert something you want]",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "It is a good rule after reading a new book, never to allow yourself another new one till you have read an old one in between. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "I don’t want to read everything, I just want to read the 100 greatest books over and over again",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "We’re taught from a young age that books are something you finish, books are sacred. When you go to school and you’re assigned to read a book, you have to finish the book",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "I open up my kindle, I look through. Based on my mood, I’ll flip through to whatever book matches my mood…The most important thing that does for me is it lets me read on a regular basis",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Sometimes people start wrapping long books around simple ideas. Those are probably my least favorite books. That’s why I avoid the whole business and self-help category because you generally have one good idea and it’s buried in hundreds or thousands of pages and lots of anecdotes",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "There are too many mediocre books which exist just to entertain your mind. Therefore, read only those books which are accepted without doubt as good",
+            "author": "Seneca"
+        },
+        {
+            "quote": "Most of yesterday’s news is forgotten. Most of today’s news is irrelevant tomorrow. Read less of what’s timely and more of what’s timeless",
+            "author": "Adam Grant"
+        },
+        {
+            "quote": "Reading a book you want to read can be immensely valuable, but reading a book you don’t want to read is practically worthless",
+            "author": "James Pierce"
+        },
+        {
+            "quote": "You can try to improve how much you learn from each book, but probably the greatest gains from selecting the right set of books to read. Those books are likely older than the ones that are really popular today",
+            "author": "Eugene Wei"
+        },
+        {
+            "quote": "What you read is more important than how much you read. Reading books is not a contest and there is no prize for reading most number of books. Read what you feel like reading rather than what you are supposed to read. What you read for yourself is what ultimately benefits you",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "Read books that challenge your beliefs and make you feel stupid. You don’t get better by protecting your ego. You get better by exposing it to truth and being vulnerable. This is how you remain fluid and grow",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "The key is to have real variety. Books on different subjects, with different page counts and different styles. some more playful and light, others more dense and demanding. I also like having a variety of formats — Kindle, physical and Audio",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Don’t obsess over how many books you read per year. That’s a loser’s game. It can pull you towards short and easy books. Some of the best ones are long and demanding, but provide 100X more value than vanilla bestsellers",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Every day that you spend being stuck or reluctantly reading a mediocre book, is a day you could have spent engaged with fascinating and impactful works",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Read the book you need most right now, not the one that could be useful later",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "The vast majority of value will come from a deep study of a few great books",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Read more (a lot more) than one book at a time",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Read what makes you question yourself, not what makes you feel good",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "If you finish a book in one go, and understand it all, you chose the wrong difficulty level",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Don’t just read the easy stuff. You may be entertained by it, but you will never grow from it",
+            "author": "Jim Rohn"
+        },
+        {
+            "quote": "Easy reading is damn hard writing",
+            "author": "Nathaniel Hawthorne"
+        },
+        {
+            "quote": "I am too fond of reading books to care to write them",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Reading is overrated. Writing is underrated",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "Reading is wise if you want to learn. Writing is wise if you want to think. Doing is genius if you want to be happy",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Read, read, read. Read everything – trash, classics, good and bad, and see how they do it. Just like a carpenter who works as an apprentice and studies the master. Read! You’ll absorb it. Then write. If it’s good, you’ll find out. If it’s not, throw it out of the window",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "No tears in the writer, no tears in the reader. No surprise in the writer, no surprise in the reader",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "If you don’t have time to read, you don’t have the time (or the tools) to write. Simple as that",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "‎If you want to be a writer, you must do two things above all others: read a lot and write a lot. Reading is the creative center of a writer’s life. You cannot hope to sweep someone else away by the force of your writing until it has been done to you",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Constant reading will pull you into a place – a mindset, if you like the phrase – where you can write eagerly and without self-consciousness",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Read as much as you possibly can. Nothing will help you as much as reading and you’ll go through a phase where you will imitate your favorite writers and that’s fine because that’s a learning experience too. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "You should write because you love the shape of stories and sentences and the creation of different words on a page. Writing comes from reading, and reading is the finest teacher of how to write",
+            "author": "Annie Proulx"
+        },
+        {
+            "quote": "Reading is like fresh food for the mind. The consumption fills you with wisdom. Writing is like exercise for the mind. The effort leads to stronger ideas. Meditation is like fasting for the mind. The practice clears your mental digestive tract",
+            "author": "James Clear"
+        },
+        {
+            "quote": "We don’t read and write poetry because it’s cute. We read and write poetry because we are members of the human race",
+            "author": "John Keating (Robin Williams in Dead Poets Society)"
+        },
+        {
+            "quote": "Reading and writing are the most nourishing forms of meditation anyone has so far found",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "There comes a point in your life when you need to stop reading other people’s books and write your own",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Once you learn to read, you will be forever free",
+            "author": "Frederick Douglass"
+        },
+        {
+            "quote": "Reading is important. If you know how to read, then the whole world opens up to you",
+            "author": "Barack Obamba"
+        },
+        {
+            "quote": "If you don’t like to read, you haven’t found the right book. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "Nobody knows the right book for you but one thing is sure, there are a ton. Keep searching",
+            "author": "Maxime Lagacé (See also: be yourself quotes)"
+        },
+        {
+            "quote": "Read deeply. Stay open. Continue to wonder",
+            "author": "Austin Kleon"
+        },
+        {
+            "quote": "Falling in love with reading is a permanent antidote against boredom",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Develop into a lifelong self-learner through voracious reading; cultivate curiosity and strive to become a little wiser every day",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "Reading books is almost like cheating in the game of life. You get to know what works and what doesn’t without trying everything yourself",
+            "author": "Sven Schnieders"
+        },
+        {
+            "quote": "When I was ten, I read fairy tales in secret and would have been ashamed if I had been found doing so. Now that I am fifty, I read them openly. When I became a man I put away childish things, including the fear of childishness and the desire to be very grown up. C.S",
+            "author": "Lewis (On Stories: And Other Essays on Literature)"
+        },
+        {
+            "quote": "Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity",
+            "author": "Aaron Swartz"
+        },
+        {
+            "quote": "Read absolutely everything you get your hands on because you’ll never know where you’ll get an idea from",
+            "author": "Malcolm X"
+        },
+        {
+            "quote": "Be a life-long student, read as many books as possible",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "The best way to get children excited about reading is to read to them from the beginning of their lives. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "I will defend the importance of bedtime stories to my last gasp. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "It’s not about the number of books read. It’s about a love of learning, curiosity and fun",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Don’t just teach your children to read… Teach them to question what they read. Teach them to question everything",
+            "author": "George Carlin"
+        },
+        {
+            "quote": "The best candy shop a child can be left alone in, is the library",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Any book that helps a child to form a habit of reading, to make reading one of his deep and continuing needs, is good for him",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "At the moment that we persuade a child, any child, to cross that threshold, that magic threshold into a library, we change their lives forever, for the better. It’s an enormous force for good",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "Our hope is that the elementary reading of comics will lead to the joy of reading good books",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "Reading must not be taught simply as a school exercise",
+            "author": "Michael Morpurgo"
+        },
+        {
+            "quote": "Reading, coding, selling",
+            "author": "Naval Ravikant (On the most important things to teach 20-year-olds)"
+        },
+        {
+            "quote": "Why do schoolchildren hate reading? Just look at what they’re made to read",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "To me, literature is a calling, even a kind of salvation. It connects me with an enterprise that is over 2000 years old. What do we have from the past? Art and thought. That’s what lasts. That’s what continues to feed people and give them an idea of something better. A better state of one’s feelings or simply the idea of a silence in one’s self that allows one to think or to feel. Which to me is the same",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "I have lived a thousand lives and I’ve loved a thousand loves. I’ve walked on distant worlds and seen the end of time. Because I read. George R.R",
+            "author": "Martin"
+        },
+        {
+            "quote": "When you learn, teach. When you get, give",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Making mistakes simply means you are learning faster. Weston H",
+            "author": "Agor"
+        },
+        {
+            "quote": "Failure and deprivation are the best educators and purifiers",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "If you learn from defeat, you haven’t really lost",
+            "author": "Zig Ziglar"
+        },
+        {
+            "quote": "Learning is a treasure that will follow its owner everywhere",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "There are some things you learn best in calm, and some in storm",
+            "author": "Willa Cather"
+        },
+        {
+            "quote": "Once you learn patience, your options suddenly expand",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Always walk through life as if you have something new to learn and you will",
+            "author": "Vernon Howard"
+        },
+        {
+            "quote": "Life is the art of drawing without an eraser",
+            "author": "John Gardner"
+        },
+        {
+            "quote": "Life is trying things to see if they work",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "Don’t make up your mind. \"Knowing\" is the end of learning",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The fear of coming up as a fool keeps you always a fool",
+            "author": "Kunal (@CrazyPolymath)"
+        },
+        {
+            "quote": "It is impossible to begin to learn that which one thinks one already knows",
+            "author": "Epictetus"
+        },
+        {
+            "quote": "Ease and abundance are for fools. Discomfort is for the wise",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Anyone who isn’t embarrassed of who they were last year probably isn’t learning enough",
+            "author": "Alain de Botton"
+        },
+        {
+            "quote": "The doer alone learneth",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "One repays a teacher badly if one always remains nothing but a pupil",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "A man may learn wisdom even from a foe",
+            "author": "Aristophanes"
+        },
+        {
+            "quote": "Educating the mind without educating the heart is no education at all",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "For the things we have to learn before we can do them, we learn by doing them",
+            "author": "Aristotle (The Nicomachean Ethics)"
+        },
+        {
+            "quote": "Nothing is a waste of time if you use the experience wisely",
+            "author": "Auguste Rodin"
+        },
+        {
+            "quote": "You don’t understand anything until you learn it more than one way",
+            "author": "Marvin Minsky"
+        },
+        {
+            "quote": "Constantly look for challenges, pushing past your comfort zone",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Wear your learning, like a watch, in a private pocket: and do not pull it out and strike it, merely to show that you have one",
+            "author": "Lord Chesterfield"
+        },
+        {
+            "quote": "Explain what you learned to someone else. Teaching forces learning",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "You learn more feigning ignorance than signaling knowledgeability",
+            "author": "Michael"
+        },
+        {
+            "quote": "If you hide your ignorance, no one will hit you and you’ll never learn",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "Humility is the doorway to truth and clarity of objectives… it’s the doorway to learning",
+            "author": "Wynton Marsalis"
+        },
+        {
+            "quote": "The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn and relearn",
+            "author": "Alvin Toffler"
+        },
+        {
+            "quote": "I always get by best with my naivety, which is 20 percent deliberate",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Almost all Americans own a smartphone or a computer. Each device contains the library of Alexandria. The sum total of all world knowledge. You can learn anything. Why don’t you? Too busy tracking social status. Too enthralled by imagery your evolution can’t resist",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "Life is an open book test. Learning how to learn is your most valuable skill in the online world",
+            "author": "Marc Cuban"
+        },
+        {
+            "quote": "Try to learn something about everything and everything about something",
+            "author": "Thomas Huxley"
+        },
+        {
+            "quote": "The ideal school would teach health, wealth, and happiness. It‘d be free, self-paced, and available to all. It‘d show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas – just learning. Actually, you’re already here. Careful who you follow",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "I am learning all the time. The tombstone will be my diploma",
+            "author": "Eartha Kitt"
+        },
+        {
+            "quote": "Everyone you will ever meet knows something you don’t",
+            "author": "Bill Nye"
+        },
+        {
+            "quote": "I never lose. I either win or learn",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "Learn the rules like a pro so you can break them like an artist",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Liberty without learning is always in peril, and learning without liberty is always in vain. John F",
+            "author": "Kennedy"
+        },
+        {
+            "quote": "The more you learn, the more you earn",
+            "author": "Warren Buffett"
+        },
+        {
+            "quote": "The greatest learning for me usually happens in times of distress, pain, suffering",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "In learning you will teach, and in teaching you will learn",
+            "author": "Phil Collins"
+        },
+        {
+            "quote": "Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young. The greatest thing in life is to keep your mind young",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "Persistent questioning and healthy inquisitiveness are the first requisite for acquiring learning of any kind",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "Bad times have a scientific value. These are occasions a good learner would not miss",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Education consists mainly in what we have unlearned",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "The first half of my life I went to school, the second half of my life I got an education",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Let us rise up and be thankful, for if we didn’t learn a lot today, at least we learned a little, and if we didn’t learn a little, at least we didn’t get sick, and if we got sick, at least we didn’t die; so, let us all be thankful",
+            "author": "Buddha"
+        },
+        {
+            "quote": "I am always ready to learn although I do not always like being taught",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "Being ignorant is not so much a shame, as being unwilling to learn",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Learn from the mistakes of others. You can’t live long enough to make them all yourself",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Those who cannot learn from history are doomed to repeat it",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "I suppose it is because nearly all children go to school nowadays and have things arranged for them that they seem so forlornly unable to produce their own ideas",
+            "author": "Agatha Christie"
+        },
+        {
+            "quote": "He who would learn to fly one day must first learn to stand and walk and run and climb and dance; one cannot fly into flying",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "The more I read, the more I acquire, the more certain I am that I know nothing",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "With every mistake we must surely be learning",
+            "author": "George Harrison (The Beatles)"
+        },
+        {
+            "quote": "The beautiful thing about learning is nobody can take it away from you. B.B",
+            "author": "King"
+        },
+        {
+            "quote": "The only thing that interferes with my learning is my education",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "I do not think much of a man who is not wiser today than he was yesterday",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "You don’t learn to walk by following rules. You learn by doing, and by falling over",
+            "author": "Richard Branson"
+        },
+        {
+            "quote": "Education is the passport to the future, for tomorrow belongs to those who prepare for it today",
+            "author": "Malcolm X"
+        },
+        {
+            "quote": "The more that you read, the more things you will know. The more that you learn, the more places you’ll go. Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "If you think education is expensive, think of the price of ignorance",
+            "author": "Neil deGrasse Tyson"
+        },
+        {
+            "quote": "Learning without thought is labor lost; thought without learning is perilous",
+            "author": "Confucius"
+        },
+        {
+            "quote": "I am always doing that which I can not do, in order that I may learn how to do it",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "While I thought I was learning how to live, I have been learning how to die",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Learning never exhausts the mind",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "I’m not afraid of storms, for I’m learning to sail my ship",
+            "author": "Louisa May Alcott"
+        },
+        {
+            "quote": "When one teaches, two learn. Robert A",
+            "author": "Heinlein"
+        },
+        {
+            "quote": "Belief gets in the way of learning. Robert A",
+            "author": "Heinlein"
+        },
+        {
+            "quote": "\"What did you learn\" is always first and best question",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "Never stop learning. Never stop growing",
+            "author": "Mel Robbins"
+        },
+        {
+            "quote": "Take what you learn and make a difference with it",
+            "author": "Tony Robbins"
+        },
+        {
+            "quote": "Learn bits and pieces from everyone",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "You can’t learn from anyone if you never stop talking",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "We learn to endure by enduring",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "Rejoice in what you learn, and spray it",
+            "author": "Tim Minchin"
+        },
+        {
+            "quote": "The cost of failure is…learning",
+            "author": "Neil Strauss"
+        },
+        {
+            "quote": "Unlearning is the highest form of learning",
+            "author": "Boii McCoy"
+        },
+        {
+            "quote": "There is no learning without pain",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "The goal of all learning is action, not knowledge. John C",
+            "author": "Maxwell"
+        },
+        {
+            "quote": "If it’s easy, you’re not learning",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The key is to fail, learn, and improve quickly",
+            "author": "Ray Dalio"
+        },
+        {
+            "quote": "Evolve or die",
+            "author": "Ray Dalio"
+        },
+        {
+            "quote": "Failure is a teacher",
+            "author": "Ray Dalio"
+        },
+        {
+            "quote": "What we need to learn is in front of us",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Forget the mistake. Remember the lesson",
+            "author": "Unknown"
+        },
+        {
+            "quote": "To teach is to learn twice",
+            "author": "Joseph Joubert"
+        },
+        {
+            "quote": "I learn best by jumping into the unknown",
+            "author": "Jesse Itzler"
+        },
+        {
+            "quote": "Let your past make you better, not bitter",
+            "author": "Lewis Howes"
+        },
+        {
+            "quote": "To learn one must be humble",
+            "author": "James Joyce (Ulysses)"
+        },
+        {
+            "quote": "Life is the great teacher",
+            "author": "James Joyce"
+        },
+        {
+            "quote": "He who laughs most, learns best",
+            "author": "John Cleese"
+        },
+        {
+            "quote": "All learning has an emotional base",
+            "author": "Plato"
+        },
+        {
+            "quote": "The greatest enemy of learning is knowing. John C",
+            "author": "Maxwell"
+        },
+        {
+            "quote": "As long as you live, keep learning how to live",
+            "author": "Seneca"
+        },
+        {
+            "quote": "From adversity we can learn the value of patience",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "Keep your head up. Have patience. Keep learning",
+            "author": "Neil Strauss"
+        },
+        {
+            "quote": "Invest time in yourself to have great experiences that are going to enrich you",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "The pain and boredom we experience in the initial stage of learning a skill toughens our minds",
+            "author": "Robert Greene (Mastery)"
+        },
+        {
+            "quote": "Everything that happens to you is a form of instruction if you pay attention",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Humans are learning machines. You just need to create the context for our natural curiosity to arise",
+            "author": "James Clear"
+        },
+        {
+            "quote": "Losing is a learning experience. It teaches you humility. It teaches you to work harder. It’s also a powerful motivator",
+            "author": "Yogi Berra"
+        },
+        {
+            "quote": "Become the best in the world at what you do. Keep redefining what you do until this is true",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The best teachers are on the Internet. The best books are on the Internet. The best peers are on the Internet",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Our job is obvious: We need to get out of the way, shine a light, and empower a new generation to teach itself and to go further and faster than any generation ever has",
+            "author": "Seth Godin"
+        },
+        {
+            "quote": "Don’t burn your future on the altar of the past. Remember it. Don’t live in it. Learn the lesson. The past is fixed. The future is variable. You will transform. You will endure",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "No learning without humility. No growth without pain. No reward without risk. No change without loss. Embrace. Endure",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "And in my opinion (until I change it), life is best filled by learning as much as you can about as much as you can, taking pride in whatever you’re doing, having compassion, sharing ideas, running(!), being enthusiastic",
+            "author": "Tim Minchin"
+        },
+        {
+            "quote": "If knowledge is a power, then learning is a superpower",
+            "author": "Jim Kwik"
+        },
+        {
+            "quote": "You can and inevitably will be surprised by your own ability. It is often not a question of ‘can’ you do it. The learning. The work. The achievement. It is instead a question of ‘will’ you",
+            "author": "Avery Regelman"
+        },
+        {
+            "quote": "Learn from mistakes, but never regret you made them. We make mistakes because we dare to step outside our comfort zone",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Realize your potential. Don’t go to your grave with your treasure still in you. Keep growing. Keep learning",
+            "author": "Joel Osteen"
+        },
+        {
+            "quote": "Learn to say ‘no’ to the good so you can say ‘yes’ to the best. John C",
+            "author": "Maxwell"
+        },
+        {
+            "quote": "I am responsible for learning whatever it takes to get from one level to the next",
+            "author": "Eric Thomas"
+        },
+        {
+            "quote": "That which we persist in doing becomes easier for us to do; not that the nature of the thing itself is changed, but that our power to do is increased",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Failure is a bend in the road, not the end of the road. Learn from failure and keep moving forward. Roy T",
+            "author": "Bennett"
+        },
+        {
+            "quote": "If you’re in the valley of despair with an idea that means the world to you, keep going, keep growing, keep learning. Your time is coming",
+            "author": "Mel Robbins"
+        },
+        {
+            "quote": "You will fail your way to success. Learn from your mistakes and keep moving",
+            "author": "Les Brown"
+        },
+        {
+            "quote": "Keep learning. Keep growing. Keep improving",
+            "author": "Marie Forleo"
+        },
+        {
+            "quote": "The trouble with learning from experience is that you never graduate",
+            "author": "Doug Larson"
+        },
+        {
+            "quote": "If you hold a cat by the tail you learn things you cannot learn any other way",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Lucy: \"You learn more when you lose\". Charlie Brown: \"Well then I must be the smartest person in world\". Charles M",
+            "author": "Schulz"
+        },
+        {
+            "quote": "Beware of the man who works hard to learn something, learns it, and finds himself no wiser than before",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "The best way to consume daily news is through a foreign language news outlet. That way, at least you’ll learn something (the language)",
+            "author": "Michael"
+        },
+        {
+            "quote": "It’s not burn baby burn, but learn, baby, learn, so that you can earn, baby, earn",
+            "author": "Martin Luther King Jr"
+        },
+        {
+            "quote": "It’s like golf. You can learn how in a day. Then it will take the rest of your life to get good",
+            "author": "Casey Neistat"
+        },
+        {
+            "quote": "You can learn many things from children. How much patience you have, for instance. Franklin P",
+            "author": "Jones"
+        },
+        {
+            "quote": "A man who asks is a fool for five minutes. A man who never asks is a fool for life",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "Small minds have always lashed out at what they don’t understand",
+            "author": "Dan Brown"
+        },
+        {
+            "quote": "It is only when we forget all our learning that we begin to know",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Learning is discovering, uncovering what is there in us",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "A wise man can learn more from a foolish question than a fool can learn from a wise answer",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "You learn a lot from your mistakes when you stop denying them",
+            "author": "Mel Robbins"
+        },
+        {
+            "quote": "Learning is not child’s play; we cannot learn without pain",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Become who you are by learning who you are",
+            "author": "Pindar"
+        },
+        {
+            "quote": "A generation of autodidacts, educated by the Internet and leveraged by technology, will eventually starve the industrial-education system",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "If the primary purpose of school was education, the Internet should obsolete it. But school is mainly about credentialing",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "If you can only learn from people that you 100% agree with on everything, it’s going to be a dark and lonely life",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The tools for learning are abundant. It’s the desire to learn that’s scarce",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Eventually, the time that was not spent on learning skills will catch up with you, and the fall will be painful",
+            "author": "Robert Greene (Mastery)"
+        },
+        {
+            "quote": "Observe and absorb reality as deeply as possible",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Learn to give before you take. It softens the ground, takes the bite out of a future request, or simply creates a distraction",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "A little learning is a dangerous thing; Drink deep, or taste not the Pierian spring : There shallow droughts intoxicate the brain, and drinking largely sobers us again",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "We could learn the lesson. Or we could act out a drama. Noise, shouting, blame. Action. Heart rates rising. It feels like something is happening. It feels like progress or change. No progress. No change. We chose the drama over the lesson",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "Some look for people they can feel superior to. Others look for people they can learn from. The first is a path to stagnation",
+            "author": "The second is a path to [email protected]"
+        },
+        {
+            "quote": "Learning how to live takes a whole life, and, which may surprise you more, it takes a whole life to learn how to die",
+            "author": "Seneca"
+        },
+        {
+            "quote": "Will you learn how to focus and move past boredom, or like a child you will succumb to the need for immediate pleasure and distraction?",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "You must learn a new way to think before you can master a new way to be",
+            "author": "Marianne Williamson"
+        },
+        {
+            "quote": "We learn and grow and are transformed not so much by what we do but by why and how we do it",
+            "author": "Sharon Salzberg"
+        },
+        {
+            "quote": "Learning is an ornament in prosperity, a refuge in adversity, and a provision in old age",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The most useful piece of learning for the uses of life is to unlearn what is untrue",
+            "author": "Antisthenes"
+        },
+        {
+            "quote": "Taste is more important than knowledge. Anyone can learn; only few can know",
+            "author": "Rich Cohen"
+        },
+        {
+            "quote": "No physician is really good before he has killed one or two patients",
+            "author": "Hindu proverb"
+        },
+        {
+            "quote": "Much learning does not teach understanding",
+            "author": "Heraclitus"
+        },
+        {
+            "quote": "I never learned from a man who agreed with me. Robert A",
+            "author": "Heinlein"
+        },
+        {
+            "quote": "In youth we learn; in age we understand",
+            "author": "Marie Ebner-Eschenbach"
+        },
+        {
+            "quote": "Learning is like rowing upstream: not to advance is to drop back",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "It is no weakness for the wisest man to learn when he is wrong",
+            "author": "Sophocles"
+        },
+        {
+            "quote": "If you wish to improve, be content to appear clueless or stupid in extraneous matters — don’t wish to seem knowledgeable. And if some regard you as important, distrust yourself",
+            "author": "Epictetus"
+        },
+        {
+            "quote": "Learn to ask of all actions, \"Why are they doing that?\" Starting with your own",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "A scholar tries to learn something everyday; a student of Buddhism tries to unlearn something daily",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "The teacher learns more than the student. The author learns more than the reader. The speaker learns more than the attendee. The way to learn is by doing",
+            "author": "James Clear"
+        },
+        {
+            "quote": "Value learning above everything else. This will lead you to all the right choices",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "It isn’t the learning that’s so hard, but the unlearning",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "Be crazy. But learn how to be crazy without being the center of attention. Be wise. But learn that wisdom is sometimes the art of behaving like a fool",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Pleasure is the state of being brought about by what you learn. Learning is the process of entering into the experience of this kind of pleasure. No pleasure, no learning. No learning, no pleasure",
+            "author": "Wang Ken (Song of Joy)"
+        },
+        {
+            "quote": "Learning is pleasurable but doing is the height of enjoyment",
+            "author": "Novalis"
+        },
+        {
+            "quote": "The past is behind, learn from it. The future is ahead, prepare for it. The present is here, live it. Thomas S",
+            "author": "Monson"
+        },
+        {
+            "quote": "Success is the enemy of learning. It can deprive you of the time and the incentive to start over. Beginner’s mind also needs beginner’s time",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The highest activity a human being can attain is learning for understanding, because to understand is to be free",
+            "author": "Baruch Spinoza"
+        },
+        {
+            "quote": "Knowledge is learning something every day. Wisdom is letting go of something every day",
+            "author": "Zen proverb"
+        },
+        {
+            "quote": "It takes a wise man to learn from his mistakes, but an even wiser man to learn from others",
+            "author": "Zen proverb"
+        },
+        {
+            "quote": "If one watches with wisdom, one can learn much. But if one watches with ignorance, one can only find faults",
+            "author": "Ajahn Chah"
+        },
+        {
+            "quote": "Like a cup, you are full of your own opinions and speculations",
+            "author": "How can you learn wisdom unless you first empty your cup? Nyogen Senzaki"
+        },
+        {
+            "quote": "Only people who die very young learn all they really need to know in kindergarten",
+            "author": "Wendy Kaminer"
+        },
+        {
+            "quote": "Intelligence is learning new ideas. Wisdom is acting on them",
+            "author": "Robin Sharma"
+        },
+        {
+            "quote": "Learn to fail with pride – and do so fast and cleanly. Maximize trial and error – by mastering the error part",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "A fool will learn nothing from a wise man, but a wise man will learn a lot from a fool",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "We learn 25% from our teacher, 25% from experience, 25% from our friends, and 25% from time",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "The smart can learn quickly. The smart and wise can unlearn as quickly as they learn",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "You can’t learn what you won’t admit you don’t know",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "Reading is faster than listening. Doing is faster than watching",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Live, love, learn, leave a legacy. Stephen R",
+            "author": "Covey"
+        },
+        {
+            "quote": "The world belongs to the energetic",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "We presume that the surest sign of talent is early, instant, effortless success, i.e., being a prodigy. In fact, a well-established body of research shows that that assumption is false",
+            "author": "Unknown"
+        },
+        {
+            "quote": "consistently and overwhelmingly, the evidence showed that experts are always made, not born",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you can change your mind, you can change your life",
+            "author": "William James"
+        },
+        {
+            "quote": "if you’re intensely focused on the task and really trying to master something for an important reason, the change experienced will be greater",
+            "author": "Unknown"
+        },
+        {
+            "quote": "you learn ten times more in a crisis than during normal times",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Once you choose hope, anything’s possible",
+            "author": "Christopher Reeve"
+        },
+        {
+            "quote": "Students with a growth mindset, in contrast, value effort; they realize that even geniuses have to work hard to develop their abilities and make their contributions",
+            "author": "Unknown"
+        },
+        {
+            "quote": "What can I learn from this?",
+            "author": "Carol Dweck"
+        },
+        {
+            "quote": "I don’t mind losing as long as I see improvement or I feel I’ve done as well as I possibly could",
+            "author": "Carol Dweck"
+        },
+        {
+            "quote": "Picture your brain forming new connections as you meet the challenge and learn. Keep on going",
+            "author": "Carol Dweck"
+        },
+        {
+            "quote": "When people change to a growth mindset, they change from a judge-and-be-judged framework to a learn-and-help-learn framework",
+            "author": "Carol Dweck"
+        },
+        {
+            "quote": "The mind is just like a muscle – the more you exercise it, the stronger it gets and the more it can expand",
+            "author": "Idowu Koyenikan"
+        },
+        {
+            "quote": "Fixed mindset worries in the nest and the growth mindset dances on the edge",
+            "author": "Amit Ray"
+        },
+        {
+            "quote": "It’s not about being the best, it’s about being better than you were yesterday",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Strive for progress, not perfection",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Mistakes help me learn",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You don’t lose. You win or you learn",
+            "author": "Unknown"
+        },
+        {
+            "quote": "People who succeed inspire me",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I persevere when I’m frustrated",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Challenges are opportunities",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I cannot do it yet. I’ll try again",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The doers are the major thinkers",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "our brains evolved to learn by doing things, not by hearing about them. This is one of the reasons that, for a lot of skills, it’s much better to spend about two-thirds of your time testing yourself on it rather than absorbing it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "it’s better to spend 30 per cent of your time reading it and the other 70 per cent of your time testing yourself on that knowledge",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Knowing what to leave out is just as important as knowing what to focus on",
+            "author": "Warren Buffett"
+        },
+        {
+            "quote": "Success is about doing the right thing, not about doing everything right",
+            "author": "Unknown"
+        },
+        {
+            "quote": "By knowing what you’re getting into, learning the fundamentals, practicing intelligently, and developing a practice routine, you’ll make progress more quickly and consistently, and you’ll achieve expert status in record time",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your mastery depends on focus, patience and practice. Not on luck",
+            "author": "Robin Sharma"
+        },
+        {
+            "quote": "when you’re struggling, that’s when you’re getting smarter. The more time you spend there, the faster you learn",
+            "author": "Unknown"
+        },
+        {
+            "quote": "It’s better to spend a very, very high quality ten minutes, or even ten seconds, than it is to spend a mediocre hour",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You want to practice where you are on the edge of your ability, reaching over and over again, making mistakes, failing, realizing those mistakes and reaching again",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Only by choosing activities in the learning zone can one make progress. That’s the location of skills and abilities that are just out of reach",
+            "author": "Unknown"
+        },
+        {
+            "quote": "We can never make progress in the comfort zone because those are the activities we can already do easily; while panic-zone activities are so hard that we don’t even know how to approach them",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you’re too comfortable, you’re not productive. And if you’re too uncomfortable, you’re not productive",
+            "author": "Unknown"
+        },
+        {
+            "quote": "there are clear distinctions between what it takes to be decent, what it takes to be good, what it takes to be great, and what it takes to be among the best",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you chase two rabbits you will not catch either one",
+            "author": "Russian proverb"
+        },
+        {
+            "quote": "Humans have limitations on their cognitive capacity. Our resources are limited. So the moment we pay attention to one thing, it makes it that much harder for us to process something else",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The constant supply of stimulus has the potential to turn us into addicts, always hungering for something new and prefabricated to keep us entertained",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When nothing exciting is going on, we might get bored, distracted, separated from the moment. So we look for new entertainment, surf channels, flip through magazines",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If caught in these rhythms, we are like tiny current-bound surface fish, floating along a two-dimensional world without any sense for the gorgeous abyss below",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When these societally induced tendencies translate into the learning process, they have devastating effect",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Extraordinary results are directly determined by how narrow you can make your focus",
+            "author": "Unknown"
+        },
+        {
+            "quote": "that men and women who frequently used several types of technology at the same time had less grey matter in a key part of the brain",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I fear not the man who has practiced 10,000 kicks once, but I fear the man who has practiced one kick 10,000 times",
+            "author": "Unknown"
+        },
+        {
+            "quote": "whereby learning is greater when studying is spread out over time, as opposed to studying the same amount of content in a single session",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Active recall – recitation, for instance, or flashcards and other self-quizzing – is the most effective way to inscribe something in long-term memory",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When students repeatedly read something, it falsely inflates their sense of their own learning",
+            "author": "Unknown"
+        },
+        {
+            "quote": "In three studies, we found that students who took notes on laptops performed worse on conceptual questions than students who took notes longhand",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Participants expecting to teach produced more complete and better organized free recall of the passage and, in general, correctly answered more questions about the passage than did participants expecting a test",
+            "author": "Unknown"
+        },
+        {
+            "quote": "the actual act of retrieving the information over and over, that’s what makes it retrievable when you need it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Variety’s the very spice of life, that gives it all it’s flavour",
+            "author": "William Cowper"
+        },
+        {
+            "quote": "when interleaving, tennis players might practice forehands, backhands and volleys altogether. Interleaving for musicians could mean practicing scales, arpeggios and chords all in the same session",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Interleaving probably works because it forces the mind to work harder. Instead of relying on learning a system and sticking with it, the mind has to keep searching and reaching for solutions",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If it doesn’t challenge you, it doesn’t change you",
+            "author": "Fred DeVito"
+        },
+        {
+            "quote": "if you practice a slightly modified version of a task you want to master, you actually learn more and faster than if you just keep practicing the exact same thing multiple times in a row",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The senses, being the explorers of the world, open the way to knowledge",
+            "author": "Maria Montessori"
+        },
+        {
+            "quote": "the more regions of the brain that store data about a subject, the more interconnection there is. This redundancy means students will have more opportunities to pull up all of those related bits of data from their multiple storage areas in response to a single cue",
+            "author": "Unknown"
+        },
+        {
+            "quote": "saying things aloud improves memory for them. This benefit, which we call the production effect, likely occurs by enhancing the distinctiveness of the things said aloud",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Somewhere, something incredible is waiting to be known",
+            "author": "Carl Sagan"
+        },
+        {
+            "quote": "Simply alternating the room where a person studies improves retention",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When the outside context is varied, the information is enriched, and this slows down forgetting",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Celebrate your successes. Find some humor in your failures",
+            "author": "Sam Walton"
+        },
+        {
+            "quote": "reward motivation promotes memory formation via dopamine release in the hippocampus prior to learning",
+            "author": "Unknown"
+        },
+        {
+            "quote": "daytime workouts, short afternoon naps, longer sleep hours, more time away from the office and longer, more frequent vacations – boosts productivity, job performance and, of course, health",
+            "author": "Unknown"
+        },
+        {
+            "quote": "With fame I become more and more stupid, which of course is a very common phenomenon",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "tangible rewards tend to have a substantially negative effect on intrinsic motivation (…) Even when tangible rewards are offered as indicators of good performance, they typically decrease intrinsic motivation for interesting activities",
+            "author": "Unknown"
+        },
+        {
+            "quote": "for routine tasks, which aren’t very interesting and don’t demand much creative thinking",
+            "author": "Unknown"
+        },
+        {
+            "quote": "diminish performance, crush creativity, crowd out good behavior, encourage cheating, become addictive, and foster short-term thinking",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If today were the last of your life, would you do what you were going to do today?",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "intrinsic motivation – or deep internal motivation – is much richer",
+            "author": "Unknown"
+        },
+        {
+            "quote": "For example, consider a teacher who is inspired by the growth of a student or a doctor who is driven by improving health. Intrinsic motivation stems from the meaningfulness of the work you do. You are driven by what you yearn to do even if there is no reward or compensation",
+            "author": "Unknown"
+        },
+        {
+            "quote": "In my experience, successful people shoot for the stars, put their hearts on the line in every battle, and ultimately discover that the lessons learned from the pursuit of excellence mean much more than the immediate trophies and glory",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You can do anything you set your mind to",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Intrinsic motivators versus extrinsic motivators. Autonomy, mastery and purpose, versus carrot and sticks, and who wins? Intrinsic motivation, autonomy, mastery and purpose, in a knockout",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The secret to high performance isn’t rewards and punishments, but that unseen intrinsic drive – the drive to do things for their own sake. The drive to do things cause they matter",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Allow people to complete a task their own way. Think autonomy, not control",
+            "author": "Unknown"
+        },
+        {
+            "quote": "We should focus our efforts on creating environments for our innate psychological needs to flourish",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Human beings have an innate inner drive to be autonomous, self-determined, and connected to one another. And when that drive is liberated, people achieve more and live richer lives",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Flow is the highest, most satisfying experiences in people’s lives",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Mastery is a mindset: It requires the capacity to see your abilities not as finite, but as infinitely improvable",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Satisfaction depends not merely on having goals, but on having the right goals",
+            "author": "Unknown"
+        },
+        {
+            "quote": "A good teacher can inspire hope, ignite the imagination, and instill a love of learning",
+            "author": "Brad Henry"
+        },
+        {
+            "quote": "Ignition is about the set of signals and subconscious forces that create our identity; the moments that lead us to say that is who I want to be",
+            "author": "Unknown"
+        },
+        {
+            "quote": "when a twenty-year-old named Se Ri Pak won the McDonald’s LPGA Championship and became a national icon",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Before her, no South Korean had succeeded in golf. Flash-forward to ten years later, and Pak’s countrywomen had essentially colonized the LPGA Tour, with forty-five players who collectively won about one-third of the events",
+            "author": "Unknown"
+        },
+        {
+            "quote": "find somebody you want to be in two years, three years, five years, and stare at that person. See exactly what they’re doing, and steal that. Steal from them",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Care about people’s approval, and you will always be their prisoner",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Feeling stupid is no fun. But being willing to be stupid — in other words, being willing to risk the emotional pain of making mistakes – is absolutely essential, because reaching, failing, and reaching again is the way your brain grows and forms new connections",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you want to improve, be content to be thought foolish and stupid",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You do not rise to the level of your goals. You fall to the level of your systems",
+            "author": "James Clear"
+        },
+        {
+            "quote": "in the world of dieting, losing twenty pounds is a goal, but eating right is a system. In the exercise realm, running a marathon in under four hours is a goal, but exercising daily is a system",
+            "author": "Unknown"
+        },
+        {
+            "quote": "goal-oriented people exist in a state of continuous presuccess failure at best, and permanent failure at worst if things never work out. Systems people succeed every time they apply their systems, in the sense that they did what they intended to do",
+            "author": "Unknown"
+        },
+        {
+            "quote": "All big things come from small beginnings",
+            "author": "James Clear"
+        },
+        {
+            "quote": "a huge body of research has shown that small wins have enormous power, an influence disproportionate to the accomplishments of the victories themselves",
+            "author": "Unknown"
+        },
+        {
+            "quote": "small wins fuel transformative changes by leveraging tiny advantages into patterns that convince people that bigger achievements are within reach",
+            "author": "Unknown"
+        },
+        {
+            "quote": "it was best to concentrate on these tiny moments of success and build them into mental triggers. We worked them into a routine. There’s a series of things we do before every race that are designed to give Michael a sense of building victory",
+            "author": "Unknown"
+        },
+        {
+            "quote": "We human beings are social beings. We come into the world as the result of others’ actions. We survive here in dependence on others. Whether we like it or not, there is hardly a moment of our lives when we do not benefit from others’ activities",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "simply feeling like you’re part of a team of people working on a task makes people more motivated as they take on challenges",
+            "author": "Unknown"
+        },
+        {
+            "quote": "people must believe change is possible. And most often, that belief only emerges with the help of a group",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Practice does not make perfect. It is practice, followed by a night of sleep, that leads to perfection",
+            "author": "Matthew Walker"
+        },
+        {
+            "quote": "Being chronically tired to the point of fatigue or exhaustion means that we are less likely to perform well. Neurons do not fire optimally, muscles are not rested, and the body’s organ systems are not synchronized",
+            "author": "Unknown"
+        },
+        {
+            "quote": "A feeble body weakens the mind",
+            "author": "Jean-Jacques Rousseau"
+        },
+        {
+            "quote": "Your body is a temple, but only if you treat it as one",
+            "author": "Astrid Alauda"
+        },
+        {
+            "quote": "exercise appears to build a brain that resists physical shrinkage and enhance cognitive flexibility",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When diet is wrong, medicine is of no use. When diet is correct, medicine is of no need",
+            "author": "Ayurvedic proverb"
+        },
+        {
+            "quote": "dietary deficiency of omega-3 fatty acids in humans has been associated with increased risk of several mental disorders, including attention-deficit disorder, dyslexia, dementia, depression, bipolar disorder and schizophrenia",
+            "author": "Unknown"
+        },
+        {
+            "quote": "the effects of diet on mental health can be transmitted across generations",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Discipline is the bridge between goals and accomplishment",
+            "author": "Jim Rohn"
+        },
+        {
+            "quote": "Success comes down to choosing the pain of discipline over the ease of capitulation",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "Eating a high-fructose diet over the long term alters your brain’s ability to learn and remember information",
+            "author": "Unknown"
+        },
+        {
+            "quote": "adding omega-3 fatty acids to your meals can help minimize the damage",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Better bread with water than cake with trouble",
+            "author": "Russian proverb"
+        },
+        {
+            "quote": "researchers found foundation students who drank water could expect to see grades improved by up to 10%",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Given enough coffee I could rule the world",
+            "author": "Terry Pratchett"
+        },
+        {
+            "quote": "Caffeine reduced oxygenated hemoglobin, increased deoxygenated hemoglobin, improved performance on attention tasks and increased overall mood ratings",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Numerous studies to date have shown that caffeine ingested prior to and during prolonged sub-maximal and high intensity exercise can improve performance",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When you realize there is nothing lacking, the whole world belongs to you",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "increases cortical thickness in the hippocampus, which governs learning and memory, and in certain areas of the brain that play roles in emotion regulation and self-referential processing",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There were also decreases in brain cell volume in the amygdala, which is responsible for fear, anxiety, and stress",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your calm mind is the ultimate weapon against your challenges. So relax",
+            "author": "Bryant McGill"
+        },
+        {
+            "quote": "chronic stress generates long-term changes in the brain that may explain why people suffering chronic stress are prone to mental problems such as anxiety and mood disorders",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Each time you smile you throw a little feel-good party in your brain",
+            "author": "Unknown"
+        },
+        {
+            "quote": "smiling activates the release of neuropeptides that work toward fighting off stress",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Offend in neither word nor deed. Eat with moderation. Live in your heart. Seek the highest consciousness. Master yourself according to the law. This is the simple teaching of the awakened",
+            "author": "Buddha"
+        },
+        {
+            "quote": "If disproportionate results come from one activity, then you must give that one activity disproportionate time",
+            "author": "Gary Keller"
+        },
+        {
+            "quote": "the secret is that everything is always on the line. The more present we are at practice, the more present we will be in competition, in the boardroom, at the exam, the operating table, the big stage",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If we have any hope of attaining excellence, let alone of showing what we’ve got under pressure, we have to be prepared by a lifestyle of reinforcement. Presence must be like breathing",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Much of what separates the great from the very good is deep presence, relaxation of the conscious mind",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If we encounter a man of rare intellect, we should ask him what books he reads",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Know that you don’t know. That is superior",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Knowledge will give you power, but character respect",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "The beginning of knowledge is the discovery of something we do not understand",
+            "author": "Frank Herbert"
+        },
+        {
+            "quote": "The dumbest people I know are those who know it all",
+            "author": "Malcolm Forbes"
+        },
+        {
+            "quote": "Real knowledge is intrinsic and it’s built from the ground up",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "It is impossible for a man to learn what he thinks he already knows",
+            "author": "Epictetus"
+        },
+        {
+            "quote": "The universe is full of magical things, patiently waiting for our wits to grow sharper",
+            "author": "Eden Phillpotts"
+        },
+        {
+            "quote": "Great knowledge is universal. Small knowledge is limited. Great words are inspiring. Small words are chatter",
+            "author": "Zhuangzi"
+        },
+        {
+            "quote": "Wisdom is not a product of schooling but of the lifelong attempt to acquire it",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "To attain knowledge, add things every day. To attain wisdom, remove things every day",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Real knowledge is to know the extent of one’s ignorance",
+            "author": "Confucius"
+        },
+        {
+            "quote": "The desire of knowledge, like the thirst of riches, increases ever with the acquisition of it",
+            "author": "Laurence Sterne"
+        },
+        {
+            "quote": "Humility will teach you knowledge, arrogance will teach you ignorance. If you think you know it all, you have learned nothing",
+            "author": "Thibaut (@kpaxs)"
+        },
+        {
+            "quote": "The end of all knowledge should be service to others",
+            "author": "Cesar Chavez"
+        },
+        {
+            "quote": "Today a reader, tomorrow a leader",
+            "author": "Margaret Fuller"
+        },
+        {
+            "quote": "Any fool can know. The point is to understand",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "The best thing a human being can do is to help another human being know more",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "The best investment you can make, is an investment in yourself… The more you learn, the more you’ll earn",
+            "author": "Warren Buffett"
+        },
+        {
+            "quote": "Knowledge is a skyscraper. You can take a shortcut with a fragile foundation of memorization, or build slowly upon a steel frame of understanding",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The ultimate test of knowledge is self-transformation. Knowledge is of use only if it brings a profound change in yourself. Make sure that your knowledge is qualitative, not just quantitative. The quality of understanding is important, not the quantity of information",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "Wise people say less than they know. Fools say everything they know and many things they don’t",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "When an ordinary man attains knowledge, he is a sage; when a sage attains understanding, he is an ordinary man",
+            "author": "Zen proverb"
+        },
+        {
+            "quote": "The future belongs to those who learn more skills and combine them in creative ways",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "The greatest obstacle to discovery is not ignorance – it is the illusion of knowledge. Daniel J",
+            "author": "Boorstin"
+        },
+        {
+            "quote": "Knowing what you don’t know is more useful than being brilliant",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "Ignorance is the curse of God; knowledge is the wing wherewith we fly to heaven",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "The learning and knowledge that we have is, at the most, but little compared with that of which we are ignorant",
+            "author": "Plato"
+        },
+        {
+            "quote": "The true lover of knowledge naturally strives for truth, and is not content with common opinion, but soars with undimmed and unwearied passion till he grasps the essential nature of things",
+            "author": "Plato"
+        },
+        {
+            "quote": "If your goal is lasting insight, consuming news that will be irrelevant next week is a bad strategy",
+            "author": "Michael"
+        },
+        {
+            "quote": "In an age of information abundance, the only things that really need to be taught are those that are counterintuitive",
+            "author": "Michael"
+        },
+        {
+            "quote": "Almost all Americans own a smartphone or a computer. Each device contains the library of Alexandria. The sum total of all world knowledge. You can learn anything. Why don’t you? Too busy tracking social status. Too enthralled by imagery your evolution can’t resist",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "I know just enough to know how little we know",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Knowledge is a process of piling up facts; wisdom lies in their simplification",
+            "author": "Martin Luther King Jr"
+        },
+        {
+            "quote": "The true sign of intelligence is not knowledge but imagination",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "If facts are the seeds that later produce knowledge and wisdom, then the emotions and the impressions of the senses are the fertile soil in which the seeds must grow",
+            "author": "Rachel Carson"
+        },
+        {
+            "quote": "Real knowledge breeds \"body feel\" and personal expression; surface knowledge breeds mechanical conditioning and imposing limitation and squelches creativity",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "Knowledge is power but only wisdom is liberty",
+            "author": "Will Durant"
+        },
+        {
+            "quote": "Knowledge is an unending adventure at the edge of uncertainty",
+            "author": "Jacob Bronowski"
+        },
+        {
+            "quote": "Knowledge is rooted in all things — the world is a library",
+            "author": "Lakota proverb"
+        },
+        {
+            "quote": "Knowledge is useful when applied, but over-accumulated for its own sake is a burden",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Knowledge is of no value unless you put it into practice",
+            "author": "Anton Chekhov"
+        },
+        {
+            "quote": "Knowledge is power",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "Risk comes from not knowing what you’re doing",
+            "author": "Warren Buffett"
+        },
+        {
+            "quote": "I did then what I knew how to do. Now that I know better, I do better",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "I am a part of everything that I have read",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "The only true wisdom is in knowing you know nothing",
+            "author": "Socrates"
+        },
+        {
+            "quote": "The more you know the less you understand",
+            "author": "Lao Tzu (Tao Te Ching)"
+        },
+        {
+            "quote": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "An investment in knowledge always pays the best interest",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "The only thing that I know, is that I know nothing",
+            "author": "René Descartes"
+        },
+        {
+            "quote": "There is no knowledge that is not power",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "If money is your hope for independence, you will never have it. The only real security that a man can have in this world is a reserve of knowledge, experience and ability",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "The advancement and diffusion of knowledge is the only guardian of true liberty",
+            "author": "James Madison"
+        },
+        {
+            "quote": "Nothing that is worth knowing can be taught",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The more I read, the more I acquire, the more certain I am that I know nothing",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "To know that we know what we know, and to know that we do not know what we do not know, that is true knowledge",
+            "author": "Nicolaus Copernicus"
+        },
+        {
+            "quote": "Share your knowledge. It’s a way to achieve immortality",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul",
+            "author": "Plato"
+        },
+        {
+            "quote": "Human behavior flows from three main sources: desire, emotion, and knowledge",
+            "author": "Plato"
+        },
+        {
+            "quote": "If you don’t read the newspaper, you are uninformed; if you do read the newspaper, you are misinformed",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Knowledge without transformation is not wisdom",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Wisdom is the daughter of experience",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Diversification is a hedge against a lack of knowledge",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Wisdom > knowledge > information > data",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "Knowledge, like milk, has an expiry date",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "The more you know, the less you need to say",
+            "author": "Jim Rohn"
+        },
+        {
+            "quote": "Zeal without knowledge is the sister of folly",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Knowledge has a beginning but no end. Geeta S",
+            "author": "Iyengar"
+        },
+        {
+            "quote": "Knowledge speaks, but wisdom listens",
+            "author": "Jimi Hendrix"
+        },
+        {
+            "quote": "Time, as it grows old, teaches all things",
+            "author": "Aeschylus"
+        },
+        {
+            "quote": "Take small bites. Before people realize it, you have accumulated an empire",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Better to understand a little than do misunderstand a lot",
+            "author": "Lord Chesterfield"
+        },
+        {
+            "quote": "Spend each day trying to be a little wiser than you were when you woke up",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "The advancement and diffusion of knowledge is the only guardian of true liberty",
+            "author": "James Madison"
+        },
+        {
+            "quote": "Now we have the Internet, which is the greatest weapon of knowledge ever created, completely interconnected",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "School, politics, sports, and games train us to compete against others. True rewards – wealth, knowledge, love, fitness, and equanimity – come from ignoring others and improving ourselves",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The fact that I can plant a seed and it becomes a flower, share a bit of knowledge and it becomes another’s, smile at someone and receive a smile in return, are to me continual spiritual exercises",
+            "author": "Leo Buscaglia"
+        },
+        {
+            "quote": "The possession of knowledge does not kill the sense of wonder and mystery. There is always more mystery",
+            "author": "Anais Nin"
+        },
+        {
+            "quote": "Your problem is not a lack of knowledge; you already have more of it than 90% of people will ever have. The problem is a lack of implementation. Once you’ve acquired a certain amount of knowledge, adding more to it is less important than putting your current knowledge to work",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "The value of knowledge depends on what else you know",
+            "author": "David Perell"
+        },
+        {
+            "quote": "I had to deny knowledge in order to make room for faith",
+            "author": "Immanuel Kant"
+        },
+        {
+            "quote": "For me, I am driven by two main philosophies: know more today about the world than I knew yesterday and lessen the suffering of others. You’d be surprised how far that gets you",
+            "author": "Neil deGrasse Tyson"
+        },
+        {
+            "quote": "A great book can transmit years of wisdom in a few afternoons. Each sentence conveys meaning with precision and economy. A great book is a patient teacher and a deathless companion. A man with a good library has a thousand good mentors",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "No thief, however skillful, can rob one of knowledge, and that is why knowledge is the best and safest treasure to acquire. L",
+            "author": "Frank Baum"
+        },
+        {
+            "quote": "The larger the island of knowledge, the longer the shoreline of wonder. Ralph W",
+            "author": "Sockman"
+        },
+        {
+            "quote": "Never stop fighting until you arrive at your destined place – that is, the unique you. Have an aim in life, continuously acquire knowledge, work hard, and have perseverance to realise the great life. A. P. J",
+            "author": "Abdul Kalam"
+        },
+        {
+            "quote": "I was gratified to be able to answer promptly, and I did. I said I didn’t know",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Write what you know. That should leave you with a lot of free time",
+            "author": "Howard Nemerov"
+        },
+        {
+            "quote": "The trouble with the world is that the stupid are cocksure and the intelligent are full of doubt",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "Beware of the man who works hard to learn something, learns it, and finds himself no wiser than before",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "If you think that knowledge alone is power, remember: people still smoke and drink soda",
+            "author": "Ed Latimore"
+        },
+        {
+            "quote": "Knowledge is knowing a tomato is a fruit; wisdom is not putting it in a fruit salad",
+            "author": "Miles Kington"
+        },
+        {
+            "quote": "If book knowledge made great investors, than the librarians would all be rich",
+            "author": "Warren Buffett"
+        },
+        {
+            "quote": "Beware of false knowledge; it is more dangerous than ignorance",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "The overeducated are worse off than the undereducated, having traded common sense for the illusion of knowledge",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Better to know how to know than to be taught what to know",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "Knowledge is cumulative when you focus on things that change slowly",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "Our tragedy is that we read too much and reflect too little. Anything worth reading is worth deep contemplation. Knowledge without absorption leaves no lasting mark on us and is little different from a passing amusement",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "Understanding is far more important than knowledge. Knowledge is quantitative. It is information. It remains peripheral. Understanding is qualitative. It penetrates your heart and permeates your being. Knowledge boosts the ego but only understanding brings transformation",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "Timeless knowledge prepares you for a changing world",
+            "author": "James Pierce"
+        },
+        {
+            "quote": "One is never afraid of the unknown; one is afraid of the known coming to and end",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "You can only be afraid of what you think you know",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "The saddest aspect of life right now is that science gathers knowledge faster than society gathers wisdom",
+            "author": "Isaac Asimov"
+        },
+        {
+            "quote": "I believe that imagination is stronger than knowledge – myth is more potent than history – dreams are more powerful than facts – hope always triumphs over experience – laughter is the cure for grief – love is stronger than death",
+            "author": "Robert Fulghum"
+        },
+        {
+            "quote": "The more you possess the more you are possessed",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "One of the most important skills in 2019 is being able to ignore noise. Too much information is just as bad as not enough information",
+            "author": "@LifeMathMoney"
+        },
+        {
+            "quote": "Most college degrees are certificates of gullibility",
+            "author": "@LifeMathMoney"
+        },
+        {
+            "quote": "I try to get rid of people who always confidently answer questions about which they don’t have any real knowledge",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "A little learning is a dangerous thing; drink deep, or taste not the Pierian spring: there shallow draughts intoxicate the brain, and drinking largely sobers us again",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "Learn to use the knowledge of the past and you will look like a genius, even when you are really just a clever borrower",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Do anything to break up your normal train of thinking and your sense that you already know the truth",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Knowledge has three degrees – opinion, science, illumination. The means or instrument of the first is sense; of the second, dialectic; of the third, intuition",
+            "author": "Plotinus"
+        },
+        {
+            "quote": "That which we desire lies across an ocean of hard won knowledge",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "They will call you lost for not following the same route as others. They will call you a geek for being a knowledge-seeker. They will call you ugly for not looking like celebrities. They will call you dumb for not being an academic",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "The suppression of uncomfortable ideas may be common in religion or in politics, but it is not the path to knowledge and there is no place for it in the endeavor of science",
+            "author": "Carl Sagan"
+        },
+        {
+            "quote": "Virtue is an angel, but she is a blind one, and must ask Knowledge to show her the pathway that leads to her goal",
+            "author": "Horace Mann"
+        },
+        {
+            "quote": "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future",
+            "author": "Vernon Cooper"
+        },
+        {
+            "quote": "The art of being wise is the art of knowing what to overlook",
+            "author": "William James"
+        },
+        {
+            "quote": "Acknowledging what you don’t know is the dawning of wisdom",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "Where there is shouting, there is no true knowledge",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "The most difficult subjects can be explained to the most slow-witted man if he has not informed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already, without a shadow of doubt, what is laid before him",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "We do not need more knowledge but more wisdom. Wisdom comes from our own attention",
+            "author": "Jack Kornfield"
+        },
+        {
+            "quote": "To acquire knowledge, one must study; but to acquire wisdom, one must observe",
+            "author": "Marilyn Vos Savant"
+        },
+        {
+            "quote": "A loving heart is the beginning of all knowledge",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "Knowledge if not digested does not give nutrition, only adds weight",
+            "author": "Osho"
+        },
+        {
+            "quote": "As we move forward we must remember that despite our quest, the shores of our ignorance grow as the Island of Knowledge grows",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "Are you focused enough on the same thing to build cumulative knowledge or are you too spread out?",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "Information – so abundant it’s worth practically nothing. Knowledge – scarce enough to be worth $, price determined by supply and demand, distribution follows a bell curve. Insight – So rare it could be worth a fortune, distribution is fat-tailed and the Black Swan rules",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "The improvement of understanding is for two ends: first, our own increase of knowledge; secondly, to enable us to deliver that knowledge to others",
+            "author": "John Locke"
+        },
+        {
+            "quote": "Information is just bits of data. Knowledge is putting them together. Wisdom is transcending them",
+            "author": "Ram Dass"
+        },
+        {
+            "quote": "Doubt is wisdom. People are dangerous when they are certain that their cause is just and their facts are right",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "This presumption that you possess knowledge of any use has to be dropped before you approach philosophy – just as if we were enrolling in a school of music or mathematics",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "Knowledge is an addiction, as drink; knowledge does not bring understanding. Knowledge can be taught, but not wisdom; there must be freedom from knowledge for the coming of wisdom",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Information, the knowledge of facts, though ever increasing, is by its very nature limited. Wisdom is infinite, it includes knowledge and the way of action; but we take hold of a branch and think it is the whole tree. Through the knowledge of the part, we can never realize the joy of the whole. Intellect can never lead to the whole, for it is only a segment, a part",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Constantly remind yourself of how little you truly know, and of how mysterious the world remains",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "If you’re broke and tell people money is not important, they won’t listen to you. If you’re ignorant and say knowledge is vanity, no one believes you. If you preach stoicism but never faced any difficulties, your sermon is futile. Let your message grow out of your own experience",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "It is nothing for one to know something unless another knows you know it",
+            "author": "Persian proverb"
+        },
+        {
+            "quote": "Everything we know has an expiration date",
+            "author": "Samuel Arbesman"
+        },
+        {
+            "quote": "Knowledge is proud that he has learn’d so much; Wisdom is humble that he knows no more",
+            "author": "William Cowper"
+        },
+        {
+            "quote": "A society of narrowly developed specialists is a society expert in seeing trees but not forests",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "A miseducation is much more dangerous than no education. An uneducated person has common sense born of pattern recognition. A miseducated person has traded good sense for bad theories",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "Knowledge is either from direct experience or from verifiable, falsifiable science. There is knowledge that is transmitted but not verifiable / falsifiable, and this knowledge is indistinguishable from that which is false",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "To know that you do not know is the best. To think you know when you do not is a disease. Recognizing this disease as a disease is to be free of it",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "All our knowledge begins with the senses, proceeds then to the understanding, and ends with reason. There is nothing higher than reason",
+            "author": "Immanuel Kant"
+        },
+        {
+            "quote": "We can be knowledgeable with other men’s knowledge, but we cannot be wise with other men’s wisdom",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "The greatest impurity is ignorance. Free yourself from it. Be pure",
+            "author": "Buddhist proverb"
+        },
+        {
+            "quote": "Knowledge without wisdom is like water in the sand",
+            "author": "Guinean proverb"
+        },
+        {
+            "quote": "A book is a dream that you hold in your hands",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "A good book is a creator of inwardness",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "I have always imagined paradise will be a kind of library",
+            "author": "Jorge Luis Borges"
+        },
+        {
+            "quote": "Books are the training weights of the mind",
+            "author": "Epictetus"
+        },
+        {
+            "quote": "Any book not worth rereading isn’t worth reading",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "Books let us into their souls and lay open to us the secrets of our own",
+            "author": "William Hazlitt"
+        },
+        {
+            "quote": "Most of what makes a book ‘good’ is that we are reading it at the right moment for us",
+            "author": "Alain de Botton"
+        },
+        {
+            "quote": "Buying books would be a good thing if one could also buy the time to read them in",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "The poet lights the light and fades away. But the light goes on and on",
+            "author": "Emily Dickinson"
+        },
+        {
+            "quote": "The greatest books have more insights than one can absorb in a single reading",
+            "author": "James Pierce"
+        },
+        {
+            "quote": "Stories are illusion. They are so powerful they invite delusion",
+            "author": "Stewart Brand"
+        },
+        {
+            "quote": "Knowledge sets us free, art sets us free. A great library is freedom. Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "That is a good book it seems to me, which is opened with expectation and closed with profit",
+            "author": "Louisa May Alcott"
+        },
+        {
+            "quote": "The only important thing in a book is the meaning that it has for you. W",
+            "author": "Somerset Maugham"
+        },
+        {
+            "quote": "If we encounter a man of rare intellect, we should ask him what books he reads",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "A book is proof that humans are capable of working magic",
+            "author": "Carl Sagan"
+        },
+        {
+            "quote": "In a good book the best is between the lines",
+            "author": "Swedish proverb"
+        },
+        {
+            "quote": "All great literature is one of two stories; a man goes on a journey or a stranger comes to town",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "Readers are plentiful, thinkers are rare",
+            "author": "Harriet Martineau"
+        },
+        {
+            "quote": "Many a book is like a key to unknown chambers within the castle of one’s own self",
+            "author": "Franz Kafka"
+        },
+        {
+            "quote": "One kind of good book should leave you asking: how did the author know that about me?",
+            "author": "Alain de Botton"
+        },
+        {
+            "quote": "The very greatest books only manage to illuminate the dark confusion of our lives like a brief brilliant firework",
+            "author": "Alain de Botton"
+        },
+        {
+            "quote": "In the case of good books, the point is not how many of them you can get through, but rather how many can get through to you. Mortimer J",
+            "author": "Adler"
+        },
+        {
+            "quote": "A book is something that can be read ten years after publication. A real book, twenty. Otherwise it is a magazine report with bookbinding",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "We’ve already discovered teleportation and time travel: a good book",
+            "author": "Sahil Lavingia"
+        },
+        {
+            "quote": "Let just as many books be acquired as are enough, but none for mere show",
+            "author": "Seneca"
+        },
+        {
+            "quote": "Of all that is written, I love only what a man has written with his own blood",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "As a rule the purchase of books is mistaken for the appropriation of their contents",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "I was dumb. I thought reading the classics would make me wise and educated. Now, I simply read the books that interest me",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Part 1. Books are the carriers of civilization. Without books, history is silent, literature dumb, science crippled, thought and speculation at a standstill",
+            "author": "Barbara Tuchman"
+        },
+        {
+            "quote": "Part 2. They are engines of change, windows on the world and lighthouses erected in the sea of time. They are companions, teachers, magicians, bankers of the treasures of the mind. Books are humanity in print",
+            "author": "Barbara Tuchman"
+        },
+        {
+            "quote": "People who ask for book recommendations don’t read",
+            "author": "Sahil Lavingia"
+        },
+        {
+            "quote": "Great books teach you something every time you read them",
+            "author": "Angela Jiang"
+        },
+        {
+            "quote": "Books are not made for furniture, but there is nothing else that so beautifully furnishes a house",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "A house is no home unless it contains food and fire for the mind as well as for the body",
+            "author": "Margaret Fuller"
+        },
+        {
+            "quote": "I would rather read the 100 best books over and over again until I absorbed them, rather than read all the books",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The right book at the right time will speak to you in a way the right book at the wrong time just won’t",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "My library is an archive of longings",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "Good friends, good books and a sleepy conscience: this is the ideal life",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "So many books, so little time",
+            "author": "Frank Zappa"
+        },
+        {
+            "quote": "Any book that helps a child to form a habit of reading, to make reading one of his deep and continuing needs, is good for him",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "If a book is well written, I always find it too short",
+            "author": "Jane Austen"
+        },
+        {
+            "quote": "The dearest ones of time, the strongest friends of the soul – books",
+            "author": "Emily Dickinson"
+        },
+        {
+            "quote": "I was raised by books. Books, and then my parents",
+            "author": "Elon Musk"
+        },
+        {
+            "quote": "Independent inquiry is needed in your search for truth, not dependence on anyone else’s view or a mere book",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "The more that you read, the more things you will know. The more that you learn, the more places you’ll go. Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "A children’s story that can only be enjoyed by children is not a good children’s story in the slightest. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "There is no friend as loyal as a book",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "I was with book, as a woman is with child. C.S",
+            "author": "Lewis (Till We Have Faces, Amazon book)"
+        },
+        {
+            "quote": "Your face is a book, where men may read strange matters",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Literature and butterflies are the two sweetest passions known to man",
+            "author": "Vladimir Nabokov"
+        },
+        {
+            "quote": "Throw away your books; stop letting yourself be distracted",
+            "author": "Marcus Aurelius (It seems Marcus Aurelius was not a dreamer…)"
+        },
+        {
+            "quote": "When I get a little money I buy books; and if any is left I buy food and clothes",
+            "author": "Desiderius Erasmus"
+        },
+        {
+            "quote": "It is my ambition to say in ten sentences what others say in a whole book",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Anyone who reads a book with a sense of obligation does not understand the art of reading",
+            "author": "Lin Yutang (The Importance of Living, Amazon book)"
+        },
+        {
+            "quote": "There are two motives for reading a book: one, that you enjoy it; the other, that you can boast about it",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "Sleep is good, he said, and books are better. George R. R",
+            "author": "Martin"
+        },
+        {
+            "quote": "A lawyer without books would be like a workman without tools",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "A book worth reading is worth buying",
+            "author": "John Ruskin"
+        },
+        {
+            "quote": "Some books leave us free and some books make us free",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "I water my mind with books",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "Words are life",
+            "author": "Markus Zusak (The Book Thief, Amazon book)"
+        },
+        {
+            "quote": "Books are absent teachers. Mortimer J",
+            "author": "Adler"
+        },
+        {
+            "quote": "When I had nothing, I had books",
+            "author": "Jola Tankoka"
+        },
+        {
+            "quote": "Read more books and fewer articles",
+            "author": "Morgan Housel"
+        },
+        {
+            "quote": "Books are a uniquely portable magic",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Your brain is a muscle and books are the weights",
+            "author": "James Clear"
+        },
+        {
+            "quote": "Books may well be the only true magic",
+            "author": "Alice Hoffman"
+        },
+        {
+            "quote": "No two persons ever read the same book",
+            "author": "Edmund Wilson"
+        },
+        {
+            "quote": "A room without books is like a body without a soul",
+            "author": "Cicero"
+        },
+        {
+            "quote": "Good books don’t give up all their secrets at once",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "I shall be miserable if I have not an excellent library",
+            "author": "Jane Austen"
+        },
+        {
+            "quote": "Books have superpowers; they ground you and make you fly too",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "If you have a garden and a library, you have everything you need",
+            "author": "Cicero"
+        },
+        {
+            "quote": "Even a great book is not so great if the current you is not ready",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Read the best books first, or you may not have a chance to read them at all",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "There is no frigate like a book to take us lands away",
+            "author": "Emily Dickinson"
+        },
+        {
+            "quote": "It is the nature of those books we call classics to wait patiently on the shelf for us to grow into them",
+            "author": "Erica Jong"
+        },
+        {
+            "quote": "Whenever you read a good book, somewhere in the world a door opens to allow in more light",
+            "author": "Vera Nazarian"
+        },
+        {
+            "quote": "The test of literature is, I suppose, whether we ourselves live more intensely for the reading of it",
+            "author": "Elizabeth Drew"
+        },
+        {
+            "quote": "Don’t read to show off, read to take off",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "That’s the thing about books. They let you travel without moving your feet",
+            "author": "Jhumpa Lahiri (See also: travel quotes)"
+        },
+        {
+            "quote": "Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "There is no better teacher than history in determining the future. There are answers worth billions of dollars in a $30 history book",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "A book lying idle on a shelf is wasted ammunition. Like money, books must be kept in constant circulation. Lend and borrow to the maximum – of both books and money! But especially books, for books represent infinitely more than money. A book is not only a friend, it makes friends for you. When you have possessed a book with mind and spirit, you are enriched. But when you pass it on you are enriched threefold",
+            "author": "Henry Miller"
+        },
+        {
+            "quote": "Books are funny little portable pieces of thought",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "Books are gateways into other worlds and other minds into which you cannot otherwise travel",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I’ll never forgive books for being 300 pages when they could have been 30",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Think how quiet a book is on a shelf, just sitting there, unopened. Then think what happens when you open it",
+            "author": "Ali Smith"
+        },
+        {
+            "quote": "Some books are to be tasted, others to be swallowed, and some few to be chewed on and digested",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "Buying books isn’t spending, it’s investing",
+            "author": "Sven Schnieders"
+        },
+        {
+            "quote": "′Classic′ – a book which people praise and don’t read",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "There are books of which the backs and covers are by far the best parts",
+            "author": "Charles Dickens"
+        },
+        {
+            "quote": "Never read a book written by a journalist. Never read a book if you understand the table of contents",
+            "author": "Nassim Nicholas Taleb (Funny and true at the the time, right?)"
+        },
+        {
+            "quote": "Books keep stupidity at bay",
+            "author": "Nina George (The Little Paris Bookshop, Amazon book)"
+        },
+        {
+            "quote": "The difference between literature and journalism is that journalism is unreadable and literature is not read",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Certain books are apparently written not so that we may learn from them, but to demonstrate the fact that the author knew something",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "A good novel tells us the truth about its hero; but a bad novel tells us the truth about its author. G.K",
+            "author": "Chesterton (Heretics, Amazon book)"
+        },
+        {
+            "quote": "I fell asleep reading a dull book and dreamed I kept on reading, so I awoke from sheer boredom",
+            "author": "Heinrich Heine"
+        },
+        {
+            "quote": "One always tends to overpraise a long book, because one has got through it. E. M",
+            "author": "Forster"
+        },
+        {
+            "quote": "I find television very educating. Every time somebody turns on the set, I go into the other room and read a book",
+            "author": "Groucho Marx"
+        },
+        {
+            "quote": "Outside of a dog, a book is man’s best friend. Inside of a dog, it’s too dark to read",
+            "author": "Groucho Marx"
+        },
+        {
+            "quote": "Where is human nature so weak as in the bookstore",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "Always read something that will make you look good if you die in the middle of it. P.J",
+            "author": "O’Rourke"
+        },
+        {
+            "quote": "If you have enough book space, I don’t want to talk to you",
+            "author": "Terry Pratchett"
+        },
+        {
+            "quote": "Beware of the person of one book",
+            "author": "Thomas Aquinas"
+        },
+        {
+            "quote": "The books that the world calls immoral are books that show the world its own shame",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Number of books completed is a vanity metric. As you know more, you leave more books unfinished",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Read the best books several times. The first time, you hear. The second time, you understand. The third time, you learn. The fourth time, you think. After enough reading, the first reading of any book feels like its fourth",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "You may have noticed that the books you really love are bound together by a secret thread. You know very well what is the common quality that makes you love them, though you cannot put it into words. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "It is much simpler to buy books than to read them and easier to read them than to absorb their contents",
+            "author": "William Osler"
+        },
+        {
+            "quote": "Those who begin by burning books will end by burning people",
+            "author": "Heinrich Heine"
+        },
+        {
+            "quote": "If you don’t feel that you haven’t read enough, you haven’t read enough",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "A library, to modify the famous metaphor of Socrates, should be the delivery room for the birth of ideas – a place where history comes to life",
+            "author": "Norman Cousins"
+        },
+        {
+            "quote": "In a state of society so corrupted as that in which we live, the best instructors and companions are ancient books",
+            "author": "Thomas Love Peacock"
+        },
+        {
+            "quote": "All books are either dreams or swords, you can cut, or you can drug, with words",
+            "author": "Amy Lowell"
+        },
+        {
+            "quote": "Conflict is the soul of literature",
+            "author": "Erica Jong"
+        },
+        {
+            "quote": "My library serves as a visual reminder of what I don’t know",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "A bad book is as much of a labor to write as a good one, it comes as sincerely from the author’s soul",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "If you only read the books that everyone else is reading, you can only think what everyone else is thinking",
+            "author": "Haruki Murakami (Norwegian Wood, Amazon book)"
+        },
+        {
+            "quote": "The value of an education in a liberal arts college is not the learning of many facts, but the training of the mind to think something that cannot be learned from textbooks",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "There are no books in this world that everybody must read, but only books that a person must read at a certain time in a given place under given circumstances and at a given period of his life",
+            "author": "Lin Yutang (The Importance of Living)"
+        },
+        {
+            "quote": "Many books require no thought from those who read them, and for a very simple reason; they made no such demand upon those who wrote them",
+            "author": "Charles Caleb Colson"
+        },
+        {
+            "quote": "If you never ask yourself any questions about the meaning of a passage, you cannot expect the book to give you any insight you do not already possess. Mortimer J",
+            "author": "Adler"
+        },
+        {
+            "quote": "The best measure of how good a book is is how many people finished it, not how many people bought it. Very hard/impossible to track, but it’s what separates a good book from good marketing",
+            "author": "Morgan Housel"
+        },
+        {
+            "quote": "Bad reading: when you rush through. Good reading: when you go slow. Wise reading: when you understand",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "It is better to know one book intimately than a hundred superficially",
+            "author": "Donna Tartt (The Secret History, Amazon book)"
+        },
+        {
+            "quote": "Good books make you think. Great books reshape your thinking",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "A classic is a book that has never finished saying what it has to say",
+            "author": "Italo Calvino"
+        },
+        {
+            "quote": "Show me the books he loves and I shall know the man far better than through mortal friends",
+            "author": "Dawn Adams"
+        },
+        {
+            "quote": "A mind needs books as a sword needs a whetstone, if it is to keep its edge. George R.R",
+            "author": "Martin (A Game of Thrones, Amazon book)"
+        },
+        {
+            "quote": "Do not be guilty of possessing a library of learned books while lacking learning yourself",
+            "author": "Desiderius Erasmus"
+        },
+        {
+            "quote": "All books are divisible into two classes, the books of the hour, and the books of all time",
+            "author": "John Ruskin"
+        },
+        {
+            "quote": "Books are mirrors: you only see in them what you already have inside you",
+            "author": "Carlos Ruiz Zafón"
+        },
+        {
+            "quote": "A donkey carrying a pile of holy books is still a donkey",
+            "author": "Zen proverb"
+        },
+        {
+            "quote": "I am a product of […] endless books. My father bought all the books he read and never got rid of any of them. There were books in the study, books in the drawing room, books in the cloakroom, books (two deep) in the great bookcase on the landing, books in a bedroom, books piled as high as my shoulder in the cistern attic, books of all kinds reflecting every transient stage of my parents’ interest, books readable and unreadable, books suitable for a child and books most emphatically not. Nothing was forbidden me. In the seemingly endless rainy afternoons I took volume after volume from the shelves. I had always the same certainty of finding a book that was new to me as a man who walks into a field has of finding a new blade of grass. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "What an astonishing thing a book is. It’s a flat object made from a tree with flexible parts on which are imprinted lots of funny dark squiggles. But one glance at it and you’re inside the mind of another person, maybe somebody dead for thousands of years. Across the millennia, an author is speaking clearly and silently inside your head, directly to you. Writing is perhaps the greatest of human inventions, binding together people who never knew each other, citizens of distant epochs. Books break the shackles of time. A book is proof that humans are capable of working magic",
+            "author": "Carl Sagan (Cosmos, Part 11: The Persistence of Memory)"
+        },
+        {
+            "quote": "Who questions much, shall learn much, and retain much",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "Life itself is your teacher, and you are in a state of constant learning",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "A dull mind gets bored easily. A curious mind expands forever",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Play is the highest form of research",
+            "author": "Albert Einstein (Based on this page, this quote is probably not from Einstein)"
+        },
+        {
+            "quote": "A generation of auto-didacts, educated by the Internet and leveraged by technology, will eventually starve the industrial-education system",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "A well-educated mind will always have more questions than answers",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "Children must be taught how to think, not what to think",
+            "author": "Margaret Mead"
+        },
+        {
+            "quote": "The mind is not a vessel to be filled, but a fire to be kindled",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "Teaching kids to count is fine, but teaching them what counts is best",
+            "author": "Bob Talber"
+        },
+        {
+            "quote": "Kids don’t remember what you try to teach them. They remember what you are",
+            "author": "Jim Henson"
+        },
+        {
+            "quote": "A room without books is like a body without a soul",
+            "author": "Cicero"
+        },
+        {
+            "quote": "The person who asks questions is more helpful than the person who offers advice",
+            "author": "James Clear"
+        },
+        {
+            "quote": "The highest result of education is tolerance",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "Only the autodidacts are free",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "They know enough who know how to learn",
+            "author": "Henry Adams"
+        },
+        {
+            "quote": "The more you make it easy for your kids, the more you remove the struggle necessary for learning",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "A mind is a terrible thing to waste",
+            "author": "United Negro College Fund"
+        },
+        {
+            "quote": "Learning is like rowing upstream: not to advance is to drop back",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "I would rather entertain and hope that people learned something than educate people and hope they were entertained",
+            "author": "Walt Disney"
+        },
+        {
+            "quote": "The giving of love is an education in itself",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "Lasting novels don’t come from literature departments. Successful businesses don’t come from business schools. Scientific revolutions don’t come from research universities. Get your education, then get moving. Find the loners tinkering at the edge",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Learning is a treasure that will follow its owner everywhere",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "He who asks is a fool for five minutes, but he who does not ask remains a fool forever",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "Skepticism: the mark and even the pose of the educated mind",
+            "author": "John Dewey"
+        },
+        {
+            "quote": "People learn more on their own rather than being force fed",
+            "author": "Socrates"
+        },
+        {
+            "quote": "If you have a garden and a library, you have everything you need",
+            "author": "Cicero"
+        },
+        {
+            "quote": "Instruction does much, but encouragement everything",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Free education is abundant, all over the Internet. It’s the desire to learn that’s scarce",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Education would be much more effective if its purpose was to ensure that by the time they leave school every boy and girl should know how much they do not know, and be imbued with a lifelong desire to know it",
+            "author": "William Haley"
+        },
+        {
+            "quote": "No one has yet realized the wealth of sympathy, the kindness and generosity hidden in the soul of a child. The effort of every true education should be to unlock that treasure",
+            "author": "Emma Goldman"
+        },
+        {
+            "quote": "Learning is not compulsory… neither is survival. W",
+            "author": "Edwards Deming"
+        },
+        {
+            "quote": "You educate a man; you educate a man. You educate a woman; you educate a generation",
+            "author": "Brigham Young"
+        },
+        {
+            "quote": "Education begins the gentleman, but reading, good company and reflection must finish him",
+            "author": "John Locke"
+        },
+        {
+            "quote": "Everyone you will ever meet knows something you don’t",
+            "author": "Bill Nye"
+        },
+        {
+            "quote": "Don’t let your learning lead to knowledge. Let your learning lead to action",
+            "author": "Jim Rohn"
+        },
+        {
+            "quote": "The best teachers are those who show you where to look but don’t tell you what to see. Alexandra K",
+            "author": "Trenfor"
+        },
+        {
+            "quote": "The learned man knows that he is ignorant",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "I am still learning",
+            "author": "Michelangelo"
+        },
+        {
+            "quote": "Learning never exhausts the mind",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Education is what remains after one has forgotten everything he learned in school",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "I have never let my schooling interfere with my education",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "The world is a book and those who do not travel read only one page",
+            "author": "Augustine of Hippo"
+        },
+        {
+            "quote": "Failure is success if we learn from it",
+            "author": "Malcolm Forbes"
+        },
+        {
+            "quote": "You can never be overdressed or overeducated",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Minds are like parachutes, they only function when they are open",
+            "author": "James Dewar"
+        },
+        {
+            "quote": "The beautiful thing about learning is nobody can take it away from you. B. B",
+            "author": "King"
+        },
+        {
+            "quote": "All I have learned, I learned from books",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "I don’t think much of a man who is not wiser today than he was yesterday",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "My education was interrupted only by my schooling",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "The most necessary learning is that which unlearns evil",
+            "author": "Antisthenes"
+        },
+        {
+            "quote": "The most useful piece of learning for the uses of life is to unlearn what is untrue",
+            "author": "Antisthenes"
+        },
+        {
+            "quote": "As long as you live, keep learning how to live",
+            "author": "Lucius Annaeus Seneca"
+        },
+        {
+            "quote": "Nine tenths of education is encouragement",
+            "author": "Anatole France"
+        },
+        {
+            "quote": "To teach is to learn twice",
+            "author": "Joseph Joubert"
+        },
+        {
+            "quote": "Responsibility educates",
+            "author": "Wendell Phillips"
+        },
+        {
+            "quote": "If you think education is expensive, try ignorance",
+            "author": "Andy McIntyre"
+        },
+        {
+            "quote": "The world exists for the education of each man",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Success is a poor teacher",
+            "author": "Robert Kiyosaki"
+        },
+        {
+            "quote": "The authority of those who teach is often an obstacle to those who want to learn",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Even a fool learns something once it hits him",
+            "author": "Homer"
+        },
+        {
+            "quote": "Much learning does not teach understanding",
+            "author": "Heraclitus"
+        },
+        {
+            "quote": "The foundation of every state is the education of its youth",
+            "author": "Diogenes"
+        },
+        {
+            "quote": "There is no education like adversity",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "quote": "Teachers open the door, but you must enter by yourself",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "There is no failure. Only feedback",
+            "author": "Robert Allen"
+        },
+        {
+            "quote": "When you learn, teach. When you get, give",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "If people did not do silly things, nothing intelligent would ever get done",
+            "author": "Ludwig Wittgenstein"
+        },
+        {
+            "quote": "If you don’t go after what you want, you’ll never have it. If you don’t ask, the answer is always no. If you don’t step forward, you’re always in the same place",
+            "author": "Nora Roberts"
+        },
+        {
+            "quote": "Always do your best. What you plant now, you will harvest later",
+            "author": "Og Mandino"
+        },
+        {
+            "quote": "With the new day comes new strength and new thoughts",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "The ideal school would teach health, wealth, and happiness. It‘d be free, self-paced, and available to all. It‘d show opposing ideas and students would self-verify truth. No grades, no tests, no diplomas – just learning. Actually, you’re already here. Careful who you follow",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Education is supposed to juice your curiosity, not diminish or sate it",
+            "author": "Walter Isaacson"
+        },
+        {
+            "quote": "Every person with a smartphone and a pair of headphones has access to the kind of education that was once reserved for the sons of aristocracy",
+            "author": "The Stoic Emperor"
+        },
+        {
+            "quote": "It does not matter how slowly you go as long as you do not stop",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Every child deserves a champion: an adult who will never give up on them, who understands the power of connection and insists they become the best they can possibly be",
+            "author": "Rita Pierson"
+        },
+        {
+            "quote": "They cannot stop me. I will get my education, if it is in the home, school, or anyplace",
+            "author": "Malala Yousafzai"
+        },
+        {
+            "quote": "All who have meditated on the art of governing mankind have been convinced that the fate of empires depends on the education of youth",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "Apply yourself. Get all the education you can, but then, by God, do something. Don’t just stand there, make it happen",
+            "author": "Lee Iacocca"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does",
+            "author": "William James"
+        },
+        {
+            "quote": "Believe in yourself! Have faith in your abilities! Without a humble but reasonable confidence in your own powers you cannot be successful or happy",
+            "author": "Norman Vincent Peale"
+        },
+        {
+            "quote": "Don’t be afraid to give up the good to go for the great. John D",
+            "author": "Rockefeller"
+        },
+        {
+            "quote": "You know how to tell if the teacher is hung over? Movie Day",
+            "author": "Jay Mohr"
+        },
+        {
+            "quote": "To add a library to a house is to give that house a soul",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "You can learn many things from children. How much patience you have, for instance. Franklin P",
+            "author": "Jones"
+        },
+        {
+            "quote": "Having a two-year-old is like having a blender that you don’t have the top for",
+            "author": "Jerry Seinfeld"
+        },
+        {
+            "quote": "Any kid will run any errand for you if you ask at bedtime",
+            "author": "Red Skelton"
+        },
+        {
+            "quote": "The human brain is special. It starts working as soon as you get up and it doesn’t stop until you get to school",
+            "author": "Milton Berle"
+        },
+        {
+            "quote": "Be careful about reading health books. You may die of a misprint",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Education: the path from cocky ignorance to miserable uncertainty",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "When a teacher calls a boy by his entire name, it means trouble",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "I was reading the dictionary. I thought it was a poem about everything",
+            "author": "Steven Wright"
+        },
+        {
+            "quote": "The Seinfeld motto: No learning, no hugging",
+            "author": "Julia Louis-Dreyfus"
+        },
+        {
+            "quote": "Time is the best teacher, but unfortunately, it kills all of its students",
+            "author": "Robin Williams"
+        },
+        {
+            "quote": "Teachers are those who help us in resolving problems which, without them, we wouldn’t have",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Marriage can wait, education cannot",
+            "author": "Khaled Hosseini"
+        },
+        {
+            "quote": "When the student is ready, the master appears",
+            "author": "Buddhist proverb"
+        },
+        {
+            "quote": "If a seed of a lettuce will not grow, we do not blame the lettuce. Instead, the fault lies with us for not having nourished the seed properly",
+            "author": "Buddhist proverb"
+        },
+        {
+            "quote": "A single conversation with a wise man is better than 10 years of study",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "Learning is a treasure that will follow its owner everywhere",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "Do not confine your children to your own learning, for they were born in another time",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "Wise men may not be learned; learned men may not be wise",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "A stumble may prevent a fall",
+            "author": "English proverb"
+        },
+        {
+            "quote": "Despise school and remain a fool",
+            "author": "German proverb"
+        },
+        {
+            "quote": "All things good to know are difficult to learn",
+            "author": "Greek proverb"
+        },
+        {
+            "quote": "An apprentice near a temple will recite the scriptures untaught",
+            "author": "Japanese proverb"
+        },
+        {
+            "quote": "Fall down seven times, stand up eight",
+            "author": "Japanese proverb"
+        },
+        {
+            "quote": "Better than a thousand days of diligent study is one day with a great teacher",
+            "author": "Japanese proverb"
+        },
+        {
+            "quote": "By learning you will teach; by teaching you will understand",
+            "author": "Latin proverb"
+        },
+        {
+            "quote": "Knowledge is learning something new every day. Wisdom is letting go of something every day",
+            "author": "Zen proverb"
+        },
+        {
+            "quote": "All the world is a laboratory to the inquiring mind. Martin H",
+            "author": "Fischer"
+        },
+        {
+            "quote": "I am learning all the time. The tombstone will be my diploma",
+            "author": "Eartha Kitt"
+        },
+        {
+            "quote": "The teacher is the lesson",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Coaching, at it’s best, is invisible",
+            "author": "James Pierce"
+        },
+        {
+            "quote": "The job of an educator is to teach students to see vitality in themselves",
+            "author": "Joseph Campbell"
+        },
+        {
+            "quote": "One child, one teacher, one book, one pen can change the world",
+            "author": "Malala Yousafzai"
+        },
+        {
+            "quote": "A teacher affects eternity: he can never tell where his influence stops",
+            "author": "Henry Adams"
+        },
+        {
+            "quote": "Your educators can only be your liberators",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "The best teachers remove more from your mind than they ever put in it",
+            "author": "Ed Latimore"
+        },
+        {
+            "quote": "Question your teachers. If they don’t welcome it, find other teachers",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Give too much and they give up. Give too little and they don’t care. Find balance",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "It is the supreme art of the teacher to awaken joy in creative expression and knowledge",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Where would any of us be without teachers?",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "The best teacher in the world is someone who loves what he or she does, and just loves it in front of you",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "The real teacher is the student’s curiosity",
+            "author": "Thibaut (@kpaxs)"
+        },
+        {
+            "quote": "A good teacher: someone who retains a clear, compassionate sense of what it was like not to know",
+            "author": "Alain de Botton"
+        },
+        {
+            "quote": "I am not a teacher, but an awakener",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "The best gift an educator can give is to get somebody to become self-reflective",
+            "author": "Randy Pausch"
+        },
+        {
+            "quote": "The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires",
+            "author": "William Arthur Ward"
+        },
+        {
+            "quote": "Your teaching ability is constrained by your writing ability. If you can’t write it down, it will be nearly impossible to teach it to others",
+            "author": "James Clear"
+        },
+        {
+            "quote": "Exceptional teachers not only understand their topic, but also know why someone might misunderstand it",
+            "author": "James Clear"
+        },
+        {
+            "quote": "A teacher that does not want to learn can hardly teach",
+            "author": "@AmuseChimp"
+        },
+        {
+            "quote": "A good teacher sees potential in a child’s hidden strengths. A great teacher sees the potential in a child’s perceived weaknesses",
+            "author": "Scott Barry Kaufman"
+        },
+        {
+            "quote": "Teach principles not formulas",
+            "author": "Richard Feynman"
+        },
+        {
+            "quote": "The best teachers are students too",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Think for a moment about the people who have inspired you most in your life. Chances are, one of them was a teacher",
+            "author": "Robert John Meehan"
+        },
+        {
+            "quote": "You don’t have to solve problems for others. You can let them be uncomfortable",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "A teacher who is attempting to teach, without inspiring the pupil with a desire to learn, is hammering on a cold iron",
+            "author": "Horace Mann"
+        },
+        {
+            "quote": "As a teacher I know the minute I stop learning, I can no longer teach. The minute I think I know it all, I’m done",
+            "author": "Iyanla Vanzant"
+        },
+        {
+            "quote": "Charlatans want you to be impressed. Real thinkers want you to understand",
+            "author": "Angela Jiang"
+        },
+        {
+            "quote": "Good teachers introduce new thoughts. Great teachers introduce new ways of thinking. Good teachers care about their subjects. Great teachers care about their students. Good teachers teach us what they know. Great teachers teach us how to learn",
+            "author": "Adam Grant"
+        },
+        {
+            "quote": "The best advice doesn’t specify what to do. It highlights blind spots in our thinking and helps us clarify our priorities",
+            "author": "Adam Grant"
+        },
+        {
+            "quote": "Those who can’t do shouldn’t teach",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "If you want to teach someone a real skill, teach him how to fail. He will never learn it in school",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "The best teachers are those who show you where to look, but don’t tell you what to see. Alexandra K",
+            "author": "Trenfor"
+        },
+        {
+            "quote": "A good teacher offers practice, a bad one offers theories",
+            "author": "Anthony de Mello"
+        },
+        {
+            "quote": "The world is full of teachers but devoid of students",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The first thing that any education ought to give a man is character and the second thing is education",
+            "author": "George Horace Lorimer"
+        },
+        {
+            "quote": "Good teachers believe in their own skills. Great teachers believe in their students",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Who dares to teach must never cease to learn",
+            "author": "John Cotton Dana"
+        },
+        {
+            "quote": "A coach is someone who can give correction without causing resentment",
+            "author": "John Wooden"
+        },
+        {
+            "quote": "I don’t know any other way to lead but by example",
+            "author": "John Wooden"
+        },
+        {
+            "quote": "It is easier for a tutor to command than to teach",
+            "author": "John Locke"
+        },
+        {
+            "quote": "Never help a child with a task at which he feels he can succeed",
+            "author": "Maria Montessori"
+        },
+        {
+            "quote": "The task of the modern educator is not to cut down jungles, but to irrigate deserts. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "The whole art of teaching is only the art of awakening the natural curiosity of young minds for the purpose of satisfying it afterwards",
+            "author": "Anatole France"
+        },
+        {
+            "quote": "The ultimate test of your knowledge is your capacity to convey it to another",
+            "author": "Richard Feynman"
+        },
+        {
+            "quote": "Teach your students to doubt, to think, to communicate, to question, to make mistakes, to learn from their mistakes, and most importantly, have fun in their learning",
+            "author": "Richard Feynman"
+        },
+        {
+            "quote": "One repays a teacher badly if one remains only a pupil",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Teach the ignorant as much as you can; society is culpable in not providing a free education for all and it must answer for the night which it produces. If the soul is left in darkness sins will be committed. The guilty one is not he who commits the sin, but he who causes the darkness",
+            "author": "Victor Hugo (Les Misérables)"
+        },
+        {
+            "quote": "Maybe the hardest part is if you teach, you have to live your teaching",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Treat people as if they were what they ought to be and you help them to become what they are capable of being",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "If you want your child to get the best education possible, it is actually more important to get him assigned to a great teacher than to a great school",
+            "author": "Bill Gates"
+        },
+        {
+            "quote": "Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "Tell me and I forget. Teach me and I remember. Involve me and I learn",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "To educate educators! But the first ones must educate themselves! And for these I write",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "If you really want to create something that lasts generations, you have to help inspire the next generation",
+            "author": "Kobe Bryant"
+        },
+        {
+            "quote": "I’ll tell you something about us teachers. We see the worth of every human. We love our work. We never give up",
+            "author": "Elizabeth Warren"
+        },
+        {
+            "quote": "Teachers, librarians and nurses will all get the best seats in heaven",
+            "author": "Anne Lamott"
+        },
+        {
+            "quote": "The enemy is a very good teacher",
+            "author": "14th Dalai Lama"
+        },
+        {
+            "quote": "Dear Teachers, you are our most important leaders",
+            "author": "Brené Brown"
+        },
+        {
+            "quote": "The best teachers are the ones that change their minds",
+            "author": "Terry Heick"
+        },
+        {
+            "quote": "Never underestimate what a single word of encouragement can do to change the trajectory of someone’s life",
+            "author": "Ian Cassel"
+        },
+        {
+            "quote": "A teacher’s real job isn’t to teach the subject; it’s to raise the curiosity of students to learn the subject",
+            "author": "Kunal (@CrazyPolymath)"
+        },
+        {
+            "quote": "It’s the teacher that makes the difference, not the classroom",
+            "author": "Michael Morpurgo"
+        },
+        {
+            "quote": "Don’t just teach your students to read. Teach them to question what they read, what they study. Teach them to doubt. Teach them to think. Teach them to make mistakes and learn from them. Teach them how to understand something. Teach them how to teach others",
+            "author": "Richard Feynman"
+        },
+        {
+            "quote": "Students should be made to think like scientists, be open-minded, curious, and especially, to doubt",
+            "author": "Richard Feynman"
+        },
+        {
+            "quote": "There’s a world of difference between insisting on someone’s doing something and establishing an atmosphere in which that person can grow into wanting to do it",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "A good teacher is one who makes himself progressively unnecessary",
+            "author": "Thomas Carruthers"
+        },
+        {
+            "quote": "Respect the child. Treat him as a person. The best thing a person can feel is to be accepted as he is, not as he will be when he grows up, but as he is now, right this very minute",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "Please, think of the children first. If you ever have anything to do with their entertainment, their food, their toys, their custody, their day care, their health, their education – please listen to the children, learn about them, learn from them",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "Learning occurs where confusion meets interest",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Fools impose. The wise inspire",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "All the world is my school and all humanity is my teacher",
+            "author": "George Whitman"
+        },
+        {
+            "quote": "People are informed when they learn from you but empowered when they learn with you. Teach as an instructor and people believe in you. Teach as a student and they believe in themselves",
+            "author": "Adam Grant"
+        },
+        {
+            "quote": "People who are naturally talented are often terrible teachers. The best teachers are often those who were not naturally talented and had to work extra hard to learn",
+            "author": "Preethi Kasireddy"
+        },
+        {
+            "quote": "The best teacher is self-reflection",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "There are two ways of spreading light: to be the candle or the mirror that reflects it",
+            "author": "Edith Wharton"
+        },
+        {
+            "quote": "As a teacher, you only need to ensure one thing: that kids remain curious and imaginative",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "The professor of the future will be equal parts educator and entertainer",
+            "author": "Matthew Kobach"
+        },
+        {
+            "quote": "What makes a good coach? Complete dedication",
+            "author": "George Halas"
+        },
+        {
+            "quote": "It’s not what you tell your players that counts. It’s what they hear",
+            "author": "Red Auerbach"
+        },
+        {
+            "quote": "Teach like you have something to learn",
+            "author": "Sahil Lavingia"
+        },
+        {
+            "quote": "The greatest teachers are the ones without an agenda",
+            "author": "James Pierce"
+        },
+        {
+            "quote": "Smart teachers teach humility",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Watch out for people who want to teach but not be taught",
+            "author": "Julian Shapiro"
+        },
+        {
+            "quote": "A mentor is not someone who walks ahead of us to show us how they did it. A mentor walks alongside us to show us what we can do",
+            "author": "Simon Sinek"
+        },
+        {
+            "quote": "Your environment is your most underrated yet effective mentor",
+            "author": "Angela Jiang"
+        },
+        {
+            "quote": "If coaching is not individualized, it’s just dogma",
+            "author": "Brian Norgard"
+        },
+        {
+            "quote": "Part 1. Genuine learning is impossible without curiosity",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Part 2. A good teacher says \"Isn’t this interesting? Look at how wondrous it is!\" It’s not about forcing your understanding of intelligence on someone else, nor is it about standardizing what it means to be intelligent. It’s about lighting a fire of curiosity within the student",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "Teach children how to think, not what to think",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "An intelligent person is interested in giving the right answers. A wise person is interested in asking the right questions",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "\"Teachers\" indoctrinating students don’t know what teaching is",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Teaching is more a way for the teacher to learn than for the student to learn",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Teachers won’t make you clever. Personal trainers won’t make you fit. Others won’t make you happy. Books won’t make you rich. No one is going to do it for you. The responsibility is yours",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "If you’re teaching today what you were teaching five years ago, either the field is dead or you are",
+            "author": "Noam Chomsky"
+        },
+        {
+            "quote": "If the professor is not capable of giving a class without preparation, don’t attend. People should only teach what they have learned organically, through experience and curiosity…or get another job",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "Teaching is not a lost art, but the regard for it is a lost tradition",
+            "author": "Jacques Barzun"
+        },
+        {
+            "quote": "Upon feeling a compulsion to teach, one author picks up his pen. The other, puts it down",
+            "author": "Kapil Gupta"
+        },
+        {
+            "quote": "To teach is to learn twice",
+            "author": "Joseph Joubert"
+        },
+        {
+            "quote": "Students can’t learn the way you teach? Teach them the way they learn",
+            "author": "Richard Feynman"
+        },
+        {
+            "quote": "Teacher and student have to meet at curiosity or its not real",
+            "author": "@AmuseChimp"
+        },
+        {
+            "quote": "Students in classes with traditional lecturing were 1.5x more likely to fail than those with active learning. Lectures might be the worst way to learn. Every class should invite students to teach one another and apply their knowledge in projects. Adam Grant (See also: The Case Against Lectures, nautil",
+            "author": "us)"
+        },
+        {
+            "quote": "How smart people are has little bearing on how informed they are. Without curiosity, intelligence breeds ignorance. Your greatest teachers aren’t the ones who know the most. They’re the ones who want to know the most",
+            "author": "Adam Grant"
+        },
+        {
+            "quote": "When you counsel someone, you should appear to be reminding him of something he had forgotten, not of the light he was unable to see",
+            "author": "Baltasar Gracián"
+        },
+        {
+            "quote": "Schools obsess over intellectual training, but emotional mastery is the most crucial of all",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Teachers with better questions create students with better outcomes",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "As human beings, our job in life is to help people realize how rare and valuable each one of us really is, that each of us has something that no one else has – or ever will have – something inside that is unique to all time. It’s our job to encourage each other to discover that uniqueness and to provide ways of developing its expression",
+            "author": "Fred Rogers"
+        },
+        {
             "quote": "We respect the concept that one must study for many years to become a medical doctor before writing prescriptions; so why is it that when it comes to Islam, everyone is an expert and has the right to say whatever he or she wishes?",
             "author": "Emad Hamdeh"
         },
