@@ -1,6 +1,3410 @@
 {
     "time": [
         {
+            "quote": "Those who would give up essential liberty, to purchase a little temporary safety, deserve neither liberty nor safety",
+            "author": "Benjamin Franklin (1706-1790)"
+        },
+        {
+            "quote": "Those who desire to give up freedom in order to gain security will not have, nor do they deserve, either one",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Any society that would give up a little liberty to gain a little security will deserve neither and lose both",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "He who sacrifices freedom for security deserves neither",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "He who gives his freedom for safety gets none of them",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "He that’s secure is not safe",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "We must, indeed, all hang together or, most assuredly, we shall all hang separately",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Whoever would overthrow the liberty of a nation must begin by subduing the freeness of speech",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Do not fear mistakes. You will know failure. Continue to reach out",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Distrust and caution are the parents of security",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Where liberty is, there is my country",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "A brother may not be a friend, but a friend will always be a brother",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Who is rich? He that rejoices in his portion",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Each year one vicious habit discarded, in time might make the worst of us good",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "An investment in knowledge pays the best interest",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Honesty is the best policy",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "God helps those who help themselves",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Genius without education is like silver in the mine",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "By failing to prepare, you are preparing to fail",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Early to bed and early to rise makes a man healthy, wealthy, and wise",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Well done is better than well said",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "If you would not be forgotten, do things worth remembering",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Would you live with ease, do what you ought and not what you please",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Justice will not be served until those who are unaffected are as outraged as those who are",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Diligence overcomes difficulties, sloth makes them",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "No man is free who is not a master of himself",
+            "author": "Epictetus"
+        },
+        {
+            "quote": "Liberty must be limited in order to be possessed",
+            "author": "Edmund Burke"
+        },
+        {
+            "quote": "The basis of a democratic state is liberty",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The best freedom is being yourself",
+            "author": "Jim Morrison"
+        },
+        {
+            "quote": "Peace is liberty in tranquillity",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Life without liberty is like a body without spirit",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "Caged birds accept each other but flight is what they long for",
+            "author": "Tennessee Williams"
+        },
+        {
+            "quote": "Liberty means responsibility. That is why most men dread it",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will",
+            "author": "Charlotte Bronte"
+        },
+        {
+            "quote": "People never give up their liberties but under some delusion",
+            "author": "Edmund Burke (See also: never give up quotes)"
+        },
+        {
+            "quote": "I only ask to be free. The butterflies are free",
+            "author": "Charles Dickens"
+        },
+        {
+            "quote": "When the people fear the government there is tyranny, when the government fears the people there is liberty. John Basil Barnhill",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "If liberty means anything at all, it means the right to tell people what they do not want to hear. George Orwell",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "To be true to one’s own freedom is, in essence, to honor and respect the freedom of all others. Dwight D",
+            "author": "Eisenhower"
+        },
+        {
+            "quote": "For every man who lives without freedom, the rest of us must face the guilt",
+            "author": "Lillian Hellman"
+        },
+        {
+            "quote": "The greatest dangers to liberty lurk in the insidious encroachment by men of zeal, well meaning but without understanding. Justice Louis Brandeis",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "The urge to save humanity is almost always a false face for the urge to rule it. H.L. Mencken",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Economic freedom is… an indispensable means toward the achievement of political freedom. Milton Friedman",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "True freedom is to share, all the chains our brothers wear",
+            "author": "James Russell Lowell"
+        },
+        {
+            "quote": "It is easy to be brave from a safe distance",
+            "author": "Aesop"
+        },
+        {
+            "quote": "We are living in a world where everything is based on security",
+            "author": "Alain Robert"
+        },
+        {
+            "quote": "Security is an attempt to try to make the universe static so that we feel safe",
+            "author": "Anne Wilson Schaef"
+        },
+        {
+            "quote": "Never surrender opportunity for security",
+            "author": "Branch Rickey"
+        },
+        {
+            "quote": "The more you seek security, the less of it you have. But the more you seek opportunity, the more likely it is that you will achieve the security that you desire",
+            "author": "Brian Tracy"
+        },
+        {
+            "quote": "I never want to feel that I’m playing it safe",
+            "author": "Christian Bale"
+        },
+        {
+            "quote": "It is playing safe that we create a world of utmost insecurity",
+            "author": "Dag Hammarskjold"
+        },
+        {
+            "quote": "A lack of transparency results in distrust and a deep sense of insecurity",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "People want security in this insecure world",
+            "author": "David Bailey"
+        },
+        {
+            "quote": "Most bad behavior comes from insecurity",
+            "author": "Debra Winger"
+        },
+        {
+            "quote": "Silence is safer than speech",
+            "author": "Epictetus"
+        },
+        {
+            "quote": "There can be no security where there is fear",
+            "author": "Felix Frankfurter"
+        },
+        {
+            "quote": "Growth demands a temporary surrender of security",
+            "author": "Gail Sheehy"
+        },
+        {
+            "quote": "Is it security you want? There is no security at the top of the world",
+            "author": "Garet Garrett"
+        },
+        {
+            "quote": "Security is when everything is settled. When nothing can happen to you. Security is the denial of life",
+            "author": "Germaine Greer"
+        },
+        {
+            "quote": "Most people want security in this world, not liberty. H. L",
+            "author": "Mencken"
+        },
+        {
+            "quote": "Knowing what to expect next gives children a sense of security",
+            "author": "Hillary Clinton"
+        },
+        {
+            "quote": "One cannot have economic growth without security",
+            "author": "John Bruton"
+        },
+        {
+            "quote": "The balance between freedom and security is a delicate one",
+            "author": "Mark Udall"
+        },
+        {
+            "quote": "In skating over thin ice our safety is in our speed",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "The desire for safety stands against every great and noble enterprise",
+            "author": "Tacitus"
+        },
+        {
+            "quote": "If everyone played it safe, we wouldn’t get anywhere",
+            "author": "Vinod Khosla"
+        },
+        {
+            "quote": "Security is a kind of death",
+            "author": "Tennessee Williams"
+        },
+        {
+            "quote": "I prefer dangerous freedom over peaceful slavery",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "He who gives his freedom for safety gets none of them",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "The tree of liberty must be refreshed from time to time with the blood of patriots and tyrants",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "I like the dreams of the future better than the history of the past",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "It is far better to be alone than to be in bad company",
+            "author": "George Washington"
+        },
+        {
+            "quote": "The time is near at hand which must determine whether Americans are to be free men or slaves",
+            "author": "George Washington"
+        },
+        {
+            "quote": "True friendship is a plant of slow growth, and must undergo and withstand the shocks of adversity before it is entitled to the appellation",
+            "author": "George Washington"
+        },
+        {
+            "quote": "Liberty, when it begins to take root, is a plant of rapid growth",
+            "author": "George Washington"
+        },
+        {
+            "quote": "Happiness and moral duty are inseparably connected",
+            "author": "George Washington"
+        },
+        {
+            "quote": "I must study politics and war that my sons may have liberty to study mathematics and philosophy",
+            "author": "John Adams"
+        },
+        {
+            "quote": "Liberty cannot be preserved without general knowledge among the people",
+            "author": "John Adams"
+        },
+        {
+            "quote": "Old minds are like old horses; you must exercise them if you wish to keep them in working order",
+            "author": "John Adams"
+        },
+        {
+            "quote": "Those who deny freedom to others deserve it not for themselves. Abraham Lincoln",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Freedom is the last, best hope of earth",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Things may come to those who wait, but only the things left by those who hustle",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Whatever you are, be a good one",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "There’s a way to do it better – find it",
+            "author": "Thomas Edison"
+        },
+        {
+            "quote": "If we did all the things we are capable of, we would literally astound ourselves",
+            "author": "Thomas Edison"
+        },
+        {
+            "quote": "Hell, there are no rules here – we’re trying to accomplish something",
+            "author": "Thomas Edison"
+        },
+        {
+            "quote": "Discontent is the first necessity of progress",
+            "author": "Thomas Edison"
+        },
+        {
+            "quote": "Men build too many walls and not enough bridges",
+            "author": "Isaac Newton"
+        },
+        {
+            "quote": "Nature is pleased with simplicity. And nature is no dummy",
+            "author": "Isaac Newton"
+        },
+        {
+            "quote": "If I have seen further than others, it is by standing upon the shoulders of giants",
+            "author": "Isaac Newton"
+        },
+        {
+            "quote": "I can calculate the motion of heavenly bodies, but not the madness of people",
+            "author": "Isaac Newton"
+        },
+        {
+            "quote": "Truth is ever to be found in the simplicity, and not in the multiplicity and confusion of things",
+            "author": "Isaac Newton"
+        },
+        {
+            "quote": "Great spirits have always encountered violent opposition from mediocre minds",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Force always attracts men of low morality",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Nothing is more destructive of respect for the government and the law of the land than passing laws which cannot be enforced",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Peace cannot be kept by force. It can only be achieved by understanding",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Unthinking respect for authority is the greatest enemy of truth",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "In the truest sense, freedom cannot be bestowed; it must be achieved. Franklin D",
+            "author": "Roosevelt"
+        },
+        {
+            "quote": "Freedom to learn is the first necessity of guaranteeing that man himself shall be self-reliant enough to be free. Franklin D",
+            "author": "Roosevelt"
+        },
+        {
+            "quote": "We, and all others who believe in freedom as deeply as we do, would rather die on our feet than live on our knees. Franklin D",
+            "author": "Roosevelt"
+        },
+        {
+            "quote": "True individual freedom cannot exist without economic security and independence. People who are hungry and out of a job are the stuff of which dictatorships are made. Franklin D",
+            "author": "Roosevelt"
+        },
+        {
+            "quote": "The test of our progress is not whether we add more to the abundance of those who have much; it is whether we provide enough for those who have too little. Franklin D",
+            "author": "Roosevelt"
+        },
+        {
+            "quote": "The only thing we have to fear is fear itself. Franklin D",
+            "author": "Roosevelt"
+        },
+        {
+            "quote": "Without a struggle, there can be no progress",
+            "author": "Frederick Douglass"
+        },
+        {
+            "quote": "The life of the nation is secure only while the nation is honest, truthful, and virtuous",
+            "author": "Frederick Douglass"
+        },
+        {
+            "quote": "Those who profess to favor freedom, and yet depreciate agitation, are men who want crops without plowing up the ground",
+            "author": "Frederick Douglass"
+        },
+        {
+            "quote": "It is easier to build strong children than to repair broken men",
+            "author": "Frederick Douglass"
+        },
+        {
+            "quote": "Doubt is not a pleasant condition, but certainty is absurd",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "I disapprove of what you say, but will defend to the death your right to say it",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Judge of a man by his questions rather than by his answers",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Man is free at the moment he wishes to be",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "All men have equal rights to liberty, to their property, and to the protection of the laws",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "He who is brave is free",
+            "author": "Seneca the Younger"
+        },
+        {
+            "quote": "Those who cannot learn from history are doomed to repeat it",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The earth has music for those who listen",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Only the dead have seen the end of the war",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Knowledge of what is possible is the beginning of happiness",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "A man’s feet must be planted in his country, but his eyes should survey the world",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "A child educated only at school is an uneducated child",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Almost every wise saying has an opposite one, no less wise, to balance it",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Everything in nature is lyrical in its ideal essence, tragic in its fate, and comic in its existence",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Love is only half the illusion; the lover, but not his love, is deceived",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The wisest mind has something yet to learn",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The loneliest woman in the world is a woman without a close woman friend",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Life is not a spectacle or a feast; it is a predicament",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "To be interested in the changing seasons is a happier state of mind than to be hopelessly in love with spring",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "There is no cure for birth and death save to enjoy the interval",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The family is one of nature’s masterpieces",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Friends are generally of the same sex, for when men and women agree, it is only in the conclusions; their reasons are always different",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Fanaticism consists of redoubling your effort when you have forgotten your aim",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "My atheism, like that of Spinoza, is true piety towards the universe and denies only gods fashioned by men in their own image to be servants of their human interests",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "For an idea ever to be fashionable is ominous, since it must afterwards be always old-fashioned",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "An ideal cannot wait for its realization to prove its validity",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The hunger for facile wisdom is the root of all false philosophy",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The brute necessity of believing something so long as life lasts does not justify any belief in particular",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Sanity is madness put to good uses",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Those who don’t know history are doomed to repeat it. Edmund Burke (azquotes",
+            "author": "com)"
+        },
+        {
+            "quote": "Those unable to catalog the past are doomed to repeat it",
+            "author": "Lemony Snicket"
+        },
+        {
+            "quote": "He who doesn’t understand history is doomed to repeat it",
+            "author": "Pittacus Lore"
+        },
+        {
+            "quote": "We’re doomed to repeat the past no matter what. That’s what it is to be alive",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "It’s been my experience, Langford, that the past always has a way of returning. Those who don’t learn, or can’t remember it, are doomed to repeat it",
+            "author": "Steve Berry"
+        },
+        {
+            "quote": "Those who don’t know their history are doomed to repeat it. You have to expose who you are so that you can determine what you need to become. Cynthia A",
+            "author": "Patterson"
+        },
+        {
+            "quote": "Learn from history or you’re doomed to repeat it",
+            "author": "Jesse Ventura"
+        },
+        {
+            "quote": "Our history is not our destiny",
+            "author": "Alan Cohen"
+        },
+        {
+            "quote": "Human blunders usually do more to shape history than human wickedness. A. J. P",
+            "author": "Taylor"
+        },
+        {
+            "quote": "Few characters in history are indispensable",
+            "author": "Albert Bushnell Hart"
+        },
+        {
+            "quote": "History is a gallery of pictures in which there are few originals and many copies",
+            "author": "Alexis de Tocqueville"
+        },
+        {
+            "quote": "On the day when man told the story of his life to man, history was born",
+            "author": "Alfred de Vigny"
+        },
+        {
+            "quote": "Freedom has no history",
+            "author": "Andrew Cohen"
+        },
+        {
+            "quote": "History is formed by the people, those who have power and those without power. Each one of us makes history",
+            "author": "Anselm Kiefer"
+        },
+        {
+            "quote": "Whatever we do or fail to do will influence the course of history",
+            "author": "Arthur Henderson"
+        },
+        {
+            "quote": "What I am is a thinking, feeling human being compelled by history",
+            "author": "Avery Brooks"
+        },
+        {
+            "quote": "Difficulty is the excuse history never accepts. Edward R",
+            "author": "Murrow"
+        },
+        {
+            "quote": "History has repeated itself many times throughout the ages",
+            "author": "Billy Sheehan"
+        },
+        {
+            "quote": "Whenever you move, I think you lose your history",
+            "author": "Calista Flockhart"
+        },
+        {
+            "quote": "To communicate the truths of history is an act of hope for the future",
+            "author": "Daisaku Ikeda"
+        },
+        {
+            "quote": "History is information. Memory is part of your identity",
+            "author": "David Miliband"
+        },
+        {
+            "quote": "We learn from history that we don’t learn from history!",
+            "author": "Desmond Tutu"
+        },
+        {
+            "quote": "History provides a sense of where we’ve been and lessons that can be taken forward",
+            "author": "Jim Leach"
+        },
+        {
+            "quote": "History is a people’s memory, and without a memory, man is demoted to the lower animals",
+            "author": "Malcolm X"
+        },
+        {
+            "quote": "The main thing is to make history, not to write it",
+            "author": "Otto von Bismarck"
+        },
+        {
+            "quote": "History is the transformation of tumultuous conquerors into silent footnotes",
+            "author": "Paul Eldridge"
+        },
+        {
+            "quote": "Indeed, history is nothing more than a tableau of crimes and misfortunes",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "The history of liberty is a history of resistance",
+            "author": "Woodrow Wilson"
+        },
+        {
+            "quote": "The art of being wise is the art of knowing what to overlook",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Act as if what you do makes a difference. It does",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Belief creates the actual fact",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "That which does not kill us makes us stronger",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "He who has a why to live can bear almost any how",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "There are no facts, only interpretations",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Education is not preparation for life; education is life itself",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Arriving at one goal is the starting point to another",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "To me faith means not worrying",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The good life is one inspired by love and guided by knowledge",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "War does not determine who is right – only who is left",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "To conquer fear is the beginning of wisdom",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Always do what you are afraid to do",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The earth laughs in flowers",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Nothing great was ever achieved without enthusiasm",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Compassion is the basis of morality",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The two enemies of human happiness are pain and boredom",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Change alone is eternal, perpetual, immortal",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The whole is more than the sum of its parts",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "A friend to all is a friend to none",
+            "author": "(See also: friendship quotes)"
+        },
+        {
+            "quote": "Poverty is the parent of revolution and crime",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Be kind, for everyone you meet is fighting a hard battle",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Only the dead have seen the end of war",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Your silence gives consent",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "I have measured out my life with coffee spoons",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "This is the way the world ends, not with a bang, but a whimper",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Only those who will risk going too far can possibly find out how far one can go",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "You can never plan the future by the past",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The greater the power, the more dangerous the abuse",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Our patience will achieve more than our force",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "Memory is the treasury and guardian of all things",
+            "author": "Cicero"
+        },
+        {
+            "quote": "Accept your past without regrets, and face your future without fears",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Memories are like salt: the right amount brings out the flavor in food, too much ruins it",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Fools try to forget. The wise love",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "A memory without the emotional charge is called wisdom",
+            "author": "Joe Dispenza"
+        },
+        {
+            "quote": "Visit your soul, not your past",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Make peace with your past so it won’t destroy your present",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "We do not remember days, we remember moments",
+            "author": "Cesare Pavese"
+        },
+        {
+            "quote": "Memories warm you up from the inside. But they also tear you apart",
+            "author": "Haruki Murakami"
+        },
+        {
+            "quote": "That’s what the world is, after all: an endless battle of contrasting memories",
+            "author": "Haruki Murakami"
+        },
+        {
+            "quote": "Our reality is an infinite battle between what happened and what we want to remember",
+            "author": "Haruki Murakami"
+        },
+        {
+            "quote": "There is no way I can just erase those memories. That would be the same as erasing my own self",
+            "author": "Haruki Murakami"
+        },
+        {
+            "quote": "The Past is frozen and no longer flows, and the Present is all lit up with eternal rays. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "Memory is fiction",
+            "author": "Kamal Ravikant"
+        },
+        {
+            "quote": "We didn’t realise we were making memories, we just knew we were having fun",
+            "author": "Winnie the Pooh"
+        },
+        {
+            "quote": "The past is a nice place to visit, but not the right place to stay",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Past and future are in the mind only – I am now",
+            "author": "Nisargadatta Maharaj"
+        },
+        {
+            "quote": "You can predict a lot about a society by seeing their obsession on nostalgia in comparison to their curiosity for future",
+            "author": "Kunal Shah"
+        },
+        {
+            "quote": "Memory and identity are burdens from the past preventing us from living freely in the present",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "All that is left will be memories, and eventually they, too, will vanish like dust",
+            "author": "Haruki Murakami"
+        },
+        {
+            "quote": "The worst part of holding the memories is not the pain. It’s the loneliness of it. Memories need to be shared",
+            "author": "Lois Lowry"
+        },
+        {
+            "quote": "Nothing fixes a thing so intensely in the memory as the wish to forget it",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "I’ve learned that good-byes will always hurt, pictures will never replace having been there, and words can never substitute action",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "The past does not have to be your prison. You have a voice in your destiny. You have a say in your life. You have a choice in the path you take",
+            "author": "Max Lucado"
+        },
+        {
+            "quote": "Memory is never a precise duplicate of the original… it is a continuing act of creation",
+            "author": "Rosalind Cartwright"
+        },
+        {
+            "quote": "The biggest lie of human memory is that it feels true",
+            "author": "Jonah Lehrer"
+        },
+        {
+            "quote": "A mind is not alive when it is burdened with centuries of memory",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Memory can never produce everlasting joy",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Memories and thoughts age, just as people do. But certain thoughts can never age, and certain memories can never fade",
+            "author": "Haruki Murakami"
+        },
+        {
+            "quote": "Memories are not fixed or frozen but are transformed, disassembled, reassembled, and recategorized with every act of recollection",
+            "author": "Oliver Sacks"
+        },
+        {
+            "quote": "I use memories but do not allow memories to use me",
+            "author": "Shiva Sutras"
+        },
+        {
+            "quote": "People who know nothing about nature are, of course, neurotic, for they are not adapted to reality",
+            "author": "Carl Jung (Memories, Dreams, Reflections, Amazon book)"
+        },
+        {
+            "quote": "We realize the gift once it’s over",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Past is a fiction. You can’t go back. All that remains is a hazy interpretation of a hazy memory",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "What we remember is probably fiction anyway",
+            "author": "Beryl Bainbridge"
+        },
+        {
+            "quote": "Smart people don’t spend their time rehearsing bad memories",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "The past is always tense, the future perfect",
+            "author": "Zadie Smith"
+        },
+        {
+            "quote": "The past beats inside me like a second heart",
+            "author": "John Banville"
+        },
+        {
+            "quote": "You are not your mind",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "The past is never dead. It’s not even past",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "One must have a good memory to be able to keep the promises one makes",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Blessed are the forgetful; for they get over their stupidities, too",
+            "author": "Friedrich Nietzsche (Beyond Good and Evil, Amazon book)"
+        },
+        {
+            "quote": "When we are tired, we are attacked by ideas we conquered long ago",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "My yesterdays walk with me. They keep step, they are gray faces that peer over my shoulder",
+            "author": "William Golding"
+        },
+        {
+            "quote": "Life can only be understood backwards; but it must be lived forwards",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "What’s past is past, nothing can change that. But the future can be different if we choose to make it so. We have to cultivate a vision of a happier, more peaceful future and make the effort now to bring it about. This is no time for complacency, hope lies in the action we take",
+            "author": "14th Dalai Lama"
+        },
+        {
+            "quote": "Recognizing the value of an alert memory, I will encourage mine to become alert by taking care to impress it clearly with all thoughts I wish to recall, and by associating those thoughts with related subjects which I may call to mind frequently",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "To want to forget something is to think of it",
+            "author": "French proverb"
+        },
+        {
+            "quote": "I don’t think nostalgia has to be negative",
+            "author": "Van Morrison"
+        },
+        {
+            "quote": "Music, at its essence, is what gives us memories. And the longer a song has existed in our lives, the more memories we have of it",
+            "author": "Stevie Wonder"
+        },
+        {
+            "quote": "Yesterday is history, tomorrow is a mystery, and today is a gift. That’s why we call it the present",
+            "author": "Alice Morse Earle"
+        },
+        {
+            "quote": "Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin",
+            "author": "Mother Theresa"
+        },
+        {
+            "quote": "Take care of all your memories. For you cannot relive them",
+            "author": "Bob Dylan"
+        },
+        {
+            "quote": "Memory is an autumn leaf that murmurs a while in the wind and then is heard no more",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "Remembrance of things past is not necessarily the remembrance of things as they were",
+            "author": "Marcel Proust"
+        },
+        {
+            "quote": "How quickly things disappear: in the universe the bodies themselves, but in time the memory of them",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "Time’s the thief of memory",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Without memory, there is no healing. Without forgiveness, there is no future",
+            "author": "Desmond Tutu"
+        },
+        {
+            "quote": "Memory is the diary we all carry about with us",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Collect moments. Not things",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Memories are the key not to the past, but to the future",
+            "author": "Corrie ten Boom"
+        },
+        {
+            "quote": "Nothing is ever really lost to us as long as we remember it. L.M",
+            "author": "Montgomery"
+        },
+        {
+            "quote": "We, as human beings, are landed with memory systems that have fallibilities, frailties, and imperfections — but also great flexibility and creativity",
+            "author": "Oliver Sacks"
+        },
+        {
+            "quote": "Things pass, and the best we can do is to let them go away. That is why it is so important to destroy souvenirs, move, give lots of things away, donate the books you have at home. Getting rid of certain memories means making some room for other memories to take their place",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Never let your memories be greater than your dreams",
+            "author": "Douglas Ivester"
+        },
+        {
+            "quote": "I find out more and more every day how important it is for people to share their memories",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "We cannot change the past, but we can reshape the future. Young people have the opportunity to create a happier, better future",
+            "author": "14th Dalai Lama"
+        },
+        {
+            "quote": "If bad memories are keeping you from being happy, try crowding out the destructive memories with new and interesting thoughts. Stay busy, in mind and body, and time is on your side",
+            "author": "Scott Adams"
+        },
+        {
+            "quote": "Most of our childhood is stored not in photos, but in certain biscuits, lights of day, smells, textures of carpet",
+            "author": "Alain de Botton"
+        },
+        {
+            "quote": "The greatest legacy we can leave our children is happy memories",
+            "author": "Og Mandino"
+        },
+        {
+            "quote": "Our memories are not in our things. Our memories are in us",
+            "author": "Joshua Fields Millburn"
+        },
+        {
+            "quote": "Our bad memories and our bad experiences are what make us who we are and what make us grow and allow us to learn, if we choose to see the lessons in those experiences",
+            "author": "Elijah Wood"
+        },
+        {
+            "quote": "There comes a time in your life when you have to choose to turn the page, write another book or simply close it. Shannon L",
+            "author": "Alder"
+        },
+        {
+            "quote": "A good life is a collection of happy memories",
+            "author": "Denis Waitley"
+        },
+        {
+            "quote": "Even though our lives wander, our memories remain in one place",
+            "author": "Marcel Proust"
+        },
+        {
+            "quote": "I am hopelessly in love with a memory. An echo from another time, another place",
+            "author": "Michel Foucault"
+        },
+        {
+            "quote": "Memories, you see, hurt. The good ones most of all",
+            "author": "Harlan Coben"
+        },
+        {
+            "quote": "Sharing tales of those we’ve lost is how we keep from really losing them",
+            "author": "Mitch Albom"
+        },
+        {
+            "quote": "Memories always win, and with them comes a demon that is even more terrifying than melancholy: remorse",
+            "author": "Paulo Coelho (The Spy, Amazon book)"
+        },
+        {
+            "quote": "Writers, like elephants, have long, vicious memories. There are things I wish I could forget. William S",
+            "author": "Burroughs"
+        },
+        {
+            "quote": "All memories are trivia",
+            "author": "Kathy Acker"
+        },
+        {
+            "quote": "If your mind carries a heavy burden of past, you will experience more of the same. The past perpetuates itself through lack of presence",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "Sometimes letting things go is an act of far greater power than defending or hanging on",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "The more shared past there is in a relationship, the more present you need to be; otherwise, you will be forced to relive the past again and again",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "We’re not friends. We’re strangers with memories",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Memories are bullets. Some whiz by and only spook you. Others tear you open and leave you in pieces",
+            "author": "Richard Kadrey"
+        },
+        {
+            "quote": "The saddest part of life is when the person who gave you the best memories becomes the memory",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your memory is a monster; it summons with will of its own. You think you have a memory, but it has you",
+            "author": "John Irving"
+        },
+        {
+            "quote": "Getting caught up in memories of the past or worrying about the future is a form of self-imposed suffering",
+            "author": "Ram Dass"
+        },
+        {
+            "quote": "No matter how much suffering you went through, you never wanted to let go of those memories",
+            "author": "Haruki Murakami"
+        },
+        {
+            "quote": "Allowing the new to happen means putting aside your memory so the past does not interfere",
+            "author": "Osho"
+        },
+        {
+            "quote": "What’s past is past, we can’t change it, but we can learn from it. What is clear is that the future of humanity is in our hands",
+            "author": "14th Dalai Lama"
+        },
+        {
+            "quote": "The past was almost always worse, and the future has risk of catastrophic failure",
+            "author": "What’s wrong with the present? Naval Ravikant (The question was \"If you had a time machine would you consider travel and where would that be?\")"
+        },
+        {
+            "quote": "It is important to recognize that the memories and past events which make up a man’s historical identity are no more than a selection",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "When we listen to or experience something new our instinctive response is to compare it with the old, with past experience, with a fading memory. This comparing gives strength to the past, distorting the present, and so the new is ever becoming the past, the dead",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "You stop revisiting memories when you outgrow the people you made them with",
+            "author": "Nikki Rowe"
+        },
+        {
+            "quote": "You cannot erase memories or change the past, but you can stop old behavioral patterns, decrease the intensity of blind reactions, build self-awareness, learn to embrace change, accept all emotions that come up and strengthen good habits. Healing is intentional action plus time",
+            "author": "Yung Pueblo"
+        },
+        {
+            "quote": "People’s memories are maybe the fuel they burn to stay alive",
+            "author": "Haruki Murakami (After Dark, Amazon book)"
+        },
+        {
+            "quote": "Scars have the strange power to remind us that our past is real",
+            "author": "Cormac McCarthy"
+        },
+        {
+            "quote": "Changing your interpretation of your past is often just as good as changing your past",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Ruminating on the past is largely a waste of time. It’s illusory",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Humans tell themselves three grand lies: memories, thoughts and expectations. Memories are a distortion of the past. Thoughts are a distortion of the present. Expectations are a distortion of the future",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "Your moods, feelings, thoughts, projections and memories are just like clouds passing",
+            "author": "Mooji"
+        },
+        {
+            "quote": "Emotions and thoughts can certainly arise while we are in a state of Presence. The key is to hold the space for them without getting lost in the mind stream",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "Remembering is easy. It’s forgetting that’s hard",
+            "author": "Brodi Ashton"
+        },
+        {
+            "quote": "Words are tears that have been written down. Tears are words that need to be shed. Without them, joy loses all its brilliance and sadness has no end",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "You can analyse the past, but you need to design the future. That is the difference between suffering the future and enjoying it",
+            "author": "Edward De Bono"
+        },
+        {
+            "quote": "Nostalgia is your brain’s way of photoshopping the blemishes of your past",
+            "author": "Steve Maraboli"
+        },
+        {
+            "quote": "Our unconscious mind, like our body, is a storehouse of relics and memories of the past",
+            "author": "Carl Jung"
+        },
+        {
+            "quote": "The power of memories and expectations is such that for most human beings the past and future are not as real, but more real than the present",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "Bad memories become good when you stop fighting them",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Imagining something is better than remembering something",
+            "author": "John Irving"
+        },
+        {
+            "quote": "Like words, memories never really succeed in \"catching\" reality",
+            "author": "Alan Watts (The Wisdom of Insecurity, Amazon book)"
+        },
+        {
+            "quote": "The ones stuck in their heads are the ones repeating history",
+            "author": "@trey_wing6"
+        },
+        {
+            "quote": "Memory has a place at a certain level. In everyday life we could not function without it. In its own field it must be efficient but there is a state of mind where it has very little place. A mind which is not crippled by memory has real freedom",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Fear is the memory of pain. Addiction is the memory of pleasure. Freedom is beyond both",
+            "author": "Deepak Chopra"
+        },
+        {
+            "quote": "Memory is the seamstress, and a capricious one at that. Memory runs her needle in and out, up and down, hither and thither. We know not what comes next, or what follows after. Thus, the most ordinary movement in the world, such as sitting down at a table and pulling the inkstand towards one, may agitate a thousand odd, disconnected fragments, now bright, now dim, hanging and bobbing and dipping and flaunting, like the underlinen of a family of fourteen on a line in a gale of wind",
+            "author": "Virginia Woolf"
+        },
+        {
+            "quote": "It is always important to know when something has reached its end. Closing circles, shutting doors, finishing chapters, it doesn’t matter what we call it; what matters is to leave in the past those moments in life that are over",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Life, if well lived, is long enough",
+            "author": "Seneca"
+        },
+        {
+            "quote": "The two most powerful warriors are patience and time",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "Time you enjoy wasting is not wasted time",
+            "author": "Marthe Troly-Curtin"
+        },
+        {
+            "quote": "Time flies over us, but leaves its shadow behind",
+            "author": "Nathaniel Hawthorne"
+        },
+        {
+            "quote": "Life isn’t a matter of milestones, but of moments",
+            "author": "Rose Kennedy"
+        },
+        {
+            "quote": "Every second is of infinite value",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "The future has a way of arriving unannounced. George F",
+            "author": "Will"
+        },
+        {
+            "quote": "Whether it’s the best of times or the worst of times, it’s the only time we’ve got",
+            "author": "Art Buchwald"
+        },
+        {
+            "quote": "You will never find time for anything. If you want time you must make it",
+            "author": "Charles Buxto"
+        },
+        {
+            "quote": "Enjoy yourself. It’s later than you think",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "The present time has one advantage over every other – it is our own",
+            "author": "Charles Caleb Colton"
+        },
+        {
+            "quote": "How we spend our days, is, of course, how we spend our lives",
+            "author": "Annie Dillard"
+        },
+        {
+            "quote": "The more you know yourself, the more you understand life, the more you value your time",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "A man who dares to waste one hour of time has not discovered the value of life",
+            "author": "Charles Darwin"
+        },
+        {
+            "quote": "Your time is limited, so don’t waste it living someone else’s life",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "Time isn’t the main thing. It’s the only thing",
+            "author": "Miles Davis"
+        },
+        {
+            "quote": "Don’t wait. The time will never be just right",
+            "author": "Napoleon Hill"
+        },
+        {
+            "quote": "We feast on time as time feasts on us",
+            "author": "Maria Popova"
+        },
+        {
+            "quote": "",
+            "author": "Do we need more time? Or do we need to be more disciplined with the time we have? Kerry Johnson"
+        },
+        {
+            "quote": "People often complain about lack of time when lack of direction is the real problem",
+            "author": "Zig Ziglar"
+        },
+        {
+            "quote": "Waste no more time arguing about what a good person should be. Be one",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "To live is so startling it leaves little time for anything else",
+            "author": "Emily Dickinson"
+        },
+        {
+            "quote": "It is not that we have a short time to live, but that we waste a lot of it",
+            "author": "Seneca (On The Shortness Of Life)"
+        },
+        {
+            "quote": "We should always allow some time to elapse, for time discloses the truth",
+            "author": "Seneca"
+        },
+        {
+            "quote": "As if you could kill time without injuring eternity",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Until you value yourself, you won’t value your time. Until you value your time, you will not do anything with it. M",
+            "author": "Scott Peck"
+        },
+        {
+            "quote": "I recommend you take care of the minutes and the hours will take care of themselves",
+            "author": "Earl of Chesterfield"
+        },
+        {
+            "quote": "Time is what we want most, but what we use worst",
+            "author": "William Penn"
+        },
+        {
+            "quote": "Ordinary people think merely of spending time, great people think of using it",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "Lack of time is actually lack of priorities",
+            "author": "Tim Ferriss"
+        },
+        {
+            "quote": "The whole future lies in uncertainty: live immediately",
+            "author": "Seneca"
+        },
+        {
+            "quote": "Dost thou love life? Then do not squander time, for that is the stuff life is made of",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Relentlessly prune bullshit, don’t wait to do things that matter, and savor the time you have. That’s what you do when life is short",
+            "author": "Paul Graham"
+        },
+        {
+            "quote": "Time is the coin of your life. It is the only coin you have, and only you can determine how it will be spent. Be careful lest you let other people spend it for you",
+            "author": "Carl Sandburg"
+        },
+        {
+            "quote": "Shard by shard we are released from the tyranny of so-called time",
+            "author": "Patti Smith"
+        },
+        {
+            "quote": "We go back and forth between being time’s master and its victim",
+            "author": "James Gleick"
+        },
+        {
+            "quote": "Your time is your life. That is why the greatest gift you can give someone is your time",
+            "author": "Rich Warren"
+        },
+        {
+            "quote": "The best use of time is stepping back to identify the best use of time",
+            "author": "Aaron Aalto"
+        },
+        {
+            "quote": "Nature does not hurry, yet everything is accomplished",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Time is the devourer of everything",
+            "author": "Ovid"
+        },
+        {
+            "quote": "The only reason for time is so that everything doesn’t happen at once",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Lost wealth may be replaced by industry, lost knowledge by study, lost health by temperance or medicine, but lost time is gone forever",
+            "author": "Samuel Smiles"
+        },
+        {
+            "quote": "I have been impressed with the urgency of doing. Knowing is not enough; we must apply. Being willing is not enough; we must do",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "You can have it all. Just not all at once",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "Lost time is never found again",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "You may delay, but time will not",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Never leave ’till tomorrow which you can do today",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Time is a companion that goes with us on a journey. It reminds us to cherish each moment, because it will never come again. What we leave behind is not as important as how we have lived",
+            "author": "Captain Jean-Luc Picard (Star Trek)"
+        },
+        {
+            "quote": "The time is always right to do what is right",
+            "author": "Martin Luther King Jr"
+        },
+        {
+            "quote": "It is looking at things for a long time that ripens you and gives you a deeper meaning",
+            "author": "Vincent Van Gogh"
+        },
+        {
+            "quote": "Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin",
+            "author": "Mother Teresa"
+        },
+        {
+            "quote": "The best time to plant a tree was 20 years ago. The second best time is now",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "All great achievements require time",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "There is no time for cut-and-dried monotony. There is time for work. And time for love. That leaves no other time",
+            "author": "Coco Chanel"
+        },
+        {
+            "quote": "We must use time creatively, and forever realize that the time is always ripe to do right",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "Truth alone will endure, all the rest will be swept away before the tide of time",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "Time is really the only capital that any human being has, and the only thing he can’t afford to lose. Thomas A",
+            "author": "Edison"
+        },
+        {
+            "quote": "Most people spend more time and energy going around problems than in trying to solve them",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "The years teach much which the days never know",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "We must use time as a tool, not as a couch. John F",
+            "author": "Kennedy"
+        },
+        {
+            "quote": "Better three hours too soon than a minute too late",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "The butterfly counts not months but moments, and has time enough",
+            "author": "Rabindranath Tagore"
+        },
+        {
+            "quote": "Time is money",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Time is long but life is short",
+            "author": "Stevie Wonder"
+        },
+        {
+            "quote": "Time is the wisest counselor of all",
+            "author": "Pericles"
+        },
+        {
+            "quote": "Time is the currency of life",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "I don’t have time is just saying it’s not a priority",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Time is a construction of our consciousness",
+            "author": "Maria Popova"
+        },
+        {
+            "quote": "If one has no time, one has also lost oneself",
+            "author": "Marc Wittmann"
+        },
+        {
+            "quote": "To choose time, is to save time",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "Forever is composed of nows",
+            "author": "Emily Dickinson"
+        },
+        {
+            "quote": "Time is not a measure, but a quality",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Too often too late comes too soon. Dr",
+            "author": "SunWolf"
+        },
+        {
+            "quote": "Things change, and time is how we keep track",
+            "author": "James Gleick"
+        },
+        {
+            "quote": "Time brings all things to pass",
+            "author": "Aeschylus"
+        },
+        {
+            "quote": "Time is the fire in which we burn",
+            "author": "Gene Roddenberry"
+        },
+        {
+            "quote": "Time is non-refundable, use it with intention",
+            "author": "Unknown (Submitted by the Wisdom Quotes Community)"
+        },
+        {
+            "quote": "Own time, or time will own you",
+            "author": "Brian Norgard"
+        },
+        {
+            "quote": "Time is a drug; too much of it kills you",
+            "author": "Terry Pratchett"
+        },
+        {
+            "quote": "Only time can heal what reason cannot",
+            "author": "Seneca"
+        },
+        {
+            "quote": "Whatever begins, also ends",
+            "author": "Seneca"
+        },
+        {
+            "quote": "Time itself comes in drops",
+            "author": "William James"
+        },
+        {
+            "quote": "In time and with water, everything changes",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Time stays long enough for those who use it",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "The bad news is time flies. The good news is you’re the pilot",
+            "author": "Michael Altshuler"
+        },
+        {
+            "quote": "No time like the present. Mrs",
+            "author": "Manley"
+        },
+        {
+            "quote": "Time is an illusion",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Time is an illusion. Lunchtime doubly so",
+            "author": "Douglas Adams"
+        },
+        {
+            "quote": "Time will explain",
+            "author": "Jane Austen"
+        },
+        {
+            "quote": "In such seconds of decision entire futures are made",
+            "author": "Dan Simmons"
+        },
+        {
+            "quote": "",
+            "author": "Light tomorrow with today! Elizabeth Barrett Browning"
+        },
+        {
+            "quote": "If you spend too much time thinking about a thing, you’ll never get it done",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "Never give up, for that is just the place and time that the tide will turn",
+            "author": "Harriet Beecher Stowe"
+        },
+        {
+            "quote": "Determine never to be idle. No person will have occasion to complain of the want of time who never loses any. It is wonderful how much can be done if we are always doing",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "Lost, yesterday, somewhere between Sunrise and Sunset, two golden hours, each set with sixty diamond minutes. No reward is offered, for they are gone forever",
+            "author": "Horace Mann"
+        },
+        {
+            "quote": "Mental time-travel is one of the greatest gifts of the mind. It makes us human, and it makes us special",
+            "author": "Claudia Hammond"
+        },
+        {
+            "quote": "You cannot always wait for the perfect time. Sometimes you must dare to jump",
+            "author": "Unknown"
+        },
+        {
+            "quote": "",
+            "author": "Once you have mastered time, you will understand how true it is that most people overestimate what they can accomplish in a year – and underestimate what they can achieve in a decade! Tony Robbins"
+        },
+        {
+            "quote": "If time and reason are functions of each other, if we are creatures of time, then we had better know it, and try to make the best of it. To act responsibly. Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "The time for action is now. It’s never too late to do something",
+            "author": "Antoine de Saint-Exupery"
+        },
+        {
+            "quote": "I don’t think it is possible to contribute to the present moment in any meaningful way while being wholly engulfed by it. It is only by stepping out of it, by taking a telescopic perspective, that we can then dip back in and do the work which our time asks of us",
+            "author": "Maria Popova"
+        },
+        {
+            "quote": "You must match time’s swiftness with your speed in using it, and you must drink quickly as though from a rapid stream that will not always flow",
+            "author": "Seneca"
+        },
+        {
+            "quote": "An hour, once it lodges in the queer element of the human spirit, may be stretched to fifty or a hundred times its clock length",
+            "author": "Virginia Woolf"
+        },
+        {
+            "quote": "The perfect time to do what you love is now",
+            "author": "Neil Strauss"
+        },
+        {
+            "quote": "If you want to make good use of your time, you’ve got to know what’s most important and then give it all you’ve got",
+            "author": "Lee Iacocca"
+        },
+        {
+            "quote": "Don’t let the fear of the time it will take to accomplish something stand in the way of your doing it. The time will pass anyway; we might just as well put that passing time to the best possible use",
+            "author": "Earl Nightingale"
+        },
+        {
+            "quote": "Much may be done in those little shreds and patches of time which every day produces, and which most men throw away",
+            "author": "Charles Caleb Colton"
+        },
+        {
+            "quote": "Time is your most important resource. You can do so much in ten minutes",
+            "author": "Ingvar Kamprad"
+        },
+        {
+            "quote": "Realize that now, in this moment of time, you are creating. You are creating your next moment. That is what’s real",
+            "author": "Sara Paddison"
+        },
+        {
+            "quote": "Someone is sitting in the shade today because someone planted a tree a long time ago",
+            "author": "Warren Buffett"
+        },
+        {
+            "quote": "How did it get so late so soon? Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "Time! The corrector when our judgments err",
+            "author": "Lord Byron"
+        },
+        {
+            "quote": "Vacations are an expensive way to schedule time to pause and reflect",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "I love deadlines. I like the whooshing sound they make as they fly by",
+            "author": "Douglas Adams"
+        },
+        {
+            "quote": "Across the morning sky, all the birds are leaving",
+            "author": "How can they know that it’s time to go? Nina Simone"
+        },
+        {
+            "quote": "There’s never enough time to do all the nothing you want",
+            "author": "Bill Watterson"
+        },
+        {
+            "quote": "Pretend to be good all the time, and even God will be fooled",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "Never put off till tomorrow what you can do day after tomorrow just as well",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "If it weren’t for the last minute, nothing would get done",
+            "author": "Rita Mae Brown"
+        },
+        {
+            "quote": "",
+            "author": "Who knows where the time goes? Nina Simone"
+        },
+        {
+            "quote": "Wasting time is something that people do or feel all over the world, not just in Italy",
+            "author": "Paolo Sorrentino"
+        },
+        {
+            "quote": "Everywhere is within walking distance if you have the time",
+            "author": "Steven Wright"
+        },
+        {
+            "quote": "Time flies like an arrow; fruit flies like a banana",
+            "author": "Groucho Marx"
+        },
+        {
+            "quote": "I would have written a shorter letter, but I did not have the time",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "I’ve been on a calendar, but never on time",
+            "author": "Marilyn Monroe"
+        },
+        {
+            "quote": "If there must be trouble, let it be in my day, that my child may have peace",
+            "author": "Thomas Paine"
+        },
+        {
+            "quote": "Those who make the worst use of their time are the first to complain of its shortness",
+            "author": "Jean de la Bruyere"
+        },
+        {
+            "quote": "In our fast-moving modern world, it always seems that the time-train is pulling out of the station just as we reach the platform. No matter how fast we go, no matter how cleverly we schedule, there are never enough hours in the day",
+            "author": "Carl Honore"
+        },
+        {
+            "quote": "Time is: too slow for those who wait, too swift for those who fear",
+            "author": "Henry Van Dyke"
+        },
+        {
+            "quote": "Men talk of killing time, while time quietly kills them",
+            "author": "Dion Boucicault"
+        },
+        {
+            "quote": "In rivers, the water that you touch is the last of what has passed and the first of that which comes; so with present time",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "You are a product of how you spend your time",
+            "author": "Sunday Adelaja"
+        },
+        {
+            "quote": "Time is probably the most incomprehensible, mysterious, destructive and illusory phenomenon in the world",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "Time is the substance I am made of. Time is a river which sweeps me along, but I am the river; it is a tiger which destroys me, but I am the tiger; it is a fire which consumes me, but I am the fire",
+            "author": "Jorge Luis Borges"
+        },
+        {
+            "quote": "Both in thought and in feeling, even though time be real, to realise the unimportance of time is the gate of wisdom",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "Time isn’t precious at all, because it is an illusion. What you perceive as precious is not time but the one point that is out of time: the Now. That is precious indeed. The more you are focused on time — past and future — the more you miss the Now, the most precious thing there is",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "To save time, stop looking for shortcuts. Shane Parrish (See also: 10 Ways To Save Time Every Day, paleohacks",
+            "author": "com)"
+        },
+        {
+            "quote": "Time is a gift that most of us take for granted",
+            "author": "Cheryl Richardson"
+        },
+        {
+            "quote": "You are living as if destined to live for ever; your own frailty never occurs to you; you don’t notice how much time has already passed, but squander it as though you had a full and overflowing supply — though all the while that very day which you are devoting to somebody or something may be your last",
+            "author": "Seneca (On The Shortness Of Life)"
+        },
+        {
+            "quote": "Nobody works out the value of time: men use it lavishly as if it cost nothing… We have to be more careful in preserving what will cease at an unknown point",
+            "author": "Seneca"
+        },
+        {
+            "quote": "The moment is not properly an atom of time but an atom of eternity. It is the first reflection of eternity in time, its first attempt, as it were, at stopping time",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "Time — particularly our experience of it as a continuity of successive moments — is a cognitive illusion rather than an inherent feature of the universe, a construction of human consciousness and perhaps the very hallmark of human consciousness",
+            "author": "Maria Popova"
+        },
+        {
+            "quote": "My past is everything I failed to be",
+            "author": "Fernando Pessoa"
+        },
+        {
+            "quote": "We may be born alone, but childhood ends with a synchrony of clocks, as we lend ourselves fully to the contagion of time",
+            "author": "Alan Burdick"
+        },
+        {
+            "quote": "Timelessness — in the sense of time never ending, never beginning — is a stagnant nothing",
+            "author": "Thomas Mann"
+        },
+        {
+            "quote": "",
+            "author": "Time is a brisk wind, for each hour it brings something new… but who can understand and measure its sharp breath, its mystery and its design? Paracelsus"
+        },
+        {
+            "quote": "",
+            "author": "Is there anything we know more intimately than the fleetingness of time, the transience of each and every moment? Rebecca Goldstein"
+        },
+        {
+            "quote": "Time is a dictator, as we know it",
+            "author": "Where does it go? What does it do? Most of all, is it alive? Is it a thing that we cannot touch and is it alive? Nina Simone"
+        },
+        {
+            "quote": "Time is a feature of creation, and the creator remains apart from it, transcendent over it",
+            "author": "James Gleick"
+        },
+        {
+            "quote": "The finest workers in stone are not copper or steel tools, but the gentle touches of air and water working at their leisure with a liberal allowance of time",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "The wisest are the most annoyed at the loss of time",
+            "author": "Dante Alighieri"
+        },
+        {
+            "quote": "The ultimate status symbol is time",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "We believe we don’t have enough time when really we don’t have enough focus",
+            "author": "Mark Manson"
+        },
+        {
+            "quote": "Time is the ultimate currency and I should have been more tight fisted with it",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Do everything you were going to do, but with less angst, less suffering, less emotion. Everything takes time",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The more time you have, the more time you waste",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "There are no refunds on misspent time",
+            "author": "Jack Butcher"
+        },
+        {
+            "quote": "Patience and time do more than strength or passion",
+            "author": "Jean de La Fontaine"
+        },
+        {
+            "quote": "Wishing you had spent your time differently only wastes more time",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "Free distractions are expensive. Everything costs time and attention. Nothing is free. Time is not a renewable resource. Spend it on things that matter",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "We keep counting time. We have the sensation time is running out, and we bug ourselves with this. Time is nothing but an abstract measure of motion. We are living in an eternal now",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "Nothing is a waste of time if you use the experience wisely",
+            "author": "Auguste Rodin"
+        },
+        {
+            "quote": "Who forces time is pushed back by time; who yields to time finds time on his side",
+            "author": "The Talmud"
+        },
+        {
+            "quote": "Time is a fluid condition which has no existence except in the momentary avatars of individual people. There is no such thing as was — only is",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "Time is generally the best doctor",
+            "author": "Ovid"
+        },
+        {
+            "quote": "Time is free, but it’s priceless. You can’t own it, but you can use it. You can’t keep it, but you can spend it. Once you’ve lost it, you can never get it back",
+            "author": "Harvey Mackay"
+        },
+        {
+            "quote": "The best thing about time passing is the privilege of running out of it, of watching the wave of mortality break over me and everyone I know.",
+            "author": "Sarah Manguso"
+        },
+        {
+            "quote": "To man, time is given like a piece of land, as it were, entrusted to him for faithful tilling; a space in which to strive incessantly, achieve self-realization, move onward and upward",
+            "author": "Thomas Mann"
+        },
+        {
+            "quote": "The key is in not spending time, but in investing it. Stephen R",
+            "author": "Covey"
+        },
+        {
+            "quote": "Time is the cruelest teacher; first she gives the test, then teaches the lesson",
+            "author": "Leonard Bernstein"
+        },
+        {
+            "quote": "We will never have total control over this extraordinary dimension. Time will warp and confuse and baffle and entertain however much we learn about its capacities",
+            "author": "Claudia Hammond"
+        },
+        {
+            "quote": "The more we learn, the more we can shape it to our will and destiny",
+            "author": "Claudia Hammond"
+        },
+        {
+            "quote": "Presence means becoming aware of a physical and psychic self that is temporally extended. To be self-conscious is to recognize oneself as something that persists through time and is embodied",
+            "author": "Marc Wittmann"
+        },
+        {
+            "quote": "The importance of time is rather practical than theoretical, rather in relation to our desires than in relation to truth",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "Time flows in the same way for all human beings; every human being flows through time in a different way",
+            "author": "Yasunari Kawabata"
+        },
+        {
+            "quote": "Remember, today is the tomorrow you worried about yesterday",
+            "author": "Dale Carnegie"
+        },
+        {
+            "quote": "You don’t find the time to do things — you make the time to do things",
+            "author": "Debbie Millman"
+        },
+        {
+            "quote": "Do not look back and grieve over the past, for it is gone; and do not be troubled about the future, for it has yet to come. Live in the present, and make it so beautiful that it will be worth remembering",
+            "author": "Ida Scott Taylor"
+        },
+        {
+            "quote": "People are trapped in history and history is trapped in them",
+            "author": "James Baldwin"
+        },
+        {
+            "quote": "History is who we are and why we are the way we are",
+            "author": "David McCullough"
+        },
+        {
+            "quote": "I am what time, circumstance, history, have made of me, certainly, but I am also, much more than that. So are we all",
+            "author": "James Baldwin"
+        },
+        {
+            "quote": "A small body of determined spirits fired by an unquenchable faith in their mission can alter the course of history",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "Revolutions are the locomotives of history",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "Blood alone moves the wheels of history",
+            "author": "Martin Luther"
+        },
+        {
+            "quote": "A people without the knowledge of their past history, origin and culture is like a tree without roots",
+            "author": "Marcus Garvey"
+        },
+        {
+            "quote": "I do not speak Hebrew, but I understand that it has no word for ‘history’. The closest word for it is memory",
+            "author": "David Miliband"
+        },
+        {
+            "quote": "Fear not for the future, weep not for the past",
+            "author": "Percy Bysshe Shelley"
+        },
+        {
+            "quote": "History is merely a list of surprises. It can only prepare us to be surprised yet again",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "History is a relay of revolutions",
+            "author": "Saul Alinsky"
+        },
+        {
+            "quote": "The past changes a little every time we retell it",
+            "author": "Hilary Mantel"
+        },
+        {
+            "quote": "Human history in essence is the history of ideas. H. G",
+            "author": "Wells"
+        },
+        {
+            "quote": "The history of all previous societies has been the history of class struggles",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "History is mostly guessing; the rest is prejudice",
+            "author": "Will Durant"
+        },
+        {
+            "quote": "Anybody can make history. Only a great man can write it",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "I can’t change history, I don’t want to change history. I can only change the future. I’m working on that",
+            "author": "Boris Becker"
+        },
+        {
+            "quote": "Many of the greatest crimes in history were caused not by hatred, but rather by indifference. They were caused by people who could have done something, but did not even bother lifting a finger. So don’t wait. Get out there. Go and vote",
+            "author": "Yuval Noah Harari"
+        },
+        {
+            "quote": "History repeats itself, first as tragedy, second as farce",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "History is a set of lies agreed upon",
+            "author": "Napoleon Bonaparte"
+        },
+        {
+            "quote": "Neither the life of an individual nor the history of a society can be understood without understanding both. C",
+            "author": "Wright Mills"
+        },
+        {
+            "quote": "Be honest. We have the science, the technology, and the wealth. What we don’t have is the will, and that’s not a reason that history will accept",
+            "author": "Bono"
+        },
+        {
+            "quote": "History has demonstrated that the most notable winners usually encountered heartbreaking obstacles before they triumphed. They won because they refused to become discouraged by their defeats. B. C",
+            "author": "Forbes"
+        },
+        {
+            "quote": "I believe that we must maintain pride in the knowledge that the actions we take, based on our own decisions and choices as individuals, link directly to the magnificent challenge of transforming human history",
+            "author": "Daisaku Ikeda"
+        },
+        {
+            "quote": "There are still many causes worth sacrificing for, so much history yet to be made",
+            "author": "Michelle Obama"
+        },
+        {
+            "quote": "Life moves fast. As much as you can, learn from your history, you have to move forward",
+            "author": "Eddie Vedder"
+        },
+        {
+            "quote": "We don’t want tradition. We want to live in the present and the only history that is worth a tinker’s damn is the history we make today",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "To study history means submitting to chaos and nevertheless retaining faith in order and meaning",
+            "author": "Hermann Hesse"
+        },
+        {
+            "quote": "History is not a burden on the memory but an illumination of the soul",
+            "author": "Lord Acton"
+        },
+        {
+            "quote": "Without words, without writing and without books there would be no history, there could be no concept of humanity",
+            "author": "Hermann Hesse"
+        },
+        {
+            "quote": "History does nothing; it does not possess immense riches, it does not fight battles. It is men, real, living, who do all this",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "The historic ascent of humanity, taken as a whole, may be summarized as a succession of victories of consciousness over blind forces – in nature, in society, in man himself",
+            "author": "Leon Trotsky"
+        },
+        {
+            "quote": "The history of the world is the biography of the great man. And I said: The great man always act like a thunder. He storms the skies, while others are waiting to be stormed",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "Psychology keeps trying to vindicate human nature. History keeps undermining the effort",
+            "author": "Mason Cooley"
+        },
+        {
+            "quote": "The best prophet of the future is the past",
+            "author": "Lord Byron"
+        },
+        {
+            "quote": "History is a pack of lies we play on the dead",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Fellow citizens, we cannot escape history",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Thank you for coming. We’re gonna make some history together today",
+            "author": "Steve Jobs (Apple founder introducing the iPhone at MacWorld 2007)"
+        },
+        {
+            "quote": "The man who has no sense of history, is like a man who has no ears or eyes",
+            "author": "Adolf Hitler"
+        },
+        {
+            "quote": "Poetry is finer and more philosophical than history; for poetry expresses the universal, and history only the particular",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "",
+            "author": "We learn from history that we don’t learn from history! Desmond Tutu"
+        },
+        {
+            "quote": "",
+            "author": "The Revolution introduced me to art, and in turn, art introduced me to the Revolution! Albert Einstein"
+        },
+        {
+            "quote": "History is merely gossip",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "History will have to record that the greatest tragedy of this period of social transition was not the strident clamor of the bad people, but the appalling silence of the good people",
+            "author": "Martin Luther King Jr"
+        },
+        {
+            "quote": "We are not makers of history. We are made by history",
+            "author": "Martin Luther King Jr"
+        },
+        {
+            "quote": "Condemn me, it does not matter, history will absolve me",
+            "author": "Fidel Castro"
+        },
+        {
+            "quote": "History shows that there are no invincible armies",
+            "author": "Joseph Stalin"
+        },
+        {
+            "quote": "After making a mistake or suffering a misfortune, the man of genius always gets back on his feet",
+            "author": "Napoleon Bonaparte"
+        },
+        {
+            "quote": "Soldiers, if there is one among you who wants to kill his general, his Emperor, here I am",
+            "author": "Napoleon Bonaparte"
+        },
+        {
+            "quote": "History is a people’s memory, and without a memory, man is demoted to the lower animals",
+            "author": "Malcolm X"
+        },
+        {
+            "quote": "Friends, I shall ask you to be as quiet as possible. I don’t know whether you fully understand that I have just been shot; but it takes more than that to kill a Bull Moose",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "When I was a child my mother said to me, ‘If you become a soldier, you’ll be a general. If you become a monk, you’ll be the Pope.’ Instead I became a painter and wound up as Picasso",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "I won’t predict anything historic. But nothing is impossible",
+            "author": "Michael Phelps"
+        },
+        {
+            "quote": "Black history is American history",
+            "author": "Morgan Freeman"
+        },
+        {
+            "quote": "I don’t believe in accidents. There are only encounters in history",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "There is properly no history; only biography",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "To me, this is about preserving history and making it available to everyone",
+            "author": "Sergey Brin (Google)"
+        },
+        {
+            "quote": "Indeed, history is nothing more than a tableau of crimes and misfortunes",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "We learn from history that we learn nothing from history",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "History passes the final judgment",
+            "author": "Sidney Poitier"
+        },
+        {
+            "quote": "Poetry is nearer to vital truth than history",
+            "author": "Plato"
+        },
+        {
+            "quote": "History provides no precise guidelines",
+            "author": "Douglas Hurd"
+        },
+        {
+            "quote": "History develops, art stands still. E. M",
+            "author": "Forster"
+        },
+        {
+            "quote": "History is nothing but assisted and recorded memory",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "History takes time. History makes memory",
+            "author": "Gertrude Stein"
+        },
+        {
+            "quote": "History has been the history of warfare",
+            "author": "Godfrey Reggio"
+        },
+        {
+            "quote": "History is nothing if not an epic tale of missed opportunities",
+            "author": "Graydon Carter"
+        },
+        {
+            "quote": "History is more or less bunk",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "Ideas shape the course of history",
+            "author": "John Maynard Keynes"
+        },
+        {
+            "quote": "Patriotism ruins history",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Difficulty is the excuse history never accepts. Edward R",
+            "author": "Murrow"
+        },
+        {
+            "quote": "History’s a resource",
+            "author": "Laura Linney"
+        },
+        {
+            "quote": "History laughs at both the victim and the aggressor",
+            "author": "Mahmoud Darwish"
+        },
+        {
+            "quote": "Never doubt that you can change history. You already have",
+            "author": "Marge Piercy"
+        },
+        {
+            "quote": "Human history is highly nonlinear and unpredictable",
+            "author": "Michael Shermer"
+        },
+        {
+            "quote": "The main thing is to make history, not to write it",
+            "author": "Otto von Bismarck"
+        },
+        {
+            "quote": "Sometimes – history needs a push",
+            "author": "Vladimir Lenin"
+        },
+        {
+            "quote": "We hire a man, not his history",
+            "author": "Malcolm Forbes"
+        },
+        {
+            "quote": "Our history is not our destiny",
+            "author": "Alan Cohen"
+        },
+        {
+            "quote": "When something is important enough, you do it even if the odds are not in your favor",
+            "author": "Elon Musk"
+        },
+        {
+            "quote": "The history of mankind is the instant between two strides taken by a traveler",
+            "author": "Franz Kafka"
+        },
+        {
+            "quote": "On the day when man told the story of his life to man, history was born",
+            "author": "Alfred de Vigny"
+        },
+        {
+            "quote": "Work hard, have fun and make history",
+            "author": "Jeff Bezos (Amazon)"
+        },
+        {
+            "quote": "We are all tourists in history, and irony is what we win in wars",
+            "author": "Anatole Broyard"
+        },
+        {
+            "quote": "Every renaissance comes to the world with a cry, the cry of the human spirit to be free",
+            "author": "Anne Sullivan"
+        },
+        {
+            "quote": "History speaks to artists. It changes the artist’s thinking and is constantly reshaping it into different and unexpected images",
+            "author": "Anselm Kiefer"
+        },
+        {
+            "quote": "What does the artist do? He draws connections. He ties the invisible threads between things. He dives into history, be it the history of mankind, the geological history of the Earth or the beginning and end of the manifest cosmos",
+            "author": "Anselm Kiefer"
+        },
+        {
+            "quote": "History, despite its wrenching pain, cannot be unlived, however, if faced with courage, need not be lived again",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Whatever we do or fail to do will influence the course of history",
+            "author": "Arthur Henderson"
+        },
+        {
+            "quote": "The only history is a mere question of one’s struggle inside oneself. But that is the joy of it. One need neither discover Americas nor conquer nations, and yet one has as great a work as Columbus or Alexander, to do. D. H",
+            "author": "Lawrence"
+        },
+        {
+            "quote": "Live out of your imagination, not your history. Stephen Covey (See also: How to Improve Your Imagination, wikihow",
+            "author": "com)"
+        },
+        {
+            "quote": "It had long come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "History is the present. That’s why every generation writes it anew. But what most people think of as history is its end product, myth. E. L",
+            "author": "Doctorow"
+        },
+        {
+            "quote": "Today is either the beginning of the end, or the end of the beginning. Today we are making history",
+            "author": "Eckhard Pfeiffer"
+        },
+        {
+            "quote": "People who make history know nothing about history. You can see that in the sort of history they make. Gilbert K",
+            "author": "Chesterton"
+        },
+        {
+            "quote": "The public history of modern art is the story of conventional people not knowing what they are dealing with",
+            "author": "Golda Meir"
+        },
+        {
+            "quote": "If it’s a good idea, go ahead and do it. It’s easier to ask forgiveness than it is to get permission",
+            "author": "Grace Murray Hopper, inventor of the COBOL computer language"
+        },
+        {
+            "quote": "What fascinates me are the turning points where history could have been different",
+            "author": "Hilary Mantel"
+        },
+        {
+            "quote": "Alternate history fascinates me, as it fascinates all novelists, because ‘What if?’ is the big thing",
+            "author": "Kate Atkinson"
+        },
+        {
+            "quote": "If you don’t know history, then you don’t know anything. You are a leaf that doesn’t know it is part of a tree",
+            "author": "Michael Crichton"
+        },
+        {
+            "quote": "Whether in commerce, science, or politics — history remembers the artists",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "History books that contain no lies are extremely dull",
+            "author": "Anatole France"
+        },
+        {
+            "quote": "Hindsight is the historian’s necessary vice",
+            "author": "Hilary Mantel"
+        },
+        {
+            "quote": "On human stupidity: It is one of the most powerful forces that shape history",
+            "author": "Yuval Noah Harari"
+        },
+        {
+            "quote": "Human blunders usually do more to shape history than human wickedness. A. J. P",
+            "author": "Taylor"
+        },
+        {
+            "quote": "History is a pack of lies about events that never happened told by people who weren’t there",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "When the great history of trouble is written, my family will stand extremely high in the table of contents",
+            "author": "Allan Sherman"
+        },
+        {
+            "quote": "History is an account, mostly false, of events, mostly unimportant, which are brought about by rulers, mostly knaves, and soldiers, mostly fools",
+            "author": "Ambrose Bierce"
+        },
+        {
+            "quote": "I felt like a pickle stepping into history",
+            "author": "Bill Clinton"
+        },
+        {
+            "quote": "Long before history began we men have got together apart from the women and done things. We had time. C. S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "People take the longest possible paths, digress to numerous dead ends, and make all kinds of mistakes. Then historians come along and write summaries of this messy, nonlinear process and make it appear like a simple, straight line",
+            "author": "Dean Kamen"
+        },
+        {
+            "quote": "The historian will tell you what happened. The novelist will tell you what it felt like. E. L",
+            "author": "Doctorow"
+        },
+        {
+            "quote": "Anyone who believes you can’t change history has never tried to write his memoirs",
+            "author": "David Ben Gurion"
+        },
+        {
+            "quote": "Watch the History Channel if you want it literal and historically perfect",
+            "author": "Emily Blunt"
+        },
+        {
+            "quote": "Every historian discloses a new horizon",
+            "author": "George Sand"
+        },
+        {
+            "quote": "A poet in history is divine, but a poet in the next room is a joke",
+            "author": "Max Eastman"
+        },
+        {
+            "quote": "Historian: an unsuccessful novelist. H. L",
+            "author": "Mencken"
+        },
+        {
+            "quote": "Like a historian, I interpret, select, discard, shape, simplify. Unlike a historian, I make up people’s thoughts",
+            "author": "Hilary Mantel"
+        },
+        {
+            "quote": "Yeah, I read history. But it doesn’t make you nice. Hitler read history, too",
+            "author": "Joan Rivers"
+        },
+        {
+            "quote": "History can bring luck: this is what we can call optimism",
+            "author": "Stephane Hessel"
+        },
+        {
+            "quote": "You don’t hate history, you hate the way it was taught to you in high school",
+            "author": "Stephen Ambrose"
+        },
+        {
+            "quote": "I feel like I’m too busy writing history to read it",
+            "author": "Kanye West"
+        },
+        {
+            "quote": "The historian is a prophet looking backward",
+            "author": "Karl Wilhelm Friedrich Schlegel"
+        },
+        {
+            "quote": "Freedom has no history",
+            "author": "Andrew Cohen"
+        },
+        {
+            "quote": "The people who have really made history are the martyrs",
+            "author": "Aleister Crowley"
+        },
+        {
+            "quote": "History reports that the men who can manage men manage the men who can manage only things, and the men who can manage money manage all",
+            "author": "Will Durant"
+        },
+        {
+            "quote": "False history gets made all day, any day, the truth of the new is never on the news",
+            "author": "Adrienne Rich"
+        },
+        {
+            "quote": "A myth is far truer than a history, for a history only gives a story of the shadows, whereas a myth gives a story of the substances that cast the shadows",
+            "author": "Annie Besant"
+        },
+        {
+            "quote": "Reason is the historian, but passions are the actors",
+            "author": "Antoine Rivarol"
+        },
+        {
+            "quote": "What I am is a thinking, feeling human being compelled by history",
+            "author": "Avery Brooks"
+        },
+        {
+            "quote": "You cannot amputate your history from your destiny, because that is redemption",
+            "author": "Beth Moore"
+        },
+        {
+            "quote": "Meaning is socially, historically, and rhetorically constructed",
+            "author": "Clifford Geertz"
+        },
+        {
+            "quote": "The pull, the attraction of history, is in our human nature",
+            "author": "What makes us tick? Why do we do what we do? How much is luck the deciding factor? David McCullough"
+        },
+        {
+            "quote": "History is information. Memory is part of your identity",
+            "author": "David Miliband"
+        },
+        {
+            "quote": "If history is any indication, all truths will eventually turn out to be false",
+            "author": "Dean Kamen"
+        },
+        {
+            "quote": "If history and science have taught us anything, it is that passion and desire are not the same as truth. E. O",
+            "author": "Wilson"
+        },
+        {
+            "quote": "Isn’t history ultimately the result of our fear of boredom? Emile M",
+            "author": "Cioran"
+        },
+        {
+            "quote": "",
+            "author": "Who has fully realized that history is not contained in thick books but lives in our very blood? Carl Jung"
+        },
+        {
+            "quote": "When you lose your temper or even feel irritated: remember that human life is very short. Before long all of us will be laid out side by side",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "The history of the past interests us only in so far as it illuminates the history of the present",
+            "author": "Ernest Dimnet"
+        },
+        {
+            "quote": "Memoirs are the backstairs of history",
+            "author": "George Meredith"
+        },
+        {
+            "quote": "Universal history is the history of a few metaphors",
+            "author": "Jorge Luis Borges"
+        },
+        {
+            "quote": "Each one writes history according to his convenience",
+            "author": "Jose Rizal"
+        },
+        {
+            "quote": "The writer may very well serve a movement of history as its mouthpiece, but he cannot of course create it",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "It is not history which uses men as a means of achieving – as if it were an individual person – its own ends. History is nothing but the activity of men in pursuit of their ends",
+            "author": "Karl Marx"
+        },
+        {
+            "quote": "Human history is not the product of the wise direction of human reason, but is shaped by the forces of emotion — our dreams, our pride, our greed, our fears, and our desire for revenge",
+            "author": "Lin Yutang"
+        },
+        {
+            "quote": "Skepticism is a virtue in history as well as in philosophy",
+            "author": "Napoleon Bonaparte"
+        },
+        {
+            "quote": "The past itself, as historical change continues to accelerate, has become the most surreal of subjects – making it possible… to see a new beauty in what is vanishing",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "Sometimes history takes things into its own hands",
+            "author": "Thurgood Marshall"
+        },
+        {
+            "quote": "What is history? An echo of the past in the future; a reflex from the future on the past",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "History should be written as philosophy",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "If you want the present to be different from the past, study the past",
+            "author": "Baruch Spinoza (See also: creativity quotes)"
+        },
+        {
+            "quote": "History is a gallery of pictures in which there are few originals and many copies",
+            "author": "Alexis de Tocqueville"
+        },
+        {
+            "quote": "No harm’s done to history by making it something someone would want to read",
+            "author": "David McCullough"
+        },
+        {
+            "quote": "We must admit that history is enjoyable to a large extent because it enables us to pass judgement on the past",
+            "author": "Douglas Hurd"
+        },
+        {
+            "quote": "It takes a great deal of history to produce a little literature",
+            "author": "Henry James"
+        },
+        {
+            "quote": "I’ve been completely fascinated with history because it tells everything about what’s going to happen next because it’s cyclical, everything repeats in general",
+            "author": "Emilie Autumn"
+        },
+        {
+            "quote": "The game of history is usually played by the best and the worst over the heads of the majority in the middle",
+            "author": "Eric Hoffer"
+        },
+        {
+            "quote": "History never looks like history when you are living through it. John W",
+            "author": "Gardner"
+        },
+        {
+            "quote": "History is a race between education and catastrophe. H. G",
+            "author": "Wells"
+        },
+        {
+            "quote": "The very ink with which all history is written is merely fluid prejudice",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "We’ll be remembered more for what we destroy than what we create",
+            "author": "Chuck Palahniuk"
+        },
+        {
+            "quote": "The so-called lessons of history are for the most part the rationalizations of the victors. History is written by the survivors",
+            "author": "Max Lerner"
+        },
+        {
+            "quote": "Every moment happens twice: inside and outside, and they are two different histories",
+            "author": "Zadie Smith"
+        },
+        {
+            "quote": "History is a vast early warning system",
+            "author": "Norman Cousins"
+        },
+        {
+            "quote": "History is Philosophy teaching by examples",
+            "author": "Thucydides"
+        },
+        {
+            "quote": "I go into my library and all history unrolls before me",
+            "author": "Alexander Smith"
+        },
+        {
+            "quote": "To understand a science, it is necessary to know its history",
+            "author": "Auguste Comte"
+        },
+        {
+            "quote": "To a historian libraries are food, shelter, and even muse",
+            "author": "Barbara Tuchman"
+        },
+        {
+            "quote": "Unlike any other time in our history, we have to know that staying in school and getting an education is the most important thing you can do",
+            "author": "Alexis Herman"
+        },
+        {
+            "quote": "More people are reading poetry now than at any time in the history of the human race",
+            "author": "Andrew Motion"
+        },
+        {
+            "quote": "There are so many times and places in history in our world that I just don’t know anything about, and when I learn about them they’re always fascinating",
+            "author": "Andrew Stanton"
+        },
+        {
+            "quote": "Reading a book is like re-writing it for yourself. You bring to a novel, anything you read, all your experience of the world. You bring your history and you read it in your own terms",
+            "author": "Angela Carter"
+        },
+        {
+            "quote": "I love history. I love art. I like to mix it all together, but in the end it somehow has to all make sense",
+            "author": "Anna Sui"
+        },
+        {
+            "quote": "Literature overtakes history, for literature gives you more than one life. It expands experience and opens new opportunities to readers",
+            "author": "Carlos Fuentes"
+        },
+        {
+            "quote": "A little library, growing every year, is an honorable part of a man’s history. It is a man’s duty to have books",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "I love studying Ancient History and seeing how empires rise and fall, sowing the seeds of their own destruction",
+            "author": "Martin Scorsese"
+        },
+        {
+            "quote": "A library is the delivery room for the birth of ideas, a place where history comes to life",
+            "author": "Norman Cousins"
+        },
+        {
+            "quote": "If history were taught in the form of stories, it would never be forgotten",
+            "author": "Rudyard Kipling"
+        },
+        {
+            "quote": "If you don’t know history, it is as if you were born yesterday",
+            "author": "Howard Zinn"
+        },
+        {
+            "quote": "No matter who you are or what you look like, how you started off, or how and who you love, America is a place where you can write your own destiny",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "The long sweep of America has been defined by forward motion, a constant widening of our founding creed to embrace all and not just some",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "Nowhere is it ordained that history moves in a straight line",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "As it has for more than two centuries, progress will come in fits and starts. It’s not always a straight line. It’s not always a smooth path",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "History does not long entrust the care of freedom to the weak or the timid. Dwight D",
+            "author": "Eisenhower"
+        },
+        {
+            "quote": "Neither a wise man nor a brave man lies down on the tracks of history to wait for the train of the future to run over him. Dwight D",
+            "author": "Eisenhower"
+        },
+        {
+            "quote": "The history of free men is never really written by chance but by choice; their choice! Dwight D",
+            "author": "Eisenhower"
+        },
+        {
+            "quote": "Things have never been more like the way they are today in history. Dwight D",
+            "author": "Eisenhower"
+        },
+        {
+            "quote": "Remember, remember always, that all of us, and you and I especially, are descended from immigrants and revolutionists. Franklin D",
+            "author": "Roosevelt"
+        },
+        {
+            "quote": "Americans are rising to the tasks of history, and they expect the same of us. George W",
+            "author": "Bush"
+        },
+        {
+            "quote": "History is moving, and it will tend toward hope, or tend toward tragedy. George W",
+            "author": "Bush"
+        },
+        {
+            "quote": "Now, there are some who would like to rewrite history – revisionist historians is what I like to call them. George W",
+            "author": "Bush"
+        },
+        {
+            "quote": "The marvel of all history is the patience with which men and women submit to burdens unnecessarily laid upon them by their governments",
+            "author": "George Washington"
+        },
+        {
+            "quote": "There is nothing new in the world except the history you do not know. Harry S",
+            "author": "Truman"
+        },
+        {
+            "quote": "Men make history and not the other way around. In periods where there is no leadership, society stands still. Progress occurs when courageous, skillful leaders seize the opportunity to change things for the better. Harry S",
+            "author": "Truman"
+        },
+        {
+            "quote": "Study men, not historians. Harry S",
+            "author": "Truman"
+        },
+        {
+            "quote": "Nixon is one of the few in the history of this country to run for high office talking out of both sides of his mouth at the same time and lying out of both sides. Harry S",
+            "author": "Truman"
+        },
+        {
+            "quote": "The greatest honor history can bestow is that of peacemaker. Richard M",
+            "author": "Nixon"
+        },
+        {
+            "quote": "Europe will never be like America. Europe is a product of history. America is a product of philosophy",
+            "author": "Margaret Thatcher"
+        },
+        {
+            "quote": "Few will have the greatness to bend history itself; but each of us can work to change a small portion of events, and in the total of all those acts will be written the history of this generation. Robert F",
+            "author": "Kennedy"
+        },
+        {
+            "quote": "History teaches that wars begin when governments believe the price of aggression is cheap",
+            "author": "Ronald Reagan"
+        },
+        {
+            "quote": "History, in general, only informs us of what bad government is",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "I like dreams of the future better than the history of the past",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "My reading of history convinces me that most bad government results from too much government",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "History is written by the victors",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "History will be kind to me for I intend to write it",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "Study history, study history. In history lies all the secrets of statecraft",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "The whole history of the world is summed up in the fact that, when nations are strong, they are not always just, and when they wish to be just, they are no longer strong",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "The flag is the embodiment, not of sentiment, but of history",
+            "author": "Woodrow Wilson"
+        },
+        {
+            "quote": "The history of liberty is a history of resistance",
+            "author": "Woodrow Wilson"
+        },
+        {
+            "quote": "Study the past if you would define the future",
+            "author": "Confucius"
+        },
+        {
+            "quote": "The future influences the present just as much as the past",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "We are going from bread and circuses to cannabis and video games to psychedelics and VR",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Understand: the future belongs to groups that are fluid, fast, and nonlinear",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "The future depends on what you do today",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "There is no saint without a past, no sinner without a future",
+            "author": "Augustine of Hippo"
+        },
+        {
+            "quote": "Yesterday is gone. Tomorrow has not yet come. We have only today. Let us begin",
+            "author": "Mother Teresa"
+        },
+        {
+            "quote": "A happy man is too satisfied with the present to dwell too much on the future",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "He who has courage despises the future",
+            "author": "Napoleon Bonaparte"
+        },
+        {
+            "quote": "You can’t go back and change the beginning, but you can start where you are and change the ending. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "Understand your past, live this moment, dream your future",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Fear not for the future, weep not for the past",
+            "author": "Percy Bysshe Shelley"
+        },
+        {
+            "quote": "To make the future is highly risky. It is less risky, however, than not to try to make it. Peter F",
+            "author": "Drucker"
+        },
+        {
+            "quote": "We did not come to fear the future. We came here to shape it",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "The empires of the future will be empires of the mind",
+            "author": "Winston Churchill (1943)"
+        },
+        {
+            "quote": "The most amazing thing about the future won’t be the spaceships, but the beings flying them",
+            "author": "Yuval Noah Harari"
+        },
+        {
+            "quote": "The future is completely open and we are writing it moment to moment",
+            "author": "Pema Chödrön"
+        },
+        {
+            "quote": "The future has a way of arriving unannounced",
+            "author": "George Will"
+        },
+        {
+            "quote": "Unless you are 80 years old or something, you will have to repeatedly reinvent yourself in the coming decades — you’ll probably change your job a number of times",
+            "author": "Yuval Noah Harari"
+        },
+        {
+            "quote": "We need to get to know ourselves better and we need to develop this mental flexibility. Not as a kind of hobby for the side. This is really the most important quality or skill to just survive the upheavals in the coming decades",
+            "author": "Yuval Noah Harari"
+        },
+        {
+            "quote": "The technology is unstoppable. The future is bright",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Nothing that we do lasts. Eventually, you will fade. Your works will fade. Your children will fade. Your thoughts will fade. These planets will fade. This sun will fade. It will all be gone",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Life is not linear. It does not steadily become better or worse. It is cyclical in nature. The same patterns (like joy and sorrow) repeat again and again in an alternating rhythm. Understand this, be released from the illusion of a blissful future, and start living now",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "Hope is the ability to hear the music of the future; faith is the courage to dance to it today",
+            "author": "Peter Kuzmic"
+        },
+        {
+            "quote": "The future is literally in our hands to mold as we like. But we cannot wait until tomorrow. Tomorrow is now",
+            "author": "Eleanor Roosevelt"
+        },
+        {
+            "quote": "The future is always beginning now",
+            "author": "Mark Strand"
+        },
+        {
+            "quote": "The future belongs to those who give the next generation reason for hope",
+            "author": "Pierre Teilhard de Chardin"
+        },
+        {
+            "quote": "Discipline has within it the potential for creating future miracles",
+            "author": "Jim Rohn"
+        },
+        {
+            "quote": "These days people seek knowledge, not wisdom. Knowledge is of the past, wisdom is of the future",
+            "author": "Vernon Cooper"
+        },
+        {
+            "quote": "Every man’s life lies within the present; for the past is spent and done with, and the future is uncertain",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "Future love does not exist. Love is a present activity only. The man who does not manifest love in the present has not love",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "Modern humans overdose on information, pushing the limits of our design constraints. Future humans will adopt filtering mechanisms to avoid drowning in random data. They’ll look back on us with pity. Attention pollution is a huge drain on our collective intellectual resources",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "The perfected future never arrives. Life is full of seemingly endless trouble, and then life ends. Find peace in the imperfect present",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "Life can be found only in the present moment. The past is gone, the future is not yet here, and if we do not go back to ourselves in the present moment, we cannot be in touch with life",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "The future comes slowly, the present flies and the past stands still forever",
+            "author": "Friedrich Schiller"
+        },
+        {
+            "quote": "The future belongs to those who learn more skills and combine them in creative ways",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Make creativity rather than comfort your goal and you will ensure far more success for the future",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Study the past if you would define the future",
+            "author": "Confucius"
+        },
+        {
+            "quote": "One faces the future with one’s past. Pearl S",
+            "author": "Buck"
+        },
+        {
+            "quote": "For the majority of us, the past is a regret, the future an experiment",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "You can’t connect the dots looking forward; you can only connect them looking backwards. So you have to trust that the dots will somehow connect in your future. You have to trust in something – your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "The future rewards those who press on. I don’t have time to feel sorry for myself. I don’t have time to complain. I’m going to press on",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "What I’m asking for is hard. It’s easier to be cynical; to accept that change isn’t possible, and politics is hopeless, and to believe that our voices and actions don’t matter. But if we give up now, then we forsake a better future",
+            "author": "Barack Obama"
+        },
+        {
+            "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment",
+            "author": "Buddha"
+        },
+        {
+            "quote": "Today I will do what others won’t, so tomorrow I can accomplish what others can’t",
+            "author": "Jerry Rice"
+        },
+        {
+            "quote": "If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it’s not",
+            "author": "Elon Musk"
+        },
+        {
+            "quote": "I never think of the future. It comes soon enough",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "I do not want to foresee the future. I am concerned with taking care of the present. God has given me no control over the moment following",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "We face the future with our past and our present as guarantors of our promises",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "We cannot build our own future without helping others to build theirs",
+            "author": "Bill Clinton"
+        },
+        {
+            "quote": "The best thing about the future is that it only comes one day at a time",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "You cannot escape the responsibility of tomorrow by evading it today",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Change is the law of life. And those who look only to the past or present are certain to miss the future. John F",
+            "author": "Kennedy"
+        },
+        {
+            "quote": "I like dreams of the future better than the history of the past",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "How far you go in life depends on your being tender with the young, compassionate with the aged, sympathetic with the striving, and tolerant of the weak and strong. Because some day in life you will have been all of these",
+            "author": "George Washington Carver"
+        },
+        {
+            "quote": "The future is something which everyone reaches at the rate of sixty minutes an hour, whatever he does, whoever he is. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "The past is no more, the future is not yet. \"Now\" includes the balance of being here, experiencing, involvement, phenomenon, awareness",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "No matter how dirty your past is, your future is still spotless",
+            "author": "Drake"
+        },
+        {
+            "quote": "Even the smallest person can change the course of the future",
+            "author": "Queen Galadriel (Lord Of The Rings)"
+        },
+        {
+            "quote": "Prediction is very difficult, especially of the future",
+            "author": "Niels Bohr"
+        },
+        {
+            "quote": "The greatest discovery of all time is that a person can change his future by merely changing his attitude",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "We are now faced with the fact that tomorrow is today. We are confronted with the fierce urgency of now",
+            "author": "Martin Luther King Jr"
+        },
+        {
+            "quote": "It is not in the stars to hold our destiny but in ourselves",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "The future is now",
+            "author": "Nam June Paik"
+        },
+        {
+            "quote": "The future is emotional",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "Forever is composed of nows",
+            "author": "Emily Dickinson"
+        },
+        {
+            "quote": "Only you can control your future. Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "And in today already walks tomorrow",
+            "author": "Samuel Taylor Coleridge"
+        },
+        {
+            "quote": "We are always yesterday and tomorrow",
+            "author": "Théo Lagacé (my 5 year old son)"
+        },
+        {
+            "quote": "What is coming is better than what is gone",
+            "author": "Arabic proverb"
+        },
+        {
+            "quote": "The seeds of our future are sown in our past",
+            "author": "Unknown"
+        },
+        {
+            "quote": "For the future, the motto is, \"No days unalert\"",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Go for it now. The future is promised to no one",
+            "author": "Wayne Dyer"
+        },
+        {
+            "quote": "Let your hopes, not your hurts, shape your future. Robert H",
+            "author": "Schuller"
+        },
+        {
+            "quote": "Make your past the fuel for your future",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Heal the past, live the present, dream the future",
+            "author": "Mary Engelbreit"
+        },
+        {
+            "quote": "It is said that the present is pregnant with the future",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Do something today that your future self will thank you for",
+            "author": "Sean Patrick Flanery"
+        },
+        {
+            "quote": "The past cannot be changed. The future is yet in your power",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let him who would enjoy a good future waste none of his present",
+            "author": "Roger Babson"
+        },
+        {
+            "quote": "The present is short, the future is doubtful, the past is certain",
+            "author": "Seneca"
+        },
+        {
+            "quote": "The past, the present and the future are really one: they are today",
+            "author": "Harriet Beecher Stowe"
+        },
+        {
+            "quote": "With the past, I have nothing to do; nor with the future. I live now",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "The present is theirs; the future, for which I really worked, is mine",
+            "author": "Nikola Tesla"
+        },
+        {
+            "quote": "The future is better than you think",
+            "author": "Peter Diamandis"
+        },
+        {
+            "quote": "Never let the future disturb you. You will meet it, if you have to, with the same weapons of reason which today arm you against the present",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "As for the future, your task is not to foresee it, but to enable it",
+            "author": "Antoine de Saint-Exupery"
+        },
+        {
+            "quote": "Life is no brief candle to me. It is a sort of splendid torch which I have got a hold of for the moment, and I want to make it burn as brightly as possible before handing it on to future generations",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "Help others have a better future and yours will be guaranteed",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Now is the only time. How we relate to it creates the future. In other words, if we’re going to be more cheerful in the future, it’s because of our aspiration and exertion to be cheerful in the present. What we do accumulates; the future is the result of what we do right now",
+            "author": "Pema Chödrön"
+        },
+        {
+            "quote": "Step out of the history that is holding you back. Step into the new story you are willing to create",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "You better live your best and act your best and think your best today; for today is the sure preparation for tomorrow and all the other tomorrows that follow",
+            "author": "Harriet Martineau"
+        },
+        {
+            "quote": "The further and deeper we contemplate the future, the greater our capacity to shape it according to our desires",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Change your life today. Don’t gamble on the future, act now, without delay",
+            "author": "Simone de Beauvoir"
+        },
+        {
+            "quote": "There is never time in the future in which we will work out our salvation. The challenge is in the moment; the time is always now",
+            "author": "James Baldwin"
+        },
+        {
+            "quote": "People who don’t need the money can work for payoffs that are further in the future and more uncertain, but much bigger. They can arbitrage other people’s need for immediacy and certainty, and hire them as employees. The less you need it today, the more you can have tomorrow",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Don’t burn your future on the altar of the past. Remember it. Don’t live in it. Learn the lesson. The past is fixed. The future is variable. You will transform. You will endure",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "It is fruitless to wish you had started years ago. In the future you will wish you had started now. Don’t wish. Act",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "You can build a future out of anything. A scrap, a flicker. The desire to go forward, slowly, one foot at a time. You can build an airy city out of ruins",
+            "author": "Lauren Oliver"
+        },
+        {
+            "quote": "The past explains how I got here, but the future is up to me – and I love to live life at full throttle",
+            "author": "Janice Dickinson"
+        },
+        {
+            "quote": "The future always comes too fast and in the wrong order",
+            "author": "Alvin Toffler"
+        },
+        {
+            "quote": "Tomorrow is only found in the calendar of fools",
+            "author": "Og Mandino"
+        },
+        {
+            "quote": "The hard work of the future will be pushing buttons",
+            "author": "Nikola Tesla"
+        },
+        {
+            "quote": "Let others consult the horoscope, or read tarot cards: You have more concrete means of seeing into the future",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "The factory of the future will have only two employees, a man and a dog. The man will be there to feed the dog. The dog will be there to keep the man from touching the equipment",
+            "author": "Warren Bennis"
+        },
+        {
+            "quote": "Trying to predict the future is like trying to drive down a country road at night with no lights while looking out the back window. Peter F",
+            "author": "Drucker"
+        },
+        {
+            "quote": "The future isn’t just something that happens. It’s a brutal force with a great sense of humor that will steamroll you if you’re not watching",
+            "author": "Bill Murray"
+        },
+        {
+            "quote": "If you want a picture of the future, imagine a boot stamping on a human face forever",
+            "author": "George Orwell (1984) (Not sure if it’s funny after all…)"
+        },
+        {
+            "quote": "The future is already here – it’s just not very evenly distributed",
+            "author": "William Gibson"
+        },
+        {
+            "quote": "The future interests me – I’m going to spend the rest of my life there",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "People live for the morrow, because the day-after-to-morrow is doubtful",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "It’s tough to make predictions, especially about the future",
+            "author": "Yogi Berra"
+        },
+        {
+            "quote": "He who controls the past controls the future. He who controls the present controls the past",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "The most painful state of being is remembering the future, particularly the one you’ll never have",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "What is history? An echo of the past in the future; a reflex from the future on the past",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "Fuck yesterday. Don’t dwell on it. Understand it, learn from it but don’t over respect it and allow it to affect tomorrow negatively",
+            "author": "Gary Vaynerchuk"
+        },
+        {
+            "quote": "You’re addicted to past and future thinking because it feels safe. You avoid present thinking because it feels unsafe",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "The twentieth century was great and terrible, and the twenty-first century promises to be far greater and more terrible",
+            "author": "Peter Thiel"
+        },
+        {
+            "quote": "A future society may support overclocking brilliant young scientists with mental performance enhancing drugs to get more scientific breakthroughs",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Anti-establishment candidates are the future",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Future: Money becomes information. Weapons become information. Land becomes information. Software eats society",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Ubiquitous streaming cameras with remote storage will eventually end almost all physical criminal activities",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Anything you do will fade. It will disappear, just like the human race will disappear and the planet will disappear. Get to Mars, even that group will disappear. No one is going to remember you past a certain number of generations, whether you’re an artist or a poet or a conqueror or a pauper or nothing",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Be skeptical of approaches that don’t find it necessary to suffer today for a better tomorrow",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "The moment you move to protect the status quo instead of disrupting or improving it, you put yourself at risk of becoming irrelevant in the near future",
+            "author": "Thomas Oppong"
+        },
+        {
+            "quote": "We know the past but cannot control it. We control the future but cannot know it",
+            "author": "Claude Shannon"
+        },
+        {
+            "quote": "We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another; unevenly. We grow partially. We are relative. We are mature in one realm, childish in another. The past, present, and future mingle and pull us backward, forward, or fix us in the present. We are made up of layers, cells, constellations",
+            "author": "Anais Nin"
+        },
+        {
+            "quote": "Time is accelerating. It’s the first time in history when we’ll have no idea how human society will be like in a couple of decades",
+            "author": "Yuval Noah Harari"
+        },
+        {
+            "quote": "Illusions: 1. there is a better future awaiting you. 2. some day your problems will end. 3. change of govt will solve your problems. 4. worldly success will make you happy. 5. achieving a particular goal will bring lasting satisfaction. 6. you’ll finally start living after you’ve \"made it\"",
+            "author": "@TheAncientSage"
+        },
+        {
+            "quote": "We have created a fragile and comfortable modern world in which things are much less likely to go slightly wrong, yet more likely to go catastrophically wrong. The future offers up enormous opportunity and enormous existential risk",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "I have but one lamp by which my feet are guided, and that is the lamp of experience. I know no way of judging of the future but by the past",
+            "author": "Edward Gibbon"
+        },
+        {
+            "quote": "To live only for some future goal is shallow. It’s the sides of the mountain that sustain life, not the top. Robert M",
+            "author": "Pirsig (Zen and the Art of Motorcycle Maintenance, Amazon book)"
+        },
+        {
+            "quote": "People like us, who believe in physics, know that the distinction between past, present, and future is only a stubbornly persistent illusion",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "The future belongs to the people who can see \"now\" from a long-term perspective",
+            "author": "Greg McKeown"
+        },
+        {
+            "quote": "Think long term. Execute short term. Experience now",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "Think on the long term when making a decision. Go back to not thinking when you are done",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Choose the path that leaves you more equanimous in the long term",
+            "author": "Naval Ravikant (See also: inner peace quotes)"
+        },
+        {
+            "quote": "Nothing you do is going to matter that much in the long run. Don’t take yourself so seriously",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The more you understand yourself, the easier it is to make good decisions",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "The only moment of possible happiness, is the present. The past gives regrets. And future uncertainties. Man quickly realised this and created religion. It forgives him what he has done wrong in the past and tells him not to worry about the future, as you will go to paradise",
+            "author": "Arsène Wenger"
+        },
+        {
+            "quote": "Tomorrow will take care of itself based on what you do today",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "The future is something which everyone reaches at the rate of sixty minutes an hour, whatever he does, whoever he is. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "An hour of thinking can save a decade of struggle",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "You likely can’t predict the future but you can prepare for multiple possible futures. Shane Parrish (fs",
+            "author": "blog)"
+        },
+        {
+            "quote": "Never take it for granted that your past successes will continue into the future. Actually, your past successes are your biggest obstacle: every battle, every war, is different, and you cannot assume that what worked before will work today",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "You must always be prepared to place a bet on yourself, on your future, by heading in a direction that others seem to fear",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "When people choose between talk about the past and talk about the future, a pragmatic person will always opt for the future and forget the past",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Short-term thinking makes people desperate, ungenerous, impulsive. Long-term thinking makes people calm, gracious, controlled",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "If your options seem limited, expand your time horizon to a decade. Your current circumstances, obligations or skills become irrelevant. Once cured from short term thinking, you’re free to go in any direction",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "I think the most important thing is to invest in emotional intelligence and mental balance, because the hardest challenges will be psychological",
+            "author": "Yuval Noah Harari"
+        },
+        {
+            "quote": "The greatest adventure is what lies ahead. Today and tomorrow are yet to be said. The chances, the changes are all yours to make. The mold of your life is in your hands to break. J.R.R",
+            "author": "Tolkien"
+        },
+        {
             "quote": "To waste time is to lose life",
             "author": "Sunday Adelaja"
         },

@@ -1,6 +1,3862 @@
 {
     "writing": [
         {
+            "quote": "The chief enemy of creativity is ‘good’ sense",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Bring your humanity to your art. Bring your art to humanity",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Art deteriorates when it is done for the audience",
+            "author": "James Pierce"
+        },
+        {
+            "quote": "In order to be irreplaceable one must always be different",
+            "author": "Coco Chanel"
+        },
+        {
+            "quote": "An artist cannot fail; it is a success to be one",
+            "author": "Charles Cooley"
+        },
+        {
+            "quote": "The great artist is the simplifier",
+            "author": "Vincent Van Gogh"
+        },
+        {
+            "quote": "I had so much fire in me and so many plans",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "The only thing I know is that I paint because I need to",
+            "author": "Frida Kahlo"
+        },
+        {
+            "quote": "Painting is self-discovery. Every good artist paints what he is",
+            "author": "Jackson Pollock"
+        },
+        {
+            "quote": "Art enables us to find ourselves and lose ourselves at the same time",
+            "author": "Thomas Merton"
+        },
+        {
+            "quote": "To draw you must close your eyes and sing",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Every artist dips his brush in his own soul, and paints his own nature into his pictures",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "Never worry about being obsessive. I like obsessive people. Obsessive people make great art",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "In any art you’re allowed to steal anything if you can make it better",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "In the mind of every artist there is a masterpiece",
+            "author": "Kai Greene"
+        },
+        {
+            "quote": "The world always seems brighter when you’ve just made something that wasn’t there before",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "Let’s get a little crazy here",
+            "author": "Bob Ross"
+        },
+        {
+            "quote": "Every act of creation is first an act of destruction",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "We must never forget that art is not a form of propaganda; it is a form of truth. John F",
+            "author": "Kennedy"
+        },
+        {
+            "quote": "I think being different, going against the grain of society is the greatest thing in the world",
+            "author": "Elijah Wood"
+        },
+        {
+            "quote": "Art is the only serious thing in the world. And the artist is the only person who is never serious",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "You can look at a picture for a week and never think of it again. You can also look at the picture for a second and think of it all your life",
+            "author": "Joan Miro"
+        },
+        {
+            "quote": "If I paint something, I don’t want to have to explain what it is",
+            "author": "Bob Ross"
+        },
+        {
+            "quote": "An artist should never be a prisoner of himself, prisoner of style, prisoner of reputation, prisoner of success",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "Art is meant to disturb, science reassures",
+            "author": "Georges Braque"
+        },
+        {
+            "quote": "I never paint dreams or nightmares. I paint my own reality",
+            "author": "Frida Kahlo"
+        },
+        {
+            "quote": "Creativity is allowing yourself to make mistakes. Art is knowing which ones to keep",
+            "author": "Scott Adams"
+        },
+        {
+            "quote": "It is better to be high-spirited even though one makes more mistakes, than to be narrow-minded and all to prudent",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "The power of nature is such that it’s what all art strives to be. The more we can get in tune with the harmony of the planet, the more our art can benefit from that relationship",
+            "author": "Rick Rubin"
+        },
+        {
+            "quote": "Where the spirit does not work with the hand, there is no art",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "The greater the artist, the greater the doubt. Perfect confidence is granted to the less talented as a consolation prize",
+            "author": "Robert Hughes"
+        },
+        {
+            "quote": "Tell your own story, and you will be interesting",
+            "author": "Louise Bourgeois"
+        },
+        {
+            "quote": "All art is a kind of confession, more or less oblique. All artists, if they are to survive, are forced, at last, to tell the whole story; to vomit the anguish up",
+            "author": "James Baldwin"
+        },
+        {
+            "quote": "Our primary function is to create an emotion and our secondary function is to sustain that emotions",
+            "author": "Alfred Hitchcock"
+        },
+        {
+            "quote": "Art is standing with one hand extended into the universe and one hand extended into the world, and letting ourselves be a conduit for passing energy",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "You have to systematically create confusion, it sets creativity free. Everything that is contradictory creates life",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "I have already settled it for myself so flattery and criticism go down the same drain and I am quite free",
+            "author": "Georgia O’Keeffe"
+        },
+        {
+            "quote": "To be an artist, you need to exist in a world of silence",
+            "author": "Louise Bourgeois"
+        },
+        {
+            "quote": "The best reason to paint is that there is no reason to paint",
+            "author": "Keith Haring"
+        },
+        {
+            "quote": "The counterfeit innovator is wildly self-confident. The real one is scared to death",
+            "author": "Steven Pressfield (The War Of Art)"
+        },
+        {
+            "quote": "If you ask me what I came to do in this world, I, an artist, will answer you: I am here to live out loud",
+            "author": "Emile Zola"
+        },
+        {
+            "quote": "Art is not a mirror to hold up to society, but a hammer with which to shape it",
+            "author": "Leon Trotsky"
+        },
+        {
+            "quote": "Creativity gives hope that there can be a worthwhile idea",
+            "author": "Edward de Bono"
+        },
+        {
+            "quote": "The principles of true art is not to portray, but to evoke",
+            "author": "Jerzy Kosinski"
+        },
+        {
+            "quote": "In the creative state a man is taken out of himself. E. M",
+            "author": "Forster"
+        },
+        {
+            "quote": "I wanted to start a revolution, using art to build the sort of society I myself envisioned",
+            "author": "Yayoi Kusama"
+        },
+        {
+            "quote": "A work is finished when an artist realizes his intentions",
+            "author": "Rembrandt"
+        },
+        {
+            "quote": "Art wasn’t supposed to look nice; it was supposed to make you feel something",
+            "author": "Rainbow Rowell"
+        },
+        {
+            "quote": "An artist’s only concern is to shoot for some kind of perfection, and on his own terms, not anyone else’s. J. D",
+            "author": "Salinger"
+        },
+        {
+            "quote": "The works must be conceived with fire in the soul but executed with clinical coolness",
+            "author": "Joan Miro"
+        },
+        {
+            "quote": "Only when he no longer knows what he is doing does the painter do good things",
+            "author": "Edgar Degas"
+        },
+        {
+            "quote": "Art speaks where words are unable to explain",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I like nonsense, it wakes up the brain cells. Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "Art is never finished, only abandoned",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Art is the concrete representation of our most subtle feelings",
+            "author": "Agnes Martin"
+        },
+        {
+            "quote": "Bad artists copy. Good artists steal",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Everything you can imagine is real",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "The only art I’ll ever study is stuff that I can steal from",
+            "author": "David Bowie"
+        },
+        {
+            "quote": "I am my own experiment. I am my own work of art",
+            "author": "Madonna"
+        },
+        {
+            "quote": "I put my heart and my soul into my work, and have lost my mind in the process",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "I dream of painting and then I paint my dream",
+            "author": "Vincent Van Gogh"
+        },
+        {
+            "quote": "The most beautiful thing we can experience is the mysterious. It is the source of all true art and science",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "If you hear a voice within you saying, \"You are not a painter,\" then by all means paint… and that voice will be silenced",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "Art is my life and my life is art",
+            "author": "Yoko Ono"
+        },
+        {
+            "quote": "Every artist was first an amateur",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "The moment you think you understand a great work of art, it’s dead for you",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "A picture is a poem without words",
+            "author": "Horace"
+        },
+        {
+            "quote": "Without tradition art is a flock of sheep without a shepherd. Without innovation it is a corpse",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "I guess I’m a little weird. I like to talk to trees and animals. That’s okay though; I have more fun than most people",
+            "author": "Bob Ross"
+        },
+        {
+            "quote": "You don’t take a photograph, you make it",
+            "author": "Ansel Adams"
+        },
+        {
+            "quote": "Have no fear of perfection – you’ll never reach it",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "I am not strange. I am just not normal",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "Those who do not want to imitate anything, produce nothing",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "If people knew how hard I worked to get my mastery, it wouldn’t seem so wonderful at all",
+            "author": "Michelangelo"
+        },
+        {
+            "quote": "The essence of all beautiful art, all great art, is gratitude",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "I paint self-portraits because I am so often alone, because I am the person I know best",
+            "author": "Frida Kahlo"
+        },
+        {
+            "quote": "Human salvation lies in the hands of the creatively maladjusted",
+            "author": "Martin Luther King Jr"
+        },
+        {
+            "quote": "Beauty will save the world",
+            "author": "Dosteovsky"
+        },
+        {
+            "quote": "Painter, paint!",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "Art must destroy violence, only it can do it",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "Creativity is contagious. Pass it on",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Art should tell what the system does not",
+            "author": "@AmuseChimp"
+        },
+        {
+            "quote": "Art is the expression of the profoundest thoughts in the simplest way",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Art is to look at not to criticize",
+            "author": "Edgar Allen Poe"
+        },
+        {
+            "quote": "Art is a way of recognizing oneself",
+            "author": "Louise Bourgeois"
+        },
+        {
+            "quote": "Personality is everything in art and poetry",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "You study, you learn, but you guard the original naivete",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "Art lives from constraints and dies from freedom",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Painting is silent poetry",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "Sometimes with art, it is important just to look",
+            "author": "Marina Abramović"
+        },
+        {
+            "quote": "Controversy is part of the nature of art and creativity",
+            "author": "Yoko Ono"
+        },
+        {
+            "quote": "Don’t think about making art…",
+            "author": "Andy Warhol"
+        },
+        {
+            "quote": "Every good painter paints what he is",
+            "author": "Jackson Pollock"
+        },
+        {
+            "quote": "A true masterpiece does not tell everything",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "Intensity is all that matters in painting",
+            "author": "John Piper"
+        },
+        {
+            "quote": "To be an artist is to believe in life",
+            "author": "Henry Moore"
+        },
+        {
+            "quote": "Art is a lie that makes us realize truth",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Art is the elimination of the unnecessary",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Art is a line around your thoughts",
+            "author": "Gustav Klimt"
+        },
+        {
+            "quote": "Art is coming face to face with yourself",
+            "author": "Jackson Pollock"
+        },
+        {
+            "quote": "I shut my eyes in order to see",
+            "author": "Paul Gauguin"
+        },
+        {
+            "quote": "Art = a mad search for individualism",
+            "author": "Paul Gauguin"
+        },
+        {
+            "quote": "The painter has the Universe in his mind and hands",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Perspective is to painting what the bridle is to the horse, the rudder to a ship",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "The artist sees what others only catch a glimpse of",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Think eight hours, work two hours",
+            "author": "Mirko Ilic"
+        },
+        {
+            "quote": "Choose only one master – Nature",
+            "author": "Rembrandt"
+        },
+        {
+            "quote": "Art is not a thing, it is a way",
+            "author": "Elbert Hubbard"
+        },
+        {
+            "quote": "To create one’s own world takes courage",
+            "author": "Georgia O’Keeffe"
+        },
+        {
+            "quote": "I am not an adventurer by choice but by fate",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "Every child is an artist. The problem is how to remain an artist once we grow up",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "I shall be so brief that I have already finished",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "It is absurd to look for perfection",
+            "author": "Camille Pissarro"
+        },
+        {
+            "quote": "I must have flowers, always, and always",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "Life is too short to remain unnoticed",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "Knowing how to look is a way of inventing",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "I’m in fine fettle and fired with a desire to paint",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "Art must be life — it must belong to everybody",
+            "author": "Marina Abramović"
+        },
+        {
+            "quote": "To avoid criticism, do nothing, say nothing, and be nothing",
+            "author": "Elbert Hubbard"
+        },
+        {
+            "quote": "To create, one must first question everything",
+            "author": "Eileen Gray"
+        },
+        {
+            "quote": "Everything starts from a dot",
+            "author": "Wassily Kandinsky"
+        },
+        {
+            "quote": "To gain freedom is to gain simplicity",
+            "author": "Joan Miro"
+        },
+        {
+            "quote": "The more I work, the more I want to work",
+            "author": "Joan Miro"
+        },
+        {
+            "quote": "I work like a gardener",
+            "author": "Joan Miro"
+        },
+        {
+            "quote": "At the heart of all great art is an essential melancholy",
+            "author": "Federico Garcia Lorca"
+        },
+        {
+            "quote": "Art is either revolution or plagiarism",
+            "author": "Paul Gauguin"
+        },
+        {
+            "quote": "Don’t pay any attention to what they write about you. Just measure it in inches",
+            "author": "Andy Warhol"
+        },
+        {
+            "quote": "Inspiration does exist, but it must find you working",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Don’t be fooled by success and money. Don’t let anything come between you and your work",
+            "author": "Louise Bourgeois"
+        },
+        {
+            "quote": "When you do things for their own sake, that’s when you create your best work. That’s when it’s art",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Art is not a handicraft, it is the transmission of feeling the artist has experienced",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "To be great, art has to point somewhere",
+            "author": "Anne Lamott"
+        },
+        {
+            "quote": "When I think of art I think of beauty. Beauty is the mystery of life. It is not in the eye it is in the mind. In our minds there is awareness of perfection",
+            "author": "Agnes Martin"
+        },
+        {
+            "quote": "The most important thing about art is to work. Nothing else matters except sitting down every day and trying",
+            "author": "Steven Pressfield (The War Of Art)"
+        },
+        {
+            "quote": "Remember one rule of thumb: the more scared we are of a work or calling, the more sure we can be that we have to do it",
+            "author": "Steven Pressfield (The War Of Art)"
+        },
+        {
+            "quote": "All you need to paint is a few tools, a little instruction, and a vision in your mind",
+            "author": "Bob Ross"
+        },
+        {
+            "quote": "I started painting as a hobby when I was little. I didn’t know I had any talent. I believe talent is just a pursued interest. Anybody can do what I do",
+            "author": "Bob Ross"
+        },
+        {
+            "quote": "A true artist is not one who is inspired but one who inspires others",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "Make art that makes you happy. Make art that makes you better. Make art that makes you money. Make art that makes a difference",
+            "author": "Sahil Lavingia"
+        },
+        {
+            "quote": "If I’m going to be anything more than average, if anyone is going to remember me, then I need to go further, in art, in life, in everything!",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "The only way to be truly satisfied is to do what you believe is great work",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "The aim of every artist is to arrest motion, which is life, by artificial means and hold it fixed so that a hundred years later, when a stranger looks at it, it moves again since it is life",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "It is not a torment to be an artist. It is a privilege",
+            "author": "Louise Bourgeois"
+        },
+        {
+            "quote": "Art is the queen of all sciences communicating knowledge to all the generations of the world",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "With the pride of the artist, you must blow against the walls of every power that exists the small trumpet of your defiance",
+            "author": "Norman Mailer"
+        },
+        {
+            "quote": "The artist must create a spark before he can make a fire and before art is born, the artist must be ready to be consumed by the fire of his own creation",
+            "author": "Auguste Rodin"
+        },
+        {
+            "quote": "If art is to nourish the roots of our culture, society must set the artist free to follow his vision wherever it takes him. John F",
+            "author": "Kennedy"
+        },
+        {
+            "quote": "My role in society, or any artist’s or poet’s role, is to try and express what we all feel. Not to tell people how to feel. Not as a preacher, not as a leader, but as a reflection of us all",
+            "author": "John Lennon"
+        },
+        {
+            "quote": "He who works with his hands and his head and his heart is an artist",
+            "author": "Francis of Assisi"
+        },
+        {
+            "quote": "Instead of worrying about what people say of you, why not spend time trying to accomplish something they will admire",
+            "author": "Dale Carnegie"
+        },
+        {
+            "quote": "It’s on the strength of observation and reflection that one finds a way. So we must dig and delve unceasingly",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "To practice any art, no matter how well or badly, is a way to make your soul grow. So do it",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "Stay firmly in your path and dare; be wild two hours a day",
+            "author": "Paul Gauguin"
+        },
+        {
+            "quote": "I have been enlightened. I have fallen into poetry and it has swallowed me up",
+            "author": "Keith Haring"
+        },
+        {
+            "quote": "Art is a collaboration between God and the artist, and the less the artist does, the better",
+            "author": "André Gide"
+        },
+        {
+            "quote": "Visions are worth fighting for",
+            "author": "Why spend your life making someone else’s dreams? Tim Burton"
+        },
+        {
+            "quote": "Lord, grant that I may always desire more than I accomplish",
+            "author": "Michelangelo"
+        },
+        {
+            "quote": "Not everyone can become a great artist, but a great artist can come from anywhere",
+            "author": "Peter O’Toole"
+        },
+        {
+            "quote": "The most dangerous creation of any society is the man who has nothing to lose",
+            "author": "James Baldwin"
+        },
+        {
+            "quote": "Great things are not done by impulse, but by a series of small things brought together",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "By working hard, old man, I hope to make something good one day. I haven’t yet, but I am pursuing it and fighting for it",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "One must spoil as many canvases as one succeeds with",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "If I close my eyes, I see things better than with my eyes open",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "We don’t make mistakes. We just have happy accidents",
+            "author": "Bob Ross"
+        },
+        {
+            "quote": "I am not an inventor. I steal everything",
+            "author": "Anne Bogart"
+        },
+        {
+            "quote": "We have always been shamelss about stealing great ideas",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "There’s a fine line between genius and insanity. I have erased this line",
+            "author": "Oscar Levant"
+        },
+        {
+            "quote": "It’s better to create something that others criticize than to create nothing and criticize others",
+            "author": "Ricky Gervais"
+        },
+        {
+            "quote": "I just wanna make the world a better-looking place",
+            "author": "If you don’t like it, you can paint over it! Banksy (Check out Banksy on Instagram)"
+        },
+        {
+            "quote": "People say graffiti is ugly, irresponsible and childish… but that’s only if it’s done properly",
+            "author": "Banksy"
+        },
+        {
+            "quote": "We tell people sometimes: we’re like drug dealers, come into town and get everybody absolutely addicted to painting. It doesn’t take much to get you addicted",
+            "author": "Bob Ross"
+        },
+        {
+            "quote": "There are three responses to a piece of design: yes, no and wow",
+            "author": "Milton Glaser"
+        },
+        {
+            "quote": "If people would just look at the paintings, I don’t think they would have any trouble enjoying them. It’s like looking at a bed of flowers, you don’t tear your hair out over what it means",
+            "author": "Jackson Pollock"
+        },
+        {
+            "quote": "As my artist’s statement explains, my work is utterly incomprehensible and is therefore full of deep significance",
+            "author": "Calvin"
+        },
+        {
+            "quote": "The fact I myself do not understand what my paintings mean while I am painting them does not imply that they are meaningless",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "The secret of my influence has always been that it remained secret",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "If you understand a painting beforehand, you might as well not paint it",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "I believe in general death but in the death of Dalí absolutely not",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "What is originality? Undetected plagiarism",
+            "author": "William Ralph Inge"
+        },
+        {
+            "quote": "Artists are just children who refuse to put down their crayons",
+            "author": "Al Hirschfeld"
+        },
+        {
+            "quote": "I’m not performing miracles, I’m using up and wasting a lot of paint",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "The critic has to educate the public; the artist has to educate the critic",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Bus stops are far more interesting and useful places to have art than in museums",
+            "author": "Banksy"
+        },
+        {
+            "quote": "The job of the artist is always to deepen the mystery",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "You must have chaos within you to give birth to a dancing star",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "My paintings are not about what is seen. They are about what is known forever in the mind",
+            "author": "Agnes Martin"
+        },
+        {
+            "quote": "If art doesn’t make us better, then what on earth is it for?",
+            "author": "Alice Walker"
+        },
+        {
+            "quote": "Artists are people driven by the tension between the desire to communicate and the desire to hide",
+            "author": "Donald Winnicott"
+        },
+        {
+            "quote": "Treat a work of art like a prince. Let it speak to you first",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "An artist is a sort of emotional or spiritual historian. His role is to make you realize the doom and glory of knowing who you are and what you are",
+            "author": "James Baldwin"
+        },
+        {
+            "quote": "The achilles heel of an artist lies in the hope that his art is good",
+            "author": "Kapil Gupta"
+        },
+        {
+            "quote": "A work of art has no importance whatever to society. It is only important to the individual",
+            "author": "Vladimir Nabokov"
+        },
+        {
+            "quote": "Forget yourself. Become one with eternity. Become part of your environment",
+            "author": "Yayoi Kusama"
+        },
+        {
+            "quote": "The creative union of the conscious with the unconscious is what one usually calls ‘inspiration’",
+            "author": "Leon Trotsky"
+        },
+        {
+            "quote": "Feeling and longing are the motive forces behind all human endeavor and human creations",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "What is important is to spread confusion, not eliminate it",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "All great art contains at its center contemplation, a dynamic contemplation",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "People love mystery, and that is why they love my paintings",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "An artist is someone who produces things that people don’t need to have but that he – for some reason – thinks it would be a good idea to give them",
+            "author": "Andy Warhol"
+        },
+        {
+            "quote": "Not everyone is capable of madness; and of those lucky enough to be capable, not many have the courage for it",
+            "author": "August Strindberg"
+        },
+        {
+            "quote": "Perhaps it’s true that I’m very hard on myself, but that’s better than exhibiting mediocre work… too few were satisfactory enough to trouble the public with",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "It is a tragedy that we live in a world where physical courage is so common, and moral courage is so rare",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "It is better to have done something than to have been someone",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "I often painted fragments of things because it seemed to make my statement as well as or better than the whole could",
+            "author": "Georgia O’Keeffe"
+        },
+        {
+            "quote": "The true painter must be able, with the most usual things, to have the most unusual ideas",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "It’s not what you look at that matters, it’s what you see",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "The creative process is a process of surrender, not control",
+            "author": "Julia Cameron"
+        },
+        {
+            "quote": "I would like to paint the way a bird sings",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "One person’s craziness is another person’s reality",
+            "author": "Tim Burton"
+        },
+        {
+            "quote": "Art is a step in the known toward the unknown",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "Art helps us identify with one another and expands our notion of we – from the local to the global",
+            "author": "Olafur Eliasson"
+        },
+        {
+            "quote": "Every line is the actual experience with its own unique story",
+            "author": "Cy Twombly"
+        },
+        {
+            "quote": "The main thing in making art often is letting go of your expectation and your idea",
+            "author": "Agnes Martin"
+        },
+        {
+            "quote": "There is no abstract art. You must always start with something. Afterward you can remove all traces of reality",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Most people die before they are fully born. Creativeness means to be born before one dies",
+            "author": "Erich Fromm"
+        },
+        {
+            "quote": "So much time is wasted on trying to be better than others",
+            "author": "Elijah Wood"
+        },
+        {
+            "quote": "An artist is a dreamer consenting to dream of the actual world",
+            "author": "George Santayana"
+        },
+        {
+            "quote": "The artist must train not only his eye but also his soul",
+            "author": "Wassily Kandinsky"
+        },
+        {
+            "quote": "There is no must in art because art is free",
+            "author": "Wassily Kandinsky"
+        },
+        {
+            "quote": "The thermometer of success is merely the jealousy of the malcontents",
+            "author": "Salvador Dalí"
+        },
+        {
+            "quote": "The world is only as free as it allows its artists to be",
+            "author": "Rick Rubin"
+        },
+        {
+            "quote": "The Revolution introduced me to art, and in turn, art introduced me to the Revolution!",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "The painting rises from the brushstrokes as a poem rises from the words. The meaning comes later",
+            "author": "Joan Miro"
+        },
+        {
+            "quote": "The public wants to understand and learn in a single day, a single minute, what the artist has spent years learning",
+            "author": "Paul Gauguin"
+        },
+        {
+            "quote": "I don’t paint things. I only paint the difference between things",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "There is nothing more difficult for a truly creative painter than to paint a rose, because before he can do so he has first to forget all the roses that were ever painted",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "It is better to fail in originality than to succeed in imitation",
+            "author": "Herman Melville"
+        },
+        {
+            "quote": "It is better to paint from memory, for thus your work will be your own",
+            "author": "Paul Gauguin"
+        },
+        {
+            "quote": "Painting is easy when you don’t know how, but very difficult when you do",
+            "author": "Edgar Degas"
+        },
+        {
+            "quote": "If I could say it in words there would be no reason to paint",
+            "author": "Edward Hopper"
+        },
+        {
+            "quote": "Art is the most intense mode of individualism that the world has known",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Art is not about thinking something up. It is the opposite – getting something down",
+            "author": "Julia Cameron"
+        },
+        {
+            "quote": "Every portrait that is painted with feeling is a portrait of the artist, not of the sitter",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The artist is not a different kind of person, but every person is a different kind of artist",
+            "author": "Eric Gill"
+        },
+        {
+            "quote": "He only moves toward the perfection of his art whose criticism surpasses his achievement",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "Contrary to general belief, an artist is never ahead of his time but most people are far behind theirs",
+            "author": "Edgard Varese"
+        },
+        {
+            "quote": "Practice what you know, and it will help to make clear what now you do not know",
+            "author": "Rembrandt"
+        },
+        {
+            "quote": "An intellectual says a simple thing in a hard way. An artist says a hard thing in a simple way",
+            "author": "Charles Bukowski"
+        },
+        {
+            "quote": "Art is not what you see, but what you make others see",
+            "author": "Edgar Degas"
+        },
+        {
+            "quote": "An artist is not paid for his labor but for his vision",
+            "author": "James Whistler"
+        },
+        {
+            "quote": "Artists to my mind are the real architects of change. William S",
+            "author": "Burroughs"
+        },
+        {
+            "quote": "The purpose of art is mystery",
+            "author": "Rene Magritte"
+        },
+        {
+            "quote": "Art is an escape from reality",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "Man needs music, literature, and painting – all those oases of perfection that make up art – to compensate for the rudeness and materialism of life",
+            "author": "Fernando Botero"
+        },
+        {
+            "quote": "Art is restoration: the idea is to repair the damages that are inflicted in life, to make something that is fragmented – which is what fear and anxiety do to a person – into something whole",
+            "author": "Louise Bourgeois"
+        },
+        {
+            "quote": "Healing yourself is connected with healing others",
+            "author": "Yoko Ono"
+        },
+        {
+            "quote": "The arts are not a way to make a living. They are a very human way of making life more bearable",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "The function of the artist in a disturbed society is to give awareness of the universe, to ask the right questions, and to elevate the mind",
+            "author": "Marina Abramovic"
+        },
+        {
+            "quote": "The activity of art is… as important as the activity of language itself, and as universal",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "The aim of art is to represent not the outward appearance of things, but their inward significance",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "My art is capable of liberating man from the tyranny of the ‘practical, rational world",
+            "author": "’ Salvador Dalí"
+        },
+        {
+            "quote": "In art, and in the higher ranges of science, there is a feeling of harmony which underlies all endeavor. There is no true greatness in art or science without that sense of harmony",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "One of the strongest motives that lead men to art and science is escape from everyday life with its painful crudity and hopeless dreariness, from the fetters of one’s own ever-shifting desires",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "For as long as I can remember I have suffered from a deep feeling of anxiety which I have tried to express in my art",
+            "author": "Edvard Munch"
+        },
+        {
+            "quote": "One of the functions of art is to give people the words to know their own experience. Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "Art should be something that liberates your soul, provokes the imagination and encourages people to go further",
+            "author": "Keith Haring"
+        },
+        {
+            "quote": "Whatever you do, the only secret is to believe in it and satisfy yourself. Don’t do it for anyone else",
+            "author": "Keith Haring"
+        },
+        {
+            "quote": "Art should comfort the disturbed and disturb the comfortable",
+            "author": "Banksy"
+        },
+        {
+            "quote": "Life beats down and crushes the soul and art reminds you that you have one",
+            "author": "Stella Adler"
+        },
+        {
+            "quote": "For me, painting is a way to forget life. It is a cry in the night, a strangled laugh",
+            "author": "Georges Rouault"
+        },
+        {
+            "quote": "What art offers is space – a certain breathing room for the spirit",
+            "author": "John Updike"
+        },
+        {
+            "quote": "The artist has one function–to affirm and glorify life. W",
+            "author": "Edward Brown"
+        },
+        {
+            "quote": "I want to touch people with my art. I want them to say \"he feels deeply, he feels tenderly\"",
+            "author": "Vincent Van Gogh"
+        },
+        {
+            "quote": "The goal of art was the vital expression of self",
+            "author": "Alfred Stieglitz"
+        },
+        {
+            "quote": "A good painter has two main objects to paint, man and the intention of his soul. The former is easy, the latter hard as he has to represent it by the attitude and movement of the limbs",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "All the sorrow, all the bitterness, all the sadness, I forget them and ignore them in the joy of working",
+            "author": "Camille Pissarro"
+        },
+        {
+            "quote": "The attitude that nature is chaotic and that the artist puts order into it is a very absurd point of view, I think. All that we can hope for is to put some order into ourselves",
+            "author": "Willem de Kooning"
+        },
+        {
+            "quote": "I am an artist because the knot is so powerful I just can not, nor want to be, anything else or do anything else",
+            "author": "Elisabeth Kubler-Ross"
+        },
+        {
+            "quote": "The purpose of art is washing the dust of daily life off our souls",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Art washes away from the soul the dust of everyday life",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Painting is just another way of keeping a diary",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "An artist discovers his genius the day he dares not to please",
+            "author": "Andre Malraux"
+        },
+        {
+            "quote": "Art is the only way to run away without leaving home",
+            "author": "Twyla Tharp"
+        },
+        {
+            "quote": "You need the dark in order to show the light",
+            "author": "Bob Ross"
+        },
+        {
+            "quote": "Some colors reconcile themselves to one another, others just clash",
+            "author": "Edvard Munch"
+        },
+        {
+            "quote": "Color is a power which directly influences the soul",
+            "author": "Wassily Kandinsky"
+        },
+        {
+            "quote": "Color is a means to exert a direct influence on the soul",
+            "author": "Wassily Kandinsky"
+        },
+        {
+            "quote": "Color is the keyboard. The eye is the hammer. The soul is the piano, with its many strings",
+            "author": "Wassily Kandinsky"
+        },
+        {
+            "quote": "There is no blue without yellow and without orange",
+            "author": "Vincent van Gogh (Did he mean that there’s no sadness without happiness?)"
+        },
+        {
+            "quote": "I often think that the night is more alive and more richly colored than the day",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "Color is my day-long obsession, joy and torment",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "It is only after years of preparation that the young artist should touch color – not color used descriptively, that is, but as a means of personal expression",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "I’ve been forty years discovering that the queen of all colors is black",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "It is with color that you render light, though you must also feel this light, have it within yourself",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "I found I could say things with color and shapes that I couldn’t say any other way – things I had no words for",
+            "author": "Georgia O’Keeffe"
+        },
+        {
+            "quote": "The point is to know how to use the colors, the choice of which is, when all’s said and done, a matter of habit",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "Critic asks: ‘And what, sir, is the subject matter of that painting?’ – ‘The subject matter, my dear good fellow, is the light",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "What I need most of all is color, always, always",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "Without atmosphere a painting is nothing",
+            "author": "Rembrandt"
+        },
+        {
+            "quote": "Finish the work, otherwise an unfinished work will finish you",
+            "author": "Amit Kalantri"
+        },
+        {
+            "quote": "Another year is ending, but something is pending",
+            "author": "Ernest Agyemang Yeboah"
+        },
+        {
+            "quote": "Above all, an artist must never be too easily satisfied with what he has done",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "No great work of art is ever finished",
+            "author": "Michelangelo"
+        },
+        {
+            "quote": "There are dozens of unfinished or aborted projects in my files, but I can only assume they don’t get done because they’re not robust enough to struggle through the birth process",
+            "author": "Grant Morrison"
+        },
+        {
+            "quote": "I know the sag of the unfinished poem. And I know the release of the poem that is finished",
+            "author": "Mary Oliver"
+        },
+        {
+            "quote": "You are an unfinished work in progress. One of the good things about life’s challenges: you get to find out that you’re capable of being far more than you ever thought possible",
+            "author": "Karen Salmonsohn"
+        },
+        {
+            "quote": "I never want projects to be finished; I have always believed in unfinished work. I got that from Schubert, you know, the ‘Unfinished Symphony’",
+            "author": "Yoko Ono"
+        },
+        {
+            "quote": "I always believed that my work should be unfinished in the sense that I encourage people to add their creativity to it, either conceptually or physically",
+            "author": "Yoko Ono"
+        },
+        {
+            "quote": "When I’m playing, I’m never through. It’s unfinished. I like to find a place to leave for someone else to finish it. That’s where the high comes in",
+            "author": "Miles Davis"
+        },
+        {
+            "quote": "I know I will leave my work unfinished. I just hope I planted enough seeds in my children and grandchildren that they will continue",
+            "author": "David Robinson"
+        },
+        {
+            "quote": "Can anything be sadder than work left unfinished? Yes, work never begun",
+            "author": "Christina Rossetti"
+        },
+        {
+            "quote": "Practicing an art, no matter how well or badly, is a way to make your soul grow, for heaven’s sake. Sing in the shower. Dance to the radio. Tell stories. Write a poem to a friend, even a lousy poem. Do it as well as you possible can. You will get an enormous reward. You will have created something",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "Music can change the world",
+            "author": "Ludwig van Beethoven"
+        },
+        {
+            "quote": "Close your eyes. Listen. Nothing’s missing",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Music is the universal language of mankind",
+            "author": "Henry Wadsworth Longfellow"
+        },
+        {
+            "quote": "My music fights against the system that teaches to live and die",
+            "author": "Bob Marley"
+        },
+        {
+            "quote": "A bird does not sing because it has an answer. It sings because it has a song",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "Music is nothing else but wild sounds civilized into time and tune",
+            "author": "Thomas Fuller"
+        },
+        {
+            "quote": "Life seems to go on without effort when I am filled with music",
+            "author": "George Eliot"
+        },
+        {
+            "quote": "Music gives a soul to the universe, wings to the mind, flight to the imagination and life to everything",
+            "author": "Plato"
+        },
+        {
+            "quote": "Music expresses that which cannot be said and on which it is impossible to be silent",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "Music touches us emotionally, where words alone can’t",
+            "author": "Johnny Depp"
+        },
+        {
+            "quote": "The music is not in the notes, but in the silence between",
+            "author": "Wolfgang Amadeus Mozart"
+        },
+        {
+            "quote": "After silence, that which comes nearest to expressing the inexpressible is music",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "And those who were seen dancing were thought to be insane by those who could not hear the music",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "A painter paints pictures on canvas. But musicians paint their pictures on silence",
+            "author": "Leopold Stokowski"
+        },
+        {
+            "quote": "If music be the food of love, play on",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Music comes from a place we don’t know",
+            "author": "Chris Martin (Coldplay)"
+        },
+        {
+            "quote": "Music is an outburst of the soul",
+            "author": "Frederick Delius"
+        },
+        {
+            "quote": "Music is the art which is most nigh to tears and memory",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "If I cannot fly, let me sing",
+            "author": "Stephen Sondheim"
+        },
+        {
+            "quote": "Music, once admitted to the soul, becomes a sort of spirit, and never dies",
+            "author": "Edward Bulwer-Lytton"
+        },
+        {
+            "quote": "Some people have lives; some people have music",
+            "author": "John Green"
+        },
+        {
+            "quote": "Music is the strongest form of magic",
+            "author": "Marilyn Manson"
+        },
+        {
+            "quote": "Pop music often tells you everything is OK, while rock music tells you that it’s not OK, but you can change it",
+            "author": "Bono (U2)"
+        },
+        {
+            "quote": "You are the music while the music lasts. T.S",
+            "author": "Eliot"
+        },
+        {
+            "quote": "Music is the color of sound",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Music is what tell us that the human race is greater than we realize",
+            "author": "Napoleon Bonaparte"
+        },
+        {
+            "quote": "Music is well said to be the speech of angels",
+            "author": "Thomas Carlyle"
+        },
+        {
+            "quote": "If Music is a Place — then Jazz is the City, Folk is the Wilderness, Rock is the Road, Classical is a Temple",
+            "author": "Vera Nazarian"
+        },
+        {
+            "quote": "A great song should lift your heart, warm the soul and make you feel good",
+            "author": "Colbie Caillat"
+        },
+        {
+            "quote": "Life is a song. Love is the music",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Music is the art of the prophets and the gift of God",
+            "author": "Martin Luther"
+        },
+        {
+            "quote": "Music is the wine that fills the cup of silence",
+            "author": "Robert Fripp"
+        },
+        {
+            "quote": "Music is the soundtrack of your life",
+            "author": "Dick Clark"
+        },
+        {
+            "quote": "My job has very little to do with music. It has more to do with taste and culture and balance",
+            "author": "Rick Rubin"
+        },
+        {
+            "quote": "Where words fail, music speaks",
+            "author": "Hans Christian Andersen"
+        },
+        {
+            "quote": "Music and silence combine strongly because music is done with silence, and silence is full of music",
+            "author": "Marcel Marceau"
+        },
+        {
+            "quote": "Music, when soft voices die, vibrates in the memory",
+            "author": "Percy Bysshe Shelley"
+        },
+        {
+            "quote": "When I hear music, I fear no danger. I am invulnerable. I see no foe. I am related to the earliest times, and to the latest",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Who hears music feels his solitude peopled at once",
+            "author": "Robert Browning"
+        },
+        {
+            "quote": "I’ve found that no matter what life throws at me, music softens the blow",
+            "author": "Bryce Anderson"
+        },
+        {
+            "quote": "Music… can name the unnameable and communicate the unknowable",
+            "author": "Leonard Bernstein"
+        },
+        {
+            "quote": "Music has a poetry of its own, and that poetry is called melody",
+            "author": "Joshua Logan"
+        },
+        {
+            "quote": "Music in the soul can be heard by the universe",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "I don’t make music for eyes. I make music for ears",
+            "author": "Adele"
+        },
+        {
+            "quote": "Music is my religion",
+            "author": "Jimi Hendrix"
+        },
+        {
+            "quote": "Jazz is not just music, it’s a way of life, it’s a way of being, a way of thinking",
+            "author": "Nina Simone"
+        },
+        {
+            "quote": "Music is… a higher revelation than all wisdom & philosophy",
+            "author": "Ludwig van Beethoven"
+        },
+        {
+            "quote": "Music is like a dream. One that I cannot hear",
+            "author": "Ludwig van Beethoven"
+        },
+        {
+            "quote": "Music should strike fire from the heart of man, and bring tears from the eyes of woman",
+            "author": "Ludwig van Beethoven"
+        },
+        {
+            "quote": "Music is the mediator between the spiritual and the sensual life",
+            "author": "Ludwig van Beethoven"
+        },
+        {
+            "quote": "Music is a great natural high and a great natural escape",
+            "author": "Shania Twain"
+        },
+        {
+            "quote": "Music is a safe kind of high",
+            "author": "Jimi Hendrix"
+        },
+        {
+            "quote": "Play it fuckin’ loud!",
+            "author": "Bob Dylan"
+        },
+        {
+            "quote": "Music is an agreeable harmony for the honor of God and the permissible delights of the soul",
+            "author": "Johann Sebastian Bach"
+        },
+        {
+            "quote": "Bach is an astronomer, discovering the most marvellous stars. Beethoven challenges the universe. I only try to express the soul and the heart of man",
+            "author": "Frédéric Chopin"
+        },
+        {
+            "quote": "Information is not knowledge. Knowledge is not wisdom. Wisdom is not truth. Truth is not beauty. Beauty is not love. Love is not music. Music is the best",
+            "author": "Frank Zappa"
+        },
+        {
+            "quote": "To live is to be musical, starting with the blood dancing in your veins. Everything living has a rhythm",
+            "author": "Do you feel your music? Michael Jackson"
+        },
+        {
+            "quote": "People ask me how I make music. I tell them I just step into it. It’s like stepping into a river and joining the flow. Every moment in the river has its song",
+            "author": "Michael Jackson"
+        },
+        {
+            "quote": "One good thing about music, when it hits you, you feel no pain",
+            "author": "Bob Marley"
+        },
+        {
+            "quote": "Music is the emotional life of most people",
+            "author": "Leonard Cohen"
+        },
+        {
+            "quote": "If you have to ask what jazz is, you’ll never know",
+            "author": "Louis Armstrong"
+        },
+        {
+            "quote": "I merely took the energy it takes to pout and wrote some blues",
+            "author": "Duke Ellington"
+        },
+        {
+            "quote": "I wanted to prove the sustaining power of music",
+            "author": "David Bowie"
+        },
+        {
+            "quote": "Music is powerful. As people listen to it, they can be affected. They respond",
+            "author": "Ray Charles"
+        },
+        {
+            "quote": "If I were not a physicist, I would probably be a musician. I often think in music. I live my daydreams in music. I see my life in terms of music. Albert Einstein (Did you know that Einstein played the violin? cmuse",
+            "author": "org)"
+        },
+        {
+            "quote": "My music will go on forever. Maybe it’s a fool say that, but when me know facts me can say facts. My music will go on forever",
+            "author": "Bob Marley"
+        },
+        {
+            "quote": "Sometimes I feel like rap music is almost the key to stopping racism",
+            "author": "Eminem"
+        },
+        {
+            "quote": "The world’s most famous and popular language is music",
+            "author": "Psy"
+        },
+        {
+            "quote": "I see my life in terms of music",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Hell is full of musical amateurs",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "Music, my rampart and my only one. Edna St",
+            "author": "Vincent Millay"
+        },
+        {
+            "quote": "It is always fatal to have music or poetry interrupted",
+            "author": "George Eliot"
+        },
+        {
+            "quote": "Philosophy is the highest music",
+            "author": "Plato"
+        },
+        {
+            "quote": "Art is how we decorate space, music is how we decorate time",
+            "author": "Jean-Michel Basquiat"
+        },
+        {
+            "quote": "Music is the shorthand of emotion",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "Music – what a powerful instrument, what a mighty weapon!",
+            "author": "Maria Augusta von Trapp"
+        },
+        {
+            "quote": "The pause is as important as the note",
+            "author": "Truman Fisher"
+        },
+        {
+            "quote": "He who sings frightens away his ills",
+            "author": "Miguel de Cervantes"
+        },
+        {
+            "quote": "I think that music has an endless life",
+            "author": "Anne Dudley"
+        },
+        {
+            "quote": "Music is the poetry of the air",
+            "author": "Richter"
+        },
+        {
+            "quote": "Music should be your escape",
+            "author": "Missy Elliott"
+        },
+        {
+            "quote": "You can cage the singer but not the song",
+            "author": "Harry Belafonte"
+        },
+        {
+            "quote": "Music is what life sounds like",
+            "author": "Eric Olson"
+        },
+        {
+            "quote": "Without music, life would be a mistake",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Every life has a soundtrack",
+            "author": "Jodi Picoult"
+        },
+        {
+            "quote": "Where words leave off, music begins",
+            "author": "Heinrich Heine"
+        },
+        {
+            "quote": "Music is like a huge release of tension",
+            "author": "James Taylor"
+        },
+        {
+            "quote": "When words fail music speaks",
+            "author": "Irena Huang"
+        },
+        {
+            "quote": "Music is my higher power",
+            "author": "Oliver James"
+        },
+        {
+            "quote": "I haven’t understood a bar of music in my life, but I have felt it",
+            "author": "Igor Stravinsky"
+        },
+        {
+            "quote": "The best music is essentially there to provide you something to face the world with",
+            "author": "Bruce Springsteen"
+        },
+        {
+            "quote": "It’s pretty cool to see how far music can take you",
+            "author": "Luke Bryan"
+        },
+        {
+            "quote": "Music hits us in a really emotional way. For me, it took me away in a way that nothing else could",
+            "author": "Rick Rubin"
+        },
+        {
+            "quote": "I love the relationship that anyone has with music… because there’s something in us that is beyond the reach of words, something that eludes and defies our best attempts to spit it out. It’s the best part of us probably",
+            "author": "Nick Hornby"
+        },
+        {
+            "quote": "Live your truth. Express your love. Share your enthusiasm. Take action towards your dreams. Walk your talk. Dance and sing to your music. Embrace your blessings. Make today worth remembering",
+            "author": "Steve Maraboli"
+        },
+        {
+            "quote": "If everyone started off the day singing, just think how happy they’d be",
+            "author": "Lauren Myracle"
+        },
+        {
+            "quote": "The only truth is music",
+            "author": "Jack Kerouac"
+        },
+        {
+            "quote": "Everything in the universe has a rhythm, everything dances",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "When we listen to music we are not listening to the past, we are not listening to the future, we are listening to an expanded present",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "If, while at the piano, you attempt to form little melodies, that is very well; but if they come into your mind of themselves, when you are not practicing, you may be still more pleased; for the internal organ of music is then roused in you. The fingers must do what the head desires; not the contrary",
+            "author": "Robert Schumann"
+        },
+        {
+            "quote": "No matter how corrupt, greedy, and heartless our government, our corporations, our media, and our religious and charitable institutions may become, the music will still be wonderful",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "There are four qualities essential to a great jazzman. they are taste, courage, individuality, and irreverence",
+            "author": "Stan Getz"
+        },
+        {
+            "quote": "Music is a language that doesn’t speak in particular words. It speaks in emotions, and if it’s in the bones, it’s in the bones",
+            "author": "Keith Richards"
+        },
+        {
+            "quote": "We grown-up people think that we appreciate music, but if we realized the sense that an infant has brought with it of appreciating sound and rhythm, we would never boast of knowing music. The infant is music itself",
+            "author": "Hazrat Inayat Khan"
+        },
+        {
+            "quote": "We’ve already invented a time machine. It’s called music",
+            "author": "Brian Norgard"
+        },
+        {
+            "quote": "I need music. It’s like my heartbeat, so to speak",
+            "author": "It keeps me going no matter what’s going on – bad games, press, whatever! LeBron James"
+        },
+        {
+            "quote": "My idea is that there is music in the air, music all around us; the world is full of it, and you simply take as much as you require",
+            "author": "Edward Elgar"
+        },
+        {
+            "quote": "Music drives you. It wakes you up, it gets you pumping. And, at the end of the day, the correct tune will chill you down",
+            "author": "Dimebag Darrell"
+        },
+        {
+            "quote": "You have to, take a deep breath. and allow the music to flow through you. Revel in it, allow yourself to awe. When you play allow the music to break your heart with its beauty",
+            "author": "Kelly White"
+        },
+        {
+            "quote": "Music is your own experience, your thoughts, your wisdom. If you don’t live it, it won’t come out of your horn",
+            "author": "Charlie Parker"
+        },
+        {
+            "quote": "That’s why people listen to music or look at paintings. To get in touch with that wholeness",
+            "author": "Corita Kent"
+        },
+        {
+            "quote": "Music produces a kind of pleasure which human nature cannot do without",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Music is the only thing I’ve ever known that doesn’t have any rules at all",
+            "author": "Josh Homme"
+        },
+        {
+            "quote": "Music is enough for a lifetime, but a lifetime is not enough for music",
+            "author": "Sergei Rachmaninoff"
+        },
+        {
+            "quote": "I think there is a song out there to describe just about any situation",
+            "author": "Criss Jami"
+        },
+        {
+            "quote": "Beethoven tells you what it’s like to be Beethoven and Mozart tells you what it’s like to be human. Bach tells you what it’s like to be the universe",
+            "author": "Douglas Adams"
+        },
+        {
+            "quote": "Music. A meaningless acceleration in the rhythm of celestial experience. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "Musical innovation is full of danger to the State, for when modes of music change, the fundamental laws of the State always change with them",
+            "author": "Plato"
+        },
+        {
+            "quote": "How is it that music can, without words, evoke our laughter, our fears, our highest aspirations?",
+            "author": "Jane Swan"
+        },
+        {
+            "quote": "The most exciting rhythms seem unexpected and complex, the most beautiful melodies simple and inevitable. W.H",
+            "author": "Auden"
+        },
+        {
+            "quote": "Melody is, and ever will be, the very flower of music. August W",
+            "author": "Ambros"
+        },
+        {
+            "quote": "Music cleanses the understanding; inspires it, and lifts it into a realm which it would not reach if it were left to itself",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "Most of what we take as being important is not material, whether it’s music or feelings or love. They’re things we can’t really see or touch. They’re not material, but they’re vitally important to us",
+            "author": "Judy Collins"
+        },
+        {
+            "quote": "Music expresses feeling and thought, without language; it was below and before speech, and it is above and beyond all words. Robert G",
+            "author": "Ingersoll"
+        },
+        {
+            "quote": "There is no such thing as happy music",
+            "author": "Franz Schubert"
+        },
+        {
+            "quote": "Songs are sneaky things; they can slip across borders",
+            "author": "Pete Seeger"
+        },
+        {
+            "quote": "Music is feeling. You can try to verbalize it. It really just hits you or it doesn’t",
+            "author": "Gene Simmons"
+        },
+        {
+            "quote": "Tell me what you listen to, and I’ll tell you who you are",
+            "author": "Tiffanie DeBartolo"
+        },
+        {
+            "quote": "The market didn’t define the music; the music defined the market",
+            "author": "Charlie Hunter"
+        },
+        {
+            "quote": "A song will outlive all sermons in the memory",
+            "author": "Henry Giles"
+        },
+        {
+            "quote": "A strange art – music – the most poetic and precise of all the arts, vague as a dream and precise as algebra",
+            "author": "Guy de Maupassant"
+        },
+        {
+            "quote": "Music is the only language in which you cannot say a mean or sarcastic thing",
+            "author": "John Erskine"
+        },
+        {
+            "quote": "Music is good to the melancholy, bad to those who mourn, and neither good nor bad to the deaf",
+            "author": "Baruch Spinoza"
+        },
+        {
+            "quote": "Music with dinner is an insult both to the cook and the violinist. G.K",
+            "author": "Chesterton"
+        },
+        {
+            "quote": "Music is to the soul what words are to the mind",
+            "author": "Modest Mouse"
+        },
+        {
+            "quote": "Music is forever; music should grow and mature with you, following you right on up until you die",
+            "author": "Paul Simon"
+        },
+        {
+            "quote": "Write what should not be forgotten",
+            "author": "Isabel Allende"
+        },
+        {
+            "quote": "All you have to do is write one true sentence. Write the truest sentence that you know",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "Good fiction’s job is to comfort the disturbed and disturb the comfortable",
+            "author": "David Foster Wallace"
+        },
+        {
+            "quote": "We write to taste life in the moment and in retrospect",
+            "author": "Anais Nin"
+        },
+        {
+            "quote": "Writing is its own reward",
+            "author": "Henry Miller"
+        },
+        {
+            "quote": "A writer is a world trapped in a person",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "Fill your paper with the breathings of your heart",
+            "author": "William Wordsworth"
+        },
+        {
+            "quote": "Without great solitude no serious work is possible",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Good things, when short, are twice as good",
+            "author": "Baltasar Gracián"
+        },
+        {
+            "quote": "Go inside where silence is. Stay there. Let words bubble up",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "All bad writers are in love with the epic",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "Start writing, no matter what. The water does not flow until the faucet is turned on",
+            "author": "Louis L’Amour"
+        },
+        {
+            "quote": "Write with conviction. Pick a side and be bold. And if you’re wrong, admit it",
+            "author": "Jeff Goins"
+        },
+        {
+            "quote": "There is no real ending. It’s just the place where you stop the story",
+            "author": "Frank Herbert"
+        },
+        {
+            "quote": "If you want to change the world, pick up your pen and write",
+            "author": "Martin Luther"
+        },
+        {
+            "quote": "The first draft of everything is shit",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "There is nothing to writing. All you do is sit down at the typewriter and bleed",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "Write while the heat is in you… The writer who postpones the recording of his thoughts uses an iron which has cooled to burn a hole with",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Writing a novel is like driving a car at night. You can only see as far as your headlights, but you can make the whole trip that way. E. L",
+            "author": "Doctorow"
+        },
+        {
+            "quote": "I had so many ideas. Jammed up. It was like they just needed permission to come out",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "You go where the story leads you",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "You must stay drunk on writing so reality cannot destroy you",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "You never have to change anything you got up in the middle of the night to write",
+            "author": "Saul Bellow"
+        },
+        {
+            "quote": "I don’t want just words. If that’s all you have for me, you’d better go. F",
+            "author": "Scott Fitzgerald"
+        },
+        {
+            "quote": "Forget all the rules. Forget about being published. Write for yourself and celebrate writing",
+            "author": "Melinda Haynes"
+        },
+        {
+            "quote": "I am not at all in a humor for writing; I must write on until I am",
+            "author": "Jane Austen"
+        },
+        {
+            "quote": "A writer has the duty to be good, not lousy; true, not false; lively, not dull; accurate, not full of error. He should tend to lift people up, not lower them down. Writers do not merely reflect and interpret life, they inform and shape life. E.B",
+            "author": "White"
+        },
+        {
+            "quote": "Writing has laws of perspective, of light and shade just as painting does, or music. If you are born knowing them, fine. If not, learn them. Then rearrange the rules to suit yourself",
+            "author": "Truman Capote"
+        },
+        {
+            "quote": "The difference between fiction and reality? Fiction has to make sense",
+            "author": "Tom Clancy"
+        },
+        {
+            "quote": "It is perfectly okay to write garbage — as long as you edit brilliantly. C. J",
+            "author": "Cherryh"
+        },
+        {
+            "quote": "One day I will find the right words, and they will be simple",
+            "author": "Jack Kerouac"
+        },
+        {
+            "quote": "It ain’t whatcha write, it’s the way atcha write it",
+            "author": "Jack Kerouac"
+        },
+        {
+            "quote": "Indeed, learning to write may be part of learning to read. For all I know, writing comes out of a superior devotion to reading",
+            "author": "Eudora Welty"
+        },
+        {
+            "quote": "Writing, like life itself, is a voyage of discovery",
+            "author": "Henry Miller"
+        },
+        {
+            "quote": "Anybody can make history. Only a great man can write it",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "If I had more time, I would have written a shorter letter",
+            "author": "Blaise Pascal"
+        },
+        {
+            "quote": "No matter what people tell you, words and ideas can change the world",
+            "author": "Robin Williams"
+        },
+        {
+            "quote": "The road to hell is paved with adverbs",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "A short saying often contains much wisdom",
+            "author": "Sophocles"
+        },
+        {
+            "quote": "Writing for me is a kind of compulsion, so I don’t think anyone could have made me do it, or prevented me from doing it. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "Don’t let the bastards grind you down",
+            "author": "Margaret Atwood"
+        },
+        {
+            "quote": "Lock up your libraries if you like; but there is no gate, no lock, no bolt that you can set upon the freedom of my mind",
+            "author": "Virginia Woolf"
+        },
+        {
+            "quote": "You can write nothing of value unless you give yourself wholly to the the theme – and when you so give yourself – you lose appetite ans sleep – it cannot be helped",
+            "author": "Charlotte Brontë"
+        },
+        {
+            "quote": "Either write something worth reading or do something worth writing",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "We have to continually be jumping off cliffs and developing our wings on the way down",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "The very reason I write is so that I might not sleepwalk through my entire life",
+            "author": "Zadie Smith"
+        },
+        {
+            "quote": "There is no greater agony than bearing an untold story inside you",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "History will be kind to me for I intend to write it",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "People should be interested in books, not their authors",
+            "author": "Agatha Christie"
+        },
+        {
+            "quote": "The most beautiful things are those that madness prompts and reason writes",
+            "author": "Andre Gide"
+        },
+        {
+            "quote": "A good writer possesses not only his own spirit but also the spirit of his friends",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "The purpose of a writer is to keep civilization from destroying itself",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "Writing is the painting of the voice",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "If there is a book that you want to read, but it hasn’t been written yet, you must be the one to write it",
+            "author": "Toni Morrison"
+        },
+        {
+            "quote": "Write drunk, edit sober",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "A word after a word after a word is power",
+            "author": "Margaret Atwood"
+        },
+        {
+            "quote": "If I waited for perfection, I would never write a word",
+            "author": "Margaret Atwood"
+        },
+        {
+            "quote": "Writers live twice",
+            "author": "Natalie Goldberg"
+        },
+        {
+            "quote": "I allow my intuition to lead my path",
+            "author": "Manuel Puig"
+        },
+        {
+            "quote": "Be obscure clearly. E.B",
+            "author": "White"
+        },
+        {
+            "quote": "A story should entertain the writer, too",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "The adverb is not your friend",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "There is no perfect time to write. There’s only now",
+            "author": "Barbara Kingsolver"
+        },
+        {
+            "quote": "Tears are words that need to be written",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Literature is a luxury; fiction is a necessity. G.K",
+            "author": "Chesterton"
+        },
+        {
+            "quote": "If it sounds like writing, I rewrite it",
+            "author": "Elmore Leonard"
+        },
+        {
+            "quote": "You must kill all your darlings",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "The pain you feel when you write is actually the pain of clarifying your thinking",
+            "author": "David Perell"
+        },
+        {
+            "quote": "To produce a mighty book, you must choose a mighty theme",
+            "author": "Herman Melville"
+        },
+        {
+            "quote": "To survive, you must tell stories",
+            "author": "Umberto Eco"
+        },
+        {
+            "quote": "You can make anything by writing. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "Anything’s possible if you’ve got enough nerve. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "The answer to all writing, to any career for that matter, is love",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "Shoot for the top, always. You know you’ll never make it, but what’s the fun if you don’t shoot for the top? Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "The pages are still blank, but there is a miraculous feeling of the words being there, written in invisible ink and clamoring to become visible",
+            "author": "Vladimir Nabokov"
+        },
+        {
+            "quote": "Be courageous and try to write in a way that scares you a little",
+            "author": "Holly Gerth"
+        },
+        {
+            "quote": "You don’t start out writing good stuff. You start out writing crap and thinking it’s good stuff, and then gradually you get better at it. That’s why I say one of the most valuable traits is persistence. Octavia E",
+            "author": "Butler"
+        },
+        {
+            "quote": "To know what you’re going to draw, you have to begin drawing",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Unwritten thoughts slip away like last night’s dreams. A good sentence can carry the light of insight, undimmed, across years, decades, and centuries",
+            "author": "The Stoic Emperor"
+        },
+        {
+            "quote": "I don’t wait for moods. You accomplish nothing if you do that. Your mind must know it has got to get down to work. Pearl S",
+            "author": "Buck"
+        },
+        {
+            "quote": "Don’t bend; don’t water it down; don’t try to make it logical; don’t edit your own soul according to the fashion. Rather, follow your most intense obsessions mercilessly",
+            "author": "Franz Kafka"
+        },
+        {
+            "quote": "Long patience and application saturated with your heart’s blood — you will either write or you will not — and the only way to find out whether you will or not is to try",
+            "author": "Jim Tully"
+        },
+        {
+            "quote": "Be strategic and resilient in the pursuit of your dreams. That sounds like a cheesy quote, right? But nah, I’m serious. Resilience is one hell of a quality to master and not many have the skin for it. Tiffany D",
+            "author": "Jackson"
+        },
+        {
+            "quote": "On writers: They belong not to one system, one nation only, but to the universe. And just because they are so very far away, it is usually many years before their light is visible to the inhabitants of this earth",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "A professional writer is an amateur who didn’t quit",
+            "author": "Richard Bach"
+        },
+        {
+            "quote": "The main rule of writing is that if you do it with enough assurance and confidence, you’re allowed to do whatever you like",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "The writer must have a good imagination to being with, but the imagination has to be muscular, which means it must be exercised in a disciplined way, day in and day out, by writing, failing, succeeding and revising",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Get it down. Take chances. It may be bad, but it’s the only way you can do anything really good",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "Once I start work on a project, I don’t stop, and I don’t slow down unless I absolutely have to",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Exercise the writing muscle every day, even if it is only a letter, notes, a title list, a character sketch, a journal entry. Writers are like dancers, like athletes. Without that exercise, the muscles seize up",
+            "author": "Jane Yolen"
+        },
+        {
+            "quote": "I believe myself that a good writer doesn’t really need to be told anything except to keep at it",
+            "author": "Chinua Achebe"
+        },
+        {
+            "quote": "The secret to being a writer is that you have to write. It’s not enough to think about writing or to study literature or plan a future life as an author. You really have to lock yourself away, alone, and get to work",
+            "author": "Augusten Burroughs (See also: hard work quotes)"
+        },
+        {
+            "quote": "The task of a writer consists of being able to make something out of an idea",
+            "author": "Thomas Mann"
+        },
+        {
+            "quote": "It’s none of their business that you have to learn to write. Let them think you were born that way",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "You wanna fly, you got to give up the sh*t that weighs you down",
+            "author": "Toni Morrison"
+        },
+        {
+            "quote": "The poets have been mysteriously silent on the subject of cheese. Gilbert K",
+            "author": "Chesterton"
+        },
+        {
+            "quote": "I love deadlines. I like the whooshing sound they make as they fly by",
+            "author": "Douglas Adams"
+        },
+        {
+            "quote": "Cut out all those exclamation marks. An exclamation mark is like laughing at your own joke. F",
+            "author": "Scott Fitzgerald"
+        },
+        {
+            "quote": "Writing a book is like telling a joke and having to wait 2 years to know whether or not it was funny",
+            "author": "Alain de Botton"
+        },
+        {
+            "quote": "Women want love to be a novel. Men, a short story",
+            "author": "Daphne du Maurier"
+        },
+        {
+            "quote": "Writing is often the process by which you realize that you do not understand what you are talking about",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "The freelance writer is a man who is paid per piece or per word or perhaps",
+            "author": "Robert Benchley"
+        },
+        {
+            "quote": "Writing is the art of repeating oneself without anyone noticing",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "Proofread carefully to see if you any words out",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Substitute \"damn\" every time you’re inclined to write \"very\", your editor will delete it and the writing will be just as it should be",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "If you intend to write as truthfully as you can, your days as a member of polite society are numbered anyway",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "No passion in the world is equal to the passion to alter someone else’s draft. H. G",
+            "author": "Wells"
+        },
+        {
+            "quote": "When you make music or write or create, it’s really your job to have mind-blowing, irresponsible, condomless sex with whatever idea it is you’re writing about at the time",
+            "author": "Lady Gaga"
+        },
+        {
+            "quote": "Writers who don’t write weekly, write weakly",
+            "author": "James Clear"
+        },
+        {
+            "quote": "If you’re doing it for money or fame, don’t do it. If you’re doing it because you want women in your bed, don’t do it",
+            "author": "Charles Bukowski"
+        },
+        {
+            "quote": "Here is a lesson in creative writing. First rule: Do not use semicolons. They are transvestite hermaphrodites representing absolutely nothing. All they do is show you’ve been to college",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "I always start writing with a clean piece of paper and a dirty mind",
+            "author": "Patrick Dennis"
+        },
+        {
+            "quote": "Keep a small can of WD-40 on your desk — away from any open flames — to remind yourself that if you don’t write daily, you will get rusty",
+            "author": "George Singleton"
+        },
+        {
+            "quote": "It took me fifteen years to discover that I had no talent for writing, but I couldn’t give it up because by that time I was too famous",
+            "author": "Robert Benchley"
+        },
+        {
+            "quote": "Many people hear voices when no one is there. Some of them are called mad and are shut up in rooms where they stare at the walls all day. Others are called writers and they do pretty much the same thing",
+            "author": "Margaret Chittenden"
+        },
+        {
+            "quote": "You just have to go on when it is worst and most helpless – there is only one thing to do with a novel and that is go straight on through to the end of the damn thing",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "I’d rather take coffee than compliments just now",
+            "author": "Louisa May Alcott"
+        },
+        {
+            "quote": "Writing is often the process by which you realize that you do not understand what you are talking about",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "If my doctor told me I had only six minutes to live, I wouldn’t brood. I’d type a little faster",
+            "author": "Isaac Isimov"
+        },
+        {
+            "quote": "Writing is like sex. First you do it for love, then you do it for your friends, and then you do it for money",
+            "author": "Virginia Woolf"
+        },
+        {
+            "quote": "Fiction is the truth inside the lie",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "I think all writing is a disease. You can’t stop it",
+            "author": "William Carlos Williams"
+        },
+        {
+            "quote": "Writing is really a way of thinking – not just feeling but thinking about things that are disparate, unresolved, mysterious, problematic or just sweet",
+            "author": "Toni Morrison"
+        },
+        {
+            "quote": "The first duty of the novelist is to entertain. It is a moral duty. People who read your books are sick, sad, travelling, in the hospital waiting room while someone is dying. Books are written by the alone for the alone",
+            "author": "Donna Tartt"
+        },
+        {
+            "quote": "Actually almost everything I’ve written that has survived was written when I didn’t try to get anything done",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "Writing is something you do alone. It’s a profession for introverts who wanna tell you a story but don’t wanna make eye contact while telling it",
+            "author": "John Green"
+        },
+        {
+            "quote": "A writer never has a vacation. For a writer life consists of either writing or thinking about writing",
+            "author": "Eugene Ionesco"
+        },
+        {
+            "quote": "Don’t expect the puppets of your mind to become the people of your story. If they are not realities in your own mind, there is no mysterious alchemy in ink and paper that will turn wooden figures into flesh and blood",
+            "author": "Leslie Gordon Barnard"
+        },
+        {
+            "quote": "Whether we are describing a king, an assassin, a thief, an honest man, a prostitute, a nun, a young girl, or a stallholder in a market, it is always ourselves that we are describing",
+            "author": "Guy De Maupassant"
+        },
+        {
+            "quote": "Of your unspoken words, you are the master; of your spoken words, the servant; of your written words, the slave",
+            "author": "Quaker proverb"
+        },
+        {
+            "quote": "I almost always urge people to write in the first person. Writing is an act of ego and you might as well admit it",
+            "author": "William Zinsser"
+        },
+        {
+            "quote": "Literature is strewn with the wreckage of men who have minded beyond reason the opinions of others",
+            "author": "Virginia Woolf"
+        },
+        {
+            "quote": "The story must strike a nerve — in me. My heart should start pounding when I hear the first line in my head. I start trembling at the risk. Susan Sontag (See also: How to make a good story excellent: 9 steps, nownovel",
+            "author": "com)"
+        },
+        {
+            "quote": "I don’t think of literature as an end in itself. It’s just a way of communicating something",
+            "author": "Isabel Allende"
+        },
+        {
+            "quote": "No author dislikes to be edited as much as he dislikes not to be published",
+            "author": "Russell Lynes"
+        },
+        {
+            "quote": "A wounded deer leaps the highest",
+            "author": "Emily Dickinson"
+        },
+        {
+            "quote": "If you wait for inspiration to write you’re not a writer, you’re a waiter",
+            "author": "Dan Poynter"
+        },
+        {
+            "quote": "Unless it comes out of your soul like a rocket, unless being still would drive you to madness or suicide or murder, don’t do it",
+            "author": "Charles Bukowski"
+        },
+        {
+            "quote": "Most writers regard the truth as their most valuable possession, and therefore are most economical in its use",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "I would always be that same maddening, monstrous mixture of pedantry, egoism, politeness, selfishness, kindliness, sneakiness, larkiness, sociability, loneliness, ambition, ordered calm and hidden intensity. I would cover my life with words. I would spray the whole bloody world with words",
+            "author": "Stephen Fry"
+        },
+        {
+            "quote": "I don’t care if a reader hates one of my stories, just as long as he finishes the book",
+            "author": "Roald Dahl"
+        },
+        {
+            "quote": "How vain it is to sit down to write when you have not stood up to live",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Everywhere I go, I’m asked if the universities stifle writers. My opinion is that they don’t stifle enough of them",
+            "author": "Flannery O’Connor"
+        },
+        {
+            "quote": "Geniuses can be scintillating and geniuses can be somber, but it’s that inescapable sorrowful depth that shines through — originality",
+            "author": "Jack Kerouac"
+        },
+        {
+            "quote": "Whether a character in your novel is full of choler, bile, phlegm, blood or plain old buffalo chips, the fire of life is in there, too, as long as that character lives",
+            "author": "James Alexander Thom"
+        },
+        {
+            "quote": "Forget your personal tragedy. We are all bitched from the start and you especially have to be hurt like hell before you can write seriously. But when you get the damned hurt use it – don’t cheat with it",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "A person is a fool to become a writer. His only compensation is absolute freedom. He has no master except his own soul, and that, I am sure, is why he does it",
+            "author": "Roald Dahl"
+        },
+        {
+            "quote": "If a nation loses its storytellers, it loses its childhood",
+            "author": "Peter Handke"
+        },
+        {
+            "quote": "Good writing is often about letting go of fear and affectation",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "As a writer, you should not judge, you should understand",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "I try to leave out the parts that people skip",
+            "author": "Elmore Leonard"
+        },
+        {
+            "quote": "Writing is meant to move the heart, the mind, the soul – not the page-view meter. Maria Popova (brainpickings",
+            "author": "org)"
+        },
+        {
+            "quote": "A book is simply the container of an idea — like a bottle; what is inside the book is what matters",
+            "author": "Angela Carter"
+        },
+        {
+            "quote": "The business of the novelist is not to relate great events, but to make small ones interesting",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "I would advise anyone who aspires to a writing career that before developing his talent he would be wise to develop a thick hide",
+            "author": "Harper Lee"
+        },
+        {
+            "quote": "Stories may well be lies, but they are good lies that say true things, and which can sometimes pay the rent",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "Hard writing makes easy reading. Easy writing makes hard reading",
+            "author": "William Zinsser"
+        },
+        {
+            "quote": "The first sentence can’t be written until the final sentence is written",
+            "author": "Joyce Carol Oates"
+        },
+        {
+            "quote": "If it doesn’t come bursting out of you in spite of everything, don’t do it. Unless it comes unasked out of your heart and your mind and your mouth and your gut, don’t do it",
+            "author": "Charles Bukowski"
+        },
+        {
+            "quote": "What’s better, a poetic intuition or an intellectual work? I think they complement each other",
+            "author": "Manuel Puig"
+        },
+        {
+            "quote": "No tears in the writer, no tears in the reader. No surprise in the writer, no surprise in the reader",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "If I had to give young writers advice, I would say don’t listen to writers talking about writing or themselves",
+            "author": "Lillian Hellman"
+        },
+        {
+            "quote": "Great is the art of beginning, but greater is the art of ending",
+            "author": "Henry Wadsworth Longfellow"
+        },
+        {
+            "quote": "There are some books that refuse to be written. They stand their ground year after year and will not be persuaded. It isn’t because the book is not there and worth being written – it is only because the right form of the story does not present itself. There is only one right form for a story and if you fail to find that form the story will not tell itself",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Writing gives thought solid form. Get your raw mental process on paper. Read. Revise. Reduce. Clarify. Disciplined writing is disciplined thinking",
+            "author": "The Stoic Emperor"
+        },
+        {
+            "quote": "Good writing is supposed to evoke sensation in the reader – not the fact that it is raining, but the feeling of being rained upon. E.L",
+            "author": "Doctorow"
+        },
+        {
+            "quote": "When you write a book, you spend day after day scanning and identifying the trees. When you’re done, you have to step back and look at the forest",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Kill your darlings, kill your darlings, even when it breaks your egocentric little scribbler’s heart, kill your darlings",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Nothing leads so straight to futility as literary ambitions without systematic knowledge. H. G",
+            "author": "Wells"
+        },
+        {
+            "quote": "Write down the thoughts of the moment. Those that come unsought for are commonly the most valuable",
+            "author": "Francis Bacon"
+        },
+        {
+            "quote": "Writing is not necessarily something to be ashamed of, but do it in private and wash your hands afterwards. Robert A",
+            "author": "Heinlein"
+        },
+        {
+            "quote": "A good title is the title of a successful book",
+            "author": "Raymond Chandler"
+        },
+        {
+            "quote": "Don’t take anyone’s writing advice too seriously",
+            "author": "Lev Grossman"
+        },
+        {
+            "quote": "Anon, who wrote so many poems without signing them, was often a woman",
+            "author": "Virginia Woolf"
+        },
+        {
+            "quote": "Poetry: the best words in the best order",
+            "author": "Samuel Taylor Coleridge"
+        },
+        {
+            "quote": "The poet doesn’t invent. He listens",
+            "author": "Jean Cocteau"
+        },
+        {
+            "quote": "I would define, in brief, the poetry of words as the rhythmical creation of beauty",
+            "author": "Edgar Allan Poe (The Poetic Principle)"
+        },
+        {
+            "quote": "Every poem should remind the reader that they are going to die",
+            "author": "Edgar Allen Poe"
+        },
+        {
+            "quote": "There’s no money in poetry, but then there’s no poetry in money either",
+            "author": "Robert Graves"
+        },
+        {
+            "quote": "Poetry is when an emotion has found its thought and the thought has found words",
+            "author": "Robert Frost"
+        },
+        {
+            "quote": "Breathe in experience, breathe out poetry",
+            "author": "Muriel Rukeyser"
+        },
+        {
+            "quote": "Prose is architecture, not interior decoration",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "Poetry is the art of creating imaginary gardens with real toads",
+            "author": "Marianne Moore"
+        },
+        {
+            "quote": "Poetry comes from the highest happiness or the deepest sorrow. A. P. J",
+            "author": "Abdul Kalam"
+        },
+        {
+            "quote": "Painting is silent poetry, and poetry is painting that speaks",
+            "author": "Plutarch"
+        },
+        {
+            "quote": "Genuine poetry can communicate before it is understood. T. S",
+            "author": "Eliot"
+        },
+        {
+            "quote": "Not all poetry wants to be storytelling. And not all storytelling wants to be poetry. But great storytellers and great poets share something in common: They had something to say, and did",
+            "author": "Sarah Kay"
+        },
+        {
+            "quote": "Poetry is thoughts that breathe, and words that burn",
+            "author": "Thomas Gray"
+        },
+        {
+            "quote": "Immature poets imitate; mature poets steal. T. S",
+            "author": "Eliot"
+        },
+        {
+            "quote": "A poem is never finished, only abandoned",
+            "author": "Paul Valery"
+        },
+        {
+            "quote": "Poetry is a deal of joy and pain and wonder, with a dash of the dictionary",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "Only the poet can look beyond the detail and see the whole picture",
+            "author": "Helen Hayes"
+        },
+        {
+            "quote": "Poetry creates the myth, the prose writer draws its portrait",
+            "author": "Jean-Paul Sartre"
+        },
+        {
+            "quote": "Poetry is an act of peace",
+            "author": "Pablo Neruda"
+        },
+        {
+            "quote": "Style means the right word. The rest matters little",
+            "author": "Jules Renard"
+        },
+        {
+            "quote": "I do not over-intellectualise the production process. I try to keep it simple: Tell the damned story",
+            "author": "Tom Clancy"
+        },
+        {
+            "quote": "Not a wasted word. This has been a main point to my literary thinking all my life. Hunter S",
+            "author": "Thompson"
+        },
+        {
+            "quote": "I want to write so well that a person is 30 or 40 pages in a book of mine… before she realizes she’s reading",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Good writers are those who keep the language efficient. That is to say, keep it accurate, keep it clear",
+            "author": "Ezra Pound (See also: How to Be a Good Writer (If There Is Such a Thing))"
+        },
+        {
+            "quote": "My aim in constructing sentences is to make the sentence utterly easy to understand, writing what I call transparent prose. I’ve failed dreadfully if you have to read a sentence twice to figure out what I meant",
+            "author": "Ken Follett"
+        },
+        {
+            "quote": "After nourishment, shelter and companionship, stories are the thing we need most in the world",
+            "author": "Philip Pullman"
+        },
+        {
+            "quote": "I want the story to have a rhythm that keeps moving forward. Because that’s the whole point of telling a story. You’re on a journey — you’re going from here to there. It’s got to move. Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "Not that the story need be long, but it will take a long while to make it short",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "I have been successful probably because I have always realized that I knew nothing about writing and have merely tried to tell an interesting story entertainingly",
+            "author": "Edgar Rice Burroughs"
+        },
+        {
+            "quote": "Don’t tell me the moon is shining; show me the glint of light on broken glass",
+            "author": "Anton Chekhov"
+        },
+        {
+            "quote": "And one of [the things you learn as you get older] is, you really need less… My model for this is late Beethoven. He moves so strangely and quite suddenly sometimes from place to place in his music, in the late quartets. He knows where he’s going and he just doesn’t want to waste all that time getting there. … One is aware of this as one gets older. You can’t waste time. Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "My aim is to put down on paper what I see and what I feel in the best and simplest way",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "Find a subject you care about and which you in your heart feel others should care about. It is this genuine caring, not your games with language, which will be the most compelling and seductive element in your style",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "One of the really bad things you can do to your writing is to dress up the vocabulary, looking for long words because you’re maybe a little bit ashamed of your short ones",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "When your story is ready for rewrite, cut it to the bone. Get rid of every ounce of excess fat. This is going to hurt; revising a story down to the bare essentials is always a little like murdering children, but it must be done",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Part 1. I notice that you use plain, simple language, short words and brief sentences. That is the way to write English – it is the modern way and the best way. Stick to it; don’t let fluff and flowers and verbosity creep in",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Part 2. When you catch an adjective, kill it. No, I don’t mean utterly, but kill most of them – then the rest will be valuable. They weaken when they are close together. They give strength when they are wide apart",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Part 3. An adjective habit, or a wordy, diffuse, flowery habit, once fastened upon a person, is as hard to get rid of as any other vice",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "All stories have to at least try to explain some small portion of the meaning of life",
+            "author": "Gene Weingarten"
+        },
+        {
+            "quote": "The most valuable of all talents is that of never using two words when one will do",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "You can always edit a bad page. You can’t edit a blank page",
+            "author": "Jodi Picoult"
+        },
+        {
+            "quote": "It is by sitting down to write every morning that one becomes a writer",
+            "author": "Gerald Brenan"
+        },
+        {
+            "quote": "There are three rules for writing a novel. Unfortunately, no one knows what they are",
+            "author": "William Somerset Maugham"
+        },
+        {
+            "quote": "Trust your reader, don’t try to describe things. Give a hint and they will fulfill this hint with their own imagination",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "The blizzard doesn’t last forever; it just seems so",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "Talent is insignificant. I know a lot of talented ruins. Beyond talent lie all the usual words: discipline, love, luck, but most of all, endurance",
+            "author": "James Baldwin"
+        },
+        {
+            "quote": "In a story it’s the scene – the setting / characters / action / interaction / dialogue / feelings – that makes us hold our breath, and cry .. and turn the page to find out what happens next. And so, until the scene ends, each sentence should lead to the next sentence. Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "Sometimes the ideas just come to me. Other times I have to sweat and almost bleed to make ideas come. It’s a mysterious process, but I hope I never find out exactly how it works. I like a mystery, as you may have noticed. J.K",
+            "author": "Rowling (See also: 15 JK Rowling Quotes That Will Inspire You To Get Writing)"
+        },
+        {
+            "quote": "I’ve been writing since I was six. It is a compulsion, so I can’t really say where the desire came from; I’ve always had it. My breakthrough with the first book came through persistence, because a lot of publishers turned it down. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "Abandon the idea that you are ever going to finish. Lose track of the 400 pages and write just one page for each day, it helps. Then when it gets finished, you are always surprised",
+            "author": "John Steinbeck"
+        },
+        {
+            "quote": "As for \"Write what you know,\" I was regularly told this as a beginner. I think it’s a very good rule and have always obeyed it. I write about imaginary countries, alien societies on other planets, dragons, wizards, the Napa Valley in 22002. I know these things. I know them better than anybody else possibly could, so it’s my duty to testify about them. Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "Any man who keeps working is not a failure. He may not be a great writer, but if he applies the old-fashioned virtues of hard, constant labor, he’ll eventually make some kind of career for himself as writer",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "The more I’m let alone and not worried the better I can function",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "I go out to my little office, where I’ve got a manuscript, and the last page I was happy with is on top. I read that, and it’s like getting on a taxiway. I’m able to go through and revise it and put myself – click – back into that world",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "When I’m working I work every day, three, four hours, and I try to get those six pages and I try to get them faily clean",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "All my life as a writer I have been committed to the idea that in fiction the story value holds dominance over every other facet of the writer’s craft; characterization, theme, mood, none of these things is anything if the story is dull. And if the story does hold you, all else can be forgiven",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "On first drafts: It is completely raw, the sort of thing I feel free to do with the door shut — it’s the story undressed, standing up in nothing but its socks and undershorts",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Sleep on your writing; take a walk over it; scrutinize it of a morning; review it of an afternoon; digest it after a meal; let it sleep in your drawer a twelvemonth; never venture a whisper about it to your friend, if he be an author especially",
+            "author": "Amos Bronson Alcott"
+        },
+        {
+            "quote": "It is worth mentioning, for future reference, that the creative power which bubbles so pleasantly in beginning a new book quiets down after a time, and one goes on more steadily. Doubts creep in. Then one becomes resigned. Determination not to give in, and the sense of an impending shape keep one at it more than anything",
+            "author": "Virginia Woolf"
+        },
+        {
+            "quote": "Do not hoard what seems good for a later place in the book, or for another book; give it, give it all, give it now",
+            "author": "Annie Dillard"
+        },
+        {
+            "quote": "First, find out what your hero wants, then just follow him",
+            "author": "Ray Bradbury"
+        },
+        {
+            "quote": "Words create worlds",
+            "author": "Pierre du Plessis"
+        },
+        {
+            "quote": "Words are, of course, the most powerful drug used by mankind",
+            "author": "Rudyard Kipling"
+        },
+        {
+            "quote": "Grammar is a piano I play by ear. All I know about grammar is its power",
+            "author": "Joan Didion"
+        },
+        {
+            "quote": "I like good words that mean something",
+            "author": "Louisa May Alcott"
+        },
+        {
+            "quote": "Any word you have to hunt for in a thesaurus is the wrong word. There are no exceptions to this rule",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "Words are, in my not-so-humble opinion, our most inexhaustible source of magic. Capable of both inflicting injury, and remedying it. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "All our words are but crumbs that fall down from the feast of the mind",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "The difference between the almost right word and the right word is really a large matter — ’tis the difference between the lightning-bug and the lightning.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "To get the right word in the right place is a rare achievement. To condense the diffused light of a page of thought into the luminous flash of a single sentence, is worthy to rank as a prize composition just by itself… Anybody can have ideas – the difficulty is to express them without squandering a quire of paper on an idea that ought to be reduced to one glittering paragraph",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Writing is an act of faith, not a trick of grammar. E. B",
+            "author": "White"
+        },
+        {
+            "quote": "All my life I’ve looked at words as though I were seeing them for the first time",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "When a thought takes one’s breath away, a grammar lesson seems an impertinence. Thomas W",
+            "author": "Higginson"
+        },
+        {
+            "quote": "Being a writer requires an intoxication with language",
+            "author": "Jim Harrison"
+        },
+        {
+            "quote": "Words, once they are printed, have a life of their own",
+            "author": "Carol Burnett"
+        },
+        {
+            "quote": "Of all sad words of tongue or pen, the saddest are these, \"It might have been\"",
+            "author": "John Greenleaf Whittier"
+        },
+        {
+            "quote": "Words have the power to make things happen",
+            "author": "Frederick Buechner"
+        },
+        {
+            "quote": "Colors fade, temples crumble, empires fall, but wise words endure",
+            "author": "Edward Thorndike"
+        },
+        {
+            "quote": "Words can inspire. And words can destroy. Choose yours well",
+            "author": "Robin Sharma"
+        },
+        {
+            "quote": "A synonym is a word you use when you can’t spell the other one",
+            "author": "Baltasar Gracián"
+        },
+        {
+            "quote": "I don’t know the rules of grammar. If you’re trying to persuade people to do something, or buy something, it seems to me you should use their language",
+            "author": "David Ogilvy"
+        },
+        {
+            "quote": "Words do not express thoughts very well. They always become a little different immediately after they are expressed, a little distorted, a little foolish",
+            "author": "Hermann Hesse"
+        },
+        {
+            "quote": "Words can be like X-rays if you use them properly – they’ll go through anything. You read and you’re pierced",
+            "author": "Aldous Huxley"
+        },
+        {
+            "quote": "Words are containers for power, you choose what kind of power they carry",
+            "author": "Joyce Meyer"
+        },
+        {
+            "quote": "Your word is the power that you have to create; it is a gift",
+            "author": "Don Miguel Ruiz"
+        },
+        {
+            "quote": "A poet can survive everything but a misprint",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Words are a lens to focus one’s mind",
+            "author": "Ayn Rand"
+        },
+        {
+            "quote": "I don’t write for children. I write. And somebody says, that’s for children",
+            "author": "Maurice Sendak"
+        },
+        {
+            "quote": "I don’t want to write for adults. I want to write for readers who can perform miracles. Only children perform miracles when they read",
+            "author": "Astrid Lindgren"
+        },
+        {
+            "quote": "Anyone who writes down to children is simply wasting his time. You have to write up, not down. E.B",
+            "author": "White"
+        },
+        {
+            "quote": "Writing for children is bloody difficult; books for children are as complex as their adult counterparts, and they should therefore be accorded the same respect",
+            "author": "Mark Haddon"
+        },
+        {
+            "quote": "One of the nicest things about writing for children is that you don’t find them deconstructing novels. Either they like it or they don’t like it. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "I didn’t write with a target audience in mind. What excited me was how much I would enjoy writing about Harry. I never thought about writing for children ― children’s books chose me. I think if it is a good book anyone will read it. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "You have to write the book that wants to be written. And if the book will be too difficult for grown-ups, then you write it for children",
+            "author": "Madeleine L’Engle"
+        },
+        {
+            "quote": "So the writer who breeds more words than he needs, is making a chore for the reader who reads. Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "To write something you have to risk making a fool of yourself",
+            "author": "Anne Rice"
+        },
+        {
+            "quote": "Every writer I know has trouble writing",
+            "author": "Joseph Heller"
+        },
+        {
+            "quote": "Writing about a writer’s block is better than not writing at all",
+            "author": "Charles Bukowski"
+        },
+        {
+            "quote": "If you want to be an author, you can’t only choose the finished novel and book signings. You are also choosing months of lonely typing",
+            "author": "James Clear"
+        },
+        {
+            "quote": "Writing books is the closest men ever come to childbearing",
+            "author": "Norman Mailer"
+        },
+        {
+            "quote": "The first draft is just you telling yourself the story",
+            "author": "Terry Pratchett"
+        },
+        {
+            "quote": "We’re professional worriers. You’re constantly imagining things that could go wrong and then writing about them",
+            "author": "John Green"
+        },
+        {
+            "quote": "A writer is someone for whom writing is more difficult than it is for other people",
+            "author": "Thomas Mann"
+        },
+        {
+            "quote": "I am irritated by my own writing. I am like a violinist whose ear is true, but whose fingers refuse to reproduce precisely the sound he hears within",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "I hate writing, I love having written",
+            "author": "Dorothy Parker"
+        },
+        {
+            "quote": "You can only write regularly if you’re willing to write badly… Accept bad writing as a way of priming the pump, a warm-up exercise that allows you to write well",
+            "author": "Jennifer Egan"
+        },
+        {
+            "quote": "I’ve always said, ‘I have nothing to say, only to add.’ And it’s with each addition that the writing gets done. The first draft of anything is really just a track",
+            "author": "Gore Vidal"
+        },
+        {
+            "quote": "Being a writer is a very peculiar sort of job; it’s always you versus a blank sheet of paper (or a blank screen) and quite often the blank piece of paper wins",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "Don’t try to figure out what other people want to hear from you; figure out what you have to say. It’s the one and only thing you have to offer",
+            "author": "Barbara Kingsolver"
+        },
+        {
+            "quote": "The work never matches the dream of perfection the artist has to start with",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "Writing is a socially acceptable form of schizophrenia. E.L",
+            "author": "Doctorow"
+        },
+        {
+            "quote": "No book can ever be finished. While working on it we learn just enough to find it immature the moment we turn away from it",
+            "author": "Karl Popper"
+        },
+        {
+            "quote": "I just give myself permission to suck. I delete about 90 percent of my first drafts… so it doesn’t really matter much if on a particular day I write beautiful and brilliant prose that will stick in the minds of my readers forever, because there’s a 90 percent chance I’m just gonna delete whatever I write anyway. I find this hugely liberating",
+            "author": "John Green"
+        },
+        {
+            "quote": "I am not a great artist, but I have always felt impelled to write. So each day I sift the sludge anew, going through the cast-off bits and pieces of observation, of memory, of speculation, trying to make something out of the stuff that didn’t go through the filter and down the drain into the subconscious",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "One thing that helps is to give myself permission to write badly. I tell myself that I’m going to do my five or 10 pages no matter what, and that I can always tear them up the following morning if I want. I’ll have lost nothing — writing and tearing up five pages would leave me no further behind than if I took the day off",
+            "author": "Lawrence Block"
+        },
+        {
+            "quote": "We are all apprentices in a craft where no one ever becomes a master",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "Anyone who says writing is easy isn’t doing it right",
+            "author": "Amy Joy"
+        },
+        {
+            "quote": "Writing is a struggle against silence",
+            "author": "Carlos Fuentes"
+        },
+        {
+            "quote": "You can’t let praise or criticism get to you. It’s a weakness to get caught up in either one",
+            "author": "John Wooden"
+        },
+        {
+            "quote": "Critics are those who have failed in literature and art",
+            "author": "Benjamin Disraeli"
+        },
+        {
+            "quote": "The trouble with most of us is that we would rather be ruined by praise than saved by criticism",
+            "author": "Norman Vincent Peale"
+        },
+        {
+            "quote": "If you’re not failing now and again, it’s a sign you’re not doing anything very innovative",
+            "author": "Woody Allen"
+        },
+        {
+            "quote": "I’ve been reading reviews of my stories for twenty-five years, and can’t remember a single useful point in any of them, or the slightest good advice",
+            "author": "Anton Chekhov"
+        },
+        {
+            "quote": "I tell writers to keep reading, reading, reading. Read widely and deeply. And I tell them not to give up even after getting rejection letters. And only write what you love",
+            "author": "Anita Diamant"
+        },
+        {
+            "quote": "Rejection slips, or form letters, however tactfully phrased, are lacerations of the soul, if not quite inventions of the devil—but there is no way around them",
+            "author": "Isaac Asimov"
+        },
+        {
+            "quote": "The artist doesn’t have time to listen to the critics. The ones who want to be writers read the reviews, the ones who want to write don’t have the time to read reviews",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "Was I bitter? Absolutely. Hurt? You bet your sweet ass I was hurt. Who doesn’t feel a part of their heart break at rejection. You ask yourself every question you can think of, what, why, how come, and then your sadness turns to anger. That’s my favorite part. It drives me, feeds me, and makes one hell of a story",
+            "author": "Jennifer Salaiz"
+        },
+        {
+            "quote": "I used to save all my rejection slips because I told myself, one day I’m going to autograph these and auction them. And then I lost the box",
+            "author": "James Lee Burke"
+        },
+        {
+            "quote": "I think that you have to believe in your destiny; that you will succeed, you will meet a lot of rejection and it is not always a straight path, there will be detours — so enjoy the view",
+            "author": "Michael York"
+        },
+        {
+            "quote": "I went for years not finishing anything. Because, of course, when you finish something you can be judged",
+            "author": "Erica Jong"
+        },
+        {
+            "quote": "As a writer, the worst thing you can do is work in an environment of fear of rejection",
+            "author": "Carol Leifer"
+        },
+        {
+            "quote": "Criticism is something we can avoid easily by saying nothing, doing nothing, and being nothing",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "I could write an entertaining novel about rejection slips, but I fear it would be overly long",
+            "author": "Louise Brown"
+        },
+        {
+            "quote": "The first thing you have to learn when you go into the arts is to learn to cope with rejection. If you can’t, you’re dead",
+            "author": "Warren Adler"
+        },
+        {
+            "quote": "I had immediate success in the sense that I sold something right off the bat. I thought it was going to be a piece of cake and it really wasn’t. I have drawers full of — or I did have — drawers full of rejection slips",
+            "author": "Fred Saberhagen"
+        },
+        {
+            "quote": "An absolutely necessary part of a writer’s equipment, almost as necessary as talent, is the ability to stand up under punishment, both the punishment the world hands out and the punishment he inflicts upon himself",
+            "author": "Irwin Shaw"
+        },
+        {
+            "quote": "To defend what you’ve written is a sign that you are alive",
+            "author": "William Zinsser"
+        },
+        {
+            "quote": "Failures are finger posts on the road to achievement. C. S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "The most important things are the hardest things to say",
+            "author": "Stephen King"
+        },
+        {
+            "quote": "I write to discover what I know",
+            "author": "Flannery O’Connor"
+        },
+        {
+            "quote": "The joy that isn’t shared dies young",
+            "author": "Anne Sexton"
+        },
+        {
+            "quote": "The only story that seems worth writing is a cry, a shot, a scream. A story should break the reader’s heart",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "Who wants to become a writer? And why? Because it’s the answer to everything… It’s the streaming reason for living. To note, to pin down, to build up, to create, to be astonished at nothing, to cherish the oddities, to let nothing go down the drain, to make something, to make a great flower out of life, even if it’s a cactus",
+            "author": "Enid Bagnold"
+        },
+        {
+            "quote": "Writers are not here to conform. We are here to challenge. We’re not here to be comfortable — we’re here, really, to shake things up. That’s our job",
+            "author": "Jeanette Winterson"
+        },
+        {
+            "quote": "A writer without interest or sympathy for the foibles of his fellow man is not conceivable as a writer",
+            "author": "Joseph Conrad"
+        },
+        {
+            "quote": "Everybody else is working to change, persuade, tempt and control them. The best readers come to fiction to be free of all that noise",
+            "author": "Philip Roth"
+        },
+        {
+            "quote": "It is the writer who might catch the imagination of young people, and plant a seed that will flower and come to fruition",
+            "author": "Isaac Asimov"
+        },
+        {
+            "quote": "Find out the reason that commands you to write; see whether it has spread its roots into the very depth of your heart; confess to yourself you would have to die if you were forbidden to write",
+            "author": "Rainer Maria Rilke"
+        },
+        {
+            "quote": "One writes most of all in order to take part in a collective enterprise",
+            "author": "Italo Calvino"
+        },
+        {
+            "quote": "Deliver me from writers who say the way they live doesn’t matter. I’m not sure a bad person can write a good book. If art doesn’t make us better, then what on earth is it for",
+            "author": "Alice Walker"
+        },
+        {
+            "quote": "Writing, the art of communicating thoughts to the mind through the eye, is the great invention of the world… enabling us to converse with the dead, the absent, and the unborn, at all distances of time and space",
+            "author": "Abraham Lincoln"
+        },
+        {
+            "quote": "Yes there is a meaning; at least for me, there is one thing that matters – to set a chime of words tinkling in the minds of a few fastidious people",
+            "author": "Logan Persall Smith"
+        },
+        {
+            "quote": "When I sit down to write a book, I do not say to myself, ‘I am going to produce a work of art.’ I write it because there is some lie that I want to expose, some fact to which I want to draw attention, and my initial concern is to get a hearing",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "The only end of writing is to enable readers better to enjoy life or better to endue it",
+            "author": "Samuel Johnson"
+        },
+        {
+            "quote": "Don’t write so that you can be understood, write so that you can’t be misunderstood",
+            "author": "William Howard Taft"
+        },
+        {
+            "quote": "The role of a writer is not to say what we all can say, but what we are unable to say",
+            "author": "Anaïs Nin"
+        },
+        {
+            "quote": "Perfection is like chasing the horizon. Keep moving",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "Look for verbs of muscle, adjectives of exactitude",
+            "author": "Mary Oliver"
+        },
+        {
+            "quote": "Instead of deciding what to write and defining a reader for it, start by defining your reader and writing for them",
+            "author": "Dana Sitar"
+        },
+        {
+            "quote": "In any art you’re allowed to steal anything if you can make it better",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "Don’t ever write a novel unless it hurts like a hot turd coming out",
+            "author": "Charles Bukowski"
+        },
+        {
+            "quote": "A short story must have a single mood and every sentence must build towards it",
+            "author": "Edgar Allan Poe"
+        },
+        {
+            "quote": "Write about what really interests you, whether it is real things or imaginary things, and nothing else. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "Better to write for yourself and have no public, than to write for the public and have no self",
+            "author": "Cyril Connolly"
+        },
+        {
+            "quote": "If you write what you yourself sincerely think and feel and are interested in, the chances are very high that you will interest other people as well",
+            "author": "Rachel Carson"
+        },
+        {
+            "quote": "Show up, show up, show up, and after a while the muse shows up, too",
+            "author": "Isabel Allende"
+        },
+        {
+            "quote": "The only way I can get anything written at all is to write really, really shitty first drafts. The first draft is the child’s draft, where you let it all pour out and then let it romp all over the place, knowing that no one is going to see it and that you can shape it later",
+            "author": "Anne Lamott"
+        },
+        {
+            "quote": "How to be a better writer: write about what fascinates you, make one point per sentence, use stories to make your point, cut extra words like \"really\" and \"very\", read the whole thing out loud, post publicly (you’ll try harder when you know others will read it)",
+            "author": "James Clear"
+        },
+        {
+            "quote": "Advice? I don’t have advice. Stop aspiring and start writing. If you’re writing, you’re a writer. Write like you’re clinging to the edge of a cliff, white knuckles, on your last breath, and you’ve got just one last thing to say",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "The poet’s, the writer’s, duty is.. to help man endure by lifting his heart",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "As Neil Gaiman taught me, the best way to defeat writer’s block is to get really bored",
+            "author": "Seth Godin"
+        },
+        {
+            "quote": "The only environment the artist needs is whatever peace, whatever solitude, and whatever pleasure he can get at not too high a cost",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "In the wholeheartedness of concentration, world and self begin to cohere. With that state comes an enlarging: of what may be known, what may be felt, what may be done",
+            "author": "Jane Hirshfield"
+        },
+        {
+            "quote": "Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "Finish each day before you begin the next, and interpose a solid wall of sleep between the two. This you cannot do without temperance",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "A poet should be so crafty with words that he is envied even for his pains",
+            "author": "Criss Jami"
+        },
+        {
+            "quote": "At the end of the day your ability to connect with your readers comes down to how you make them feel. Benjamin J",
+            "author": "Carey"
+        },
+        {
+            "quote": "At its best, the sensation of writing is that of any unmerited grace. It is handed to you, but only if you look for it. You search, you break your heart, your back, your brain, and then — and only then — it is handed to you",
+            "author": "Annie Dillard"
+        },
+        {
+            "quote": "To write well about the elegant world you have to know it and experience it to the depths of your being just as Proust, Radiguet and Fitzgerald did: what matters is not whether you love it or hate it, but only to be quite clear about your position regarding it",
+            "author": "Italo Calvino"
+        },
+        {
+            "quote": "When you’re trying to create a career as a writer, a little delusional thinking goes a long way",
+            "author": "Michael Lewis"
+        },
+        {
+            "quote": "Love words, agonize over sentences. And pay attention to the world",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "There is a great deal that either has to be given up or be taken away from you if you are going to succeed in writing a body of work",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "A writer, like an athlete, must ‘train’ every day",
+            "author": "What did I do today to keep in ‘form’? Susan Sontag"
+        },
+        {
+            "quote": "Perfectionism is the voice of the oppressor, the enemy of the people. It will keep you cramped and insane your whole life",
+            "author": "Anne Lamott"
+        },
+        {
+            "quote": "It’s by writing.. by stepping back a bit from the real thing to look at it, that we are most present",
+            "author": "Alison Bechdel"
+        },
+        {
+            "quote": "Truth that is naked is the most beautiful, and the simpler its expression the deeper is the impression it makes",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "Only a person who is congenially self-centered has the effrontery and the stamina to write essays. E.B",
+            "author": "White"
+        },
+        {
+            "quote": "A problem with a piece of writing often clarifies itself if you go for a long walk",
+            "author": "Helen Dunmore"
+        },
+        {
+            "quote": "You have to finish things — that’s what you learn from, you learn by finishing things",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "I want my stories to move people… to feel some kind of reward from the writing",
+            "author": "Alice Munroe"
+        },
+        {
+            "quote": "Don’t be nervous. Work calmly, joyously, recklessly on whatever is in hand",
+            "author": "Henry Miller"
+        },
+        {
+            "quote": "We die. That may be the meaning of life. But we do language. That may be the measure of our lives",
+            "author": "Toni Morrison"
+        },
+        {
+            "quote": "You will fail. It’s inevitable. It’s what you do with it. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "The chief enemy of creativity is good sense",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "The works must be conceived with fire in the soul but executed with clinical coolness",
+            "author": "Joan Miró"
+        },
+        {
+            "quote": "He who would be a man must therefore be a nonconformist",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "The most talented, thought-provoking, game-changing people are never normal",
+            "author": "Richard Branson"
+        },
+        {
+            "quote": "If you’re not doing some things that are crazy, then you’re doing the wrong things",
+            "author": "Larry Page"
+        },
+        {
+            "quote": "Create with the heart; build with the mind",
+            "author": "Criss Jami"
+        },
+        {
+            "quote": "Great things are not accomplished by those who yield to trends and fads and popular opinion",
+            "author": "Jack Kerouac"
+        },
+        {
+            "quote": "The most dangerous idea is silencing people",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Originality is the best form of rebellion",
+            "author": "Mike Sasso"
+        },
+        {
+            "quote": "Vulnerability is the birthplace of innovation, creativity and change",
+            "author": "Brené Brown"
+        },
+        {
+            "quote": "The world always seems brighter when you’ve just made something that wasn’t there before",
+            "author": "Neil Gaiman"
+        },
+        {
+            "quote": "Art, freedom and creativity will change society faster than politics",
+            "author": "Victor Pinchuk"
+        },
+        {
+            "quote": "Creativity is obscured by the conscious mind",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "There is intelligence when you are not afraid",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "Creativity: the art of not trying, the art of letting go",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "That so few now dare to be eccentric marks the chief danger of our time",
+            "author": "John Stuart Mill"
+        },
+        {
+            "quote": "If only we could pull out our brain and use only our eyes",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "You can’t use up creativity. The more you use, the more you have",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "The most dangerous creation of any society is the man who has nothing to lose",
+            "author": "James Baldwin"
+        },
+        {
+            "quote": "We adore chaos because we love to produce order. M. C",
+            "author": "Escher"
+        },
+        {
+            "quote": "How to unlock creativity: slow down, study another field, get into nature, get out of office, music (lots), sketch, cardio before/after, nibble on small ideas, throw stuff away, atomize the work, look for orthogonal inspiration, breathe, learn about circadian rhythm, paint",
+            "author": "Brian Norgard"
+        },
+        {
+            "quote": "When you can do a common thing in an uncommon way; you will command the attention of the world",
+            "author": "George Washington Carver"
+        },
+        {
+            "quote": "Great things are not done by impulse, but a series of small things brought together",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "If it doesn’t sell; it isn’t creative",
+            "author": "David Ogilvy"
+        },
+        {
+            "quote": "Be regular and orderly in your life, so that you may be violent and original in your work",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "An idea that is not dangerous is unworthy of being called an idea at all",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "A busy calendar and a busy mind will destroy your ability to do great things in this world. If you want to be able to do great things, whether you’re a musician, or whether you’re an entrepreneur, or whether you’re an investor, you need free time and you need a free mind",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "In order to create you have to believe in your ability to do so and that often means excluding whole chunks of normal life, and, of course, pumping yourself up as much as possible as a way of keeping on. Sort of cheering for yourself in the great football stadium of life. T.C",
+            "author": "Boyle"
+        },
+        {
+            "quote": "I shut my eyes in order to see",
+            "author": "Paul Gauguin"
+        },
+        {
+            "quote": "Social media has colonized what was once a sacred space occupied by emptiness: the space reserved for thought and creativity",
+            "author": "Mahershala Ali"
+        },
+        {
+            "quote": "The important thing for you is to be alert, to question, to find out, so that your own initiative may be awakened",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "Once we believe in ourselves, we can risk curiosity, wonder, spontaneous delight or any experience that reveals the human spirit. E. E",
+            "author": "Cummings"
+        },
+        {
+            "quote": "When we build, let us think that we build forever",
+            "author": "John Ruskin"
+        },
+        {
+            "quote": "The cure for boredom is curiosity. There is no cure for curiosity",
+            "author": "Dorothy Parker"
+        },
+        {
+            "quote": "It may be that our cosmic curiosity is a genetically-encoded force that we illuminate when we look up and wonder",
+            "author": "Neil deGrasse Tyson"
+        },
+        {
+            "quote": "The principal mark of genius is not perfection but originality, the opening of new frontiers",
+            "author": "Arthur Koestler"
+        },
+        {
+            "quote": "Go into yourself. Find out the reason that commands you to write; see whether it has spread its roots into the very depths of your heart; confess to yourself whether you would have to die if you were forbidden to write",
+            "author": "Rainer Maria Rilke"
+        },
+        {
+            "quote": "So go on, get angry. But keep your mouth shut and go do your work",
+            "author": "Austin Kleon (See also: hard work quotes)"
+        },
+        {
+            "quote": "Art is not a handicraft, it is the transmission of feeling the artist has experienced",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "Somewhere, something incredible is waiting to be known",
+            "author": "Carl Sagan"
+        },
+        {
+            "quote": "The richness I achieve comes from nature, the source of my inspiration",
+            "author": "Claude Monet"
+        },
+        {
+            "quote": "If you’re to create something powerful and important, you must at the very least be driven by an equally powerful inner force",
+            "author": "Ryan Holiday"
+        },
+        {
+            "quote": "The main thing is to be moved, to love, to hope, to tremble, to live",
+            "author": "Auguste Rodin"
+        },
+        {
+            "quote": "Absurdity and anti-absurdity are the two poles of creative energy",
+            "author": "Karl Lagerfeld"
+        },
+        {
+            "quote": "The question is not if we will be extremists, but what kind of extremists we will be. The nation and the world are in dire need of creative extremists",
+            "author": "Martin Luther King Jr"
+        },
+        {
+            "quote": "Draw the art you want to see, start the business you want to run, play the music you want to hear, write the books you want to read, build the products you want to use – do the work you want to see done",
+            "author": "Austin Kleon"
+        },
+        {
+            "quote": "When I am completely myself, entirely alone during the night when I cannot sleep, it is on such occasions that my ideas flow best and most abundantly",
+            "author": "Mozart"
+        },
+        {
+            "quote": "For me, insanity is super sanity. The normal is psychotic. Normal means lack of imagination, lack of creativity",
+            "author": "Jean Dubuffet"
+        },
+        {
+            "quote": "The question isn’t who is going to let me; It’s who is going to stop me",
+            "author": "Ayn Rand"
+        },
+        {
+            "quote": "Whether you succeed or not is irrelevant, there is no such thing. Making your unknown known is the important thing",
+            "author": "Georgia O’Keeffe"
+        },
+        {
+            "quote": "If you hear a voice within you say ‘you cannot paint,’ then by all means paint, and that voice will be silenced",
+            "author": "Vincent van Gogh"
+        },
+        {
+            "quote": "The first and most important thing an individual can do is to become an individual again, decontrol himself, train himself as to what is going on and win back as much independent ground for himself as possible. William S",
+            "author": "Burroughs"
+        },
+        {
+            "quote": "Don’t think about making art, just get it done. Let everyone else decide if it’s good or bad, whether they love it or hate it. While they are deciding, make even more art",
+            "author": "Andy Warhol"
+        },
+        {
+            "quote": "It seems like the world is crumbling out there, but it is actually a really great time in your life to get a little crazy, follow your curiosity and be ambitious about it",
+            "author": "Larry Page (Google)"
+        },
+        {
+            "quote": "Your brain is a factory, not a warehouse",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "The less scheduled you are, the more creative you’re going to be",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Perfection is no small thing, but it is made up of small things",
+            "author": "Michelangelo"
+        },
+        {
+            "quote": "Creativity takes courage",
+            "author": "Henri Matisse"
+        },
+        {
+            "quote": "To be an artist is to believe in life",
+            "author": "Henry Moore"
+        },
+        {
+            "quote": "Good art inspires; Good design motivates",
+            "author": "Otl Aicher"
+        },
+        {
+            "quote": "The criminal is the creative artist; the detective only the critic. G.K",
+            "author": "Chesterton"
+        },
+        {
+            "quote": "The urge to destroy is also a creative urge",
+            "author": "Mikhail Bakunin"
+        },
+        {
+            "quote": "You are more creative when you don’t need money",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Inspiration is for amateurs. The rest of us just show up and get to work",
+            "author": "Chuck Close"
+        },
+        {
+            "quote": "When all think alike, then no one is thinking",
+            "author": "Walter Lippman"
+        },
+        {
+            "quote": "Without freedom, there is no creation",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "My humor is my creativity, and my skepticism is a gift. J",
+            "author": "Tillman"
+        },
+        {
+            "quote": "If you want something new, you have to stop doing something old. Peter F",
+            "author": "Drucker"
+        },
+        {
+            "quote": "Imitation is suicide",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Every new idea is just a mashup or a remix of one or more previous ideas",
+            "author": "Austin Kleon"
+        },
+        {
+            "quote": "Creativity is as important as literacy",
+            "author": "Ken Robinson"
+        },
+        {
+            "quote": "Replace fear with curiosity",
+            "author": "Steven Spielberg"
+        },
+        {
+            "quote": "Chance favors the prepared mind",
+            "author": "Louis Pasteur"
+        },
+        {
+            "quote": "Ideas come from everything",
+            "author": "Alfred Hitchcock"
+        },
+        {
+            "quote": "Creativity increases when you have peace",
+            "author": "Aaron Aalto"
+        },
+        {
+            "quote": "Cowardice is the most terrible of vices",
+            "author": "Mikhail Bulgakov"
+        },
+        {
+            "quote": "Everything is interesting. Look closer",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There’s the whole world at your feet",
+            "author": "Mary Poppins"
+        },
+        {
+            "quote": "Of all lies, art is the least untrue",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "I don’t need time. What I need is a deadline",
+            "author": "Duke Ellington (By the way, did you know that deadlines can actually crush your creativity?)"
+        },
+        {
+            "quote": "It’s no accident that AHA and HAHA are spelled almost the same way",
+            "author": "Mitch Ditkoff"
+        },
+        {
+            "quote": "We don’t make mistakes, just happy little accidents",
+            "author": "Bob Ross"
+        },
+        {
+            "quote": "Ideas are like rabbits. You get a couple and learn how to handle them, and pretty soon you have a dozen",
+            "author": "John Steinbeck"
+        },
+        {
+            "quote": "Human beings are the only creatures who are allowed to fail. If an ant fails, it’s dead",
+            "author": "Mihaly Csikszentmihalyi"
+        },
+        {
+            "quote": "I can always be distracted by love, but eventually I get horny for my creativity",
+            "author": "Gilda Radner"
+        },
+        {
+            "quote": "Google everything. I mean everything. Google your dreams, Google your problems. Don’t ask a question before you Google it. You’ll either find the answer or you’ll come up with a better question",
+            "author": "Austin Kleon"
+        },
+        {
+            "quote": "Keep your sense of humor, my friend; if you don’t have a sense of humor it just isn’t funny anymore",
+            "author": "Wavy Gravy"
+        },
+        {
+            "quote": "The most exciting phrase to hear in science, the one that heralds new discoveries, is not ‘Eureka!’ but ‘That’s funny!’",
+            "author": "Isaac Asimov"
+        },
+        {
+            "quote": "The stone age didn’t end because they ran out of stones",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There’s a way to do it better – find it. Thomas A",
+            "author": "Edison"
+        },
+        {
+            "quote": "Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time. Thomas A",
+            "author": "Edison"
+        },
+        {
+            "quote": "Many of life’s failures are people who did not realize how close they were to success when they gave up. Thomas A",
+            "author": "Edison"
+        },
+        {
+            "quote": "There are no rules here – we’re trying to accomplish something. Thomas A",
+            "author": "Edison"
+        },
+        {
+            "quote": "To invent, you need a good imagination and a pile of junk. Thomas A",
+            "author": "Edison"
+        },
+        {
+            "quote": "To have a great idea, have a lot of them. Thomas A",
+            "author": "Edison"
+        },
+        {
+            "quote": "When you have exhausted all possibilities, remember this – you haven’t. Thomas A",
+            "author": "Edison"
+        },
+        {
+            "quote": "Logic will get you from a to b. Imagination will take you everywhere",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "The true sign of intelligence is not knowledge but imagination",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "A person who has never made a mistake has never tried anything new",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "I never made one of my discoveries through the process of rational thinking",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "It is, in fact, nothing short of a miracle that the modern methods of instruction have not yet entirely strangled the holy curiosity of inquiry; for this delicate little plant, aside from stimulation, stands mainly in need of freedom. Without this it goes to wrack and ruin without fail",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "The important thing is to not stop questioning. Curiosity has its own reason for existing",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "The only way to escape the corruptible effect of praise is to go on working",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Stay hungry. Stay foolish",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "Creativity is just connecting things. When you ask creative people how they did something, they feel a little guilty because they didn’t really do it, they just saw something",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "You have to be burning with an idea, or a problem, or a wrong that you want to right. If you’re not passionate enough from the start, you’ll never stick it out",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "The people who made Mac are sort of on the edge",
+            "author": "Steve Jobs"
+        },
+        {
+            "quote": "I think the artistry is in having an insight into what one sees around them. Generally putting things together in a way no one else has before and finding a way to express that to other people who don’t have that insight",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Why fit in when you were born to stand out? Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "Think left and think right, and think low and think high; Oh, the thinks you can think up if only you try. Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living. Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "This is who the fuck I am",
+            "author": "Lady Gaga"
+        },
+        {
+            "quote": "Ignore all hatred and criticism. live for what you create, and die protecting it",
+            "author": "Lady Gaga"
+        },
+        {
+            "quote": "Some women choose to follow men, and some women choose to follow their dreams",
+            "author": "Lady Gaga"
+        },
+        {
+            "quote": "When you make music or write or create, it’s really your job to have mind-blowing, irresponsible, condomless sex with whatever idea it is you’re writing about at the time",
+            "author": "Lady Gaga"
+        },
+        {
+            "quote": "Even if the world gives up on you, you always have yourself",
+            "author": "Lady Gaga"
+        },
+        {
+            "quote": "Do not allow people to dim your shine because they are blinded. Tell them to put on some sunglasses",
+            "author": "Lady Gaga"
+        },
+        {
+            "quote": "If you can dream it, you can do it",
+            "author": "Walt Disney"
+        },
+        {
+            "quote": "We keep moving forward, opening new doors, and trying new things, because we are curious and curiosity keeps leading us down new paths",
+            "author": "Walt Disney"
+        },
+        {
+            "quote": "The more you like yourself, the less you are like anyone else, which makes you unique",
+            "author": "Walt Disney"
+        },
+        {
+            "quote": "Creativity is the greatest rebellion in existence",
+            "author": "Osho"
+        },
+        {
+            "quote": "To be creative means to be in love with life. You can be creative only if you love life enough that you want to enhance its beauty, you want to bring a little more music to it, a little more poetry to it, a little more dance to it",
+            "author": "Osho"
+        },
+        {
+            "quote": "Each person comes into this world with a specific destiny – he has something to fulfill, some message has to be delivered, some work has to be completed. You are not here accidentally–you are here meaningfully. There is a purpose behind you. The whole intends to do something through you",
+            "author": "Osho"
+        },
+        {
+            "quote": "You have to walk, and create the way by your walking; you will not find a ready-made path. It is not so cheap, to reach to the ultimate realization of truth",
+            "author": "Osho"
+        },
+        {
+            "quote": "Every child is an artist. The problem is how to remain an artist once we grow up",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Inspiration does exist, but it must find you working",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Every act of creation is first of all an act of destruction",
+            "author": "Picasso"
+        },
+        {
+            "quote": "Good artists copy, great artists steal",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "Learn the rules like a pro, so you can break them like an artist",
+            "author": "Pablo Picasso"
+        },
+        {
+            "quote": "There is nothing either good or bad, but thinking makes it so",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Action is eloquence",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "It is not in the stars to hold our destiny but in ourselves",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "A fool thinks himself to be wise, but a wise man knows himself to be a fool",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "We know what we are, but know not what we may be",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Every artist was first an amateur",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "A painter told me that nobody could draw a tree without in some sort becoming a tree",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Do not go where the path may lead, go instead where there is no path and leave a trail",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Genius means little more than the faculty of perceiving in an unhabitual way",
+            "author": "William James"
+        },
+        {
+            "quote": "The art of being wise is the art of knowing what to overlook",
+            "author": "William James"
+        },
+        {
+            "quote": "The great use of life is to spend it for something that will outlast it",
+            "author": "William James"
+        },
+        {
+            "quote": "Be yourself. Everyone else is already taken",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Experience is merely the name men gave to their mistakes",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Whenever people agree with me I always feel I must be wrong",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Who, being loved, is poor?",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "There is only one thing in the world worse than being talked about, and that is not being talked about",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Anyone who lives within their means suffers from a lack of imagination",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Every saint has a past, and every sinner has a future",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "I don’t want to go to heaven. None of my friends are there",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Have no fear of perfection, you’ll never reach it",
+            "author": "Salvador Dali"
+        },
+        {
+            "quote": "Those who do not want to imitate anything, produce nothing",
+            "author": "Salvador Dali"
+        },
+        {
+            "quote": "This is very important because I work constantly in the moment of sleep. All of my best ideas come through my dreams",
+            "author": "Salvador Dali"
+        },
+        {
+            "quote": "Everything alters me, but nothing changes me",
+            "author": "Salvador Dali"
+        },
+        {
+            "quote": "Intelligence without ambition is a bird without wings",
+            "author": "Salvador Dali"
+        },
+        {
+            "quote": "Give me two hours a day of activity, and I’ll take the other twenty-two in dreams",
+            "author": "Salvador Dali"
+        },
+        {
+            "quote": "So little of what could happen does happen",
+            "author": "Salvador Dali"
+        },
+        {
+            "quote": "I am not strange. I am just not normal",
+            "author": "Salvador Dali"
+        },
+        {
+            "quote": "Nothing is original. Steal from anywhere that resonates with inspiration or fuels your imagination. Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light and shadows. Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic. Authenticity is invaluable; originality is non-existent. And don’t bother concealing your thievery – celebrate it if you feel like it. In any case, always remember what Jean-Luc Godard said: \"It’s not where you take things from – it’s where you take them to\"",
+            "author": "Jim Jarmusch"
+        },
+        {
             "quote": "It is the tale, not he who tells it.",
             "author": "Stephen King"
         },

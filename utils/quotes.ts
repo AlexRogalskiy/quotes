@@ -4,6 +4,7 @@ import * as courage from '../data/courage_quotes.json'
 import * as death from '../data/death_quotes.json'
 import * as entrepreneurship from '../data/entrepreneurship_quotes.json'
 import * as faith from '../data/faith_quotes.json'
+import * as french from '../data/french_quotes.json'
 import * as fun from '../data/fun_quotes.json'
 import * as general from '../data/general_quotes.json'
 import * as god from '../data/god_quotes.json'
@@ -31,7 +32,9 @@ import * as science from '../data/science_quotes.json'
 import * as spirituality from '../data/spirituality_quotes.json'
 import * as stress from '../data/stress_quotes.json'
 import * as success from '../data/success_quotes.json'
+import * as thinking from '../data/thinking_quotes.json'
 import * as time from '../data/time_quotes.json'
+import * as travel from '../data/travel_quotes.json'
 import * as truth from '../data/truth_quotes.json'
 import * as wisdom from '../data/wisdom_quotes.json'
 import * as writing from '../data/writing_quotes.json'
@@ -47,6 +50,7 @@ const getQuoteData = (): QuoteMapper =>
         death,
         entrepreneurship,
         faith,
+        french,
         fun,
         general,
         god,
@@ -74,7 +78,9 @@ const getQuoteData = (): QuoteMapper =>
         spirituality,
         stress,
         success,
+        thinking,
         time,
+        travel,
         truth,
         wisdom,
         writing

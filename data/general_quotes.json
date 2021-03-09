@@ -1,6 +1,210 @@
 {
     "general": [
         {
+            "quote": "The first blooms of spring always make my heart sing.",
+            "author": "S. Brown"
+        },
+        {
+            "quote": "Here comes the sun, and I say, it's all right.",
+            "author": "The Beatles"
+        },
+        {
+            "quote": "It is not the length of life, but depth of life.",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "The two most important days in your life are the day you are born and the day you find out why.",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "I have found that if you love life, life will love you back.",
+            "author": "Arthur Rubinstein"
+        },
+        {
+            "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "The best thing to hold onto in life is each other.",
+            "author": "Audrey Hepburn"
+        },
+        {
+            "quote": "If everything was perfect, you would never learn and you would never grow.",
+            "author": "Beyoncé"
+        },
+        {
+            "quote": "Small steps in the right direction can turn out to be the biggest step of your life.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Small steps in the right direction can turn out to be the biggest step of your life.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You can't go back and change the beginning, but you can start where you are and change the ending.",
+            "author": "C.S. Lewis"
+        },
+        {
+            "quote": "A diamond is a chunk of coal that did well under pressure.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Only I can change my life. No one can do it for me.",
+            "author": "Carol Burnett"
+        },
+        {
+            "quote": "Difficult roads often lead to beautiful destinations.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Sometimes you will never know the value of a moment until it becomes a memory.",
+            "author": "Dr. Seuss"
+        },
+        {
+            "quote": "Every day may not be good, but there is something good in every day.\n",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Embrace the glorious mess that you are.",
+            "author": "Elizabeth Gilbert"
+        },
+        {
+            "quote": "One day or day one. It's your decision.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "It's not what we have in life but who we have in our life that matters.",
+            "author": "Margaret Laurence"
+        },
+        {
+            "quote": "Nothing can dim the light that shines from within.",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "I've failed over and over and over again in my life and that is why I succeed.",
+            "author": "Michael Jordan"
+        },
+        {
+            "quote": "Life's most persistent and urgent question is, '\"What are you doing for others?\"",
+            "author": "Martin Luther King, Jr."
+        },
+        {
+            "quote": "The best time for new beginnings is now.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The biggest adventure you can take is to live the life of your dreams.",
+            "author": "Oprah Winfrey"
+        },
+        {
+            "quote": "To succeed in life, you need three things: a wishbone, a backbone, and a funny bone.",
+            "author": "Reba McEntire"
+        },
+        {
+            "quote": "No one is you and that is your superpower.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Those who don't believe in magic will never find it.",
+            "author": "Roald Dahl"
+        },
+        {
+            "quote": "Every day is not a success. Every year is not a success. You have to celebrate the good.",
+            "author": "Reese Witherspoon"
+        },
+        {
+            "quote": "What comes easy won’t last long, and what lasts long won’t come easy.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don't give it five minutes if you're not going to give it five years.",
+            "author": "Meghan Markle"
+        },
+        {
+            "quote": "Wherever life plants you, bloom with grace.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Lead from the heart, not the head.",
+            "author": "Princess Diana"
+        },
+        {
+            "quote": "Love yourself first and everything else falls into line.",
+            "author": "Lucille Ball"
+        },
+        {
+            "quote": "Life is a series of baby steps.",
+            "author": "Hoda Kotb"
+        },
+        {
+            "quote": "The most beautiful things in the world cannot be seen or even touched. They must be felt with the heart.",
+            "author": "Helen Keller"
+        },
+        {
+            "quote": "If you don't like the road you're walking, start paving another one.",
+            "author": "Dolly Parton"
+        },
+        {
+            "quote": "If you feel like there’s something out there that you’re supposed to be doing, if you have a passion for it, then stop wishing and just do it.",
+            "author": "Wanda Sykes"
+        },
+        {
+            "quote": "It's very important for us all to understand that we are interconnected and we need to hold hands together, especially when the going gets tough.",
+            "author": "Michelle Yeoh"
+        },
+        {
+            "quote": "Life is not so much what you accomplish as what you overcome.",
+            "author": "Robin Roberts"
+        },
+        {
+            "quote": "I've been very fortunate to have good people in my life, and when you find good people, you gotta hold onto them real tight.",
+            "author": "Lana Condor"
+        },
+        {
+            "quote": "If I wait for someone else to validate my existence, it will mean that I’m shortchanging myself.",
+            "author": "Zanele Muholi"
+        },
+        {
+            "quote": "Sometimes you've got to let everything go - purge yourself. If you are unhappy with anything... whatever is bringing you down, get rid of it. Because you'll find that when you're free, your true creativity, your true self comes out.",
+            "author": "Tina Turner"
+        },
+        {
+            "quote": "Mistakes are a fact of life. It is the response to the error that counts.",
+            "author": "Nikki Giovanni"
+        },
+        {
+            "quote": "If you’re doing something outside of dominant culture, there’s not an easy place for you. You will have to do it yourself.",
+            "author": "Ava DuVernay"
+        },
+        {
+            "quote": "I'll never forget where I'm from. It's essential to remain humble and evolving.",
+            "author": "Freida Pinto"
+        },
+        {
+            "quote": "I think it's great to be flawed. I am hugely flawed, and I like it this way. That's the fun of life. You fall, get up, make mistakes, learn from them, be human and be you.",
+            "author": "Priyanka Chopra"
+        },
+        {
+            "quote": "It needs to be said and heard: it's OK to be who you are.",
+            "author": "Hailee Steinfeld"
+        },
+        {
+            "quote": "I decided I can’t pay a person to rewind time, so I may as well get over it.",
+            "author": "Serena Williams"
+        },
+        {
+            "quote": "Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough.",
+            "author": "Oprah Winfrey"
+        },
+        {
             "quote": "You can totally do this",
             "author": "Unknown"
         },

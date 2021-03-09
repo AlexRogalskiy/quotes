@@ -1,0 +1,3944 @@
+{
+    "thinking": [
+        {
+            "quote": "Every saint has a past, and every sinner has a future",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Never to suffer would never to have been blessed",
+            "author": "Edgar Allan Poe"
+        },
+        {
+            "quote": "The adventure of life is to learn. The purpose of life is to grow. The nature of life is to change. The challenge of life is to overcome. The essence of life is to care. The opportunity of like is to serve. The secret of life is to dare. The spice of life is to befriend. The beauty of life is to give",
+            "author": "William Arthur Ward"
+        },
+        {
+            "quote": "The average men consume. The wise create",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "I rebel; therefore I exist",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "Be yourself; everyone else is already taken",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Be regular and orderly in your life, so that you may be violent and original in your work",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "To pay attention, this is our endless and proper work",
+            "author": "Mary Oliver"
+        },
+        {
+            "quote": "If I love myself I love you. If I love you I love myself",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Don’t handicap your children by making their lives easy. Robert A",
+            "author": "Heinlein"
+        },
+        {
+            "quote": "Your pain is the breaking of the shell that encloses your understanding",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "Time is a created thing. To say \"I don’t have time\", is like saying, \"I don’t want to\"",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Doubt is an uncomfortable condition, but certainty is a ridiculous one",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Even if I knew that tomorrow the world would go to pieces, I would still plant my apple tree",
+            "author": "Martin Luther"
+        },
+        {
+            "quote": "What you deply need is not stuff, comfort or beauty, it’s meaning",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Maybe you are searching among the branches, for what only appears in the roots",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Most people would sooner die than think; in fact, they do so",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "He who is untrue to his own cause cannot command the respect of others",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "To dare is to lose one’s footing momentarily. Not to dare is to lose oneself",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "I have never let my schooling interfere with my education",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "What matters isn’t what a person has or doesn’t have; it is what he or she is afraid of losing",
+            "author": "Nicholas Nassim Taleb"
+        },
+        {
+            "quote": "If you’ve never eaten while crying you don’t know what life tastes like",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Whenever people agree with me I always feel I must be wrong",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "We can see through others only when we can see through ourselves",
+            "author": "Bruce Lee"
+        },
+        {
+            "quote": "Never make fun of someone who mispronounces a word. It means they learned it by reading",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Genius is the recovery of childhood at will",
+            "author": "Arthur Rimbaud"
+        },
+        {
+            "quote": "Love is the foolishness of men, and the wisdom of God",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "As long as I am breathing, in my eyes, I am just beginning",
+            "author": "Criss Jami"
+        },
+        {
+            "quote": "It is not I who am strong, it is reason, it is truth",
+            "author": "Émile Zola"
+        },
+        {
+            "quote": "Sometimes you have to shut your eyes, so you can see the real beauty",
+            "author": "Kilian Jornet"
+        },
+        {
+            "quote": "The wind howls, but the mountain remains still",
+            "author": "Japanese proverb"
+        },
+        {
+            "quote": "To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others",
+            "author": "Criss Jami"
+        },
+        {
+            "quote": "God is a comedian playing to an audience too afraid to laugh",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Take time like the river that never grows stale. Keep going and steady. No hurry, no rush",
+            "author": "Rumi"
+        },
+        {
+            "quote": "There’s always some truth behind \"just kidding\", knowledge behind every \"I don’t know\", emotions behind \"I don’t care\" and pain behind \"it’s okay\"",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I don’t care that they stole my idea. I care that they don’t have any of their own",
+            "author": "Nikola Tesla"
+        },
+        {
+            "quote": "Everything we call real is made of things that cannot be regarded as real",
+            "author": "Neils Bohr"
+        },
+        {
+            "quote": "Life is not a matter of holding good cards, but of playing a poor hand well",
+            "author": "Robert Louis Stevenson"
+        },
+        {
+            "quote": "You who suffer because you love, love still more. To die of love, is to live by it",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "What makes night within us may leave stars",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "Dreams have only one owner at a time. That’s why dreamers are lonely",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "Stupidity lies in wanting to draw conclusions",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "Men must live and create. Live to the point of tears",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "A clear conscience is the sure sign of a bad memory",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Judge a man by his questions rather than his answers",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "Adversity makes men, and prosperity makes monsters",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "The quieter you become, the more you are able to hear",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Let the beauty of what you love be what you do",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Do or do not, there is no try",
+            "author": "Yoda"
+        },
+        {
+            "quote": "Cleverness is not wisdom",
+            "author": "Euripides"
+        },
+        {
+            "quote": "Life is the flower for which love is the honey",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "He who knows, does not speak. He who speaks, does not know",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Anything becomes interesting if you look at it long enough",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "All human wisdom is summed up in two words; wait and hope",
+            "author": "Alexandre Dumas"
+        },
+        {
+            "quote": "All generalizations are dangerous, even this one",
+            "author": "Alexandre Dumas"
+        },
+        {
+            "quote": "I would rather die on my feet than live on my knees",
+            "author": "Euripides"
+        },
+        {
+            "quote": "The man who removes a mountain begins by carrying away small stones",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "Always forgive your enemies; nothing annoys them so much",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "I can resist anything except temptation",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Life without love is like a tree without blossoms or fruit",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "Everyone thinks of changing the world, but no one thinks of changing himself",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "A man sees in the world what he carries in his heart",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Wisely and slow; they stumble that run fast",
+            "author": "William Shakespeare (See also: wise quotes)"
+        },
+        {
+            "quote": "Whenever you find yourself on the side of the majority, it is time to reform (or pause and reflect)",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "When I let go of what I am, I become what I might be",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "We suffer more often in imagination than in reality",
+            "author": "Seneca"
+        },
+        {
+            "quote": "Don’t settle, and don’t struggle",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "To thine own self be true",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Conscience doth make cowards of us all",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "People do not lack strength; they lack will",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "What labels me, negates me",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "Rest in reason; move in passion",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "You are what you do, not what you say you’ll do",
+            "author": "Carl Jung"
+        },
+        {
+            "quote": "To do two things at once is to do neither",
+            "author": "Publilius Syrus"
+        },
+        {
+            "quote": "The merit of all things lies in their difficulty",
+            "author": "Alexandre Dumas"
+        },
+        {
+            "quote": "The prettiest eyes have cried the most",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The kindest hearts have felt the most pains",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Success is an iceberg",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Just do your best and to hell the rest",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Curiosity is gluttony. To see is to devour",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "Passion is born deaf and dumb",
+            "author": "Honoré de Balzac"
+        },
+        {
+            "quote": "Close both eyes to see with the other eye",
+            "author": "Rumi"
+        },
+        {
+            "quote": "\"I\" is another",
+            "author": "Arthur Rimbaud"
+        },
+        {
+            "quote": "The deeper thought is, the taller it becomes",
+            "author": "Dejan Stojanovic"
+        },
+        {
+            "quote": "Of all lies, art is the least untrue",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "Leave no stone unturned",
+            "author": "Euripides"
+        },
+        {
+            "quote": "Remember your humanity, and forget the rest",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "The darker the night, the brighter the stars",
+            "author": "Fyodor Dostoyevsky"
+        },
+        {
+            "quote": "Beauty will save the world",
+            "author": "Fyodor Dostoyevsky"
+        },
+        {
+            "quote": "Nothing has more strength than dire necessity",
+            "author": "Euripides"
+        },
+        {
+            "quote": "Sin is geographical",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "The past is never dead. It’s not even past",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "Don’t be ‘a writer’. Be writing",
+            "author": "William Faulkner (See also: writing quotes)"
+        },
+        {
+            "quote": "To define is to limit",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Be – don’t try to become",
+            "author": "Osho"
+        },
+        {
+            "quote": "Whatever you feel, you become. It is your responsibility",
+            "author": "Osho"
+        },
+        {
+            "quote": "Are you afraid of the good you might do?",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "The present is theirs; the future, for which I really worked, is mine",
+            "author": "Nikola Tesla"
+        },
+        {
+            "quote": "Full well do I know that in order to attain any definite goal, it is imperative that one person should do the thinking and commanding",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Learn to judge your moves by their long-term effects on people",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Look for the thing you notice but no one else notices",
+            "author": "Rick Rubin"
+        },
+        {
+            "quote": "I’m just trying to think about the future and not be sad",
+            "author": "Elon Musk"
+        },
+        {
+            "quote": "The fears we don’t face become our limits",
+            "author": "Jim Kwik"
+        },
+        {
+            "quote": "What is wanted is not the will to believe, but the will to find out, which is the exact opposite",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "You can tell a pioneer by the arrows in his back",
+            "author": "Beverly Rubik"
+        },
+        {
+            "quote": "An idea that is not dangerous is unworthy of being called an idea at all",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "If anyone on the verge of action should judge himself according to the outcome, he would never begin",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "Always go too far, because that’s where you’ll find the truth",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "First, see clearly. Next, act correctly. Finally, endure and accept the world as it is",
+            "author": "Ryan Holiday"
+        },
+        {
+            "quote": "A poet should be so crafty with words that he is envied even for his pains",
+            "author": "Criss Jami"
+        },
+        {
+            "quote": "The harder you fall, the heavier your heart; the heavier your heart, the stronger you climb; the stronger you climb, the higher your pedestal",
+            "author": "Criss Jami"
+        },
+        {
+            "quote": "You are judges in this world by how well you bring things to an end. A messy or incomplete conclusion can reverberate for years to come",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Music expresses that which cannot be put into words and that which cannot remain silent",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "It was scary at first, but every great thing starts out a little scary, doesn’t it?\"",
+            "author": "Unknown"
+        },
+        {
+            "quote": "A thousand words will not leave so deep an impression as one deed",
+            "author": "Henrik Ibsen"
+        },
+        {
+            "quote": "Those who dream by day are cognizant of many things which escape those who dream only by night",
+            "author": "Edgar Allan Poe"
+        },
+        {
+            "quote": "The spread of civilisation may be likened to a fire; first, a feeble spark, next a flickering flame, then a mighty blaze, ever increasing in speed and power",
+            "author": "Nikola Tesla"
+        },
+        {
+            "quote": "Have a heart that never hardens, and a temper that never tires, and a touch that never hurts",
+            "author": "Charles Dickens"
+        },
+        {
+            "quote": "Arm yourself, my heart: the thing that you must do is fearful, yet inevitable",
+            "author": "Euripides"
+        },
+        {
+            "quote": "He who despairs is wrong",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "The best thing a human being can do is to help another human being know more",
+            "author": "Charlie Munger"
+        },
+        {
+            "quote": "Champions aren’t made in gyms. Champions are made from something they have deep inside them – a desire, a dream, a vision. They have to have the skill, and the will. But the will must be stronger than the skill",
+            "author": "Muhammad Ali"
+        },
+        {
+            "quote": "I believe that if one always looked at the skies, one would end up with wings. Gustave Flaubert (azquotes",
+            "author": "com)"
+        },
+        {
+            "quote": "Power is not revealed by striking hard or often, but by striking true",
+            "author": "Honoré de Balzac"
+        },
+        {
+            "quote": "If you wish to be a mine of jewels, open the deep ocean within your heart",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Patience with small details makes perfect a large work, like the universe",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Come, seek, for search is the foundation of fortune: every success depends upon focusing the heart!",
+            "author": "Rumi"
+        },
+        {
+            "quote": "If you want to overcome the whole world, overcome yourself",
+            "author": "Fyodor Dostoyevsky"
+        },
+        {
+            "quote": "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration",
+            "author": "Nikola Tesla"
+        },
+        {
+            "quote": "Be alone, that is the secret of invention; be alone, that is when ideas are born",
+            "author": "Nikola Tesla"
+        },
+        {
+            "quote": "The soul that sees beauty may sometimes walk alone",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "I stick my finger into existence and it smells of nothing",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "No tree, it is said, can grow to heaven unless its roots reach down to hell",
+            "author": "Carl Jung"
+        },
+        {
+            "quote": "God knows, I prefer people with anxieties, whose tomorrow is threatened by uncertainty",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "They muddy the water, to make it seem deep",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "All that we see or seem is but a dream within a dream",
+            "author": "Edgar Allan Poe"
+        },
+        {
+            "quote": "If it is not necessary to decide, it is necessary not to decide",
+            "author": "Lord Acton"
+        },
+        {
+            "quote": "Words have no power to impress the mind without the exquisite horror of their reality",
+            "author": "Edgar Allan Poe"
+        },
+        {
+            "quote": "Science has not yet taught us if madness is or is not the sublimity of the intelligence",
+            "author": "Edgar Allan Poe"
+        },
+        {
+            "quote": "There is no truth. There is only perception",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "The opposite of love is not hate, it’s indifference. The opposite of art is not ugliness, it’s indifference. The opposite of faith is not heresy, it’s indifference. And the opposite of life is not death, it’s indifference",
+            "author": "Elie Wiesel"
+        },
+        {
+            "quote": "What if everything in the world were a misunderstanding, what if laughter were really tears?",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "All the problems of older times were scarcity… now they’re all abundance based",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Battle not with monsters, lest you become one and if you gaze into the abyss, the abyss also gazes into you",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Two possibilities exist: either we are alone in the Universe or we are not. Both are equally terrifying. Arthur C",
+            "author": "Clarke"
+        },
+        {
+            "quote": "The problem is not to find the answer, it’s to face the answer",
+            "author": "Terence McKenna"
+        },
+        {
+            "quote": "I have learned silence from the talkative, toleration from the intolerant, and kindness from the unkind; yet strange, I am ungrateful to these teachers",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "A man can do what he wants, but not want what he wants",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "As with stomachs, we should pity minds that do not eat",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "To be sane in a world of madman is in itself madness",
+            "author": "Jean-Jacques Rousseau"
+        },
+        {
+            "quote": "He who opens a school door, closes a prison",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "Civilization is a hopeless race to discover remedies for the evils it produces",
+            "author": "Jean-Jacques Rousseau"
+        },
+        {
+            "quote": "I am not deep, but I am very wide",
+            "author": "Honoré de Balzac"
+        },
+        {
+            "quote": "Question everything. Learn something. Answer nothing. Euripides (See also: How to Ask the Right Question in the Right Way, entrepreneur",
+            "author": "com)"
+        },
+        {
+            "quote": "Understand that half the game is keeping quiet, and carefully watching those around you",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Man is the only creature who refuses to be what he is",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "But in the end one needs more courage to live than to kill himself",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "The world breaks everyone, and afterward, some are strong at the broken places",
+            "author": "Ernest Hemingway"
+        },
+        {
+            "quote": "The public is wonderfully tolerant. It forgives everything except genius",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "I am not young enough to know everything",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Better a cruel truth than a comfortable delusion",
+            "author": "Edward Abbey"
+        },
+        {
+            "quote": "Every strength is also a weakness. The opposite is true as well",
+            "author": "Neil Strauss"
+        },
+        {
+            "quote": "It’s not how well you play the game, it’s deciding what game you want to play",
+            "author": "Kwame Appiah"
+        },
+        {
+            "quote": "Where there is no sense of ownership, there is respect. Where there is no hope, there is Truth. Where there is no attachment, there is love",
+            "author": "Kapil Gupta"
+        },
+        {
+            "quote": "Believe in the you who believes in yourself",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You don’t deserve what you don’t respect",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You can have peace. Or you can have freedom. Don’t ever count on having both at once. Robert A",
+            "author": "Heinlein"
+        },
+        {
+            "quote": "Ignoring isn’t the same as ignorance, you have to work at it",
+            "author": "Margaret Atwood"
+        },
+        {
+            "quote": "All that you are seeking is also seeking you",
+            "author": "Franz Kafka"
+        },
+        {
+            "quote": "There is no exquisite beauty… without some strangeness in the proportion",
+            "author": "Edgar Allan Poe"
+        },
+        {
+            "quote": "Common sense is in spite of, not the result of, education",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "There are two ways to be fooled. One is to believe what isn’t true; the other is to refuse to believe what is true",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more",
+            "author": "Nilola Tesla"
+        },
+        {
+            "quote": "The scientists of today think deeply instead of clearly. One must be sane to think clearly, but one can think deeply and be quite insane",
+            "author": "Nikola Tesla"
+        },
+        {
+            "quote": "Do not read, as children do, to amuse yourself, or like the ambitious, for the purpose of instruction. No, read in order to live",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "Talent is a long patience, and originality an effort of will and intense observation",
+            "author": "Gustave Flaubert"
+        },
+        {
+            "quote": "People who know little are usually great talkers, while men who know much say little",
+            "author": "Jean-Jacques Rousseau"
+        },
+        {
+            "quote": "There are no weeds, and no worthless men. There are only bad farmers",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "Do not grow to fond of your ideas or too certain of their truth",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "Being good is easy, what is difficult is being just",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "To put everything in balance is good, to put everything in harmony is better",
+            "author": "Victor Hugo"
+        },
+        {
+            "quote": "Not to be absolutely certain is, I think, one of the essential things in rationality",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "Education begins the gentleman, but reading, good company and reflection must finish him",
+            "author": "John Locke"
+        },
+        {
+            "quote": "Reading furnishes the mind only with materials of knowledge; it is thinking that makes what we read ours",
+            "author": "John Locke"
+        },
+        {
+            "quote": "The only reason we get lost in thought, is because it is unfamiliar territory",
+            "author": "Ashton Leinen"
+        },
+        {
+            "quote": "Everyone sees the unseen in proportion to the clarity of his heart",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Sometimes a man wants to be stupid if it lets him do a thing his cleverness forbids",
+            "author": "John Steinbeck"
+        },
+        {
+            "quote": "A ‘no’ does not hide anything, but a ‘yes’ very easily becomes a deception",
+            "author": "Søren Kierkegaard"
+        },
+        {
+            "quote": "There is a wisdom of the head, and… there is a wisdom of the heart",
+            "author": "Charles Dickens"
+        },
+        {
+            "quote": "We can know only that we know nothing. And that is the highest degree of human wisdom",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "To think is easy. To act is hard. But the hardest thing in the world is to act in accordance with your thinking",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Nothing shows a man’s character more than what he laughs at",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "Some rise by sin, and some by virtue fall",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "People spend too much time doing and not enough time thinking about what they should be doing",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Nothing meaningful comes free",
+            "author": "George Raveling"
+        },
+        {
+            "quote": "You can’t have a meaningful life without truth as your guide",
+            "author": "Carlos Del Valle"
+        },
+        {
+            "quote": "How many times have you notice that it’s the little quiet moments in the midst of life that seem to give the rest extra-special meaning?",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "What if this life is the paradise we were promised, and we’re just squandering it?",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Life in itself has no meaning. Life is an opportunity to create meaning",
+            "author": "Osho (Creativity: Unleashing the Forces Within)"
+        },
+        {
+            "quote": "Nothing can bring you peace but the triumph of principles",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "We search for meaning when we stop feeling alive",
+            "author": "James Pierce"
+        },
+        {
+            "quote": "The purpose of life is to find a mode of being that’s so meaningful that the fact that life is suffering is no longer relevant",
+            "author": "Jordan Peterson"
+        },
+        {
+            "quote": "Remember that wherever your heart is, there you will find your treasure",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Each person’s task in life is to become an increasingly better person",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "You can create a lot of meaning in your own life by helping someone else do something that is meaningful to them",
+            "author": "James Clear"
+        },
+        {
+            "quote": "For small creatures such as we the vastness is bearable only through love",
+            "author": "Carl Sagan"
+        },
+        {
+            "quote": "You can seek the comfortable or the meaningful. Choose wisely",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "I know of no better life purpose than to perish in attempting the great and the impossible",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Where your fear is, there is your task",
+            "author": "Carl Jung"
+        },
+        {
+            "quote": "I would rather die a meaningful death than to live a meaningless life",
+            "author": "Corazon Aquino"
+        },
+        {
+            "quote": "The great and glorious masterpiece of man is to live with purpose",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "A secret to life: Know that none of this matters, and yet… live as if every single moment does",
+            "author": "Kamal Ravikant"
+        },
+        {
+            "quote": "Thinking about death, once a day, is the best way to lead a meaningful life. D",
+            "author": "Muthukrishnan"
+        },
+        {
+            "quote": "As human beings, our job in life is to help people realize how rare and valuable each one of us really is, that each of us has something that no one else has – or ever will have – something inside that is unique to all time. It’s our job to encourage each other to discover that uniqueness and to provide ways of developing its expression",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "It’s not so much what we have in this life that matters. It’s what we do with what we have",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "I feel that we’re all lighthouses, and my job is to shine my light as brightly as I can to the darkness",
+            "author": "Jim Carrey"
+        },
+        {
+            "quote": "Get busy with life’s purpose, toss aside empty hopes, get active in your own rescue – if you care for yourself at all – and do it while you can",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "The happiness we seek cannot be found through grasping, trying to hold on to things",
+            "author": "Pema Chödrön"
+        },
+        {
+            "quote": "My goal is this: always to put myself in the place in which I am best able to serve, wherever my gifts and qualities find the best soil to grow, the widest field of action. There is no other goal",
+            "author": "Hermann Hesse (Narcissus and Goldmund)"
+        },
+        {
+            "quote": "Meaning and being did not lie somewhere behind things; they lay within them, within everything",
+            "author": "Hermann Hesse (Siddhartha)"
+        },
+        {
+            "quote": "The great benefit of slowing down is reclaiming the time and tranquility to make meaningful connections – with people, with culture, with work, with nature, with our own bodies and minds",
+            "author": "Carl Honoré (In Praise of Slowness) (See also: simplicity quotes)"
+        },
+        {
+            "quote": "The journey isn’t so much about becoming someone. It’s about getting rid of everything that isn’t really you",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "The problem is that you were asking the wrong question. What is the meaning of life is not the question you should ask",
+            "author": "The proper question is: What does it mean to you? Daniel Jeffries"
+        },
+        {
+            "quote": "What most of us seek is comfort but what gives meaning is connection",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Never work just for money or for power. They won’t save your soul or help you sleep at night",
+            "author": "Marian Wright Edelman"
+        },
+        {
+            "quote": "Your inner purpose is to awaken. It is as simple as that. You share that purpose with every other person on the planet – because it is the purpose of humanity",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "The significance is hiding in the insignificant. Appreciate everything",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "People say that what we’re all seeking is a meaning for life. I don’t think that’s what we’re really seeking. I think that what we’re seeking is an experience of being alive, so that our life experiences on the purely physical plane will have resonances with our own innermost being and reality, so that we actually feel the rapture of being alive",
+            "author": "Joseph Campbell (The Power of Myth)"
+        },
+        {
+            "quote": "Life’s meaning is not in following someone else, it is in the unfolding of one’s own self. It is not a process of becoming like someone else, it is to be oneself",
+            "author": "Osho"
+        },
+        {
+            "quote": "You will find meaning in life only if you create it. It is a poetry to be composed. It is a song to be sung. It is a dance to be danced",
+            "author": "Osho"
+        },
+        {
+            "quote": "Life is indeed terribly complicated – to a man who has lost his principles. G.K",
+            "author": "Chesterton"
+        },
+        {
+            "quote": "To be what we are, and to become what we are capable of becoming, is the only end of life",
+            "author": "Robert Louis Stevenson"
+        },
+        {
+            "quote": "He who has a why to live can bear with almost any how",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "I cannot imagine life without work as really comfortable",
+            "author": "Sigmund Freud"
+        },
+        {
+            "quote": "Deprived of meaningful work, men and women lose their reason for existence; they go stark, raving mad",
+            "author": "Fyodor Dostoevsky"
+        },
+        {
+            "quote": "The soul which has no fixed purpose in life is lost; to be everywhere, is to be nowhere",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "There is not one big cosmic meaning for all; there is only the meaning we each give to our life, an individual meaning, an individual plot, like an individual novel, a book for each person",
+            "author": "Anaïs Nin"
+        },
+        {
+            "quote": "Wealth, like happiness, is never attained when sought after directly. It comes as a by-product of providing a useful service",
+            "author": "Henry Ford"
+        },
+        {
+            "quote": "Happiness can be found, even in the darkest of times, if one only remembers to turn on the light. J.K",
+            "author": "Rowling"
+        },
+        {
+            "quote": "I think everybody should get rich and famous and do everything they ever dreamed of so they can see that it’s not the answer",
+            "author": "Jim Carrey"
+        },
+        {
+            "quote": "Life becomes meaningful when you work on it. You are the only person who can make it meaningful for yourself",
+            "author": "Yoko Ono"
+        },
+        {
+            "quote": "Happiness lies not in the mere possession of money; it lies in the joy of achievement, in the thrill of creative effort. Franklin D",
+            "author": "Roosevelt"
+        },
+        {
+            "quote": "As a well-spent day bring a happy sleep, so a well-employed life brings a happy death",
+            "author": "Leonardo da Vinci"
+        },
+        {
+            "quote": "To be of value, we must develop basic good human qualities – warmth, kindness, compassion. Then our life will become happier and more meaningful",
+            "author": "14th Dalai Lama"
+        },
+        {
+            "quote": "What is the meaning of life? To be happy and useful",
+            "author": "14th Dalai Lama"
+        },
+        {
+            "quote": "To affect the quality of the day, that is the highest of arts. Every man is tasked to make his life, even in its details, worthy of the contemplation of his most elevated and critical hour",
+            "author": "Henry David Thoreau (Walden)"
+        },
+        {
+            "quote": "Whoever you are, or whatever it is that you do, when you really want something, it’s because that desire originated in the soul of the universe. It’s your mission on earth",
+            "author": "Paulo Coelho (The Alchemist)"
+        },
+        {
+            "quote": "The mystery of human existence lies not in just staying alive, but in finding something to live for",
+            "author": "Fyodor Dostoyevsky (The Brothers Karamazov)"
+        },
+        {
+            "quote": "Helped are those who love the entire cosmos rather than their own tiny country, city, or farm, for to them will be shown the unbroken web of life and the meaning of infinity",
+            "author": "Alice Walker"
+        },
+        {
+            "quote": "Your gifts lie in the place where your values, passions and strengths meet. Discovering that place is the first step toward sculpting your masterpiece, your life",
+            "author": "Michelangelo (See also: strength quotes)"
+        },
+        {
+            "quote": "To see that your life is a story while you’re in the middle of living it may be a help to living it well. Ursula K",
+            "author": "Le Guin (Gifts)"
+        },
+        {
+            "quote": "It is this broken road with pitfalls and sharp turns and unexpected traverses that has brought me joy and adventure",
+            "author": "Alice Walker"
+        },
+        {
+            "quote": "God provides the wind, but man must raise the sails",
+            "author": "Augustine of Hippo"
+        },
+        {
+            "quote": "Everyone thinks of changing the world, but no one thinks of changing himself",
+            "author": "Leo Tolstoy"
+        },
+        {
+            "quote": "To hear, one must be silent. Ursula K",
+            "author": "Le Guin (The Earthsea Trilogy)"
+        },
+        {
+            "quote": "Money doesn’t buy meaning",
+            "author": "Kyle Kowalski"
+        },
+        {
+            "quote": "Art is the proper task of life",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Service is what life is all about",
+            "author": "Marian Wright Edelman"
+        },
+        {
+            "quote": "A higher purpose is the only drug you need",
+            "author": "Preethi Kasireddy"
+        },
+        {
+            "quote": "Do what is meaningful, not what is expedient",
+            "author": "Jordan Peterson"
+        },
+        {
+            "quote": "You don’t need confidence, just contribution",
+            "author": "Derek Sivers"
+        },
+        {
+            "quote": "Find a purpose to serve, not a lifestyle to live",
+            "author": "Criss Jami"
+        },
+        {
+            "quote": "It can have meaning if it changes you for the better",
+            "author": "Viktor Frankl"
+        },
+        {
+            "quote": "Meaning springs from belonging",
+            "author": "David Steindl-Rast (Deeper Than Words)"
+        },
+        {
+            "quote": "Life has no goal as such. Life itself is its own goal",
+            "author": "Osho"
+        },
+        {
+            "quote": "Life should not only be lived, it should be celebrated",
+            "author": "Osho"
+        },
+        {
+            "quote": "If things are too easy, life is a whole lot less interesting",
+            "author": "Marian Wright Edelman"
+        },
+        {
+            "quote": "When things aren’t adding up in your life, start subtracting",
+            "author": "James Altucher"
+        },
+        {
+            "quote": "You either think you’re the hero or the victim in your own story",
+            "author": "Ed Latimore"
+        },
+        {
+            "quote": "The meaningful life is not easy but it’s the only one worthwhile",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "If the path before you is clear, you’re probably on someone else’s",
+            "author": "Joseph Campbell"
+        },
+        {
+            "quote": "The first step to get what you want is to get rid of what you don’t",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "Don’t let what you’re afraid of keep you from what you were made for",
+            "author": "Bob Goff"
+        },
+        {
+            "quote": "In the end, it’s about what you want to be, not what you want to have",
+            "author": "Derek Sivers"
+        },
+        {
+            "quote": "You have to do hard things to create your own meaning in life",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Anything meaningful requires you to show up and do the work. Every. Single. Day",
+            "author": "Joe De Sana"
+        },
+        {
+            "quote": "Your purpose is to be yourself. You don’t have to run anywhere to become someone else. You are wonderful just as you are",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "Ultimately, man should not ask what the meaning of his life is, but rather he must recognize that he is who is being asked",
+            "author": "Viktor Frankl"
+        },
+        {
+            "quote": "All you have to do is to pay attention; lessons always arrive when you are ready, and if you can read the signs, you will learn everything you need to know in order to take the next step",
+            "author": "Paulo Coelho (The Zahir)"
+        },
+        {
+            "quote": "Each person comes into this world with a specific destiny – he has something to fulfill, some message has to be delivered, some work has to be completed. You are not here accidentally – you are here meaningfully. There is a purpose behind you. The whole intends to do something through you",
+            "author": "Osho"
+        },
+        {
+            "quote": "If you find yourself drawn to an event against all logic, go. The universe is telling you something",
+            "author": "Gloria Steinem (My Life on the Road)"
+        },
+        {
+            "quote": "The world needs a sense of worth, and it will achieve it only by its people feeling that they are worthwhile",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "Deep down, we know that what matters in this life is more than winning for ourselves. What really matters is helping others win, too",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "The greatest feeling is helping others feel good too",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Let your sense of rebellion fill you with energy and purpose",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "It’s all there. Everything you need to know. Why you are here, and what you are here to do. It’s all right there in your heart",
+            "author": "Iyanla Vanzant"
+        },
+        {
+            "quote": "We’re not on our journey to save the world but to save ourselves. But in doing that you save the world",
+            "author": "Joseph Campbell"
+        },
+        {
+            "quote": "If we want to make meaning, we need to make art. Cook, write, draw, doodle, paint, scrapbook, take pictures, collage, knit, rebuild an engine, sculpt, dance, decorate, act, sing – it doesn’t matter. As long as we’re creating, we’re cultivating meaning",
+            "author": "Brené Brown (The Gifts of Imperfection)"
+        },
+        {
+            "quote": "Keep in mind that you are an actor in a play that is just the way the producer wants it to be…Your job is to put on a splendid performance of the role you have been given",
+            "author": "Epictetus"
+        },
+        {
+            "quote": "What we seek, at the deepest level, is inwardly to resemble, rather than physically to possess, the objects and places that touch us through their beauty",
+            "author": "Alain de Botton (The Architecture of Happiness)"
+        },
+        {
+            "quote": "It is good to have an end to journey toward; but it is the journey that matters, in the end. Ursula K",
+            "author": "Le Guin (The Left Hand of Darkness)"
+        },
+        {
+            "quote": "Don’t just do what you’re able to do; figure out what you were made to do, then do lots of that",
+            "author": "Bob Goff"
+        },
+        {
+            "quote": "A comfortable, convenient life is not a real life – the more comfortable, the less alive",
+            "author": "Osho"
+        },
+        {
+            "quote": "If you aim at comfort and happiness, you screwed. If you aim at meaning and peace, you have a chance",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Life is purposeless. Don’t be shocked. The whole idea of purpose is wrong – it comes out of greed",
+            "author": "Osho"
+        },
+        {
+            "quote": "So much unhappiness comes from wanting others to think we’re happy or important. We chase visible at the expense of meaningful",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "The truth is that as the struggle for survival has subsided, the question has emerged: survival for what? Ever more people today have the means to live, but no meaning to live for",
+            "author": "Viktor Frankl"
+        },
+        {
+            "quote": "Life being what it is – rather shallow, empty, a tortuous affair without much meaning – one tries to invent a significance, a meaning",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "\"Finding meaning\" is a fun game until it becomes a fatal addiction",
+            "author": "Kunal (@CrazyPolymath)"
+        },
+        {
+            "quote": "We’re not meant to consume infinite news, infinite porn, infinite food. We live in an era of too much abundance. This is the modern struggle. There is so much of an abundance of cheap, fake, instant dopamine and meaning",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "You want meaning, not happiness. You want joy, not pleasure. You want fulfillment, not things. You seek what the material world will never provide",
+            "author": "Carlos Del Valle"
+        },
+        {
+            "quote": "God’s more interested in our hearts than our plans",
+            "author": "Bob Goff"
+        },
+        {
+            "quote": "There is no meaning to life, because if there was you would not be free",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "I slept and I dreamed that life is all joy. I woke and I saw that life is all service. I served and I saw that service is joy",
+            "author": "Kahlil Gibran"
+        },
+        {
+            "quote": "It’s a rare gift, to know where you need to be, before you’ve been to all the places you don’t need to be. Ursula K",
+            "author": "Le Guin (Tales from Earthsea)"
+        },
+        {
+            "quote": "Often in life we forget the things we should remember and remember the things we should forget",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "If there was a big bang in the beginning, you’re not something that’s a result of the big bang. You are still the process. You’re not something that is a sort of puppet on the end of the process. You are the big bang, the original force of the universe",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "All natural disasters are comforting because they reaffirm our impotence, in which, otherwise, we might stop believing. At times it is strangely sedative to know the extent of your own powerlessness",
+            "author": "Erica Jong"
+        },
+        {
+            "quote": "Remember that man lives only in the present, in this fleeting instant; all the rest of his life is either past and gone, or not yet revealed. Short, therefore, is man’s life, and narrow is the corner of the earth wherein he dwells",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "Life has no meaning. Each of us has meaning and we bring it to life. It is a waste to be asking the question when you are the answer",
+            "author": "Joseph Campbell"
+        },
+        {
+            "quote": "To forget one’s purpose is the commonest form of stupidity",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "We do not see nature with our eyes, but with our understandings and our hearts",
+            "author": "William Hazlitt"
+        },
+        {
+            "quote": "Paradoxical as it may seem, the purposeful life has no content, no point. It hurries on and on, and misses everything. It is only when there is no goal and no rush that the human senses are fully open to receive the world",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "A life full of goals or endpoints is like trying to abate one’s hunger by eating merely the two precise ends of a banana",
+            "author": "Alan Watts"
+        },
+        {
+            "quote": "It’s not the honors and the prizes and the fancy outsides of life which ultimately nourish our souls. It’s the knowing that we can be trusted, that we never have to fear the truth, that the bedrock of our very being is good stuff",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "Find significance within yourself. Within your own sphere of power – that is where you have the greatest consequence",
+            "author": "Epictetus"
+        },
+        {
+            "quote": "Meaning is man-created. And because you constantly look for meaning, you start to feel meaninglessness",
+            "author": "Osho"
+        },
+        {
+            "quote": "A perfect man lives without any purpose; a perfect man moves, but without any motive",
+            "author": "Osho"
+        },
+        {
+            "quote": "There is no meaning existing in life – one has to create it. Only if you create it will you discover it",
+            "author": "Osho"
+        },
+        {
+            "quote": "The wiser you get the more you love what is slow, real and meaningful",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "The majority of men have not yet acquired the maturity to be independent, to be rational, to be objective. They need myths and idols to endure the fact that man is all by himself, that there is no authority which gives meaning to life except man himself",
+            "author": "Erich Fromm"
+        },
+        {
+            "quote": "The goal of life is to make your heartbeat match the beat of the universe, to match your nature with Nature",
+            "author": "Joseph Campbell (See also: nature quotes)"
+        },
+        {
+            "quote": "Focus on the single purpose of being here and now. Life is a succession of moments. Be faithful to this moment – if it is painful, it will pass. If it is joyful, it will also pass",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "The big question is whether you are going to be able to say a hearty yes to your adventure",
+            "author": "Joseph Campbell"
+        },
+        {
+            "quote": "I don’t believe people are looking for the meaning of life as much as they are looking for the experience of being alive",
+            "author": "Joseph Campbell"
+        },
+        {
+            "quote": "We are travelers on a cosmic journey. We have stopped for a moment to encounter each other, to meet, to love, to share. This is a precious moment, a little parenthesis in eternity",
+            "author": "Paulo Coelho (The Alchemist)"
+        },
+        {
+            "quote": "The goal of life is a deep relaxation from all effort, being in a dance with the dancing trees, with the dancing stars, rejoicing in existence without any worry, without any mind, just being part of the cosmos",
+            "author": "Osho"
+        },
+        {
+            "quote": "Too many prefer gentle lies to hard truths",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "The ideals which have always shone before me and filled me with joy are goodness, beauty, and truth",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Truth hurts but what hurts makes you stronger",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Nothing in this world is harder than speaking the truth, nothing easier than flattery",
+            "author": "Fyodor Dostoevsky"
+        },
+        {
+            "quote": "Your duty is to scream those truths that one should shout but that are merely whispered",
+            "author": "Nassim Nicholas Taleb (The Bed of Procrustes)"
+        },
+        {
+            "quote": "Discovering the truth about ourselves is a lifetime’s work, but it’s worth the effort",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "Tell the truth about what you are feeling. Tell the truth about what you are thinking. Tell the truth about what you are doing and why",
+            "author": "Iyanla Vanzant"
+        },
+        {
+            "quote": "Sometimes people don’t want to hear the truth because they don’t want their illusions destroyed",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Rather than love, than money, than fame, give me truth",
+            "author": "Henry David Thoreau (Walden)"
+        },
+        {
+            "quote": "One voice speaking truth is a greater force than fleets and armies. Ursula K",
+            "author": "Le Guin (The Left Hand of Darkness)"
+        },
+        {
+            "quote": "When you want to help people, you tell them the truth. When you want to help yourself, you tell them what they want to hear",
+            "author": "Thomas Sowell"
+        },
+        {
+            "quote": "The wise try to adjust themselves to the truth, while fools try to adjust the truth to themselves",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "The truth will set you free, but first it will piss you off",
+            "author": "Gloria Steinem"
+        },
+        {
+            "quote": "You can have ignorance or you can have self-knowledge. You can live deluded or you can live for truth",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "I measure the strength of a spirit by how much truth it can take",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "A man is beginning to learn the Truth about life when he is no longer surprised by anything",
+            "author": "Kapil Gupta"
+        },
+        {
+            "quote": "In the long run, the most unpleasant truth is a safer companion than a pleasant falsehood",
+            "author": "Theodore Roosevelt"
+        },
+        {
+            "quote": "Only silence communicates the truth as it is",
+            "author": "Osho"
+        },
+        {
+            "quote": "The further a society drifts from the truth, the more it will hate those that speak it",
+            "author": "George Orwell"
+        },
+        {
+            "quote": "The things that we decide to run from are the truth. When you make excuses, you’re running from the truth",
+            "author": "David Goggins"
+        },
+        {
+            "quote": "In order to be effective truth must penetrate like an arrow – and that is likely to hurt",
+            "author": "Wei Wu Wei"
+        },
+        {
+            "quote": "The only way to tell the truth is to speak it with kindness. Only the words of a loving man can be heard",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "If you’re seeking the truth then what you don’t know is more important than you know",
+            "author": "Jordan Peterson"
+        },
+        {
+            "quote": "I tore myself away from the safe comfort of certainties through my love for the truth; and truth rewarded me",
+            "author": "Simone de Beauvoir"
+        },
+        {
+            "quote": "I was too enamored of truth ever to mourn lost illusions",
+            "author": "Simone de Beauvoir (The Prime of Life)"
+        },
+        {
+            "quote": "If you wish to see the truth, then hold no opinion for or against",
+            "author": "Osho"
+        },
+        {
+            "quote": "The truth may be out there, but the lies are inside your head",
+            "author": "Terry Pratchett"
+        },
+        {
+            "quote": "The presence of those seeking the truth is infinitely to be preferred to the presence of those who think they’ve found it",
+            "author": "Terry Pratchett"
+        },
+        {
+            "quote": "It is great fun if you have rejected totally everything that man has said. Because then you stand alone; when you find out for yourself, it will be authentic, real, true, not dependent on any professor, any psychologist, any analyst",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Telling the truth and making someone cry is better than telling a lie to make someone laugh",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "I speak the truth, not so much as I would, but as much as I dare; and I dare a little more as I grow older",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "The truth will set you free. But not until it is finished with you",
+            "author": "David Foster Wallace (Infinite Jest)"
+        },
+        {
+            "quote": "Never has there been one possessed of complete sincerity who did not move others. Never has there been one who had not sincerity who was able to move others",
+            "author": "Mencius"
+        },
+        {
+            "quote": "Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed. If people all over the world…would do this, it would change the earth",
+            "author": "William Faulkner"
+        },
+        {
+            "quote": "The path that leads to truth is littered with the bodies of the ignorant",
+            "author": "Miyamoto Musashi"
+        },
+        {
+            "quote": "There is nothing more necessary than truth, in comparison with it, everything else has only secondary value",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Those who have failed to work toward the truth have missed the purpose of living",
+            "author": "Buddha"
+        },
+        {
+            "quote": "If you cannot find the truth right where you are, where else do you expect to find it?",
+            "author": "Dogen"
+        },
+        {
+            "quote": "The truth is like a lion; you don’t have to defend it. Let it loose; it will defend itself",
+            "author": "Augustine of Hippo"
+        },
+        {
+            "quote": "Truth: something hard to say and hard to hide",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "The truth is something that burns. It burns off dead wood. And people don’t like having the dead wood burnt off, often because they’re 95 percent dead wood",
+            "author": "Jordan Peterson"
+        },
+        {
+            "quote": "The truth is silent. The truth doesn’t come with words. It’s something that I just know, it’s something that I can feel without words, and it’s called silent knowledge",
+            "author": "Don Miguel Ruiz"
+        },
+        {
+            "quote": "Truth is the best disinfectant",
+            "author": "Paulo Coelho"
+        },
+        {
+            "quote": "If you tell the truth, you don’t have to remember anything",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "That’s the most heroic thing we can do now: look the truth in the face",
+            "author": "Sansa Stark (Game of Thrones)"
+        },
+        {
+            "quote": "All truths are easy to understand once they are discovered; the point is to discover them",
+            "author": "Galileo Galilei"
+        },
+        {
+            "quote": "Silence becomes cowardice when occasion demands speaking out the whole truth and acting accordingly",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "The personal life deeply lived always expands into truths beyond itself",
+            "author": "Anaïs Nin"
+        },
+        {
+            "quote": "Speak what we feel, not what we ought to say",
+            "author": "William Shakespeare (King Lear)"
+        },
+        {
+            "quote": "O, while you live, tell truth, and shame the Devil!",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "You have to start with the truth. The truth is the only way that we can get anywhere. Because any decision-making that is based upon lies or ignorance can’t lead to a good conclusion",
+            "author": "Julian Assange"
+        },
+        {
+            "quote": "I just tell the truth, and telling the truth is crazy in a world full of lies",
+            "author": "Kanye West"
+        },
+        {
+            "quote": "I hope that real love and truth are stronger in the end than any evil or misfortune in the world",
+            "author": "Charles Dickens"
+        },
+        {
+            "quote": "There are no truths, only moments of clarity passing for answers",
+            "author": "Michel de Montaigne"
+        },
+        {
+            "quote": "In our struggle for freedom, truth is the only weapon we possess",
+            "author": "14th Dalai Lama"
+        },
+        {
+            "quote": "What I seek to accomplish is simply to serve with my feeble capacity truth and justice, at the risk of pleasing no one",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "First and last, what is demanded of genius is love of truth",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "You don’t have to tell everything you know, but let what you do say be the truth as you understand it",
+            "author": "Maya Angelou"
+        },
+        {
+            "quote": "Take nothing on its looks; take everything on evidence. There’s no better rule",
+            "author": "Charles Dickens"
+        },
+        {
+            "quote": "We should always allow some time to elapse, for time discloses the truth",
+            "author": "Seneca"
+        },
+        {
+            "quote": "The capital-T Truth is about life before death. David Foster Wallace (See also: This Is Water, sloww",
+            "author": "co)"
+        },
+        {
+            "quote": "If you would be a real seeker after truth, it is necessary that at least once in your life you doubt, as far as possible, all things",
+            "author": "René Descartes"
+        },
+        {
+            "quote": "No one is more hated than he who speaks the truth",
+            "author": "Plato"
+        },
+        {
+            "quote": "You go to remote corners of the earth to find truth, but truth is just around the corner, here!",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Plato is my friend – Aristotle is my friend – but my greatest friend is truth",
+            "author": "Isaac Newton"
+        },
+        {
+            "quote": "I’m for truth, no matter who tells it. I’m for justice, no matter who it’s for or against",
+            "author": "Malcolm X"
+        },
+        {
+            "quote": "Live out your life in truth and justice, tolerant of those who are neither true nor just",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "Truth is a pathless land",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Truth is its own reward",
+            "author": "Plato"
+        },
+        {
+            "quote": "Silence screams the truth",
+            "author": "Gabby Bernstein"
+        },
+        {
+            "quote": "Truth demands vulnerability",
+            "author": "The Stoic Emperor"
+        },
+        {
+            "quote": "May the truth be your armour",
+            "author": "The Stoic Emperor"
+        },
+        {
+            "quote": "When in doubt tell the truth",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Seek truth and you will find a path",
+            "author": "Frank Slaughter"
+        },
+        {
+            "quote": "Tell all the truth but tell it slant",
+            "author": "Emily Dickinson"
+        },
+        {
+            "quote": "In deep insecurity is truth realised",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "It is truth alone that gives strength",
+            "author": "Swami Vivekananda"
+        },
+        {
+            "quote": "Truth needs no color; beauty, no pencil",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Any truth, I maintain, is my own property",
+            "author": "Seneca"
+        },
+        {
+            "quote": "Your mind talks illusions. Your heart whispers the truth",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "The duty of youth is to challenge corruption",
+            "author": "Kurt Cobain"
+        },
+        {
+            "quote": "Logical validity is not a guarantee of truth",
+            "author": "David Foster Wallace"
+        },
+        {
+            "quote": "We have art in order not to die of the truth",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "Truth has nothing whatsoever to do with belief",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "That which is true must be infinite and eternal",
+            "author": "Swami Vivekananda"
+        },
+        {
+            "quote": "In the mountains of truth, you never climb in vain",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "In the space of no-mind, truth descends like light",
+            "author": "Osho"
+        },
+        {
+            "quote": "The truth must dazzle gradually or every man be blind",
+            "author": "Emily Dickinson"
+        },
+        {
+            "quote": "Befriend the truth and make it your ally in all things",
+            "author": "The Stoic Emperor"
+        },
+        {
+            "quote": "Listening to the truth is the beginning of a new journey",
+            "author": "Osho"
+        },
+        {
+            "quote": "Speaking the truth in times of universal deceit is a revolutionary act. Unknown (See also: source on quoteinvestigator",
+            "author": "com)"
+        },
+        {
+            "quote": "Step into your authentic truth, because your truth will light up the world",
+            "author": "Gabby Bernstein"
+        },
+        {
+            "quote": "If we are not ashamed to think it, we should not be ashamed to say it",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "The ultimate test of what a truth means is the conduct it dictates or inspires",
+            "author": "William James"
+        },
+        {
+            "quote": "Proclaim the truth and do not be silent through fear",
+            "author": "Catherine of Siena"
+        },
+        {
+            "quote": "The truth is: you don’t have a life, you are life",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "Never ignore an important truth merely because of the amount of work it would take to accept it",
+            "author": "James Clear"
+        },
+        {
+            "quote": "If you’re scared, you’re on the shore. If you’re courageous, you’re in the river",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "The simple step of a courageous individual is not to take part in the lie. \"One word of truth outweighs the world\". Aleksandr I",
+            "author": "Solzhenitsyn"
+        },
+        {
+            "quote": "To love truth for truth’s sake is the principal part of human perfection in this world, and the seed-plot of all other virtues",
+            "author": "John Locke"
+        },
+        {
+            "quote": "Dare to seek Truth even through hell",
+            "author": "Swami Vivekananda"
+        },
+        {
+            "quote": "Even in literature and art, no man who bothers about originality will ever be original: whereas if you simply try to tell the truth (without caring twopence how often it has been told before) you will, nine times out of ten, become original without ever having noticed it. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "The only reason why I became successful was because I went towards the truth. As painful and as brutal as it is, it changed me. It allowed me, in my own right, to become the person who I am today",
+            "author": "David Goggins"
+        },
+        {
+            "quote": "They had learned that the act of violence is the act of weakness, and that the spirit’s strength lies in holding fast to the truth. Ursula K",
+            "author": "Le Guin (The Eye of the Heron)"
+        },
+        {
+            "quote": "The important thing is not the finding, it is the seeking, it is the devotion with which one spins the wheel of prayer and scripture, discovering the truth little by little. If this machine gave you the truth immediately, you would not recognize it. Ursula K",
+            "author": "Le Guin"
+        },
+        {
+            "quote": "I know that truth alone gives life, and nothing but going towards reality will make us strong, and none will reach truth until he is strong",
+            "author": "Swami Vivekananda"
+        },
+        {
+            "quote": "Truth is simple. Very simple – so simple that a child can understand it. In fact, so simple that only a child can understand it. Unless you become a child again you will not be able to understand it",
+            "author": "Osho"
+        },
+        {
+            "quote": "Don’t follow anybody’s footprints. Truth cannot be borrowed, neither can the path that somebody else has trodden",
+            "author": "Osho"
+        },
+        {
+            "quote": "If you want to tell people the truth, make them laugh, otherwise they’ll kill you",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "The truth is a bully we all pretend to like",
+            "author": "Gregory David Roberts"
+        },
+        {
+            "quote": "Sometimes people ask you a question with their eyes begging you to not tell them the truth",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "Every time your buttons get pushed is like a big mirror showing you your own face",
+            "author": "Pema Chödrön"
+        },
+        {
+            "quote": "As scarce as truth is, the supply has always been in excess of the demand",
+            "author": "Josh Billings"
+        },
+        {
+            "quote": "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "All day long I would be training myself to think, to understand, to criticize, to know myself; I was seeking for the absolute truth: this preoccupation did not exactly encourage polite conversation",
+            "author": "Simone de Beauvoir (Memoirs of a Dutiful Daughter)"
+        },
+        {
+            "quote": "It’s amazing how much panic one honest man can spread among a multitude of hypocrites",
+            "author": "Thomas Sowell"
+        },
+        {
+            "quote": "Celebration is my religion, love is my message, silence is my truth",
+            "author": "Osho"
+        },
+        {
+            "quote": "People tend to whisper when they say the truth and raise their voice when they lie",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "There are no eternal facts, as there are no absolute truths",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "It is not when truth is dirty, but when it is shallow, that the lover of knowledge is reluctant to step into its waters",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "The mother of all Truths: There is nothing",
+            "author": "Kapil Gupta"
+        },
+        {
+            "quote": "Truth is indivisible, hence it cannot recognize itself; anyone who wants to recognize it has to be a lie",
+            "author": "Franz Kafka"
+        },
+        {
+            "quote": "Individuals search for truth, groups search for consensus",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "If you would seek truth you must abandon those values that are based on sensation and gratification, on passion and ill will, possessiveness and greed",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Only the mind that is totally impermanent, that is totally uncertain, can discover what is true because truth is not static",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "If I want to find out what truth is, not knowing what it is, I must be able to see what is false",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "The truth may be puzzling. It may take some work to grapple with. It may be counterintuitive. It may contradict deeply held prejudices. It may not be consonant with what we desperately want to be true. But our preferences do not determine what’s true",
+            "author": "Carl Sagan"
+        },
+        {
+            "quote": "I feel safe in the midst of my enemies, for the truth is all powerful and will prevail",
+            "author": "Sojourner Truth"
+        },
+        {
+            "quote": "If an offense come out of the truth, better is it that the offense come than that the truth be concealed",
+            "author": "Thomas Hardy"
+        },
+        {
+            "quote": "You’ll never find truth on top of mountains. You’ll have a glimpse on the way up",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Truth uttered before its time is dangerous",
+            "author": "Mencius"
+        },
+        {
+            "quote": "Fear is a natural reaction to moving closer to the truth",
+            "author": "Pema Chödrön"
+        },
+        {
+            "quote": "In the bathtub of history the truth is harder to hold than the soap, and much more difficult to find",
+            "author": "Terry Pratchett"
+        },
+        {
+            "quote": "Fact may not be truth, and truth may not be factual",
+            "author": "Haruki Murakami (The Wind-Up Bird Chronicle)"
+        },
+        {
+            "quote": "One unerring mark of the love of truth is not entertaining any proposition with greater assurance than the proofs it is built upon will warrant",
+            "author": "John Locke"
+        },
+        {
+            "quote": "Defending the truth is not something one does out of a sense of duty or to allay guilt complexes, but is a reward in itself",
+            "author": "Simone de Beauvoir"
+        },
+        {
+            "quote": "It is better by assenting to truth to conquer opinion, than by assenting to opinion to be conquered by truth",
+            "author": "Epictetus (Enchiridion)"
+        },
+        {
+            "quote": "If you seek Truth, you will be alone forever. […] You will not have the conversations you long for. You will feel out of place in this world. You will stand as a red spot against a pale sky (And a beacon on the vast horizon)",
+            "author": "Kapil Gupta"
+        },
+        {
+            "quote": "Honesty is for the most part less profitable than dishonesty",
+            "author": "Plato"
+        },
+        {
+            "quote": "Humans are not programmed for truth. They are programmed for survival",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "It does not require many words to speak the truth",
+            "author": "Chief Joseph (Native American proverb)"
+        },
+        {
+            "quote": "Today I bent the truth to be kind, and I have no regret, for I am far surer of what is kind than I am of what is true",
+            "author": "Robert Brault"
+        },
+        {
+            "quote": "Convictions are more dangerous foes of truth than lies",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "The truth always carries the ambiguity of the words used to express it",
+            "author": "Frank Herbert"
+        },
+        {
+            "quote": "Truth without love is brutality, and love without truth is hypocrisy",
+            "author": "Warren Wiersbe"
+        },
+        {
+            "quote": "If you want the truth, take no one else’s word for it. Accept only science, reason, and direct experience. Start on solid ground. Mind each step",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "All truth passes through three stages. First, it is ridiculed. Second, it is violently opposed. Third, it is accepted as being self-evident",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "You can only find truth with logic if you have already found truth without it. G.K",
+            "author": "Chesterton"
+        },
+        {
+            "quote": "When you face a choice between being polite and being honest, err on the side of the truth. It’s better to be disliked but respected than to be liked but disrespected. In the long run, the people we trust the most are those who have the courage to be sincere",
+            "author": "Adam Grant"
+        },
+        {
+            "quote": "The busy man has no time for truth. The wise man dedicates his life to it",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Vulnerability sounds like truth and feels like courage. Truth and courage aren’t always comfortable, but they’re never weakness",
+            "author": "Brené Brown"
+        },
+        {
+            "quote": "An honest man will sometimes repeat himself. A liar can always find a surprising new angle. The truth resembles itself",
+            "author": "The Stoic Emperor"
+        },
+        {
+            "quote": "Don’t keep searching for the truth, just let go of your opinions",
+            "author": "Sengcan"
+        },
+        {
+            "quote": "The small truth has words that are clear; the great truth has great silence",
+            "author": "Rabindranath Tagore"
+        },
+        {
+            "quote": "If everyone says it, it’s either wrong or useless",
+            "author": "Sven Schnieders"
+        },
+        {
+            "quote": "The truth knocks on the door and you say, ‘Go away, I’m looking for the truth,’ and so it goes away. Puzzling. Robert M",
+            "author": "Pirsig"
+        },
+        {
+            "quote": "Your are your own teacher. Investigate yourself to find the truth – inside, not outside. Knowing yourself is most important",
+            "author": "Ajahn Chah"
+        },
+        {
+            "quote": "Truth certainly liberates, but the truth has to be your own. Only then it liberates",
+            "author": "Osho"
+        },
+        {
+            "quote": "What then is truth? A movable host of metaphors, metonymies, and anthropomorphisms: in short, a sum of human relations which have been poetically and rhetorically intensified, transferred, and embellished, and which, after long usage, seem to a people to be fixed, canonical, and binding. Truths are illusions which we have forgotten are illusions – they are metaphors that have become worn out and have been drained of sensuous force",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "We are never definitely right, we can only be sure we are wrong",
+            "author": "Richard Feynman"
+        },
+        {
+            "quote": "Truth is not a security, a refuge. Truth is the liberator, sweeping away all refuge and security",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "Part 1. The closer you are to the truth, the more silent you become inside",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "Part 2. And the more silent you become, the easier to see the truth",
+            "author": "Kunal"
+        },
+        {
+            "quote": "What’s true is true regardless of region, culture, planet, galaxy or dimension",
+            "author": "Jed McKenna"
+        },
+        {
+            "quote": "Never assume that you have attained truth. Don’t make any claim to knowledge. Form no conclusion or evaluation concerning truth. The minute you do, your downfall is assured. Whenever you imagine you know something, you cease being open to the living exploration. You have closed a door and cut off the oxygen to the breathing truth",
+            "author": "Mooji"
+        },
+        {
+            "quote": "These pains you feel are messengers. Listen to them",
+            "author": "Rumi"
+        },
+        {
+            "quote": "We carry inside us the wonders we seek outside us",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Only from the heart can you touch the sky",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Wherever you are, and whatever you do, be in love",
+            "author": "Rumi"
+        },
+        {
+            "quote": "The moment you accept what troubles you’ve been given, the door will open",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Your heart knows the way. Run in that direction",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Stop acting so small. You are the universe in ecstatic motion",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Love is the bridge between you and everything",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Keep silent, because the world of silence is a vast fullness",
+            "author": "Rumi"
+        },
+        {
+            "quote": "When will you begin that long journey into yourself?",
+            "author": "Rumi"
+        },
+        {
+            "quote": "You are not a drop in the ocean. You are the entire ocean, in a drop",
+            "author": "Rumi"
+        },
+        {
+            "quote": "I want to sing like the birds sing, not worrying about who hears or what they think",
+            "author": "Rumi"
+        },
+        {
+            "quote": "What hurts you, blesses you. Darkness is your candle",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Whenever they rebuild an old building, they must first of all destroy the old one",
+            "author": "Rumi"
+        },
+        {
+            "quote": "As you start to walk on the way, the way appears",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Let silence be the art you practice",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Silence gives answers",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Whatever lifts the corners of your mouth, trust that",
+            "author": "Unknown"
+        },
+        {
+            "quote": "My soul is from elsewhere, I’m sure of that, and I intend to end up there",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Yesterday I was clever, so I wanted to change the world. Today I am wise, so I am changing myself",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is a candle in your heart, ready to be kindled. There is a void in your soul, ready to be filled",
+            "author": "You feel it, don’t you?"
+        },
+        {
+            "quote": "Be like a tree and let the dead leaves drop",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I have been a seeker and I still am, but I stopped asking the books and the stars. I started listening to the teaching of my Soul",
+            "author": "Unknown"
+        },
+        {
+            "quote": "It’s your road and yours alone. Others may walk it with you, but no one can walk it for you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let silence take you to the core of life",
+            "author": "Unknown"
+        },
+        {
+            "quote": "In the blackest of your moments, wait with no fear",
+            "author": "Unknown"
+        },
+        {
+            "quote": "By God, when you see your beauty you will be the idol of yourself",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I should be suspicious of what I want",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Maybe you are searching among the branches, for what only appears in the roots",
+            "author": "Unknown"
+        },
+        {
+            "quote": "What matters is how quickly you do what your soul directs",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The whole universe is contained within a single human being – you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The spirit is so near that you can’t see it! But reach for it… don’t be a jar, full of water, whose rim is always dry. Don’t be the rider who gallops all night and never sees the horse that is beneath him",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Take someone who doesn’t keep score, who’s not looking to be richer, or afraid of losing, who has not the slightest interest even in his own personality: he’s free",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When the world pushes you to your knees, you’re in the perfect position to pray",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be full of sorrow, that you may become hill of joy; weep, that you may break into laughter",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is a voice that doesn’t use words, listen",
+            "author": "Unknown"
+        },
+        {
+            "quote": "In silence there is eloquence. Stop weaving and see how the pattern improves",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I am not this hair, I am not this skin, I am the soul that lives within",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If I love myself, I love you. If I love you, I love myself",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Close your eyes, fall in love, stay there",
+            "author": "Unknown"
+        },
+        {
+            "quote": "What you seek is seeking you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Life is a balance of holding on and letting go",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Run from what’s comfortable. Forget safety. Live where you fear to live. Destroy your reputation. Be notorious. I have tried prudent planning long enough. From now on I’ll be mad",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Sell your cleverness and buy bewilderment. Cleverness is mere opinion. Bewilderment brings intuitive knowledge",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Raise your words, not voice. It is rain that grows flowers, not thunder",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Caught by our own thoughts, we worry about everything",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let your teacher be love itself",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Laugh as much as you breathe. Love as long as you live",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let the beauty we love be what we do",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be drunk with love, for love is all that exists",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The soul has been given its own ears to hear things mind does not understand",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When you do things from your soul, you feel a river moving in you, a joy",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Very little grows on jagged rock. Be ground. Be crumbled, so wild flowers will come up where you are",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The lion is most handsome when looking for food",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If all you can do is crawl, start crawling",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let yourself be silently drawn by the stronger pull of what you really love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When you do things from your soul, you feel a river moving in you, a joy",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There are hundreds of ways to kneel and kiss the ground",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Sit, be still, and listen",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Patience is the key to joy",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If light is in your heart, you will find your way home",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Set your life on fire. Seek those who fan your flames",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be empty of worrying. Think of who created thought",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Become the sky. Take an axe to the prison wall. Escape",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let yourself become living poetry",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be soulful. Be kind. Be in love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be an empty page, untouched by words",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I know you’re tired but come, this is the way",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Dance until you shatter yourself",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The wealth within you, your essence, is your kingdom",
+            "author": "Unknown"
+        },
+        {
+            "quote": "To praise the sun is to praise your own eyes",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Respond to every call that excites your spirit",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Wherever you stand, be the soul of that place",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You were born with wings",
+            "author": "Why prefer to crawl through life?"
+        },
+        {
+            "quote": "Half-heartedness doesn’t reach into majesty",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Look at the moon in the sky, not the one in the lake",
+            "author": "Unknown"
+        },
+        {
+            "quote": "What is planted in each person’s soul will sprout",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The source of now is here",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Grace comes to forgive and then forgive again",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You are not meant for crawling, so don’t. You have wings. Learn to use them and fly",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Patience with small details makes perfect a large work, like the universe",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Anyone who genuinely and consistently with both hands looks for something, will find it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "In each moment the fire rages, it will burn away a hundred veils. And carry you a thousand steps toward your goal",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The garden of the world has no limit except in your mind",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When I am silent, I fall into the place where everything is music",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is a life-force within your soul, seek that life. There is a gem in the mountain of your body, seek that mine. O traveller, if you are in search of that, don’t look outside, look inside yourself and seek that",
+            "author": "Unknown"
+        },
+        {
+            "quote": "With every breath, I plant the seeds of devotion, I am a farmer of the heart",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Everyone has been made for some particular work, and the desire for that work has been put in every heart",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Achieve some perfection yourself, so that you may not fall into sorrow by seeing the perfection in others",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don’t be satisfied with stories, how things have gone with others. Unfold your own myth",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Whether one moves slowly or with speed, the one who is a seeker will be a finder",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be a lamp, or a lifeboat, or a ladder. Help someone’s soul heal. Walk out of your house like a shepherd",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let us carve gems out of our stony hearts and let them light our path to love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Start a huge, foolish project, like Noah… it makes absolutely no difference what people think of you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Seek the wisdom that will untie your knot. Seek the path that demands your whole being",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Whoever has heart’s doors wide open, could see the sun itself in every atom",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The message behind the words is the voice of the heart",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You are not one you are a thousand. Just light your lantern",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Work. Keep digging your well. Water is there somewhere",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Love sometimes wants to do us a great favor: hold us upside down and shake all the nonsense out",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Either give me more wine or leave me alone",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Lovers have heartaches that can’t be cured by drugs or sleep, or games, but only by seeing their beloved",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Beauty surrounds us, but usually we need to be walking in a garden to know it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I lost my hat while gazing at the moon, and then I lost my mind",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Gratitude is the wine for the soul. Go on. Get drunk",
+            "author": "Unknown"
+        },
+        {
+            "quote": "This turning toward what you deeply love saves you",
+            "author": "Unknown"
+        },
+        {
+            "author": "Unknown",
+            "quote": "If you are irritated by every rub, how will your mirror be polished?"
+        },
+        {
+            "quote": "I have neither a soul nor a body, for I come from the very Soul of all souls",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When someone beats a rug, the blows are not against the rug, but against the dust in it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Concentrate on the Essence, concentrate on the light",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Death has nothing to do with going away. The sun sets. The moon sets. But they are not gone",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Beyond the rightness or wrongness of things there is a field, I’ll meet you there",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Something opens our wings. Something makes boredom and hurt disappear. Someone fills the cup in front of us: We taste only sacredness",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Every need brings what’s needed. Pain bears its cure like a child. Having nothing produces provisions. Ask a difficult question, and the marvelous answer appears",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Discard yourself and thereby regain yourself. Spread the trap of humility and ensnare love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "All that you think is rain is not. Behind the veil angels sometimes weep",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Inside any deep asking is the answering",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Wisdom tells us we are not worthy; love tells us we are. My life flows between the two",
+            "author": "Unknown"
+        },
+        {
+            "author": "Unknown",
+            "quote": "Why do you stay in prison when the door is so wide open?"
+        },
+        {
+            "quote": "My words are like a ship, and the sea is their meaning. Come to me and I will take you to the depths of spirit. I will meet you there",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Ignore those that make you fearful and sad, that degrade you back towards disease and death",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The time has come to turn your heart into a temple of fire",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Open your hands if you want to be held",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Gamble everything for love, if you are a true human being",
+            "author": "Halfheartedness does not reach into majesty!"
+        },
+        {
+            "quote": "Be melting snow. Wash yourself of yourself",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The soul is here for its own joy",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Seek the sound that never ceases. Seek the sun that never sets",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Conventional opinion is the ruin of our souls",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Whatever purifies you is the right path, I will not try to define it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let go of your mind and then be mindful. Close your ears and listen",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The world is a mountain, in which your words are echoed back to you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "All your anxiety is because of your desire for harmony. Seek disharmony, then you will gain peace",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Anything which is more than our necessity is poison. It may be power, wealth, hunger, ego, greed, laziness, love, ambition, hate or anything",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Poetry can be dangerous, especially beautiful poetry, because it gives the illusion of having had the experience without actually going through it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "In their seeking, wisdom and madness are one and the same. On the path of love, friend and stranger are one and the same",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Clean out your ears, don’t listen for what you already know",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The desire to know your own soul will end all other desires",
+            "author": "Unknown"
+        },
+        {
+            "quote": "O, happy the soul that saw its own faults",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When you lose all sense of self, the bonds of a thousand chains will vanish",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Peaceful is the one who’s not concerned with having more or less. Unbound by name and fame, he is free from sorrow from the world and mostly from himself",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Two there are who are never satisfied – the lover of the world and the lover of knowledge",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your radiance shines in every atom of creation yet our petty desires keep it hidden",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Everything about yesterday has gone with yesterday. Today, it is needed to say new things",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Why are you knocking at every door? Go, knock at the door of your own heart",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Love risks everything and asks for nothing",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Lovers don’t finally meet somewhere. They’re in each other all along",
+            "author": "Unknown"
+        },
+        {
+            "quote": "May these vows and this marriage be blessed",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You have within you more love than you could ever understand",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When you seek love with all your heart you shall find its echo in the universe",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you want to win hearts, sow the seeds of Love. If you want heaven, stop scattering thorns on the road",
+            "author": "Unknown"
+        },
+        {
+            "quote": "This is love: to fly toward a secret sky, to cause a hundred veils to fall each moment. First to let go of life. Finally, to take a step without feet",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The minute I heard my first love story I started looking for you, not knowing how blind that was. Lovers don’t finally meet somewhere. They’re in each other all along",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Goodbyes are only for those who love with their eyes. Because for those who love with heart and soul there is no such thing as separation",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When I am with you, we stay up all night. When you’re not here, I can’t go to sleep",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is no salvation for the soul but to fall in love. Only lovers can escape out of these two worlds",
+            "author": "Unknown"
+        },
+        {
+            "quote": "This is what love does and continues to do. It tastes like honey to adults and milk to children",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I once had a thousand desires. But in my one desire to know you all else melted away",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I have no companion but Love, no beginning, no end, no dawn. The soul calls from within me: ‘You, ignorant of the way of Love, set me free",
+            "author": "’"
+        },
+        {
+            "quote": "On the path of love we are neither masters nor the owners of our lives. We are only a brush in the hand of the master painter",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Whatever happens, just keep smiling and lose yourself in love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "This sky where we live is no place to lose your wings so love, love, love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "A thousand half-loves must be forsaken to take one whole heart home",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Why ever talk of miracles when you are destined to become infinite love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When we practice loving kindness and compassion we are the first ones to profit",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I am yours. Don’t give myself back to me",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you love someone, you are always joined with them – in joy, in absence, in solitude, in strife",
+            "author": "Unknown"
+        },
+        {
+            "quote": "This is a subtle truth. Whatever you love, you are",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is a path from me to you that I am constantly looking for",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let yourself be drawn by the stronger pull of that which you truly love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Every moment is made glorious by the light of love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Now I am sober and there’s only the hangover and the memory of love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Travel brings power and love back into your life",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Tend to your vital heart, and all that you worry about will be solved",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Do not worry if all the candles in the world flicker and die. We have the spark that starts the fire",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Come out of the circle of time and into the circle of love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "This being human is a guest house. Every morning is a new arrival. A joy, a depression, a meanness, some momentary awareness comes as an unexpected visitor… Welcome and entertain them all. Treat each guest honorably. The dark thought, the shame, the malice, meet them at the door laughing, and invite them in. Be grateful for whoever comes, because each has been sent as a guide from beyond",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When I run after what I think I want, my days are a furnace of distress and anxiety; If I sit in my own place of patience, what I need flows to me, and without any pain. From this I understand that what I want also wants me, is looking for me and attracting me. There is a great secret in this for anyone who can grasp it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is a life in you, search that life, search the secret jewel in the mountain of your body",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Observe the wonders as they occur around you. Don’t claim them. Feel the artistry moving through and be silent. Don’t grieve. Anything you lose comes round in another form",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Oh soul, you worry too much. You have seen your own strength. You have seen your own beauty. You have seen your golden wings. Of anything less, why do you worry? You are in truth the soul, of the soul, of the soul",
+            "author": "Unknown"
+        },
+        {
+            "quote": "My head is bursting with the joy of the unknown. My heart is expanding a thousand fold",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Why should I be unhappy? Every parcel of my being is in full bloom",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Oh! Joy for he who has escaped from this world of perfumes and color! For beyond these colors and these perfumes, these are other colors in the heart and the soul",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be grateful for your life, every detail of it, and your face will come to shine like a sun, and everyone who sees it will be made glad and peaceful",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The illuminated life can happen now, in the moments left. Die to your ego, and become a true human being",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Travelers, it is late. Life’s sun is going to set. During these brief days that you have strength, be quick and spare no effort of your wings",
+            "author": "Unknown"
+        },
+        {
+            "author": "Unknown",
+            "quote": "Why should I be weary when every cell of my body is bursting with life?"
+        },
+        {
+            "quote": "If destiny comes to help you, love will come to meet you. A life without love isn’t a life",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When you feel a peaceful joy, that’s when you are near truth",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Joy lives concealed in grief",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don’t make yourself miserable with what is to come or not to come",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I learned that every mortal will taste death. But only some will taste life",
+            "author": "Unknown"
+        },
+        {
+            "quote": "With life as short as a half-taken breath, don’t plant anything but love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be kind and honest, and harmful poisons will turn sweet inside you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you want money more than anything, you’ll be bought and sold your whole life",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Listen to the unstruck sounds, and what sifts through that music",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let’s rise above this animalistic behavior and be kind to one another",
+            "author": "Unknown"
+        },
+        {
+            "quote": "My heart, sit only with those who know and understand you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is nothing I want but your presence. In friendship, time dissolves",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be a helpful friend, and you will become a green tree with always new fruit, always deeper journeys into love",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Study me as much as you like, you will never know me. For I differ a hundred ways from what you see me to be",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Stay with friends who support you in these. Talk with them about sacred texts, and how you are doing, and how they are doing, and keep your practices together",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Always search for your innermost nature in those you are with, as rose oil imbibes from roses",
+            "author": "Unknown"
+        },
+        {
+            "quote": "My friend, the sufi is the friend of the present moment. To say tomorrow is not our way",
+            "author": "Unknown"
+        },
+        {
+            "quote": "A warm, rainy day-this is how it feels when friends get together. Friend refreshes friend then, as flowers do each others, in a spring rain",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Words are a pretext. It is the inner bond that draws one person to another, not words",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Friendship of the wise is good; a wise enemy is better than a foolish friend",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you are looking for a friend who is faultless, you will be friendless",
+            "author": "Unknown"
+        },
+        {
+            "author": "Unknown",
+            "quote": "Why struggle to open a door between us when the whole wall is an illusion?"
+        },
+        {
+            "quote": "Friend, our closeness is this: anywhere you put your foot, feel me in the firmness under you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be with those who help your being",
+            "author": "Unknown"
+        },
+        {
+            "quote": "To me, nothing in the world is as precious as a genuine smile, especially from a child",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When a man makes up a story for his child, he becomes a father and a child together, listening",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The intelligent desire self-control; children want candy",
+            "author": "Unknown"
+        },
+        {
+            "quote": "All people on the planet are children, except for a very few. No one is grown up except those free of desire",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I am a child whose teacher is love surely my master won’t let me grow to be a fool",
+            "author": "Unknown"
+        },
+        {
+            "author": "author",
+            "quote": "What will our children do in the morning if they do not see us fly?"
+        },
+        {
+            "quote": "Whenever sorrow comes, be kind to it. For God has placed a pearl in sorrow’s hand",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your depression is connected to your insolence and refusal to praise",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don’t grieve. Anything you lose comes round in another form",
+            "author": "Unknown"
+        },
+        {
+            "quote": "This place is a dream. Only a sleeper considers it real. Then death comes like dawn, and you wake up laughing at what you thought was your grief",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don’t dismiss the heart, even if it’s filled with sorrow. God’s treasures are buried in broken hearts",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don’t be sad! Because God sends hope in the most desperate moments. Don’t forget, the heaviest rain comes out of the darkest clouds",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Sorrow prepares you for joy. It violently sweeps everything out of your house, so that new joy can find space to enter. It shakes the yellow leaves from the bough of your heart, so that fresh, green leaves can grow in their place",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Sorrow… It pulls up the rotten roots, so that new roots hidden beneath have room to grow. Whatever sorrow shakes from your heart, far better things will take their place",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Join the community of saints and know the delight of your own soul. Enter the ruins of your heart and learn the meaning of humility",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Grief can be the garden of compassion. If you keep your heart open through everything, your pain can become your greatest ally in your life’s search for love and wisdom",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The wound is the place where the light enters you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Whoever finds love beneath hurt and grief disappears into emptiness with a thousand new disguises",
+            "author": "Unknown"
+        },
+        {
+            "quote": "But listen to me. For one moment quit being sad. Hear blessings dropping their blossoms around you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Everyone is overridden by thoughts; that’s why they have so much heartache and sorrow",
+            "author": "Unknown"
+        },
+        {
+            "quote": "One of the marvels of the world: The sight of a soul sitting in prison with the key in its hand",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don’t turn away. Keep your gaze on the bandaged place. That’s where the light enters you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don’t get lost in your pain, know that one day your pain will become your cure",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be patient where you sit in the dark. The dawn is coming",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Where there is ruin, there is hope for a treasure",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Suffering is a gift; in its hidden mercy",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Greed makes man blind and foolish, and makes him an easy prey for death",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Do you pay regular visits to yourself? Start now",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Prayer clears the mist and brings back peace to the soul",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Make peace with the universe. Take joy in it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Do good to the people for the sake of God or for the peace of your own soul that you may always see what is pure and save your heart from the darkness of hate",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you could get rid of yourself just once, the secret of secrets would open to you. The face of the unknown, hidden beyond the universe would appear on the mirror of your perception",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Make peace with the universe. Take joy in it. It will turn to gold. Resurrection will be now. Every moment, a new beauty",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Our greatest strength lies in the gentleness and tenderness of our heart",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The fault is in the one who blames. Spirit sees nothing to criticize",
+            "author": "Unknown"
+        },
+        {
+            "quote": "A little while alone in your room will prove more valuable than anything else that could ever be given you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "This silence, this moment, every moment, if it’s genuinely inside you, brings what you need. There’s nothing to believe. Only when I stopped believing in myself did I come into this beauty. Sit quietly, and listen for a voice that will say, ‘Be more silent.’ Die and be quiet. Quietness is the surest sign that you’ve died. Your old life was a frantic running from silence. Move outside the tangle of fear-thinking. Live in silence",
+            "author": "Unknown"
+        },
+        {
+            "quote": "A wealth you cannot imagine flows through you. Do not consider what strangers say. Be secluded in your secret heart-house, that bowl of silence",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Stop, open up, surrender the beloved blind silence. Stay there until you see you’re looking at the light with infinite eyes",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When all your desires are distilled; You will cast just two votes – to love more, and be happy",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Whatever happens to you, don’t fall in despair. Even if all the doors are closed, a secret path will be there for you that no one knows. You can’t see it yet but so many paradises are at the end of this path…Be grateful! It is easy to thank after obtaining what you want, thank before having what you want",
+            "author": "Unknown"
+        },
+        {
+            "quote": "My dear heart, never think you are better than others. Listen to their sorrows with compassion. If you want peace, don’t harbor bad thoughts, do not gossip and don’t teach what you do not know",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Everything is emptiness. Everything else, accidental. Emptiness brings peace to your loving. Everything else, disease. In this world of trickery, emptiness is what your soul wants",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is one way of breathing that is shameful and constricted. Then, there’s another way: a breath of love that takes you all the way to infinity",
+            "author": "Unknown"
+        },
+        {
+            "quote": "That which is false troubles the heart, but truth brings joyous tranquility",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Today, let us swim wildly, joyously in gratitude",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Wear gratitude like a cloak and it will feed every corner of your life",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Thankfulness brings you to the place where the beloved lives",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Do not feel lonely, the entire universe is inside you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Everything in the universe is within you. Ask all from yourself",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The only lasting beauty is the beauty of the heart",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Shine like the whole universe is yours",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Everything that is made beautiful and fair and lovely is made for the eye of one who sees",
+            "author": "Unknown"
+        },
+        {
+            "quote": "On a day when the wind is perfect, the sail just needs to open and the world is full of beauty. Today is such a day",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The very center of your heart is where life begins. The most beautiful place on earth",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you wish to be a mine of jewels, open the deep ocean within your heart",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The sky will bow down to your beauty, if you do",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You have forgotten the One who doesn’t care about ownership, who doesn’t try to turn a profit from every human exchange",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The universe and the light of the stars come through me",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The beauty you see in me is a reflection of you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your light is more magnificent than sunrise or sunset",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The breeze at dawn has secrets to tell you. Don’t go back to sleep",
+            "author": "Unknown"
+        },
+        {
+            "quote": "What hurts the soul? To live without tasting the water of its own essence",
+            "author": "Unknown"
+        },
+        {
+            "quote": "We can’t help being thirsty, moving toward the voice of water",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Silence is an ocean. Speech is a river. When the ocean is searching for you, don’t walk into the river. Listen to the ocean",
+            "author": "Unknown"
+        },
+        {
+            "quote": "When water gets caught in habitual whirlpools, dig a way out through the bottom of the ocean",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is a moon inside every human being. Learn to be companions with it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Who could be so lucky? Who comes to a lake for water and sees the reflection of moon",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be like the sun for grace and mercy. Be like the night to cover others’ faults. Be like running water for generosity. Be like death for rage and anger. Be like the Earth for modesty. Appear as you are. Be as you appear",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Daylight, full of small dancing particles and the one great turning, our souls are dancing with you, without feet, they dance",
+            "author": "Can you see them when I whisper in your ear?"
+        },
+        {
+            "quote": "You have no need to travel anywhere – journey within yourself. Enter a mine of rubies and bathe in the splendor of your own light",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you wish to shine like day, burn up the night of self-existence. Dissolve in the Being who is everything",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your heart is the size of an ocean. Go find yourself in its hidden depths",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Let the waters settle and you will see the moon and the stars mirrored in your own being",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Wherever water flows, life flourishes: wherever tears fall, divine mercy is shown",
+            "author": "Unknown"
+        },
+        {
+            "quote": "How do I know who I am or where I am? How could a single wave locate itself in an ocean",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I have found the heart and will never leave this house of light",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don’t you know yet? It is your Light that lights the worlds",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your task? To work with all the passion of your being to acquire an inner light",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Truth lifts the heart, like water refreshes thirst",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Love is the water of life, jump into this water",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Listen to the sound of waves within you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "We rarely hear the inward music, but we’re all dancing to it nevertheless",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Whosoever knoweth the power of the dance, dwelleth in God",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Dancing is when you rise above both worlds, tearing your heart to pieces and giving up your soul",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Without love, all worship is a burden, all dancing is a chore, all music is mere noise",
+            "author": "Unknown"
+        },
+        {
+            "quote": "In your light I learn how to love. In your beauty, how to make poems. You dance inside my chest where no-one sees you, but sometimes I do, and that sight becomes this art",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Dance, when you’re broken open. Dance, if you’ve torn the bandage off. Dance in the middle of the fighting. Dance in your blood. Dance when you’re perfectly free",
+            "author": "Unknown"
+        },
+        {
+            "quote": "A divine dance appears in the soul and the body at the time of peace and union. Anyone can learn the dance, just listen to the music",
+            "author": "Unknown"
+        },
+        {
+            "quote": "‎Dancing is not just getting up painlessly, like a leaf blown on the wind; dancing is when you tear your heart out and rise out of your body to hang suspended between the worlds",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Be kind to yourself, dear – to our innocent follies. Forget any sounds or touch you knew that did not help you dance. You will come to see that all evolves us",
+            "author": "Unknown"
+        },
+        {
+            "quote": "In order to understand the dance one must be still. And in order to truly understand stillness one must dance",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Dance where you can break yourself up to pieces and totally abandon your worldly passions",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Dance, and make joyous the love around you. Dance, and your veils which hide the Light shall swirl in a heap at your feet",
+            "author": "Unknown"
+        },
+        {
+            "quote": "We came whirling out of nothingness, scattering stars like dust… The stars made a circle, and in the middle, we dance",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I am a drunkard from another kind of tavern. I dance to a silent tune. I am the symphony of stars",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There are many ways to the Divine. I have chosen the ways of song, dance, and laughter",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Looking up gives light, although at first it makes you dizzy",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There are a thousand ways to kneel and kiss the ground; there are a thousand ways to go home again",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The Prophets accept all agony and trust it. For the water has never feared the fire",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Put your thoughts to sleep, do not let them cast a shadow over the moon of your heart. Let go of thinking",
+            "author": "Unknown"
+        },
+        {
+            "quote": "It is certain that an atom of goodness on the path of faith is never lost",
+            "author": "Unknown"
+        },
+        {
+            "quote": "On what is fear: Non-acceptance of uncertainty",
+            "author": "If we accept that uncertainty, it becomes an adventure!"
+        },
+        {
+            "author": "Unknown",
+            "quote": "When you go through a hard period, when everything seems to oppose you, when you feel you cannot even bear one more minute, never give up! Because it is the time and place that the course will divert!"
+        },
+        {
+            "quote": "Those who don’t feel this love pulling them like a river, those who don’t drink dawn like a cup of springwater or take in sunset like a supper, those who don’t want to change, let them sleep",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Move, but don’t move the way fear makes you move",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Always remember you are braver than you believe, stronger than you seem, smarter than you think and twice as beautiful as you’d ever imagined",
+            "author": "Unknown"
+        },
+        {
+            "author": "Unknown",
+            "quote": "Why are you so enchanted by this world, when a mine of gold lies within you?"
+        },
+        {
+            "quote": "You were born with potential. You were born with goodness and trust. You were born with ideals and dreams. You were born with greatness. You were born with wings. You are not meant for crawling, so don’t. You have wings. Learn to use them and fly",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If something makes you happy in this world, you should think of what will happen to you if that thing were taken away",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If reason dominates in man, he rises higher than angels. If lust overpowers man, he descends lower than the beast",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The garden of the world has no limits except in your mind",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Silence is the language of God, all else is poor translation",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I searched for God and found only myself. I searched for myself and found only God",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Each moment contains a hundred messages from God",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Touched",
+            "author": "How did you get here? Close your eyes… and surrender!"
+        },
+        {
+            "quote": "Would you become a pilgrim on the road of love? The first condition is that you make yourself humble as dust and ashes",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Love is the water of life. Everything other than love for the most beautiful God is agony of the spirit, though it be sugar-eating. What is agony of the spirit? To advance toward death without seizing hold of the water of life",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If in thirst you drink water from a cup, you see God in it. Those who are not in love with God will see only their own faces in it",
+            "author": "Unknown"
+        },
+        {
+            "quote": "To become spiritual, you must die to self, and come alive in the Lord. Only then will the mysteries of God fall from your lips. To die to self through self-discipline causes suffering but brings you everlasting life",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is a loneliness more precious than life. There is a freedom more precious than the world. Infinitely more precious than life and the world is that moment when one is alone with God",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Knock, and He’ll open the door. Vanish, and He’ll make you shine like the sun. Fall, and He’ll raise you to the heavens. Become nothing, and He’ll turn you into everything",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Stay in the spiritual fire. Let it cook you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Sit quietly and listen for a voice that will say, \"Be more silent.\" As that happens, your soul starts to revive",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Till man destroys \"self\" he is no true friend of God",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Now be silent. Let the One who creates the words speak. He made the door. He made the lock. He also made the key",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Ways of worshipping are not to be ranked as better or worse than one another… It’s all praise, and it’s all right",
+            "author": "Unknown"
+        },
+        {
+            "author": "Unknown",
+            "quote": "We are all the same… all the same… longing to find our way back… back to the One… back to the only One!"
+        },
+        {
+            "author": "Unknown",
+            "quote": "Why, when God’s world is so big, did you fall asleep in a prison, of all places?"
+        },
+        {
+            "author": "Unknown",
+            "quote": "God turns you from one feeling to another and teaches by means of opposites so that you will have two wings to fly, not one"
+        },
+        {
+            "quote": "All religions. All this singing. One song. Peace be with you",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I am in the House of Mercy, and my heart is a place of prayer",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Don’t wait any longer. Dive in the ocean, leave and let the sea be you",
+            "author": "Rumi"
+        },
+        {
+            "quote": "Everything happens for me, not to me",
+            "author": "Byron Katie"
+        },
+        {
+            "quote": "There are two ways to be. One is at war with reality and the other is at peace",
+            "author": "Byron Katie"
+        },
+        {
+            "quote": "We are what our thoughts have made us; so take care about what you think. Words are secondary. Thoughts live; they travel far",
+            "author": "Swami Vivekananda"
+        },
+        {
+            "quote": "A good life is a surprising life. A surprising life is one with few expectations",
+            "author": "James Clear"
+        },
+        {
+            "quote": "Thoughts are overrated. Intuition is underrated",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "You’re never too important to be nice to people",
+            "author": "Jon Batiste"
+        },
+        {
+            "quote": "If life is a video game, the graphics are great, but the plot is confusing and the tutorial is way too long",
+            "author": "Elon Musk"
+        },
+        {
+            "quote": "In a complex world, intelligence consists in ignoring things that are irrelevant",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "The most important thing is to find out what is the most important thing",
+            "author": "Shunryu Suzuki"
+        },
+        {
+            "quote": "The game is to be where you are. Be it honestly and as consciously as you know how",
+            "author": "Ram Dass"
+        },
+        {
+            "quote": "When there is no desire, all things are at peace",
+            "author": "Lao Tzu (Tao Te Ching, Amazon book)"
+        },
+        {
+            "quote": "We are shaped by our thoughts; we become what we think. When the mind is pure, joy follows like a shadow that never leaves",
+            "author": "Buddha"
+        },
+        {
+            "quote": "We are addicted to our thoughts. We cannot change anything if we cannot change our thinking",
+            "author": "Santosh Kalwar"
+        },
+        {
+            "quote": "The mind without passions is a fortress. No place is more secure",
+            "author": "Marcus Aurelius (Meditations, Amazon book)"
+        },
+        {
+            "quote": "That’s life: starting over, one breath at a time",
+            "author": "Sharon Salzberg"
+        },
+        {
+            "quote": "Who you think you are each day, completely determines the universe you live in",
+            "author": "Ram Dass"
+        },
+        {
+            "quote": "Everything that has a beginning has an ending. Make your peace with that and all will be well",
+            "author": "Jack Kornfield"
+        },
+        {
+            "quote": "What you really value is what you miss, not what you have",
+            "author": "Jorge Luis Borges"
+        },
+        {
+            "quote": "You know, there are two good things in life, freedom of thought and freedom of action",
+            "author": "Somerset Maugham"
+        },
+        {
+            "quote": "The most important thing for learning is doing. The most important thing for success is saying no. The most important thing for happiness is saying yes",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "The happiness of your life depends upon the quality of your thoughts: therefore, guard accordingly, and take care that you entertain no notions unsuitable to virtue and reasonable nature",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "Thinking is easy, acting is difficult, and to put one’s thoughts into action is the most difficult thing in the world",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "The greatest effort is not concerned with results",
+            "author": "Atisha"
+        },
+        {
+            "quote": "One gains by losing and loses by gaining",
+            "author": "Zen proverb"
+        },
+        {
+            "quote": "Embrace discomfort. That’s how you’ll learn, grow, become strong, and ultimately, become free",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Your desire for pleasure or happiness makes you unhappy",
+            "author": "Sri Sri Ravi Shankar"
+        },
+        {
+            "quote": "No matter how much you try to hold on to something, it will all be gone",
+            "author": "Taoist proverb"
+        },
+        {
+            "quote": "If we are facing in the right direction, all we have to do is keep on walking",
+            "author": "Buddhist proverb"
+        },
+        {
+            "quote": "Slow reading, most enjoyable reading. Slow learning, deepest understanding. Slow to conclusions, deepest thinking. Rushing can make you waste time and life",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Drop the idea of becoming someone, because you are already a masterpiece. You cannot be improved. You have only to come to it, to know it, to realize it",
+            "author": "Osho"
+        },
+        {
+            "quote": "If you look deeply into the palm of your hand, you will see your parents and all generations of your ancestors. All of them are alive in this moment. Each is present in your body. You are the continuation of each of these people",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "Craziness is good. Crazy people are happy, free, they have no hindrance. But since you have many attachment, you are only a little crazy. This is not crazy enough. You must become completely crazy. Then you will understand",
+            "author": "Seungsahn"
+        },
+        {
+            "quote": "Wisdom tells me I am nothing, love tells me I am everything. Between the two, my life flows",
+            "author": "Nisargadatta"
+        },
+        {
+            "quote": "Those who seek the easy way do not seek the true way",
+            "author": "Dogen"
+        },
+        {
+            "quote": "Neither seek nor avoid, take what comes",
+            "author": "Swami Vivekananda"
+        },
+        {
+            "quote": "When you become a lover of what is, the war is over",
+            "author": "Byron Katie"
+        },
+        {
+            "quote": "The key to everything: give yourself permission to be who you really are",
+            "author": "Susan Cain"
+        },
+        {
+            "quote": "We think too much and feel too little",
+            "author": "Charlie Chaplin"
+        },
+        {
+            "quote": "Where does a thought go when it’s forgotten?",
+            "author": "Sigmund Freud"
+        },
+        {
+            "quote": "He who is untrue to his own cause cannot command the respect of others",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "We experience ourselves our thoughts and feelings as something separate from the rest. A kind of optical delusion of consciousness. This delusion is a kind of prison for us, restricting us to our personal desires and to affection for a few persons nearest to us",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "Most people are other people. Their thoughts are someone else’s opinions, their lives a mimicry, their passions a quotation",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Presence is when you’re no longer waiting for the next moment, believing that the next moment will be more fulfilling than this one",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "As human beings, all 7 billion of us are born the same way and die the same way. Physically, mentally and emotionally we are the same. We all want to live a happy life and avoid problems, but in a materialistic culture we overlook the importance of love and affection",
+            "author": "14th Dalai Lama"
+        },
+        {
+            "quote": "Man is born free, but everywhere he is in chains",
+            "author": "Jean-Jacques Rousseau"
+        },
+        {
+            "quote": "I cannot teach anybody anything. I can only make them think",
+            "author": "Socrates"
+        },
+        {
+            "quote": "Be a loner. That gives you time to wonder, to search for the truth. Have holy curiosity. Make your life worth living",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "We have never arrived. We are in a constant state of becoming",
+            "author": "Bob Dylan"
+        },
+        {
+            "quote": "God is a comedian playing to an audience too afraid to laugh",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "The more man meditates upon good thoughts, the better will be his world and the world at large",
+            "author": "Confucius"
+        },
+        {
+            "quote": "Most people would sooner die than think; in fact, they do so",
+            "author": "Bertrand Russell"
+        },
+        {
+            "quote": "I never learned anything when I was talking",
+            "author": "Larry King"
+        },
+        {
+            "quote": "A clear rejection is always better than a fake promise",
+            "author": "Zig Ziglar"
+        },
+        {
+            "quote": "In order to understand the world, one has to turn away from it on occasion",
+            "author": "Albert Camus"
+        },
+        {
+            "quote": "The only shame is to have none",
+            "author": "Blaise Pascal"
+        },
+        {
+            "quote": "Don’t push the river; let the river flow",
+            "author": "Arianna Huffington"
+        },
+        {
+            "quote": "Act without expectation",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Ignorance is bold",
+            "author": "Thucydides"
+        },
+        {
+            "quote": "No clinging, no seeking",
+            "author": "Zen proverb"
+        },
+        {
+            "quote": "Direction matters more than speed",
+            "author": "Shane Parrish"
+        },
+        {
+            "quote": "Recognize and honor your uniqueness",
+            "author": "Sri Sri Ravi Shankar"
+        },
+        {
+            "quote": "To think for yourself, question yourself",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "You are still guided by your expectations",
+            "author": "Chuang Tzu"
+        },
+        {
+            "quote": "A meditator is both an artist and a warrior",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "Some lose yet gain, others gain and yet lose",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "Those who stand for nothing fall for anything",
+            "author": "Alexander Hamilton"
+        },
+        {
+            "quote": "Talking is overrated. Listening is underrated",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "To find yourself, think for yourself",
+            "author": "Socrates"
+        },
+        {
+            "quote": "Remember: eventually, no one will remember you",
+            "author": "Jack Butcher (See also: death quotes)"
+        },
+        {
+            "quote": "Where all think alike, no one thinks very much",
+            "author": "Walter Lippmann"
+        },
+        {
+            "quote": "You always admire what you really don’t understand",
+            "author": "Blaise Pascal"
+        },
+        {
+            "quote": "The really important thing is not to reject anything",
+            "author": "Susan Sontag"
+        },
+        {
+            "quote": "Growth is the art of failing without self-destructing",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Think long term. Execute short term. Appreciate the present",
+            "author": "@TheStoicEmperor"
+        },
+        {
+            "quote": "A thought, even a possibility, can shatter and transform us",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "If you want to cure the world, don’t emanate fear – emanate love",
+            "author": "Ram Dass"
+        },
+        {
+            "quote": "The fool has many thoughts, dramatize them and becomes agitated. The wise has many thoughts, ignore most of them and stay cool-headed",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "A man is literally what he thinks, his character being the complete sum of all his thoughts",
+            "author": "James Allen (As a Man Thinketh, Amazon book)"
+        },
+        {
+            "quote": "Look at the moon. It travels in the sky completely free, and this freedom produces beauty and happiness",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "The most important things in life are so simple: be good to people, cherish your friends and family, do what makes you happy, be present",
+            "author": "Jack Altman"
+        },
+        {
+            "quote": "The present moment. It’s where high performance is expressed and wisdom is revealed",
+            "author": "Michael Gervais"
+        },
+        {
+            "quote": "The power is in you. The answer is in you. And you are the answer to all your searches: you are the goal. You are the answer. It’s never outside",
+            "author": "Eckhart Tolle"
+        },
+        {
+            "quote": "Everything in your life is there as a vehicle for your transformation. Use it",
+            "author": "Ram Dass"
+        },
+        {
+            "quote": "Life’s meaning is not in following someone else, it is in the unfolding of one’s own self. It is not a process of becoming like someone else, it is to be oneself",
+            "author": "Osho"
+        },
+        {
+            "quote": "No one is born with self-confidence. No one is born with a clear mind. No one is born with courage. They are all acquired. Decades of efforts. Just keep going",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "If you never write, you never think. If you never instruct, you never master. If you never give, you never bond. If you never travel, you never notice. If you never create, you never live",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Most people feel that they become more and more authentic over the course of their lives. I think that the older we get, the less we give a damn who we’re \"supposed\" to be",
+            "author": "Susan Cain"
+        },
+        {
+            "quote": "Go back and take care of yourself. Your body needs you, your feelings need you, your perceptions need you",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "Our practice is to cultivate good seeds in the soil of our mind, knowing that they will mature and bloom in their own time",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "Our quality of being determines our quality of doing",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "There are years that ask questions, and years that answer",
+            "author": "Zora Neale Hurston"
+        },
+        {
+            "quote": "Our deepest nature is to awaken and flower",
+            "author": "Tara Brach"
+        },
+        {
+            "quote": "People say nothing is impossible, but I do nothing every day. Winnie the Pooh (A. A",
+            "author": "Milne)"
+        },
+        {
+            "quote": "To err is human; to admit it, superhuman",
+            "author": "Doug Larson"
+        },
+        {
+            "quote": "If you want your children to listen, try talking softly to someone else",
+            "author": "Ann Landers"
+        },
+        {
+            "quote": "I have a lot of growing up to do. I realized that the other day inside my fort",
+            "author": "Zach Galifianakis"
+        },
+        {
+            "quote": "Men marry women with the hope they will never change. Women marry men with the hope they will change. Invariably they are both disappointed",
+            "author": "Albert Einstein"
+        },
+        {
+            "quote": "As you get older, three things happen. The first is your memory goes, and I can’t remember the other two",
+            "author": "Sir Norman Wisdom"
+        },
+        {
+            "quote": "\"That’s funny\" is a nice way of letting someone know it really wasn’t",
+            "author": "Sammy Rhodes"
+        },
+        {
+            "quote": "How many people here have telekenetic powers? Raise my hand",
+            "author": "Emo Philips"
+        },
+        {
+            "quote": "I refuse to join any club that would have me as a member",
+            "author": "Groucho Marx"
+        },
+        {
+            "quote": "Fools laugh at others. The wise laugh with others. The wisest laugh at themselves",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Always and never are two words you should always remember never to use",
+            "author": "Wendell Johnson"
+        },
+        {
+            "quote": "The public have an insatiable curiosity to know everything, except what is worth knowing",
+            "author": "Oscar Wilde"
+        },
+        {
+            "quote": "Clothes make the man. Naked people have little or no influence in society",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "Go to Heaven for the climate, Hell for the company",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "A day without sunshine is like, you know, night",
+            "author": "Steve Martin"
+        },
+        {
+            "quote": "Comfort is no test of truth. Truth is often far from being comfortable",
+            "author": "Swami Vivekananda"
+        },
+        {
+            "quote": "It’s okay to be alone, to be sad, to rest and repair. Really",
+            "author": "Susan Cain"
+        },
+        {
+            "quote": "Little things console us because little things afflict us",
+            "author": "Blaise Pascal"
+        },
+        {
+            "quote": "There are only two kinds of men: the righteous who think they are sinners and the sinners who think they are righteous",
+            "author": "Blaise Pascal"
+        },
+        {
+            "quote": "If only humanity made its loving as frequent and as detailed as its complaining",
+            "author": "Philip Arnold"
+        },
+        {
+            "quote": "Brief is man’s life and small the nook of the Earth where he lives; brief, too, is the longest posthumous fame, buoyed only by a succession of poor human beings who will very soon die and who know little of themselves, much less of someone who died long ago",
+            "author": "Marcus Aurelius"
+        },
+        {
+            "quote": "No one can see their reflection in running water. It is only in still water that we can see",
+            "author": "Lao Tzu"
+        },
+        {
+            "quote": "The most dangerous man to any government is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane, and intolerable. H.L",
+            "author": "Mencken (Prejudices: Third Series)"
+        },
+        {
+            "quote": "Money isn’t the goal. Freedom is. Kids aren’t the goal. Loving is. Talent isn’t the goal. Growth is. The goal isn’t the goal. Meaning is",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Modern medicine is more about money than about health. Modern education is more about credentials than about learning. Modern traveling is more about social signaling than about discovery",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Abundance is harder for us to handle than scarcity",
+            "author": "Nassim Nicholas Taleb"
+        },
+        {
+            "quote": "If you don’t crave for joy, misery won’t touch you. If you don’t crave for peace, nothing will disturb you",
+            "author": "Sri Sri Ravi Shankar"
+        },
+        {
+            "quote": "What makes you ‘you’? If you find this out, your life becomes an eternal celebration",
+            "author": "Sri Sri Ravi Shankar"
+        },
+        {
+            "quote": "Nothing in the world can bother you as much as your own mind, I tell you. In fact, others seem to be bothering you, but it is not other, it is your own mind",
+            "author": "Sri Sri Ravi Shankar"
+        },
+        {
+            "quote": "We are prisoners of the present, in perpetual transition from an inaccessible past to an unknowable future",
+            "author": "Neil deGrasse Tyson"
+        },
+        {
+            "quote": "If you look for truth, you may find comfort in the end: if you look for comfort you will not get either comfort or truth – only soft soap and wishful thinking to begin with and, in the end, despair. C.S",
+            "author": "Lewis"
+        },
+        {
+            "quote": "To be nobody but yourself in a world which is doing its best day and night to make you like everybody else means to fight the hardest battle which any human being can fight and never stop fighting. E.E",
+            "author": "Cummings"
+        },
+        {
+            "quote": "In a society that profits from your self-doubt, liking yourself is a rebellious act",
+            "author": "Caroline Caldwell"
+        },
+        {
+            "quote": "Your perspective on life comes from the cage you were held captive in. Shannon L",
+            "author": "Alder"
+        },
+        {
+            "quote": "The more you meditate, the more you understand yourself, the more peaceful you can be",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "What you are aware of, you are in control of; what you are not aware of, is in control of you",
+            "author": "Anthony de Mello"
+        },
+        {
+            "quote": "The foolish reject what they see, not what they think; the wise reject what they think, not what they see",
+            "author": "Huang Po"
+        },
+        {
+            "quote": "The fools have busy minds and busy calendars. The wise have quiet minds and quiet calendars. The wiser have fulfilled minds and no calendar",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "You should be far more concerned with your current trajectory than with your current results",
+            "author": "James Clear (Atomic Habits, Amazon book)"
+        },
+        {
+            "quote": "Conquer the angry man by love. Conquer the ill-natured man by goodness. Conquer the liar with truth",
+            "author": "The Dhammapada"
+        },
+        {
+            "quote": "He who tries to shine dims his own light. He who defines himself can’t know who he really is",
+            "author": "Lao Tzu (Tao Te Ching)"
+        },
+        {
+            "quote": "Three treasures I cherish: The first is fathomless love, the second is frugality, and the third is reluctance to lead",
+            "author": "Lao Tzu (Tao Te Ching)"
+        },
+        {
+            "quote": "Continuous eloquence wearies. Grandeur must be abandoned to be appreciated. Continuity in everything is unpleasant. Cold is agreeable, that we may get warm",
+            "author": "Blaise Pascal"
+        },
+        {
+            "quote": "When people do not ignore what they should ignore, but ignore what they should not ignore, this is ignorance",
+            "author": "Zhuangzi"
+        },
+        {
+            "quote": "The way of the sage is to act but not to compete",
+            "author": "Lao Tzu (Tao Te Ching)"
+        },
+        {
+            "quote": "The future is being made out of the present, so the best way to take care of the future is to take care of the present moment. This is logical and clear",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "If you miss the present moment, you miss your appointment with life",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "There is the mud, and there is the lotus that grows out of the mud. We need the mud in order to make the lotus",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "If you follow wisdom, fun follows you. If you follow fun, misery follows you",
+            "author": "Sri Sri Ravi Shankar"
+        },
+        {
+            "quote": "The truly smart don’t care about looking smart. The truly rich don’t care about looking rich. The truly happy don’t care about looking happy",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Food fasting fixes the body. Thought fasting fixes the mind. Judgment fasting fixes relationships. Have the courage to get less: you will get more",
+            "author": "@orangebook_"
+        },
+        {
+            "quote": "Never assume it’s too late, but remember you don’t have forever",
+            "author": "Johnny Uzan"
+        },
+        {
+            "quote": "Darkness is an absence of light. Ego is an absence of awareness",
+            "author": "Osho"
+        },
+        {
+            "quote": "The power of man’s virtue should not be measured by his special efforts, but by his ordinary doings",
+            "author": "Blaise Pascal"
+        },
+        {
+            "quote": "A man who is never foolish is not as wise as he thinks",
+            "author": "François de La Rochefoucauld"
+        },
+        {
+            "quote": "It might sound pessimistic, but I remember one teacher saying to always live life with death on the side, the idea of remembering how precious life is. I think about it every day, like, \"Wow, life will end for all of us",
+            "author": "\" Andy Puddicombe"
+        }
+    ]
+}

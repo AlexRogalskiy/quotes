@@ -1,6 +1,7 @@
 import lunr from 'lunr'
 import { readFileSync, writeFileSync } from 'fs'
 import { join } from 'path'
+import boxen from 'boxen'
 
 import { quotes } from './quotes'
 
@@ -32,13 +33,27 @@ const storeIndex = (): lunr.Index => {
 
         const index = createIndex()
         const indexPath = getIndexPath(filePath)
-        console.log(`Storing index file by path=${indexPath}`)
+        console.log(
+            boxen(`Storing index file by path=${indexPath}`, {
+                padding: 1,
+                margin: 1,
+                borderStyle: 'single',
+                borderColor: 'yellow',
+            })
+        )
 
         writeFileSync(indexPath, JSON.stringify(index))
 
         return index
     } catch (e) {
-        console.error(`Failed to store index file, message=${e.message}`)
+        console.error(
+            boxen(`Failed to store index file, message=${e.message}`, {
+                padding: 1,
+                margin: 1,
+                borderStyle: 'double',
+                borderColor: 'red',
+            })
+        )
         throw e
     }
 }
@@ -46,13 +61,27 @@ const storeIndex = (): lunr.Index => {
 const restoreIndex = (): lunr.Index => {
     try {
         const indexPath = getIndexPath(filePath)
-        console.log(`Restoring index file from path=${indexPath}`)
+        console.log(
+            boxen(`Restoring index file from path=${indexPath}`, {
+                padding: 1,
+                margin: 1,
+                borderStyle: 'single',
+                borderColor: 'yellow',
+            })
+        )
 
         const index = readFileSync(indexPath, 'utf-8')
 
         return lunr.Index.load(JSON.parse(index))
     } catch (e) {
-        console.error(`Failed to restore index file, message=${e.message}`)
+        console.error(
+            boxen(`Failed to restore index file, message=${e.message}`, {
+                padding: 1,
+                margin: 1,
+                borderStyle: 'double',
+                borderColor: 'red',
+            })
+        )
         throw e
     }
 }
