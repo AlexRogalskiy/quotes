@@ -29,6 +29,9 @@ jobs:
       - name: Install all node packages
         run: npm install
 
+      - name: Run test all
+        run: npm run test:all
+
       - name: Start development server
         run: |
           npm run develop &

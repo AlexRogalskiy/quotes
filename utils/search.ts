@@ -9,20 +9,6 @@ import { CategoryPattern } from '../typings/types'
 import { ensureDirExists, tempDir } from './commons'
 import { profile } from './env'
 
-export const createIndex = (): lunr.Index => {
-    return lunr(function () {
-        this.field('quote')
-        this.field('author')
-
-        for (const category of Object.values(CategoryPattern)) {
-            for (const [index, value] of quotes[category].entries()) {
-                value.id = `${category}${profile.indexOptions.delimiter}${index}`
-                this.add(value)
-            }
-        }
-    })
-}
-
 const filePath: string = join(tempDir, `${profile.indexOptions.path}`)
 
 const getIndexPath = (filePath: string): string => join(filePath, `${profile.indexOptions.name}`)
@@ -33,6 +19,7 @@ const storeIndex = (): lunr.Index => {
 
         const index = createIndex()
         const indexPath = getIndexPath(filePath)
+
         console.log(
             boxen(`Storing index file by path=${indexPath}`, {
                 padding: 1,
@@ -61,6 +48,7 @@ const storeIndex = (): lunr.Index => {
 const restoreIndex = (): lunr.Index => {
     try {
         const indexPath = getIndexPath(filePath)
+
         console.log(
             boxen(`Restoring index file from path=${indexPath}`, {
                 padding: 1,
@@ -86,12 +74,24 @@ const restoreIndex = (): lunr.Index => {
     }
 }
 
-const getIndex = (): lunr.Index => {
+const createIndex = (): lunr.Index => {
+    return lunr(function () {
+        this.field('quote')
+        this.field('author')
+
+        for (const category of Object.values(CategoryPattern)) {
+            for (const [index, value] of quotes[category].entries()) {
+                value.id = `${category}${profile.indexOptions.delimiter}${index}`
+                this.add(value)
+            }
+        }
+    })
+}
+
+export const idx = (): lunr.Index => {
     try {
         return restoreIndex()
     } catch (e) {
         return storeIndex()
     }
 }
-
-export const idx = getIndex()

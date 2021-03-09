@@ -4,10 +4,10 @@ import randomColor from 'randomcolor'
 
 import { delim, getSearchResults, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'
-import { idx } from './search'
 import { profile } from './env'
 
 import { quotes } from './quotes'
+import { idx } from './search'
 
 export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<string> {
     const { category, keywords, width, height, ...rest } = parsedRequest
@@ -27,7 +27,9 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
         `
     )
 
-    const quoteData: QuoteData | null = keywords ? getQuoteByKeywords(keywords) : getQuoteByCategory(category)
+    const quoteData: QuoteData | null = keywords
+        ? await getQuoteByKeywords(keywords)
+        : await getQuoteByCategory(category)
 
     return quoteData
         ? `
@@ -53,9 +55,9 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
         : ''
 }
 
-const getQuoteByKeywords = (keywords: string | string[]): QuoteData | null => {
-    keywords = typeof keywords === 'string' ? keywords.split(',') : keywords
-    const searchResults = getSearchResults(idx, keywords.join(' '))
+const getQuoteByKeywords = async (keywords: string | string[]): Promise<QuoteData | null> => {
+    const searchKeys = typeof keywords === 'string' ? keywords.split(',') : keywords
+    const searchResults = getSearchResults(idx(), searchKeys.join(' '))
     const searchData = randomElement(searchResults)
 
     return searchData ? getQuoteById(searchData.ref) : null
@@ -63,10 +65,12 @@ const getQuoteByKeywords = (keywords: string | string[]): QuoteData | null => {
 
 const getQuoteById = (value: string): QuoteData => {
     const data = value.split(profile.indexOptions.delimiter)
+
     return quotes[data[0]][data[1]]
 }
 
-const getQuoteByCategory = (category: string | undefined): QuoteData => {
+const getQuoteByCategory = async (category: string | undefined): Promise<QuoteData> => {
     const data: QuoteData[] = category ? quotes[category] : quotes[randomEnum(CategoryPattern)]
+
     return randomElement(data)
 }

@@ -2,19 +2,21 @@
     "name": "styled-quotes",
     "version": "0.0.0-dev",
     "description": "Automatically generate styled SVG quotes upon request",
-    "main": "index.js",
+    "main": "api/index.ts",
     "license": "GPL-3.0",
     "scripts": {
         "deploy:dev": "env-cmd --silent -e prod vercel",
         "deploy:prod": "env-cmd --silent -e prod vercel --prod",
-        "develop": "env-cmd --silent -e dev vercel dev",
+        "development": "env-cmd --silent -e dev vercel dev",
+        "develop": "concurrently --prefix \"[{name}]:{time}\" --names \"index,dev\" \"npm run index\" \"npm run development\"",
         "format": "prettier --single-quote --write **/*.ts",
         "format:check": "prettier --check **/*.ts",
         "lint": "eslint --cache --fix --quiet --format codeframe --ext js,ts .",
         "reinstall": "del-cli ./node_modules ./package-lock.json ./yarn.lock",
+        "index": "node scripts/createIndex.js",
         "postreinstall": "yarn setup",
         "postinstall": "husky install",
-        "prepare": "rimraf coverage .cache",
+        "prepare": "rimraf coverage .cache && npm run index",
         "setup": "yarn",
         "semantic-release": "semantic-release",
         "test": "env-cmd --silent -e test jest",
@@ -24,11 +26,12 @@
         "all": "npm run format && npm run lint"
     },
     "dependencies": {
+        "concurrently": "^6.0.0",
+        "env-cmd": "^10.1.0",
         "hero-patterns": "^2.1.0",
         "isomorphic-unfetch": "^3.1.0",
         "lodash": "^4.17.20",
-        "lunr": "^2.3.9",
-        "env-cmd": "^10.1.0"
+        "lunr": "^2.3.9"
     },
     "devDependencies": {
         "@semantic-release/github": "^7.2.0",
