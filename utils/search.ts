@@ -9,6 +9,23 @@ import { CategoryPattern } from '../typings/types'
 import { ensureDirExists, tempDir } from './commons'
 import { profile } from './env'
 
+const cron = require('node-cron');
+
+const task = cron.schedule('0 * * * *', () => {
+    console.log(
+        boxen(`Running task every 60 minutes on index search`, {
+            padding: 1,
+            margin: 1,
+            borderStyle: 'single',
+            borderColor: 'yellow',
+        })
+    )
+
+    storeIndex()
+})
+
+task.start()
+
 const filePath: string = join(tempDir, `${profile.indexOptions.path}`)
 
 const getIndexPath = (filePath: string): string => join(filePath, `${profile.indexOptions.name}`)
