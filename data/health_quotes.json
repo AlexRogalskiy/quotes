@@ -1,0 +1,716 @@
+{
+    "health": [
+        {
+            "quote": "It is health that is real wealth and not pieces of gold and silver",
+            "author": "Mahatma Gandhi"
+        },
+        {
+            "quote": "He who has health has hope; and he who has hope has everything",
+            "author": "Arabian proverb"
+        },
+        {
+            "quote": "It is exercise alone that supports the spirits, and keeps the mind in vigor",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Keep your vitality. A life without health is like a river without water",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "Three things in life – your health, your mission, and the people you love. That’s it",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "A fit body, a calm mind, a house full of love. These things cannot be bought – they must be earned",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "True silence is the rest of the mind, and is to the spirit what sleep is to the body, nourishment and refreshment",
+            "author": "William Penn"
+        },
+        {
+            "quote": "Happiness is the highest form of health",
+            "author": "Dalai Lama"
+        },
+        {
+            "quote": "The human body is the best picture of the human soul",
+            "author": "Tony Robbins"
+        },
+        {
+            "quote": "A good laugh and a long sleep are the best cures in the doctor’s book",
+            "author": "Irish proverb"
+        },
+        {
+            "quote": "Man needs difficulties; they are necessary for health",
+            "author": "Carl Jung"
+        },
+        {
+            "quote": "The more you understand yourself, the more silence there is, the healthier you are",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "The greatest of follies is to sacrifice health for any other kind of happiness",
+            "author": "Arthur Schopenhauer"
+        },
+        {
+            "quote": "What is called genius is the abundance of life and health",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Doctors won’t make you healthy. Nutritionists won’t make you slim. Teachers won’t make you smart. Gurus won’t make you calm. Mentors won’t make you rich. Trainers won’t make you fit. Ultimately, you have to take responsibility. Save yourself",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "The greatest wealth is health",
+            "author": "Virgil"
+        },
+        {
+            "quote": "Let food be thy medicine and medicine be thy food",
+            "author": "Hippocrates"
+        },
+        {
+            "quote": "Health is a vehicle, not a destination",
+            "author": "Joshua Fields Millburn"
+        },
+        {
+            "quote": "When the heart is at ease, the body is healthy",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "In a disordered mind, as in a disordered body, soundness of health is impossible",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Your health is what you make of it. Everything you do and think either adds to the vitality, energy and spirit you possess or takes away from it",
+            "author": "Ann Wigmore"
+        },
+        {
+            "quote": "Good health and good sense are two of life’s greatest blessings",
+            "author": "Publilius Syrus"
+        },
+        {
+            "quote": "Give a man health and a course to steer, and he’ll never stop to trouble about whether he’s happy or not",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "The scientific truth may be put quite briefly; eat moderately, having an ordinary mixed diet, and don’t worry",
+            "author": "Robert Hutchison"
+        },
+        {
+            "quote": "Before healing others, heal yourself",
+            "author": "Gambian saying"
+        },
+        {
+            "quote": "I believe that the greatest gift you can give your family and the world is a healthy you",
+            "author": "Joyce Meyer"
+        },
+        {
+            "quote": "Moderation. Small helpings. Sample a little bit of everything. These are the secrets of happiness and good health",
+            "author": "Julia Child"
+        },
+        {
+            "quote": "Nobody can be in good health if he does not have all the time fresh air, sunshine and good water",
+            "author": "Flying Hawk (Native American saying)"
+        },
+        {
+            "quote": "The secret of health for both mind and body is not to mourn for the past, not to worry about the future, or not to anticipate troubles, but to live in the present moment wisely and earnestly",
+            "author": "Buddhist saying"
+        },
+        {
+            "quote": "Happiness is nothing more than good health and a bad memory",
+            "author": "Albert Schweitzer"
+        },
+        {
+            "quote": "Keeping your body healthy is an expression of gratitude to the whole cosmos – the trees, the clouds, everything",
+            "author": "Thich Nhat Hanh"
+        },
+        {
+            "quote": "Life is like a tree and its root is consciousness. Therefore, once we tend the root, the tree as a whole will be healthy",
+            "author": "Deepak Chopra"
+        },
+        {
+            "quote": "True friendship is like sound health; the value of it is seldom known until it is lost",
+            "author": "Charles Caleb Colton"
+        },
+        {
+            "quote": "Good humor is the health of the soul, sadness is its poison",
+            "author": "Philip Stanhope, 4th Earl of Chesterfield"
+        },
+        {
+            "quote": "Sickness – nature’s vengeance for violating her laws",
+            "author": "Charles Simmons"
+        },
+        {
+            "quote": "After dinner rest a while; after supper walk a mile.",
+            "author": "T Cogan"
+        },
+        {
+            "quote": "In order to change we must be sick and tired of being sick and tired",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The wish for healing has always been half of health",
+            "author": "Lucius Annaeus Seneca"
+        },
+        {
+            "quote": "Your body hears everything your mind says",
+            "author": "Naomi Judd"
+        },
+        {
+            "quote": "Health consists with temperance alone",
+            "author": "Alexander Pope"
+        },
+        {
+            "quote": "Health is a relationship between you and your body",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Health is a large word. It embraces not the body only, but the mind and spirit as well; …and not today’s pain or pleasure alone, but the whole being and outlook of a man. James H",
+            "author": "West"
+        },
+        {
+            "quote": "Health is the thing that makes you feel that now is the best time of year. Franklin P",
+            "author": "Adams"
+        },
+        {
+            "quote": "Early to bed and early to rise, makes a man healthy, wealthy and wise",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Health is the greatest gift, contentment the greatest wealth, faithfulness the best relationship",
+            "author": "Buddha"
+        },
+        {
+            "quote": "Physical fitness is not only one of the most important keys to a healthy body, it is the basis of dynamic and creative intellectual activity.",
+            "author": "John F Kennedy"
+        },
+        {
+            "quote": "I have chosen to be happy because it is good for my health",
+            "author": "Voltaire"
+        },
+        {
+            "quote": "When a man is ill his very goodness is sickly",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "An apple a day keeps the doctor away",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Health is the first muse, comprising the magical benefits of air, landscape, and bodily exercise on the mind",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "I stand in awe of my body",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "There is one consolation in being sick; and that is the possibility that you may recover to a better state than you were ever in before",
+            "author": "Henry David Thoreau"
+        },
+        {
+            "quote": "Our bodies are our gardens – our wills are our gardeners",
+            "author": "William Shakespeare"
+        },
+        {
+            "quote": "Eat to live, not live to eat",
+            "author": "Socrates"
+        },
+        {
+            "quote": "Prevention is better than cure",
+            "author": "Desiderius Erasmus"
+        },
+        {
+            "quote": "The biggest disease today is not leprosy or tuberculosis, but rather the feeling of being unwanted",
+            "author": "Mother Teresa"
+        },
+        {
+            "quote": "I am confident that nobody will accuse me of selfishness if I ask to spend time, while I am still in good health, with my family, my friends and also with myself",
+            "author": "Nelson Mandela"
+        },
+        {
+            "quote": "Money doesn’t mean anything to me. I’ve made a lot of money, but I want to enjoy life and not stress myself building my bank account. I give lots away and live simply, mostly out of a suitcase in hotels. We all know that good health is much more important",
+            "author": "Keanu Reeves"
+        },
+        {
+            "quote": "Love is not as important as good health. You cannot be in love if you’re not healthy. You can’t appreciate it",
+            "author": "Bryan Cranston (Breaking Bad)"
+        },
+        {
+            "quote": "The only way to keep your health is to eat what you don’t want, drink what you don’t like, and do what you’d rather not",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "It is well to be up before daybreak, for such habits contribute to health, wealth, and wisdom",
+            "author": "Aristotle"
+        },
+        {
+            "quote": "The really important thing is not to live, but to live well… and to live well means the same thing as to live honourably or rightly",
+            "author": "Socrates"
+        },
+        {
+            "quote": "The best doctors gives the least medicine",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Nothing is more fatal to health, than an over care of it",
+            "author": "Benjamin Franklin"
+        },
+        {
+            "quote": "Walking is the best possible exercise. Habituate yourself to walk very far",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "Our greatest happiness does not depend on the condition of life in which chance has placed us, but is always the result of a good conscience, good health, occupation, and freedom in all just pursuits",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "Leave all the afternoon for exercise and recreation, which are as necessary as reading. I will rather say more necessary because health is worth more than learning",
+            "author": "Thomas Jefferson"
+        },
+        {
+            "quote": "The doctor of the future will give no medicines, but will interest his patients in the care of the human frame, in diet, and in the causes and prevention of disease",
+            "author": "Thomas Edison"
+        },
+        {
+            "quote": "Healthy citizens are the greatest asset any country can have",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "Water, air, and cleanness are the chief articles in my pharmacy",
+            "author": "Napoleon Bonaparte"
+        },
+        {
+            "quote": "Health is not valued until sickness comes",
+            "author": "Thomas Fuller"
+        },
+        {
+            "quote": "If you would live long, open your heart",
+            "author": "Bulgarian saying"
+        },
+        {
+            "quote": "The first wealth is health",
+            "author": "Ralph Waldo Emerson"
+        },
+        {
+            "quote": "Fresh air impoverishes the doctor",
+            "author": "Danish proverb"
+        },
+        {
+            "quote": "Health and intellect are the two blessings of life",
+            "author": "Menander"
+        },
+        {
+            "quote": "Eating is overrated and sleep is underrated",
+            "author": "@AmuseChimp"
+        },
+        {
+            "quote": "Well-being is enough wealth",
+            "author": "Lailah Gifty Akita"
+        },
+        {
+            "quote": "Garbage in garbage out",
+            "author": "George Fuechsel"
+        },
+        {
+            "quote": "Inhale. Exhale",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Having a healthy mind is just as important as a healty body",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Eat right, exercise regularly, die anyway",
+            "author": "Unknown"
+        },
+        {
+            "quote": "If you think wellness is expensive, try illness",
+            "author": "Unknown"
+        },
+        {
+            "quote": "An ounce of prevention is worth a pound of cure",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Your health is an investment, not an expense",
+            "author": "Unknown"
+        },
+        {
+            "quote": "A man grows most tired while standing still",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "There are some remedies worse than the disease",
+            "author": "Publilius Syrus"
+        },
+        {
+            "quote": "Health and cheerfulness are brothers",
+            "author": "William Hardcastle Browne"
+        },
+        {
+            "quote": "Great health starts with a great sleep",
+            "author": "Dan Go"
+        },
+        {
+            "quote": "When the head aches, all the body is the worse",
+            "author": "English proverb"
+        },
+        {
+            "quote": "He who can believe himself well, will be well",
+            "author": "Ovid"
+        },
+        {
+            "quote": "Cheerfulness is the best promoter of health and is as friendly to the mind as to the body",
+            "author": "Joseph Addison"
+        },
+        {
+            "quote": "Most people have no idea how good their body is designed to feel",
+            "author": "Kevin Trudeau"
+        },
+        {
+            "quote": "Know, then, whatever cheerful and serene supports the mind supports the body too",
+            "author": "John Armstrong"
+        },
+        {
+            "quote": "Your body holds deep wisdom. Trust in it. Learn from it. Nourish it. Watch your life transform and be healthy",
+            "author": "Bella Bleue"
+        },
+        {
+            "quote": "Embrace and love your body. It’s the most amazing thing you will ever own",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The higher your energy level, the more efficient your body. The more efficient your body, the better you feel and the more you will use your talent to produce outstanding results",
+            "author": "Tony Robbins"
+        },
+        {
+            "quote": "Use your health, even to the point of wearing it out. That is what it is for. Spend all you have before you die; do not outlive yourself",
+            "author": "George Bernard Shaw"
+        },
+        {
+            "quote": "Most of us would be upset if we were accused of being ‘silly.’ But the word ‘silly’ comes from the old English word ‘selig’ and its literal definition is ‘to be blessed, happy, healthy and prosperous’",
+            "author": "Zig Ziglar"
+        },
+        {
+            "quote": "Never continue in a job you don’t enjoy. If you’re happy in what you’re doing, you’ll like yourself, you’ll have inner peace. And if you have that, along with physical health, you will have had more success than you could possibly have imagined",
+            "author": "Johnny Carson"
+        },
+        {
+            "quote": "The chief condition on which life, health, and vigor depend on, is action. It is by action that an organism develops its faculties, increases its energy, and attains the fulfillment of its destiny",
+            "author": "Colin Powell"
+        },
+        {
+            "quote": "Let your body be your holy temple",
+            "author": "Lailah Gifty Akita"
+        },
+        {
+            "quote": "If we could give every individual the right amount of nourishment and exercise, not too little and not too much, we would have found the safest way to health",
+            "author": "Hippocrates"
+        },
+        {
+            "quote": "If we are creating ourselves all the time, then it is never too late to begin creating the bodies we want instead of the ones we mistakenly assume we are stuck with",
+            "author": "Deepak Chopra"
+        },
+        {
+            "quote": "Look up, laugh loud, talk big, keep the color in your cheek and the fire in your eye, adorn your person, maintain your health, your beauty and your animal spirits",
+            "author": "William Hazlitt"
+        },
+        {
+            "quote": "Knowing that we can be loved exactly as we are gives us all the best opportunity for growing into the healthiest of people",
+            "author": "Fred Rogers"
+        },
+        {
+            "quote": "But the real secret to lifelong good health is actually the opposite: Let your body take care of you",
+            "author": "Deepak Chopra"
+        },
+        {
+            "quote": "Rule No.37. The whiter the bread, the sooner you’ll be dead",
+            "author": "Michael Pollan"
+        },
+        {
+            "quote": "Be careful about reading health books. You may die of a misprint",
+            "author": "Mark Twain"
+        },
+        {
+            "quote": "You’re in pretty good shape for the shape you are in. Dr",
+            "author": "Seuss"
+        },
+        {
+            "quote": "The second day of a diet is always easier than the first. By the second day you’re off it",
+            "author": "Jackie Gleason"
+        },
+        {
+            "quote": "I know a man who gave up smoking, drinking, sex, and rich food. He was healthy right up to the day he killed himself",
+            "author": "Johnny Carson"
+        },
+        {
+            "quote": "Exercise is a dirty word. Every time I hear it, I wash my mouth out with chocolate.",
+            "author": "Charles M Schulz"
+        },
+        {
+            "quote": "I drive way too fast to worry about cholesterol",
+            "author": "Steven Wright"
+        },
+        {
+            "quote": "After these two, Dr. Diet and Dr. Quiet, Dr. Merriman is requisite to preserve health",
+            "author": "James Howell"
+        },
+        {
+            "quote": "Health of body and mind is a great blessing, if we can bear it",
+            "author": "John Henry Cardinal Newman"
+        },
+        {
+            "quote": "A man’s health can be judged by which he takes two at a time – pills or stairs",
+            "author": "Joan Welsh"
+        },
+        {
+            "quote": "Good health is not something we can buy. However, it can be an extremely valuable savings account",
+            "author": "Anne Wilson Schaef"
+        },
+        {
+            "quote": "If I’d known I was going to live this long, I’d have taken better care of myself",
+            "author": "Eubie Blake"
+        },
+        {
+            "quote": "Joy and temperance and repose, slam the door on the doctor’s nose",
+            "author": "Henry Wadsworth Longfellow"
+        },
+        {
+            "quote": "Anybody’s soap is superior to somebody else’s stink killer.",
+            "author": "Martin H Fischer"
+        },
+        {
+            "quote": "Health is merely the slowest way someone can die",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Many people treat their bodies as if they were rented from Hertz – something they are using to get around in but nothing they genuinely care about understanding",
+            "author": "Chungliang Al Huang"
+        },
+        {
+            "quote": "To be stupid and selfish and to have good health are the three requirements for happiness. Though if stupidity is lacking, the others are useless",
+            "author": "Stefan Sagmeister"
+        },
+        {
+            "quote": "If you do everything you should do, and do not do anything you should not do, you will, according to the best available statistics, live exactly eighteen hours longer than you would otherwise",
+            "author": "Logan Clendening"
+        },
+        {
+            "quote": "First need in the reform of hospital management? That’s easy! The death of all dietitians, and the resurrection of a French chef.",
+            "author": "Martin H Fischer"
+        },
+        {
+            "quote": "Doctors are always working to preserve our health and cooks to destroy it, but the latter are the more often successful",
+            "author": "Denis Diderot"
+        },
+        {
+            "quote": "There’s lots of people in this world who spend so much time watching their health that they haven’t the time to enjoy it",
+            "author": "Josh Billings"
+        },
+        {
+            "quote": "A bad cold wouldn’t be so annoying if it weren’t for the advice of our friends",
+            "author": "Kin Hubbard"
+        },
+        {
+            "quote": "I reckon being ill as one of the great pleasures of life, provided one is not too ill and is not obliged to work till one is better",
+            "author": "Samuel Butler"
+        },
+        {
+            "quote": "Life expectancy would grow by leaps and bounds if green vegetables smelled as good as bacon",
+            "author": "Doug Larson"
+        },
+        {
+            "quote": "Money cannot buy health, but I’d settle for a diamond-studded wheelchair",
+            "author": "Dorothy Parker"
+        },
+        {
+            "quote": "I think you might dispense with half your doctors if you would only consult Dr. Sun more",
+            "author": "Henry Ward Beecher"
+        },
+        {
+            "quote": "A sad soul can kill you quicker than a germ",
+            "author": "John Steinbeck"
+        },
+        {
+            "quote": "The part can never be well unless the whole is well",
+            "author": "Plato"
+        },
+        {
+            "quote": "Objection, evasion, joyous distrust, and love of irony are signs of health; everything absolute belongs to pathology",
+            "author": "Friedrich Nietzsche"
+        },
+        {
+            "quote": "There is something in sickness that breaks down the pride of manhood",
+            "author": "Charles Dickens"
+        },
+        {
+            "quote": "How sickness enlarges the dimension of a man’s self to himself!",
+            "author": "Charles Lamb"
+        },
+        {
+            "quote": "Happiness lies, first of all, in health",
+            "author": "George William Curtis"
+        },
+        {
+            "quote": "If man thinks about his physical or moral state he usually discovers that he is ill",
+            "author": "Johann Wolfgang von Goethe"
+        },
+        {
+            "quote": "The trouble with always trying to preserve the health of the body is that it is so difficult to do without destroying the health of the mind.",
+            "author": "G.K Chesterton"
+        },
+        {
+            "quote": "Promise a great and total change — from poor to rich, sickness to health, misery to ecstasy — and you will have followers",
+            "author": "Robert Greene"
+        },
+        {
+            "quote": "It is no measure of health to be well adjusted to a profoundly sick society",
+            "author": "Jiddu Krishnamurti"
+        },
+        {
+            "quote": "The root of all health is in the brain. The trunk of it is in emotion. The branches and leaves are the body. The flower of health blooms when all parts work together",
+            "author": "Kurdish Saying"
+        },
+        {
+            "quote": "A healthy body is a guest chamber for the soul: a sick body is a prison",
+            "author": "Francis Bacon Sr"
+        },
+        {
+            "quote": "Sickness always brings the soul nearer to God",
+            "author": "James Lendall Basford"
+        },
+        {
+            "quote": "People who are always taking care of their health are like misers who are hoarding a treasure which they have never spirit enough to enjoy",
+            "author": "Laurence Sterne"
+        },
+        {
+            "quote": "If you have health, you probably will be happy, and if you have health and happiness, you have all the wealth you need, even if it is not all you want",
+            "author": "Elbert Hubbard"
+        },
+        {
+            "quote": "A sound mind in a sound body, is a short, but full description of a happy state in this world: he that has these two, has little more to wish for; and he that wants either of them, will be little the better for anything else",
+            "author": "John Locke"
+        },
+        {
+            "quote": "We are healthy only to the extent that our ideas are humane",
+            "author": "Kurt Vonnegut"
+        },
+        {
+            "quote": "Diseases of the soul are more dangerous and more numerous than those of the body",
+            "author": "Marcus Tullius Cicero"
+        },
+        {
+            "quote": "Illness tells us what we are",
+            "author": "Italian saying"
+        },
+        {
+            "quote": "To avoid sickness eat less; to prolong life worry less",
+            "author": "Chu Hui Weng"
+        },
+        {
+            "quote": "From the bitterness of disease man learns the sweetness of health",
+            "author": "Catalan proverb"
+        },
+        {
+            "quote": "The appearance of a disease is swift as an arrow; its disappearance slow, like a thread",
+            "author": "Chinese proverb"
+        },
+        {
+            "quote": "To keep the body in good health is a duty otherwise we shall not be able to keep our mind strong and clear",
+            "author": "Buddha"
+        },
+        {
+            "quote": "Love, success, family and friends all come after my health. No health, no enjoyment",
+            "author": "Maxime Lagacé"
+        },
+        {
+            "quote": "If you are going to heal in a magnificent way, you have to feel magnificent",
+            "author": "Joe Dispenza"
+        },
+        {
+            "quote": "So many people spend their health gaining wealth, and then have to spend their wealth to regain their health. A.J",
+            "author": "Reb Materi"
+        },
+        {
+            "quote": "In minds crammed with thoughts, organs clogged with toxins, and bodies stiffened with neglect, there is just no space for anything else",
+            "author": "Alison Rose Levy"
+        },
+        {
+            "quote": "When wealth is lost, nothing is lost; when health is lost, something is lost; when character is lost, all is lost",
+            "author": "Billy Graham"
+        },
+        {
+            "quote": "If by gaining knowledge we destroy our health, we labour for a thing that will be useless in our hands",
+            "author": "John Locke"
+        },
+        {
+            "quote": "Look to your health; and if you have it, praise God, and value it next to a good conscience; for health is the second blessing that we mortals are capable of; a blessing that money cannot buy",
+            "author": "Izaak Walton"
+        },
+        {
+            "quote": "The patient should be made to understand that he or she must take charge of his own life. Don’t take your body to the doctor as if he were a repair shop",
+            "author": "Quentin Regestein"
+        },
+        {
+            "quote": "Criticism may not be agreeable, but it is necessary. It fulfills the same function as pain in the human body. It calls attention to an unhealthy state of things",
+            "author": "Winston Churchill"
+        },
+        {
+            "quote": "Poor health is not caused by something you don’t have; it’s caused by disturbing something that you already have. Healthy is not something that you need to get, it’s something you have already if you don’t disturb it",
+            "author": "Dean Ornish"
+        },
+        {
+            "quote": "No time for your health today, no health for your time tomorrow",
+            "author": "Thibaut"
+        },
+        {
+            "quote": "My number one priority in life, above my happiness, above my family, above my work, is my own health. It starts with my physical health",
+            "author": "Naval Ravikant"
+        },
+        {
+            "quote": "I have looked through the list of illnesses, and did not find cares or sad thoughts mentioned among them. That is a mistake, surely",
+            "author": "Georg Christoph Lichtenberg"
+        },
+        {
+            "quote": "When health is absent, wisdom cannot reveal itself, art cannot manifest, strength cannot fight, wealth becomes useless, and intelligence cannot be applied",
+            "author": "Herophilus"
+        },
+        {
+            "quote": "Physical ills are the taxes laid upon this wretched life; some are taxed higher, and some lower, but all pay something",
+            "author": "Lord Chesterfield"
+        },
+        {
+            "quote": "What man is happy? He who has a healthy body, a resourceful mind, and a docile nature",
+            "author": "Thales Of Miletus"
+        },
+        {
+            "quote": "There is no one giant step that does it. It’s a lot of little steps",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Those who think they have no time for healthy eating… will sooner or later have to find time for illness",
+            "author": "Edward Stanley"
+        },
+        {
+            "quote": "We drink to one another’s health and spoil our own.",
+            "author": "Jerome K. Jerome"
+        },
+        {
+            "quote": "Don’t defy the diagnosis, try to defy the verdict",
+            "author": "Norman Cousins"
+        },
+        {
+            "quote": "Disease is somatic; the suffering from it, psychic.",
+            "author": "Martin H. Fischer"
+        },
+        {
+            "quote": "Your prayer must be for a sound mind in a sound body",
+            "author": "Juvenal"
+        },
+        {
+            "quote": "Take care of your body. It’s the only place you have to live",
+            "author": "Jim Rohn"
+        }
+    ]
+}

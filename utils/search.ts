@@ -2,9 +2,9 @@ import lunr from 'lunr'
 import { readFileSync, writeFileSync } from 'fs'
 import { join } from 'path'
 
-import quotes from './quotes'
+import { quotes } from './quotes'
 
-import { CategoryPattern, QuoteData } from '../typings/types'
+import { CategoryPattern } from '../typings/types'
 import { ensureDirExists, tempDir } from './commons'
 import { profile } from './env'
 
@@ -14,7 +14,7 @@ export const createIndex = (): lunr.Index => {
         this.field('author')
 
         for (const category of Object.values(CategoryPattern)) {
-            for (const [index, value] of (quotes[category] as QuoteData[]).entries()) {
+            for (const [index, value] of quotes[category].entries()) {
                 value.id = `${category}${profile.indexOptions.delimiter}${index}`
                 this.add(value)
             }

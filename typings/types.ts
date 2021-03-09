@@ -138,6 +138,8 @@ export type QuoteData = {
     author: string
 }
 
+export type QuoteMapper = { [K in CategoryPattern]: QuoteData[] }
+
 export interface ParsedRequest {
     /**
      * Quote category

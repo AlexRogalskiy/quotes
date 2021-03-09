@@ -7,7 +7,7 @@ type PatternOperator = (fill: string, opacity: string) => string
 
 type PatternMapper = { [K in HeroPattern]: PatternOperator }
 
-const patternMapper: PatternMapper = strToEnum(Object.values(HeroPattern), v => pattern[v])
+const patternMapper: PatternMapper = strToEnum(Object.values(HeroPattern), value => pattern[value])
 
 const getPattern = (pattern: HeroPattern | undefined, opacity: string, colorPattern: string): string => {
     const patternOperator: PatternOperator =

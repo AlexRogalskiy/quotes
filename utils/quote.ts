@@ -7,7 +7,7 @@ import { css } from './getCss'
 import { idx } from './search'
 import { profile } from './env'
 
-import quotes from './quotes'
+import { quotes } from './quotes'
 
 export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<string> {
     const { category, keywords, width, height, ...rest } = parsedRequest
