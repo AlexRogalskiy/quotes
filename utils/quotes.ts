@@ -23,6 +23,7 @@ import * as popular from '../data/popular_quotes.json'
 import * as programming from '../data/programming_quotes.json'
 import * as relationships from '../data/relationships_quotes.json'
 import * as religion from '../data/religion_quotes.json'
+import * as responsibility from '../data/responsibility_quotes.json'
 import * as romance from '../data/romance_quotes.json'
 import * as science from '../data/science_quotes.json'
 import * as spirituality from '../data/spirituality_quotes.json'
@@ -62,6 +63,7 @@ const getQuoteData = (): QuoteMapper =>
         programming,
         relationships,
         religion,
+        responsibility,
         romance,
         science,
         spirituality,

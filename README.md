@@ -133,6 +133,7 @@ Here is a list of categories supported by Quotes API:
 | **Health**                        | health                        |
 | **Gratitude**                     | gratitude                     |
 | **Courage**                       | courage                       |
+| **Responsibility**                | responsibility                |
 
 Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 
