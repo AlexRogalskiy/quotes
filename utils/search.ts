@@ -2,6 +2,7 @@ import lunr from 'lunr'
 import { readFileSync, writeFileSync } from 'fs'
 import { join } from 'path'
 import boxen from 'boxen'
+import cron from 'node-cron'
 
 import { quotes } from './quotes'
 
@@ -9,11 +10,9 @@ import { CategoryPattern } from '../typings/types'
 import { ensureDirExists, tempDir } from './commons'
 import { profile } from './env'
 
-const cron = require('node-cron');
-
 const task = cron.schedule('0 * * * *', () => {
     console.log(
-        boxen(`Running task every 60 minutes on index search`, {
+        boxen('Running task every 60 minutes on index search', {
             padding: 1,
             margin: 1,
             borderStyle: 'single',

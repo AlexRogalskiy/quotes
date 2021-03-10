@@ -140,6 +140,7 @@ Here is a list of categories supported by Quotes API:
 | **Thinking**                      | thinking                      |
 | **Travel**                        | travel                        |
 | **French**                        | french                        |
+| **Portuguese**                    | portuguese                    |
 
 Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/hero-patterns) package which is developed by [Lowmess](https://github.com/lowmess/): 
 

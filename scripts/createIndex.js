@@ -30,6 +30,7 @@ const movie = require('../data/movie_quotes.json')
 const philosophy = require('../data/philosophy_quotes.json')
 const poetry = require('../data/poetry_quotes.json')
 const popular = require('../data/popular_quotes.json')
+const portuguese = require('../data/portuguese_quotes.json')
 const programming = require('../data/programming_quotes.json')
 const relationships = require('../data/relationships_quotes.json')
 const religion = require('../data/religion_quotes.json')
@@ -116,6 +117,7 @@ function ensureDirExists(dir) {
             philosophy,
             poetry,
             popular,
+            portuguese,
             programming,
             relationships,
             religion,

@@ -22,6 +22,7 @@ import * as movie from '../data/movie_quotes.json'
 import * as philosophy from '../data/philosophy_quotes.json'
 import * as poetry from '../data/poetry_quotes.json'
 import * as popular from '../data/popular_quotes.json'
+import * as portuguese from '../data/portuguese_quotes.json'
 import * as programming from '../data/programming_quotes.json'
 import * as relationships from '../data/relationships_quotes.json'
 import * as religion from '../data/religion_quotes.json'
@@ -68,6 +69,7 @@ const getQuoteData = (): QuoteMapper =>
         philosophy,
         poetry,
         popular,
+        portuguese,
         programming,
         relationships,
         religion,

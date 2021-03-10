@@ -128,6 +128,7 @@ export enum CategoryPattern {
     sadness = 'sadness',
     thinking = 'thinking',
     french = 'french',
+    portuguese = 'portuguese',
 }
 
 export type QuoteData = {
