@@ -23,6 +23,10 @@ import * as philosophy from '../data/philosophy_quotes.json'
 import * as poetry from '../data/poetry_quotes.json'
 import * as popular from '../data/popular_quotes.json'
 import * as portuguese from '../data/portuguese_quotes.json'
+import * as portuguese2 from '../data/portuguese2_quotes.json'
+import * as portuguese3 from '../data/portuguese3_quotes.json'
+import * as portuguese4 from '../data/portuguese4_quotes.json'
+import * as portuguese5 from '../data/portuguese5_quotes.json'
 import * as programming from '../data/programming_quotes.json'
 import * as relationships from '../data/relationships_quotes.json'
 import * as religion from '../data/religion_quotes.json'
@@ -70,6 +74,10 @@ const getQuoteData = (): QuoteMapper =>
         poetry,
         popular,
         portuguese,
+        portuguese2,
+        portuguese3,
+        portuguese4,
+        portuguese5,
         programming,
         relationships,
         religion,

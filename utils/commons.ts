@@ -1,6 +1,5 @@
 import fetch from 'isomorphic-unfetch'
 import _ from 'lodash'
-import lunr from 'lunr'
 import { tmpdir } from 'os'
 import { existsSync, mkdirSync } from 'fs'
 
@@ -62,34 +61,6 @@ export const isBlankString = (value: string): boolean => !value || /^\s*$/.test(
 
 export const toString = (value: string | string[]): string => (Array.isArray(value) ? value[0] : value)
 
-export const getSearchResultSet = <T>(
-    data: T[],
-    index: lunr.Index,
-    query: lunr.Index.QueryString
-): (T | undefined)[] => {
-    const results = getSearchResults(index, query)
-
-    return results.map(result => {
-        return data.find(item => result.ref === item['id'])
-    })
-}
-
-export const getSearchResults = (index: lunr.Index, query: lunr.Index.QueryString): lunr.Index.Result[] => {
-    return index.search(query)
-}
-
-export const getSearchResultsByTerm = (
-    index: lunr.Index,
-    term: string | object | object[]
-): lunr.Index.Result[] => {
-    return index.query(q => {
-        q.term(lunr.tokenizer(term), {
-            wildcard: lunr.Query.wildcard.TRAILING,
-            presence: lunr.Query.presence.REQUIRED,
-        })
-    })
-}
-
 export const randomEnum = <T>(value: T): T[keyof T] => {
     const enumValues = (Object.values(value) as unknown) as T[keyof T][]
     const randomIndex = random(enumValues.length)
@@ -125,7 +96,9 @@ export const iterateAsync = async <T>(
 }
 
 export const mergeProps = <T>(...obj: unknown[]): T =>
-    _.mergeWith({}, ...obj, (o, s) => (_.isNull(s) ? o : s))
+    _.mergeWith({}, ...obj, (o, s) => {
+        return _.isArray(s) && _.isArray(o) ? _.union(o, s) : _.isNull(s) ? o : s
+    })
 
 /**
  * Utility function to create a K:V from a list of strings

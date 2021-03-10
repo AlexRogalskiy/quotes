@@ -111,3 +111,31 @@ export const idx = (): lunr.Index => {
         return storeIndex()
     }
 }
+
+export const getSearchResultSet = <T>(
+    data: T[],
+    index: lunr.Index,
+    query: lunr.Index.QueryString
+): (T | undefined)[] => {
+    const results = getSearchResults(index, query)
+
+    return results.map(result => {
+        return data.find(item => result.ref === item['id'])
+    })
+}
+
+export const getSearchResults = (index: lunr.Index, query: lunr.Index.QueryString): lunr.Index.Result[] => {
+    return index.search(query)
+}
+
+export const getSearchResultsByTerm = (
+    index: lunr.Index,
+    term: string | object | object[]
+): lunr.Index.Result[] => {
+    return index.query(q => {
+        q.term(lunr.tokenizer(term), {
+            wildcard: lunr.Query.wildcard.TRAILING,
+            presence: lunr.Query.presence.REQUIRED,
+        })
+    })
+}

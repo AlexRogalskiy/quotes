@@ -1,13 +1,19 @@
-import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest, QuoteData } from '../typings/types'
+import {
+    CategoryPattern,
+    ColorOptions,
+    ImageOptions,
+    ParsedRequest,
+    QuoteData
+} from '../typings/types'
 import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
 
-import { delim, getSearchResults, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
+import { getSearchResults, idx } from './search'
+import { delim, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'
 import { profile } from './env'
 
 import { quotes } from './quotes'
-import { idx } from './search'
 
 export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<string> {
     const { category, keywords, width, height, ...rest } = parsedRequest

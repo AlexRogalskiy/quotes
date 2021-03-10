@@ -31,6 +31,10 @@ const philosophy = require('../data/philosophy_quotes.json')
 const poetry = require('../data/poetry_quotes.json')
 const popular = require('../data/popular_quotes.json')
 const portuguese = require('../data/portuguese_quotes.json')
+const portuguese2 = require('../data/portuguese2_quotes.json')
+const portuguese3 = require('../data/portuguese3_quotes.json')
+const portuguese4 = require('../data/portuguese4_quotes.json')
+const portuguese5 = require('../data/portuguese5_quotes.json')
 const programming = require('../data/programming_quotes.json')
 const relationships = require('../data/relationships_quotes.json')
 const religion = require('../data/religion_quotes.json')
@@ -118,6 +122,10 @@ function ensureDirExists(dir) {
             poetry,
             popular,
             portuguese,
+            portuguese2,
+            portuguese3,
+            portuguese4,
+            portuguese5,
             programming,
             relationships,
             religion,
