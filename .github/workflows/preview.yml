@@ -27,10 +27,12 @@ jobs:
             ${{ runner.os }}-node-
 
       - name: Install all node packages
-        run: npm install
+        run: |
+          npm install
 
       - name: Run test all
-        run: npm run test:all
+        run: |
+          npm run test:all
 
       - name: Start development server
         run: |
