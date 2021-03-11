@@ -1,0 +1,36 @@
+{
+    "$id": "https://github.com/AlexRogalskiy/quotes/blob/master/data/schemas.json",
+    "$schema": "http://json-schema.org/draft-04/schema#",
+    "description": "A representation of a quote data object",
+    "type": "object",
+    "properties": {
+        "anger": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/quote"
+            }
+        }
+    },
+    "$defs": {
+        "quote": {
+            "type": "object",
+            "properties": {
+                "quote": {
+                    "type": "string",
+                    "description": "Quote text"
+                },
+                "author": {
+                    "type": "string",
+                    "description": "Quote author"
+                }
+            },
+            "required": [
+                "quote",
+                "author"
+            ]
+        }
+    },
+    "required": [
+        "anger"
+    ]
+}

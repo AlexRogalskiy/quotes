@@ -15,4 +15,5 @@ jobs:
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_JSONS: ./data/anger_quotes.json,./data/books_quotes.json,./data/courage_quotes.json,./data/death_quotes.json,./data/entrepreneurship_quotes.json
+          INPUT_SCHEMA: ./data/schemas.json
+          INPUT_JSONS: ./data/anger_quotes.json
