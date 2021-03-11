@@ -2,14 +2,15 @@ import {
     CategoryPattern,
     ColorOptions,
     ImageOptions,
+    Optional,
     ParsedRequest,
-    QuoteData
+    QuoteData,
 } from '../typings/types'
 import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
 
 import { getSearchResults, idx } from './search'
-import { delim, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
+import { capitalize, delim, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
 import { css } from './getCss'
 import { profile } from './env'
 
@@ -33,10 +34,18 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
         `
     )
 
-    const quoteData: QuoteData | null = keywords
+    const quoteData: Optional<QuoteData> = keywords
         ? await getQuoteByKeywords(keywords)
         : await getQuoteByCategory(category)
 
+    return getImageContent(quoteData, colorOptions, imageOptions)
+}
+
+const getImageContent = (
+    quoteData: Optional<QuoteData>,
+    colorOptions: ColorOptions,
+    imageOptions: ImageOptions
+): string => {
     return quoteData
         ? `
     <svg
@@ -50,18 +59,18 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
                   <div class="line"></div>
                   <p class="font-monserratRegular">${quoteData.quote}</p>
                   <div class="line"></div>
-                  <h3 class="font-monserrat700">${quoteData.author}</h3>
+                  <h3 class="font-monserrat700">${capitalize(quoteData.author)}</h3>
                 </div>
               </div>
             </div>
         </foreignObject>
         <style>${css(colorOptions)}</style>
       </svg>
-  `
+      `
         : ''
 }
 
-const getQuoteByKeywords = async (keywords: string | string[]): Promise<QuoteData | null> => {
+const getQuoteByKeywords = async (keywords: string | string[]): Promise<Optional<QuoteData>> => {
     const searchKeys = typeof keywords === 'string' ? keywords.split(',') : keywords
     const searchResults = getSearchResults(idx(), searchKeys.join(' '))
     const searchData = randomElement(searchResults)

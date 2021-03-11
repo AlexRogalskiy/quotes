@@ -1,6 +1,178 @@
 {
     "general": [
         {
+            "quote": "\"It takes one person to forgive, it takes two people to be reunited.\"",
+            "author": "lewis b. smedes"
+        },
+        {
+            "quote": "\"You only lie to two people in your life, your girlfriend and the police.\"",
+            "author": "jack nicholson"
+        },
+        {
+            "quote": "\"If the people are happy, united, wealthy, and powerful, we presume the rest. We conclude that to be good from whence good is derived.\"",
+            "author": "edmund burke"
+        },
+        {
+            "quote": "\"The people long eagerly for just two things. Bread and circuses.\"",
+            "author": "juvenal"
+        },
+        {
+            "quote": "\"There are only two kinds of people who are really fascinating — people who know absolutely everything, and people who know absolutely nothing.\"",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "\"Stupid people always think they are right. Wise people listen to advice.\"",
+            "author": "bible"
+        },
+        {
+            "quote": "\"If you shoot for the stars and hit the moon, it’s OK. But you’ve got to shoot for something. A lot of people don’t even shoot.\"",
+            "author": "robert townsend"
+        },
+        {
+            "quote": "\"A lot of people have the ability, but they don’t put forth the effort.\"",
+            "author": "joe carter"
+        },
+        {
+            "quote": "\"The only real people are the people who never existed.\"",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "\"There are only two people who can tell you the truth about yourself – an enemy who has lost his temper and a friend who loves you dearly.\"",
+            "author": "antisthenes"
+        },
+        {
+            "quote": "\"When two people decide to get a divorce, it isn’t a sign that they ‘don’t understand’ one another, but a sign that they have, at last, begun to.\"",
+            "author": "helen rowland"
+        },
+        {
+            "quote": "\"If you want to be original just try being yourself, because God has never made two people exactly alike.\"",
+            "author": "bernard meltzer"
+        },
+        {
+            "quote": "\"There are two kinds of people in the world. Those who walk into a room and say, \"There you are!\" and those who say, \"Here I am.\"\"",
+            "author": "abigail van buren"
+        },
+        {
+            "quote": "\"What we know of other people’s only our memory of the moments during which we knew them.\"",
+            "author": "t. s. eliot"
+        },
+        {
+            "quote": "\"Sometimes I am two people. Johnny is the nice one. Cash causes all the trouble. They fight.\"",
+            "author": "johnny cash"
+        },
+        {
+            "quote": "\"No two people on earth are alike.\"",
+            "author": "billie"
+        },
+        {
+            "quote": "\"When you have a taste for exceptional people, you always end up meeting them everywhere.\"",
+            "author": "mac orlan"
+        },
+        {
+            "quote": "\"We hold the view that the people make the best judgment in the long run.\"",
+            "author": "john f. kennedy"
+        },
+        {
+            "quote": "\"There are people who in spite of their merit disgust us, and others who please us in spite of their faults.\"",
+            "author": "francois de la rochefoucauld"
+        },
+        {
+            "quote": "\"The character of the common people changes in a single day.\"",
+            "author": "voltaire"
+        },
+        {
+            "quote": "\"The only normal people are the ones you don’t know very well.\"",
+            "author": "joe ancis"
+        },
+        {
+            "quote": "\"People don’t live or die, people just float.\"",
+            "author": "bob dylan"
+        },
+        {
+            "quote": "\"By gaining the people, the kingdom is gained; by losing the people, the kingdom is lost.\"",
+            "author": "confucius"
+        },
+        {
+            "quote": "\"The people are to be taken in small doses.\"",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "\"A lot of people have ideas, but there are few who decide to do something about them now. Not tomorrow. Not next week. But today. The true entrepreneur is a doer, not a dreamer.\"",
+            "author": "nolan bushnell"
+        },
+        {
+            "quote": "\"A lot of people go through life like they are rowing a boat. They look at where they have been rather than where they are going.\"",
+            "author": "unknown"
+        },
+        {
+            "quote": "\"We are all agents of the same supreme power, the people.\"",
+            "author": "daniel webster"
+        },
+        {
+            "quote": "\"People are eternally divided into two classes, the believer, builder, and praiser, and the unbeliever, destroyer and critic.\"",
+            "author": "john ruskin"
+        },
+        {
+            "quote": "\"There are always two people in every picture: the photographer and the viewer.\"",
+            "author": "ansel adams"
+        },
+        {
+            "quote": "\"When two people love each other, they don’t look at each other, they look in the same direction.\"",
+            "author": "ginger rogers"
+        },
+        {
+            "quote": "\"There are two kinds of people in the world: Those who are always getting ready to do something, and those who go ahead and do it.\"",
+            "author": "elbert hubbard"
+        },
+        {
+            "quote": "\"The will of the people is the best law.\"",
+            "author": "ulysses simpson grant"
+        },
+        {
+            "quote": "\"Motivation is everything. You can do the work of two people, but you can’t be two people. Instead, you have to inspire the next guy down the line and get him to inspire his people.\"",
+            "author": "lee iacocca"
+        },
+        {
+            "quote": "\"The only thing that could spoil a day was people. People were always the limiters of happiness except for the very few that were as good as spring itself.\"",
+            "author": "ernest hemingway"
+        },
+        {
+            "quote": "\"Laughter is the closest distance between two people.\"",
+            "author": "victor borge"
+        },
+        {
+            "quote": "\"The reason a lot of people do not recognize opportunity is because it usually goes around wearing overalls looking like hard work.\"",
+            "author": "thomas a. edison"
+        },
+        {
+            "quote": "\"There are basically two types of people. People who accomplish things and people who claim to have accomplished things. The first group is less crowded.\"",
+            "author": "mark twain"
+        },
+        {
+            "quote": "\"A lot of people give up just before they’re about to make it. You know you never know when that next obstacle is going to be the last one.\"",
+            "author": "chuck norris"
+        },
+        {
+            "quote": "\"A lot of people don’t want to make their own decisions. They’re too scared. It’s much easier to be told what to do.\"",
+            "author": "marilyn manson"
+        },
+        {
+            "quote": "\"The people, and the people alone, are the motive force in the making of world history.\"",
+            "author": "zedong mao"
+        },
+        {
+            "quote": "\"There are two kinds of people: those who do the work and those who take the credit. Try to be in the first group because there is less competition there.\"",
+            "author": "indira gandhi"
+        },
+        {
+            "quote": "\"Some people are so much sunshine to the square inch.\"",
+            "author": "walt whitman"
+        },
+        {
+            "quote": "\"Men are so completely fools by necessity that he is but a fool in a higher strain of folly who does not confess his foolishness.\"",
+            "author": "blaise pascal"
+        },
+        {
             "quote": "A person can live all his life alone. Well, maybe. But still, he needs someone who buries him even though he himself can dig a grave for himself.",
             "author": "James Joyce"
         },

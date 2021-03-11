@@ -61,7 +61,7 @@ export const css = (colorOptions: ColorOptions): string => {
         max-width: 100%;
         margin: 0 auto;
         border: none;
-        border-bottom: 1px solid #666;
+        border-bottom: 2px dotted rgba(0,0,0, 0.5);
       }
     `
 }

@@ -88,6 +88,17 @@ const objToString = (obj): string => {
     return res
 }
 
+export const capitalize = (input: string): string => {
+    const inputArray = input.split(' ')
+    const output: string[] = []
+
+    for (const inputArrayItem of inputArray) {
+        output.push(inputArrayItem.charAt(0).toUpperCase() + inputArrayItem.slice(1))
+    }
+
+    return output.join(' ')
+}
+
 export const iterateAsync = async <T>(
     obj,
     func: (item: T, index?: number) => Promise<void>

@@ -131,6 +131,11 @@ export enum CategoryPattern {
     portuguese = 'portuguese',
 }
 
+/**
+ * Optional {@link T} or null/undefined type
+ */
+export type Optional<T> = T | null | undefined
+
 export type QuoteData = {
     /**
      * Quote identifier
