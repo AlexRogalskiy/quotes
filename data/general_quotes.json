@@ -1,6 +1,414 @@
 {
     "general": [
         {
+            "quote": "Confidence is the bond of friendship.",
+            "author": "publilius syrus"
+        },
+        {
+            "quote": "Confidence imparts a wonderful inspiration to its possessor.",
+            "author": "john milton"
+        },
+        {
+            "quote": "Winning breeds confidence and confidence breeds winning.",
+            "author": "hubert green"
+        },
+        {
+            "quote": "People who have a confidence in their personal worth seem to be magnets for success and happiness.",
+            "author": "alan loy mcginnis"
+        },
+        {
+            "quote": "In a just cause it is right to be confident.",
+            "author": "sophocles"
+        },
+        {
+            "quote": "Danger breeds best on too much confidence.",
+            "author": "pierre corneille"
+        },
+        {
+            "quote": "We advance on our journey only when we face our goal, when we are confident and believe we are going to win out.",
+            "author": "orison swett marden"
+        },
+        {
+            "quote": "The road to confidence is paved by daily accomplishments.",
+            "author": "keith johnson"
+        },
+        {
+            "quote": "Confidence is almost all about perception. Very few people are wholly confident in every area of their life. Those who appear to be so are probably good at acting — with themselves as the audience.",
+            "author": "kate burton & brinley n. platts"
+        },
+        {
+            "quote": "Confidence… is directness and courage in meeting the facts of life.",
+            "author": "john dewey"
+        },
+        {
+            "quote": "Confidence is like a dragon where, for every head cut off, two more heads grow back.",
+            "author": "criss jami"
+        },
+        {
+            "quote": "I always thought I could play pro ball. I had confidence in my ability, You have to. If you don’t, who will?",
+            "author": "johnny unitas"
+        },
+        {
+            "quote": "Without a humble but reasonable confidence in your own powers you cannot be successful or happy.",
+            "author": "norman vincent peale"
+        },
+        {
+            "quote": "Confidence always pleases those who receive it.",
+            "author": "francois duc de la rochefoucauld"
+        },
+        {
+            "quote": "Hard to feel confident when you’re surrounded by horse-sized wolves.",
+            "author": "stephenie meyer"
+        },
+        {
+            "quote": "If you don’t have confidence, you’ll always find a way not to win.",
+            "author": "carl lewis"
+        },
+        {
+            "quote": "Lack of confidence is what makes you want to change somebody else’s mind. When you’re OK, you don’t need to convince anyone else in order to empower yourself.",
+            "author": "jada pinkett smith"
+        },
+        {
+            "quote": "Confidence … is the foundation upon which rests the consummation of all Life’s many plans.",
+            "author": "edward s. rogers"
+        },
+        {
+            "quote": "The most vital quality a soldier can possess is self-confidence.",
+            "author": "george s. patton"
+        },
+        {
+            "quote": "Surely modesty never hurt any cause; and the confidence of man seems to me to be much like the wrath of man.",
+            "author": "john tillotson"
+        },
+        {
+            "quote": "Be not confident and affirmative.",
+            "author": "jeremy taylor"
+        },
+        {
+            "quote": "Confidence and doubt are like two bulls in a car–either confidence is going to stay or your doubts or insecurities are going to stay, but there is not room for both to remain.",
+            "author": "keith johnson"
+        },
+        {
+            "quote": "My last confidence will be like my first.",
+            "author": "sextus aurelius propertius"
+        },
+        {
+            "quote": "People are slow to claim confidence in undertakings of magnitude.",
+            "author": "ovid"
+        },
+        {
+            "quote": "Self-confidence grows on trees, in other people’s orchards.",
+            "author": "mignon mclaughlin"
+        },
+        {
+            "quote": "Confidence is contagious. So is lack of confidence.",
+            "author": "michael o’brien"
+        },
+        {
+            "quote": "Confidence is courage at ease.",
+            "author": "daniel maher"
+        },
+        {
+            "quote": "I think it’s the mark of a great player to be confident in tough situations.",
+            "author": "john mcenroe"
+        },
+        {
+            "quote": "There can be no great courage where there is no confidence or assurance, and half the battle is in the conviction that we can do what we undertake.",
+            "author": "orison swett marden"
+        },
+        {
+            "quote": "Every failure made me more confident. Because I wanted even more to achieve as revenge. To show that I could.",
+            "author": "roman polanski"
+        },
+        {
+            "quote": "Women who are confident of their abilities are more likely to succeed than those who lack confidence, even though the latter may be much more competent and talented and industrious.",
+            "author": "dr. joyce brothers"
+        },
+        {
+            "quote": "The history of the world is full of men who rose to leadership, by sheer force of self-confidence, bravery and tenacity.",
+            "author": "mahatma gandhi"
+        },
+        {
+            "quote": "The best way for you to gain confidence is to prepare so well on something … that there can be little chance to fail.",
+            "author": "frank cummins lockwood"
+        },
+        {
+            "quote": "Self-confidence is the result of a successfully survived risk.",
+            "author": "jack gibb"
+        },
+        {
+            "quote": "I have always felt like you really don’t have a genuine confidence unless you demonstrate the ability to do something. You can talk about it, but you have to demonstrate it.",
+            "author": "bill parcells"
+        },
+        {
+            "quote": "If you doubt you can accomplish something, then you can’t accomplish it. You have to have confidence in your ability, and then be tough enough to follow through.",
+            "author": "rosalynn carter"
+        },
+        {
+            "quote": "Confidence is nowhere safe.",
+            "author": "vergl"
+        },
+        {
+            "quote": "Confidence is ignorance. If you’re feeling cocky, it’s because there’s something you don’t know.",
+            "author": "eoin colfer"
+        },
+        {
+            "quote": "With confidence, you can reach truly amazing heights; without confidence, even the simplest accomplishments are beyond your grasp.",
+            "author": "jim loehr"
+        },
+        {
+            "quote": "Embrace life, have confidence in yourself, take action.",
+            "author": "author unknown"
+        },
+        {
+            "quote": "Confidence is the hinge on the door to success.",
+            "author": "mary o’hare dumas"
+        },
+        {
+            "quote": "Confidence awakens confidence.",
+            "author": "friedrich von sachsen"
+        },
+        {
+            "quote": "The gain in self-confidence of having accomplished a tiresome labour is immense.",
+            "author": "arnold bennett"
+        },
+        {
+            "quote": "The confidence in another man’s virtue is no light evidence of a man’s own, and God willingly favors such a confidence.",
+            "author": "michel eyquem de montaigne"
+        },
+        {
+            "quote": "If you never struggle with confidence, you obviously are not stretching yourself far enough.",
+            "author": "timothy ursiny"
+        },
+        {
+            "quote": "However gradual may be the growth of confidence, that of credit requires still more time to arrive at maturity.",
+            "author": "benjamin disraeli"
+        },
+        {
+            "quote": "No matter what a woman looks like, if she’s confident, she’s sexy.",
+            "author": "paris hilton"
+        },
+        {
+            "quote": "I never seek to defeat the man I am fighting…. I seek to defeat his confidence.",
+            "author": "arthur golden"
+        },
+        {
+            "quote": "I have great faith in fools; self-confidence my friends call it.",
+            "author": "edgar allan poe"
+        },
+        {
+            "quote": "If once you forfeit the confidence of your fellow-citizens, you can never regain their respect and esteem.",
+            "author": "abraham lincoln"
+        },
+        {
+            "quote": "Ninety-two percent of the stuff told you in confidence you couldn’t get anyone else to listen to.",
+            "author": "franklin p. adams"
+        },
+        {
+            "quote": "Confidence in another man’s virtue is no slight evidence of a man’s own.",
+            "author": "michel eyquem de montaigne"
+        },
+        {
+            "quote": "Without self-confidence we are as babes in the cradles. And how can we generate this imponderable quality, which is yet so invaluable most quickly? By thinking that other people are inferior to oneself.",
+            "author": "virginia woolf"
+        },
+        {
+            "quote": "The confidence which we have in ourselves gives birth to much of that which we have in others.",
+            "author": "francois de la rochefoucauld"
+        },
+        {
+            "quote": "No one who deserves confidence ever solicits it.",
+            "author": "john churton collins"
+        },
+        {
+            "quote": "Confidence is the bridge connecting expectations and performance, investment and results.",
+            "author": "rosabeth moss kanter"
+        },
+        {
+            "quote": "Confidence is the mark of a hopeful disposition.",
+            "author": "aristotle"
+        },
+        {
+            "quote": "There is a difference between conceit and confidence. Conceit is bragging about yourself. Confidence means you believe you can get the job done.",
+            "author": "johnny unitas"
+        },
+        {
+            "quote": "He is safe who admits no one to his confidence.",
+            "author": "francois duc de la rochefoucauld"
+        },
+        {
+            "quote": "Confidence is a natural life force designed to overcome dark times.",
+            "author": "sheenah hankin"
+        },
+        {
+            "quote": "We need confidence in order to set goals and achieve success, however large or small those goals are and whatever success means to us. This is a competitive world and it is confident people who usually get to win.",
+            "author": "jan ferguson"
+        },
+        {
+            "quote": "Confidence is preparation. Everything else is beyond your control.",
+            "author": "richard kline"
+        },
+        {
+            "quote": "False confidence is the precursor of disaster.",
+            "author": "david noonan"
+        },
+        {
+            "quote": "Having confidence is like having the keys to the kingdom.",
+            "author": "dag albright"
+        },
+        {
+            "quote": "Confidence is the result of hours and days and weeks and years of constant work and dedication.",
+            "author": "roger staubach"
+        },
+        {
+            "quote": "Confidence comes not from always being right but from not fearing to be wrong.",
+            "author": "peter t. mcintyre"
+        },
+        {
+            "quote": "Winning becomes easier over time as the cornerstones of confidence become habits.",
+            "author": "rosabeth moss kanter"
+        },
+        {
+            "quote": "If you have no confidence in self, you are twice defeated in the race of life. With confidence, you have won even before you have started.",
+            "author": "marcus garvey"
+        },
+        {
+            "quote": "You need to play with supreme confidence, or else you’ll lose again, and then losing becomes a habit.",
+            "author": "joe paterno"
+        },
+        {
+            "quote": "Exuding confidence is a bit like being wealthy. Confidence, like money, only becomes a problem when it disappears.",
+            "author": "kate burton & brinley n. platts"
+        },
+        {
+            "quote": "Total self-confidence is built through positive expectations. You can build positive expectations by knowing that you have the power within to overcome any obstacle that lies ahead.",
+            "author": "robert anthony"
+        },
+        {
+            "quote": "If you have confidence you have patience. Confidence, that is everything.",
+            "author": "ilie nastase"
+        },
+        {
+            "quote": "He who has lost confidence can lose nothing more.",
+            "author": "pierre claude boiste"
+        },
+        {
+            "quote": "Ignorance and confidence are constant companions.",
+            "author": "john mcafee"
+        },
+        {
+            "quote": "Have confidence that if you have done a little thing well, you can do a bigger thing well too.",
+            "author": "david storey"
+        },
+        {
+            "quote": "To be confident is to act in faith.",
+            "author": "bernard bynion"
+        },
+        {
+            "quote": "Confidence is a plant of slow growth in an aged heart.",
+            "author": "william pitt chatham"
+        },
+        {
+            "quote": "Confidence in conversation has a greater share than wit.",
+            "author": "francois duc de la rochefoucauld"
+        },
+        {
+            "quote": "Confidence is a very fragile thing.",
+            "author": "joe montana"
+        },
+        {
+            "quote": "Confidence is the feeling you have before you understand the situation.",
+            "author": "author unknown"
+        },
+        {
+            "quote": "There can be no friendship without confidence, and no confidence without integrity.",
+            "author": "samuel johnson"
+        },
+        {
+            "quote": "Confidence is the most important single factor in this game, and no matter how great your natural talent, there is only one way to obtain and sustain it: work.",
+            "author": "jack nicklaus"
+        },
+        {
+            "quote": "We must have perseverance and above all confidence in ourselves. We must believe that we are gifted for something, and that this thing, at whatever cost, must be attained.",
+            "author": "madame marie curie"
+        },
+        {
+            "quote": "A person without confidence is like a jumbo jet sitting on the runway with an empty fuel tank.",
+            "author": "keith johnson"
+        },
+        {
+            "quote": "You’ve got to take the initiative and play your game. In a decisive set, confidence is the difference.",
+            "author": "chris evert lloyd"
+        },
+        {
+            "quote": "Confidence is that feeling by which the mind embarks in great and long honourable courses with a sure hope and trust in itself.",
+            "author": "marcus tullius cicero"
+        },
+        {
+            "quote": "Confidence is a lot of this game or any game. If you don’t think you can, you won’t.",
+            "author": "jerry west"
+        },
+        {
+            "quote": "Experience tells you what to do; confidence allows you to do it.",
+            "author": "stan smith"
+        },
+        {
+            "quote": "Anyone who ever gave you confidence, you owe them a lot.",
+            "author": "truman capote"
+        },
+        {
+            "quote": "Your sole contribution to the sum of things is yourself.",
+            "author": "frank crane"
+        },
+        {
+            "quote": "I’ve always had confidence. It came because I have lots of initiative. I wanted to make something of myself.",
+            "author": "eddie murphy"
+        },
+        {
+            "quote": "There’s one blessing only, the source and cornerstone of beatitude — confidence in self.",
+            "author": "marcus annaeus seneca"
+        },
+        {
+            "quote": "Confidence is a fine trait. Overconfidence isn’t.",
+            "author": "laurell k. hamilton"
+        },
+        {
+            "quote": "Most frequently we make confidants from vanity, a love of talking, a wish to win the confidence of others, and to make an exchange of secrets.",
+            "author": "francois duc de la rochefoucauld"
+        },
+        {
+            "quote": "Confidence sounds like rock and roll, loud, strong and played without apology.",
+            "author": "timothy ursiny"
+        },
+        {
+            "quote": "Courage comes from wanting to do it well. Security comes from knowing you can do it well. Confidence Confide comes from having done it well.",
+            "author": "author unknown"
+        },
+        {
+            "quote": "One important key to success is self-confidence. An important key to self-confidence is preparation.",
+            "author": "arthur ashe"
+        },
+        {
+            "quote": "Calm self-confidence is as far from conceit as the desire to earn a decent living is remote from greed.",
+            "author": "channing pollock"
+        },
+        {
+            "quote": "Confidence is a natural life force designed to overcome dark times.",
+            "author": "sheenah hankin"
+        },
+        {
+            "quote": "If you are prepared, then you are able to feel confident.",
+            "author": "robert j. ringer"
+        },
+        {
+            "quote": "A competent and self-confident person is incapable of jealousy in anything. Jealousy is invariably a symptom of neurotic insecurity.",
+            "author": "lazarus long"
+        },
+        {
+            "quote": "We have to serve ourselves many years before we gain our own confidence.",
+            "author": "henry s. haskins"
+        },
+        {
             "quote": "What people see is determined by where they sit. They naturally see things from their own perspective, not from anyone else’s, including yours.",
             "author": "john c. maxwell"
         },
