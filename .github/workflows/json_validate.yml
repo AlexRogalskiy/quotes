@@ -12,13 +12,13 @@ jobs:
     steps:
       - uses: actions/checkout@v1
 
-      ## ${{ steps.json_data.outputs.content }}
-#      - name: Create JSONs list
-#        id: json_data
-#        run: echo "::set-output name=content::$(ls -p ./data | grep -v / | tr '\n' ',')"
+      - name: Create JSONs list
+        id: json_data
+        run: |
+          echo "::set-output name=files::$(find -L ./data -type f | sed -e 's#$##' | head -c -1 | tr '\n' ',')"
 
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
           INPUT_SCHEMA: ./data/schemas/schema.json
-          INPUT_JSONS: ./data/anger_quotes.json,./data/books_quotes.json
+          INPUT_JSONS: ${{ steps.json_data.outputs.files }}

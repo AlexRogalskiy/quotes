@@ -1,10 +1,12 @@
 {
     "$id": "https://github.com/AlexRogalskiy/quotes/blob/master/data/schemas.json",
-    "description": "A representation of a quote data object",
+    "description": "A representation of a collection of quote data objects",
     "type": "object",
     "patternProperties": {
         "^.*$": {
             "type": "array",
+            "minItems": 1,
+            "uniqueItems": false,
             "items": {
                 "$ref": "#/$defs/quote"
             }
@@ -28,8 +30,5 @@
                 "author"
             ]
         }
-    },
-    "required": [
-        "anger"
-    ]
+    }
 }
