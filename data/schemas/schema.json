@@ -2,8 +2,8 @@
     "$id": "https://github.com/AlexRogalskiy/quotes/blob/master/data/schemas.json",
     "description": "A representation of a quote data object",
     "type": "object",
-    "properties": {
-        "anger": {
+    "patternProperties": {
+        "^.*$": {
             "type": "array",
             "items": {
                 "$ref": "#/$defs/quote"

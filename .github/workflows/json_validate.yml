@@ -9,15 +9,16 @@ on:
 jobs:
   verify-json-validation:
     runs-on: ubuntu-latest
-    strategy:
-      matrix:
-        schema: [ './data/schemas.json' ]
-        json: [ './data/anger_quotes.json' ]
     steps:
       - uses: actions/checkout@v1
+
+      ## ${{ steps.json_data.outputs.content }}
+#      - name: Create JSONs list
+#        id: json_data
+#        run: echo "::set-output name=content::$(ls -p ./data | grep -v / | tr '\n' ',')"
 
       - name: Validate JSON
         uses: docker://orrosenblatt/validate-json-action:latest
         env:
-          INPUT_SCHEMA: ${{ matrix.schema }}
-          INPUT_JSONS: ${{ matrix.json }}
+          INPUT_SCHEMA: ./data/schemas/schema.json
+          INPUT_JSONS: ./data/anger_quotes.json,./data/books_quotes.json
