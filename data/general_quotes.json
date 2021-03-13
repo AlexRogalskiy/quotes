@@ -1,6 +1,3958 @@
 {
     "general": [
         {
+            "quote": "The time to relax is when you don’t have time for it.",
+            "author": "sidney j. harris"
+        },
+        {
+            "quote": "Every once and a while, go away and take a relaxing break, and then when you come back to your work, your judgment will be better.",
+            "author": "leonardo da vinci"
+        },
+        {
+            "quote": "Rest is the sweet sauce of labor.",
+            "author": "plutarch"
+        },
+        {
+            "quote": "Enjoy the successes that you have, and don’t be too hard on yourself when you don’t do well. Too many times we beat up on ourselves. Just relax and enjoy it.",
+            "author": "patty sheehan"
+        },
+        {
+            "quote": "Rest is a fine medicine",
+            "author": "thomas carlyle"
+        },
+        {
+            "quote": "The chief secret of comfort lies in not suffering trifles to vex us, and in prudently cultivating an undergrowth of small pleasures, since very few great ones are let on long leases.",
+            "author": "james h. aughey"
+        },
+        {
+            "quote": "Ignorance is the softest pillow on which a man can rest his head.",
+            "author": "michel de montaigne"
+        },
+        {
+            "quote": "Of all created comforts, God is the lender; you are the borrower, not the owner.",
+            "author": "samuel rutherford"
+        },
+        {
+            "quote": "Relax, Recharge and Reflect. Sometimes it’s OK to do nothing.",
+            "author": "izey victoria odiase"
+        },
+        {
+            "quote": "There is no point at which you can say, \"Well I am successful now, I might as well relax\".",
+            "author": "carrie fisher"
+        },
+        {
+            "quote": "Rest is the fitting of self to its sphere.",
+            "author": "john sullivan dwight"
+        },
+        {
+            "quote": "Nothing gives rest but the sincere search for truth.",
+            "author": "blaise pascal"
+        },
+        {
+            "quote": "For too much rest becomes a pain.",
+            "author": "homer"
+        },
+        {
+            "quote": "A conventional good read is usually a bad read, a relaxing bath in what we know already.",
+            "author": "malcolm bradbury"
+        },
+        {
+            "quote": "To make the individual uncomfortable, that is my task.",
+            "author": "friedrich wilhelm nietzsche"
+        },
+        {
+            "quote": "The stars that have most glory have no rest.",
+            "author": "samuel daniel"
+        },
+        {
+            "quote": "Rest is not idleness, and to lie sometimes on the grass on a summer day listening to the murmur of water, or watching the clouds float across the sky, is hardly a waste of time.",
+            "author": "sir john lubbock"
+        },
+        {
+            "quote": "When God says run, don’t relax, just run. It is for a reason!",
+            "author": "gift gugu mona"
+        },
+        {
+            "quote": "No rest is worth anything except the rest that is earned.",
+            "author": "jean paul richter"
+        },
+        {
+            "quote": "No sooner do we think we have assembled a comfortable life than we find a piece of ourselves that has no place to fit in.",
+            "author": "gail sheehy"
+        },
+        {
+            "quote": "Rest, rest, shall I have not all eternity to rest.",
+            "author": "antoine arnauld"
+        },
+        {
+            "quote": "If you rest, you rust.",
+            "author": "helen hayes"
+        },
+        {
+            "quote": "If you need medical advice, let these three things be your physicians; a cheerful mind, relaxation from business, and a moderate diet.",
+            "author": "schola salern"
+        },
+        {
+            "quote": "Sometimes the most urgent thing you can possibly do is take a complete rest.",
+            "author": "ashleigh brilliant"
+        },
+        {
+            "quote": "He that can take rest is greater than he that can take cities.",
+            "author": "benjamin franklin"
+        },
+        {
+            "quote": "It is necessary to relax your muscles when you can. Relaxing your brain is fatal.",
+            "author": "stirling moss"
+        },
+        {
+            "quote": "They have most satisfaction in themselves, and consequently the sweetest relish of their creature comforts.",
+            "author": "matthew"
+        },
+        {
+            "quote": "Absence of occupation is not rest; A mind quite vacant is a mind distressed.",
+            "author": "william cowper"
+        },
+        {
+            "quote": "The chief secret of comfort lies in not suffering trifles to vex us, and in prudently cultivating our undergrowth of small pleasures, since very few great ones, alas! are let on long leases.",
+            "author": "richard sharp"
+        },
+        {
+            "quote": "He who seeks rest finds boredom. He who seeks work finds rest.",
+            "author": "dylan thomas"
+        },
+        {
+            "quote": "Rest when you’re weary. Refresh and renew yourself, your body, your mind, your spirit. Then get back to work.",
+            "author": "ralph marston"
+        },
+        {
+            "quote": "What is without periods of rest will not endure.",
+            "author": "ovid"
+        },
+        {
+            "quote": "The bourgeois prefers comfort to pleasure, convenience to liberty, and a pleasant temperature to the deathly inner consuming fire.",
+            "author": "hermann hesse"
+        },
+        {
+            "quote": "Man is so made that he can only find relaxation from one kind of labor by taking up another.",
+            "author": "anatole france"
+        },
+        {
+            "quote": "It is in human nature to relax, when not compelled by personal advantage or disadvantage.",
+            "author": "goethe"
+        },
+        {
+            "quote": "Get out of the blocks, run your race, stay relaxed. If you run your race, you’ll win. Channel your energy. Focus.",
+            "author": "carol lewis"
+        },
+        {
+            "quote": "It is requisite for the relaxation of the mind that we make use, from time to time, of playful deeds and jokes.",
+            "author": "thomas aquinas"
+        },
+        {
+            "quote": "Comfort and indolence are cronies.",
+            "author": "thomas hood"
+        },
+        {
+            "quote": "The lust for comfort, that stealthy thing that enters the house a guest and then becomes a host, and then a master.",
+            "author": "kahlil gibran"
+        },
+        {
+            "quote": "Good, better, best. Never let it rest. ‘Til your good is better and your better is best.",
+            "author": "st. jerome"
+        },
+        {
+            "quote": "The word \"rest\" is not in my vocabulary.",
+            "author": "horace greeley"
+        },
+        {
+            "quote": "Your mind will answer most questions if you learn to relax and wait for the answer.",
+            "author": "william s. burroughs"
+        },
+        {
+            "quote": "Work is man’s most natural form of relaxation.",
+            "author": "dagobert d. runes"
+        },
+        {
+            "quote": "Too much rest becomes a pain.",
+            "author": "homer"
+        },
+        {
+            "quote": "Men who pass most comfortably through this world are those who possess good digestions and hard hearts.",
+            "author": "harriet martineau"
+        },
+        {
+            "quote": "Rest is a good thing, but boredom is its brother.",
+            "author": "voltaire"
+        },
+        {
+            "quote": "You can’t use up creativity. The more you use, the more you have.",
+            "author": "maya angelou"
+        },
+        {
+            "quote": "It is better to create than to learn! Creating is the essence of life.",
+            "author": "julius caesar"
+        },
+        {
+            "quote": "The creative mind plays with the objects it loves.",
+            "author": "carl jung"
+        },
+        {
+            "quote": "To create, you must empty yourself of every artistic thought.",
+            "author": "gilbert george"
+        },
+        {
+            "quote": "The computer offers another kind of creativity. You cannot ignore the creativity that computer technology can bring. But you need to be able to move between those two different worlds.",
+            "author": "tadao ando"
+        },
+        {
+            "quote": "Creativity seems to emerge from multiple experiences, coupled with a well-supported development of personal resources, including a sense of freedom to venture beyond the known.",
+            "author": "loris malaguzzi"
+        },
+        {
+            "quote": "Creativity requires the courage to let go of certainties.",
+            "author": "erich fromm"
+        },
+        {
+            "quote": "Creative powers can just as easily turn out to be destructive. It rests solely with the moral personality whether they apply themselves to good things or to bad. And if this is lacking, no teacher can supply it or take its place.",
+            "author": "carl jung"
+        },
+        {
+            "quote": "Creativity has more to do with the elimination of the inessential than with inventing something new.",
+            "author": "helmut jahn"
+        },
+        {
+            "quote": "Our senses are indeed our doors and windows on this world, in a very real sense the key to the unlocking of meaning and the wellspring of creativity.",
+            "author": "jean houston"
+        },
+        {
+            "quote": "All works of art are commissioned in the sense that no artist can create one by a simple act of will but must wait until what he believes to be a good idea for a work \"comes\" to him.",
+            "author": "w. h. auden"
+        },
+        {
+            "quote": "Creativity becomes more visible when adults try to be more attentive to the cognitive processes of children than to the results they achieve in various fields of doing and understanding.",
+            "author": "loris malaguzzi"
+        },
+        {
+            "quote": "You can’t suppress creativity, you can’t suppress innovation.",
+            "author": "james daly"
+        },
+        {
+            "quote": "Creativity is thinking up new things. Innovation is doing new things.",
+            "author": "theodore levitt"
+        },
+        {
+            "quote": "One of your most powerful inner resources is your own creativity. Be willing to try on something new and play the game full-out.",
+            "author": "marcia wieder"
+        },
+        {
+            "quote": "Anxiety is part of creativity, the need to get something out, the need to be rid of something or to get in touch with something within.",
+            "author": "david duchovny"
+        },
+        {
+            "quote": "The worst enemy to creativity is self-doubt.",
+            "author": "sylvia plath"
+        },
+        {
+            "quote": "A truly creative person rids him or herself of all self-imposed limitations.",
+            "author": "gerald g. jampolsky"
+        },
+        {
+            "quote": "Creativity is merely a plus name for regular activity. Any activity becomes creative when the doer cares about doing it right, or better.",
+            "author": "john updike"
+        },
+        {
+            "quote": "Without this playing with fantasy no creative work has ever yet come to birth. The debt we owe to the play of the imagination is incalculable.",
+            "author": "carl jung"
+        },
+        {
+            "quote": "Creativity is the sudden cessation of stupidity.",
+            "author": "edwin h. land"
+        },
+        {
+            "quote": "There is only one answer to destructiveness and that is creativity.",
+            "author": "sylvia ashton warner"
+        },
+        {
+            "quote": "Creativity is essentially a lonely art, an even lonelier struggle. To some a blessing; to others a curse. It is in reality the ability to reach inside yourself and drag forth from your very soul an idea.",
+            "author": "lou dorfsman"
+        },
+        {
+            "quote": "Some people use things; they destroy. You’re a creator, a builder.",
+            "author": "amelia atwater-rhodes"
+        },
+        {
+            "quote": "You can’t fake creativity, competence, or sexual arousal.",
+            "author": "doug coupland"
+        },
+        {
+            "quote": "Our current obsession with creativity is the result of our continued striving for immortality in an era when most people no longer believe in an after-life.",
+            "author": "arianna stassinopoulos"
+        },
+        {
+            "quote": "It is the creative potential itself in human beings that is the image of God.",
+            "author": "mary daly"
+        },
+        {
+            "quote": "God is creating at every moment of the world’s existence in and through the perpetually endowed creativity of the very stuff of the world.",
+            "author": "arthur peacocke"
+        },
+        {
+            "quote": "The power in which we must have faith if we would be well, is the creative and curative power which exists in every living thing.",
+            "author": "john kellogg"
+        },
+        {
+            "quote": "Responsibility is what awaits outside the Eden of Creativity.",
+            "author": "nadine gordimer"
+        },
+        {
+            "quote": "To creates omething you must be something.",
+            "author": "goethe"
+        },
+        {
+            "quote": "Creativity is a highfalutin’ word for the work I have to do between now and Tuesday.",
+            "author": "ray kroc"
+        },
+        {
+            "quote": "To live a creative life, we must lose our fear of being wrong.",
+            "author": "joseph chilton pierce"
+        },
+        {
+            "quote": "There is no doubt that creativity is the most important human resource of all. Without creativity, there would be no progress, and we would be forever repeating the same patterns.",
+            "author": "edward de bono"
+        },
+        {
+            "quote": "Creativity can solve almost any problem. The creative act, the defeat of habit by originality, overcomes everything.",
+            "author": "george lois"
+        },
+        {
+            "quote": "Creativity comes from awakening and directing men’s higher natures, which originate in the primal depths of the universe and are appointed by Heaven.",
+            "author": "i ching"
+        },
+        {
+            "quote": "My parents always pushed creativity on us, but they made it seem like the fun thing to do.",
+            "author": "gwen stefani"
+        },
+        {
+            "quote": "The thing that makes a creative person is to be creative and that is all there is to it.",
+            "author": "edward albee"
+        },
+        {
+            "quote": "Technology is driving the innovation. Technology is driving the creativity. Technology and the use of that is going to determine our workers’ ability to compete in the 21st century global marketplace.",
+            "author": "ron kind"
+        },
+        {
+            "quote": "Creative minds have always been known to survive any kind of bad training.",
+            "author": "anna freud"
+        },
+        {
+            "quote": "Creativity involves breaking out of established patterns in order to look at things in a different way.",
+            "author": "edward de bono"
+        },
+        {
+            "quote": "It seems safe to say that significant discovery, really creative thinking, does not occur with regard to problems about which the thinker is lukewarm.",
+            "author": "mary henle"
+        },
+        {
+            "quote": "The whole difference between construction and creation is this; that a thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.",
+            "author": "charles dickens"
+        },
+        {
+            "quote": "The lash may force men to physical labor, it cannot force them to spiritual creativity.",
+            "author": "sholem asch"
+        },
+        {
+            "quote": "A hunch is creativity trying to tell you something.",
+            "author": "frank capra"
+        },
+        {
+            "quote": "Teaching creativity to your child isn’t like teaching good manners. No one can paint a masterpiece by bowing to another person’s precepts about elbows on the table.",
+            "author": "gurney williams iii"
+        },
+        {
+            "quote": "Clean out a corner of your mind and creativity will instantly fill it.",
+            "author": "dee hock"
+        },
+        {
+            "quote": "I must create a system or be enslaved by another man’s; I will not reason and compare: my business is to create.",
+            "author": "william blake"
+        },
+        {
+            "quote": "Chaos in the world brings uneasiness, but it also allows the opportunity for creativity and growth.",
+            "author": "tom barrett"
+        },
+        {
+            "quote": "Mystery is at the heart of creativity. That, and surprise.",
+            "author": "julia cameron"
+        },
+        {
+            "quote": "Creativity is an advertising agency’s most valuable asset, because it is the rarest.",
+            "author": "jef i. richards"
+        },
+        {
+            "quote": "Truly creative people care a little about what they have done, and a lot about what they are doing. Their driving focus is the life force that surges in them now.",
+            "author": "alan cohen"
+        },
+        {
+            "quote": "True creativity often starts where language ends.",
+            "author": "arthur koestler"
+        },
+        {
+            "quote": "Creativity makes a leap, then looks to see where it is.",
+            "author": "mason cooley"
+        },
+        {
+            "quote": "My theory about creativity is that the more money one has, the more creative one can be.",
+            "author": "robert mapplethorpe"
+        },
+        {
+            "quote": "Every single thing you see on-screen came out of somebody’s creativity. It doesn’t exist. Nature didn’t deliver it to us. Everything had to be dreamed.",
+            "author": "jeffrey katzenberg"
+        },
+        {
+            "quote": "The things we fear most in organizations — fluctuations, disturbances, imbalances — are the primary sources of creativity.",
+            "author": "margaret j. wheatley"
+        },
+        {
+            "quote": "We live at a time when man believes himself fabulously capable of creation, but he does not know what to create.",
+            "author": "jose ortega y gasset"
+        },
+        {
+            "quote": "You cannot teach creativity– how to become a good writer. But you can help a young writer discover within himself what kind of writer he would like to be.",
+            "author": "mario vargas llosa"
+        },
+        {
+            "quote": "Creativity is inventing, experimenting, growing, taking risks, breaking rules, making mistakes, and having fun.",
+            "author": "mary lou cook"
+        },
+        {
+            "quote": "The legs are the wheels of creativity.",
+            "author": "albert einstein"
+        },
+        {
+            "quote": "Whatever creativity is, it is in part a solution to a problem.",
+            "author": "brian aldiss"
+        },
+        {
+            "quote": "Creativity and artistic endeavors have a mission that goes far beyond just making music for the sake of music.",
+            "author": "herbie hancock"
+        },
+        {
+            "quote": "Most people die before they are fully born. Creativeness means to be born before one dies.",
+            "author": "erich fromm"
+        },
+        {
+            "quote": "The secret to creativity is knowing how to hide your sources.",
+            "author": "albert einstein"
+        },
+        {
+            "quote": "It is the child in man that is the source of his uniqueness and creativeness, and the playground is the optimal milieu for the unfolding of his capacities and talents.",
+            "author": "eric hoffer"
+        },
+        {
+            "quote": "Our task, regarding creativity, is to help children climb their own mountains, as high as possible. No one can do more.",
+            "author": "loris malaguzzi"
+        },
+        {
+            "quote": "Can anybody be given a great degree of creativity? No. They can be given the equipment to develop it-if they have it in them in the first place.",
+            "author": "george shearing"
+        },
+        {
+            "quote": "Creativity is more than just being different. Anybody can plan weird; that’s easy. What’s hard is to be as simple as Bach. Making the simple, awesomely simple, that’s creativity.",
+            "author": "charles mingus"
+        },
+        {
+            "quote": "All good things which exist are the fruits of originality.",
+            "author": "john stuart mill"
+        },
+        {
+            "quote": "What is originality? Undetected plagiarism.",
+            "author": "william ralph inge"
+        },
+        {
+            "quote": "Originality depends only on the character of the drawing and the vision peculiar to each artist.",
+            "author": "georges seurat"
+        },
+        {
+            "quote": "Every man is an original and solitary character. None can either understand or feel the book of his own life like himself.",
+            "author": "richard cecil"
+        },
+        {
+            "quote": "Originality consists in trying to be like everybody else and failing.",
+            "author": "raymond radiguet"
+        },
+        {
+            "quote": "Anoriginal artist is unable to copy. So he has only to copy in order to be original.",
+            "author": "jean cocteau"
+        },
+        {
+            "quote": "It takes a courageous fool to say things that have not been said and to do things that have not been done.",
+            "author": "criss jami"
+        },
+        {
+            "quote": "Originality does not consist in saying what no one has ever said before, but in saying exactly what you think yourself.",
+            "author": "james stephens"
+        },
+        {
+            "quote": "Originality is the fine art of remembering what you hear but forgetting where you heard it.",
+            "author": "laurence j. peter"
+        },
+        {
+            "quote": "No man can climb out beyond the limitations of his own character.",
+            "author": "john morley"
+        },
+        {
+            "quote": "The most original of authors are not so because they advance what is new, but more because they know how to say something, as if it had never been said before.",
+            "author": "goethe"
+        },
+        {
+            "quote": "There is just one life for each of us: our own.",
+            "author": "euripides"
+        },
+        {
+            "quote": "Originality is simply a pair of fresh eyes.",
+            "author": "thomas wentworth higginson"
+        },
+        {
+            "quote": "Originality usually amounts only to plagiarizing something unfamiliar.",
+            "author": "katharine fullerton gerould"
+        },
+        {
+            "quote": "Originality is independence, not rebellion; it is sincerity, not antagonism.",
+            "author": "george henry lewes"
+        },
+        {
+            "quote": "When there is an original sound in the world, it makes a hundred echoes.",
+            "author": "john a. shedd"
+        },
+        {
+            "quote": "It takes courage to grow up and become who you really are.",
+            "author": "e.e. cummings"
+        },
+        {
+            "quote": "All the knowledge I possess everyone else can acquire, but my heart is all my own.",
+            "author": "goethe"
+        },
+        {
+            "quote": "Utter originality is, of course, out of the question.",
+            "author": "ezra pound"
+        },
+        {
+            "quote": "But it is better to fail in originality than to succeed in imitation.",
+            "author": "herman melville"
+        },
+        {
+            "quote": "Cinema reflects culture and there is no harm in adapting technology, but not at the cost of losing your originality.",
+            "author": "jackie chan"
+        },
+        {
+            "quote": "Give up on trying to be original. Every song has been sung, every picture has been painted, and every story has been told. The best one can do is sing, draw, or tell it again well.",
+            "author": "evan mandery"
+        },
+        {
+            "quote": "You were born an original. Don’t die a copy.",
+            "author": "john mason"
+        },
+        {
+            "quote": "What is the point of being on this Earth if you are going to be like everyone else?",
+            "author": "arnold schwarzenegger"
+        },
+        {
+            "quote": "Best be yourself, imperial, plain and true!",
+            "author": "robert browning"
+        },
+        {
+            "quote": "The greater intellect one has, the more originality one finds in men. Ordinary persons find no difference between men.",
+            "author": "blaise pascal"
+        },
+        {
+            "quote": "Originality is not seen in single words or even in sentences. Originality is the sum total of a man’s thinking or his writing.",
+            "author": "isaac bashevis singer"
+        },
+        {
+            "quote": "The prerequisite of originality is the art of forgetting, at the proper moment, what we know.",
+            "author": "arthur koestler"
+        },
+        {
+            "quote": "It is the chiefest point of happiness that a man is willing to be what he is.",
+            "author": "desiderius erasmus"
+        },
+        {
+            "quote": "Originality is the essence of true scholarship. Creativity is the soul of the true scholar.",
+            "author": "nnamdi azikiwe"
+        },
+        {
+            "quote": "About the most originality that any writer can hope to achieve honestly is to steal with good judgment.",
+            "author": "josh billings"
+        },
+        {
+            "quote": "A man is original when he speaks the truth that has always been known to all good men.",
+            "author": "patrick kavanagh"
+        },
+        {
+            "quote": "Originality implies being bold enough to go beyond accepted norms.",
+            "author": "anthony storr"
+        },
+        {
+            "quote": "The beauty is that through disappointment you can gain clarity, and with clarity comes conviction and true originality.",
+            "author": "conan o’brien"
+        },
+        {
+            "quote": "One couldn’t carry on life comfortably without a little blindness to the fact that everything has been said better than we can put it ourselves.",
+            "author": "george eliot"
+        },
+        {
+            "quote": "One’s real life is often the life that one does not lead.",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "Follow your inner moonlight; don’t hide the madness.",
+            "author": "allen ginsberg"
+        },
+        {
+            "quote": "The most important kind of freedom is to be what you really are.",
+            "author": "jim morrison"
+        },
+        {
+            "quote": "The man with a new idea is a crank until the idea succeeds.",
+            "author": "mark twain"
+        },
+        {
+            "quote": "A thought is often original, though you have uttered it a hundred times.",
+            "author": "oliver wendell holmes"
+        },
+        {
+            "quote": "True originality consists not in a new manner but in a new vision.",
+            "author": "edith wharton"
+        },
+        {
+            "quote": "We all wear masks, and the time comes when we cannot remove them without removing some of our own skin.",
+            "author": "andré berthiaume"
+        },
+        {
+            "quote": "It is better to be hated for what you are than to be loved for something you are not.",
+            "author": "andre gide"
+        },
+        {
+            "quote": "A poor original is better than a good imitation.",
+            "author": "ella wheeler wilcox"
+        },
+        {
+            "quote": "If you would create something, you must be something.",
+            "author": "goethe"
+        },
+        {
+            "quote": "The originality of a subject is in its treatment.",
+            "author": "benjamin disraeli"
+        },
+        {
+            "quote": "Let us not forget that the greatest composers were also the greatest thieves. They stole from everyone and everywhere.",
+            "author": "pablo casals"
+        },
+        {
+            "quote": "Your time is limited, so don’t waste it living someone else’s life.",
+            "author": "steve jobs"
+        },
+        {
+            "quote": "Just keep thinking about the good side of ADD – the creativity and the originality it can stimulate.",
+            "author": "david neeleman"
+        },
+        {
+            "quote": "\"Be yourself\" is about the worst advice you can give some people.",
+            "author": "tom masson"
+        },
+        {
+            "quote": "No man knows himself as an original.",
+            "author": "washington allston"
+        },
+        {
+            "quote": "A man of great common sense and good taste – meaning thereby a man without originality or moral courage.",
+            "author": "george bernard shaw"
+        },
+        {
+            "quote": "Knowing how to paint and to use one’s colors rightly has not any connection with originality. This originality consists in properly expressing your own impressions.",
+            "author": "thomas couture"
+        },
+        {
+            "quote": "What the world calls originality is only an unaccustomed method of tickling it.",
+            "author": "george bernard shaw"
+        },
+        {
+            "quote": "Originality exists in every individual because each of us differs from the others. We are all primary numbers divisible only by ourselves.",
+            "author": "jean guitton"
+        },
+        {
+            "quote": "As a rule, I am very careful to be shallow and conventional where depth and originality are wasted.",
+            "author": "lucy maud montgomery"
+        },
+        {
+            "quote": "He who trims himself to suit everyone will soon whittle himself away.",
+            "author": "raymond hull"
+        },
+        {
+            "quote": "The more original a discovery, the more obvious it seems afterwards.",
+            "author": "arthur koestler"
+        },
+        {
+            "quote": "Originality is the art of concealing your source.",
+            "author": "franklin p. jones"
+        },
+        {
+            "quote": "Originality is what distinguishes art from craft. It is the yardstick of artistic greatness.",
+            "author": "horst w. janson"
+        },
+        {
+            "quote": "The secret of all effective originality in advertising is not the creation of new and tricky words and pictures, but one of putting familiar words and pictures into new relationships.",
+            "author": "leo burnett"
+        },
+        {
+            "quote": "Nearly all our originality comes from the stamp that time impresses upon our sensibility.",
+            "author": "charles baudelaire"
+        },
+        {
+            "quote": "Some writers confuse authenticity, which they ought always to aim at, with originality, which they should never bother about.",
+            "author": "w. h. auden"
+        },
+        {
+            "quote": "Great men are more distinguished by range and extent than by originality.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "Man is least himself when he talks in his own person. Give him a mask, and he will tell you the truth.",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "All thoughtful men are solitary and original in themselves.",
+            "author": "james russell lowell"
+        },
+        {
+            "quote": "Mistakes are the only universal form of originality.",
+            "author": "mason cooley"
+        },
+        {
+            "quote": "What a good thing Adam had. When he said a good thing he knew nobody had said it before.",
+            "author": "mark twain"
+        },
+        {
+            "quote": "Originality is the one thing which unoriginal minds cannot feel the use of.",
+            "author": "john stuart mill"
+        },
+        {
+            "quote": "It is better to fail in originality than to succeed in imitation.",
+            "author": "herman melville"
+        },
+        {
+            "quote": "Originality is… a by-product of sincerity.",
+            "author": "marianne moore"
+        },
+        {
+            "quote": "God has given you one face, and you make yourself another.",
+            "author": "william shakespeare"
+        },
+        {
+            "quote": "Almost all absurdity of conduct arises from the imitation of those whom we cannot resemble.",
+            "author": "samuel johnson"
+        },
+        {
+            "quote": "Originality is the best form of rebellion.",
+            "author": "mike sasso"
+        },
+        {
+            "quote": "The principle mark of genius is not perfection but originality, the opening of new frontiers.",
+            "author": "arthur koestler"
+        },
+        {
+            "quote": "Originality is nothing but judicious imitation. The most original writers borrowed one from another.",
+            "author": "voltaire"
+        },
+        {
+            "quote": "Almost every man wastes part of his life in attempts to display qualities which he does not possess, and to gain applause which he cannot keep.",
+            "author": "samuel johnson"
+        },
+        {
+            "quote": "The merit of originality is not novelty; it is sincerity.",
+            "author": "thomas carlyle"
+        },
+        {
+            "quote": "I’ll develop my own image. I’m an original man. A one and only. I just need some help.",
+            "author": "sam shepard"
+        },
+        {
+            "quote": "That which is original creates a new origin. That which is original, by definition, must stay off the previously worn paths. It must wander; it must err.",
+            "author": "blake charlton"
+        },
+        {
+            "quote": "If they haven’t heard it before it’s original.",
+            "author": "gene fowler"
+        },
+        {
+            "quote": "If you cannot be a poet, be the poem.",
+            "author": "david carradine"
+        },
+        {
+            "quote": "The world in general doesn’t know what to make of originality; it is startled out of its comfortable habits of thought, and its first reaction is one of anger.",
+            "author": "w. somerset maugham"
+        },
+        {
+            "quote": "If God had wanted me otherwise, He would have created me otherwise.",
+            "author": "goethe"
+        },
+        {
+            "quote": "Be who you are and say what you feel, because those who mind don’t matter and those who matter don’t mind.",
+            "author": "dr. seuss"
+        },
+        {
+            "quote": "We are what we pretend to be, so we must be careful about what we pretend to be.",
+            "author": "kurt vonnegut"
+        },
+        {
+            "quote": "As long as we live, there is never enough singing.",
+            "author": "martin luther"
+        },
+        {
+            "quote": "I don’t sing because I’m happy; I’m happy because I sing.",
+            "author": "william james"
+        },
+        {
+            "quote": "O, she will sing the savageness out of a bear!",
+            "author": "william shakespeare"
+        },
+        {
+            "quote": "Singing has nothing to do with the affairs of this world: it is not for the law. Singers are merry, and free from sorrows and cares.",
+            "author": "martin luther"
+        },
+        {
+            "quote": "Of all the wonders of nature, a tree in summer is perhaps the most remarkable; with the possible exception of a moose singing \"Embraceable You\" in spats.",
+            "author": "woody allen"
+        },
+        {
+            "quote": "[H]e sang words without sense, but their tone went to his heart…",
+            "author": "jean paul friedrich richter"
+        },
+        {
+            "quote": "They sing, they will pay.",
+            "author": "jules mazarin"
+        },
+        {
+            "quote": "The singer has everything within him. The notes come out from his very life. They are not materials gathered from outside.",
+            "author": "rabindranath tagore"
+        },
+        {
+            "quote": "There’s no half-singing in the shower, you’re either a rock star or an opera diva.",
+            "author": "josh groban"
+        },
+        {
+            "quote": "Sing out loud in the car even, or especially, if it embarrasses your children.",
+            "author": "marilyn penland"
+        },
+        {
+            "quote": "God respects me when I work; but God loves me when I sing.",
+            "author": "rabindranath tagore"
+        },
+        {
+            "quote": "That which is not worth speaking they sing.",
+            "author": "pierre auguste caron de beaumarchais"
+        },
+        {
+            "quote": "Birds sing after a storm; why shouldn’t people feel as free to delight in whatever remains to them?",
+            "author": "rose f. kennedy"
+        },
+        {
+            "quote": "He who sings frightens away his ills.",
+            "author": "miguel de cervantes"
+        },
+        {
+            "quote": "Singing has always seemed to me the most perfect means of expression. It is so spontaneous. And after singing, I think the violin. Since I cannot sing, I paint.",
+            "author": "georgia o’keeffe"
+        },
+        {
+            "quote": "I’d rather be dead than singing \"Satisfaction\" when I’m forty-five.",
+            "author": "mick jagger"
+        },
+        {
+            "quote": "A cat will teach her young ones all the tricks, except how to jump backwards.",
+            "author": "netherlands antillean"
+        },
+        {
+            "quote": "The cleverest trick of the Devil is that nobody believes in him. It. Her. Well, we have been very stupid.",
+            "author": "doris lessing"
+        },
+        {
+            "quote": "The fox has many tricks. The hedgehog has but one. But that is the best of all.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "Success can also cause misery. The trick is not to be surprised when you discover it doesn’t bring you all the happiness and answers you thought it would.",
+            "author": "prince"
+        },
+        {
+            "quote": "Little by little does the trick.",
+            "author": "aesop"
+        },
+        {
+            "quote": "No matter how lonely you get or how many birth announcements you receive, the trick is not to get frightened. There’s nothing wrong with being alone.",
+            "author": "wendy wasserstein"
+        },
+        {
+            "quote": "Love is only a dirty trick played on us to achieve continuation of the species.",
+            "author": "w. somerset maugham"
+        },
+        {
+            "quote": "Anyone can be great with money. With money, greatness is not a talent but an obligation. The trick is to be great without money.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I want men to admire me, but that’s a trick you learn at school–a movement of the eyes, a tone of voice, a touch of the hand on the shoulder or the head. If they think you admire them, they will admire you because of your good taste, and when they admire you, you have an illusion for a moment that there’s something to admire.",
+            "author": "graham green"
+        },
+        {
+            "quote": "When in doubt, win the trick.",
+            "author": "edmund hoyle"
+        },
+        {
+            "quote": "Vanity plays lurid tricks with our memory.",
+            "author": "joseph conrad"
+        },
+        {
+            "quote": "One of the tricks of life is to have sense and money in roughly equal proportions.",
+            "author": "craig brown"
+        },
+        {
+            "quote": "Art doesn’t just happen by accident. It is about pulling out new tricks and trying new things.",
+            "author": "nicholas meyer"
+        },
+        {
+            "quote": "There just isn’t any pleasing some people. The trick is to stop trying.",
+            "author": "joel rosenberg"
+        },
+        {
+            "quote": "The nice thing about being a writer is that you can make magic happen without learning tricks.",
+            "author": "humphrey carpenter"
+        },
+        {
+            "quote": "I believe that only one person in a thousand knows the trick of really living in the present.",
+            "author": "storm jameson"
+        },
+        {
+            "quote": "The trick is to be grateful when your mood is high and graceful when it is low.",
+            "author": "richard carlson"
+        },
+        {
+            "quote": "I have the feeling that in a balanced life one should die penniless. The trick is dismantling.",
+            "author": "art garfunkel"
+        },
+        {
+            "quote": "Discipline and unconditional support is earned by understanding and trust and inclusion. Not by isolation, not by nasty tricks.",
+            "author": "colm keaveney"
+        },
+        {
+            "quote": "It is a trick among the dishonest to offer sacrifices that are not needed or not possible, to avoid making those that are required.",
+            "author": "ivan goncharov"
+        },
+        {
+            "quote": "Men have a trick of coming up to what is expected of them, good or bad.",
+            "author": "jacob riis"
+        },
+        {
+            "quote": "The notion of a universality of human experience is a confidence trick and the notion of a universality of female experience is a clever confidence trick.",
+            "author": "angela carter"
+        },
+        {
+            "quote": "Misfortune always comes to those who wait. The trick is to find happiness in the brief gaps between disasters.",
+            "author": "christopher paolini"
+        },
+        {
+            "quote": "Happiness is a gift and the trick is not to expect it, but to delight in it when it comes.",
+            "author": "charles dickens"
+        },
+        {
+            "quote": "The trick is growing up without growing old.",
+            "author": "casey stengel"
+        },
+        {
+            "quote": "In every marriage more than a week old, there are grounds for divorce. The trick is to find and continue to find grounds for marriage.",
+            "author": "rober woodruff anderson"
+        },
+        {
+            "quote": "Don’t just learn the tricks of the trade. Learn the trade.",
+            "author": "james bennis"
+        },
+        {
+            "quote": "A kiss is a lovely trick designed by nature to stop speech when words become superfluous.",
+            "author": "ingrid bergman"
+        },
+        {
+            "quote": "Setting goals for your game is an art. The trick is in setting them at the right level neither too low nor too high.",
+            "author": "greg norman"
+        },
+        {
+            "quote": "Religion is like magic. It is all about tricks.",
+            "author": "michel onfray"
+        },
+        {
+            "quote": "The trick to great romance is in overcoming adversity. In realizing that love is worth some uphill climbs.",
+            "author": "sarah maclean"
+        },
+        {
+            "quote": "A joke is not a thing but a process, a trick you play on the listener’s mind. You start him off toward a plausible goal, and then by a sudden twist you land him nowhere at all or just where he didn’t expect to go.",
+            "author": "max eastman"
+        },
+        {
+            "quote": "Tricks and treachery are the practice of fools, that don’t have brains enough to be honest.",
+            "author": "benjamin franklin"
+        },
+        {
+            "quote": "You must not fight too often with one enemy, or you will teach him all your tricks of war.",
+            "author": "napoleon bonaparte"
+        },
+        {
+            "quote": "Some people carry their heart in their head and some carry their head in their heart. The trick is to keep them apart yet working together.",
+            "author": "david hare"
+        },
+        {
+            "quote": "Writing is an act of faith, not a trick of grammar.",
+            "author": "elwyn brooks white"
+        },
+        {
+            "quote": "The trick is to make sure you don’t die waiting for prosperity to come.",
+            "author": "lee iacocca"
+        },
+        {
+            "quote": "Talent is always queer-tempered.",
+            "author": "mary elizabeth braddon"
+        },
+        {
+            "quote": "Tremendous amounts of talent are lost to our society just because that talent wears a skirt.",
+            "author": "shirley chisholm"
+        },
+        {
+            "quote": "Winning takes talent, to repeat takes character.",
+            "author": "john wooden"
+        },
+        {
+            "quote": "The world is always ready to receive talent with open arms. Very often it does not know what to do with genius.",
+            "author": "oliver wendell holmes"
+        },
+        {
+            "quote": "Talents go by nature not by birth.",
+            "author": "frederick ii"
+        },
+        {
+            "quote": "The greatest talents often lie buried out of sight.",
+            "author": "titus maccius plautus"
+        },
+        {
+            "quote": "Use what talents you possess; the woods would be very silent if no birds sang there except those that sang best.",
+            "author": "henry van dyke"
+        },
+        {
+            "quote": "Talent wins games, but teamwork and intelligence wins championships.",
+            "author": "michael jordan"
+        },
+        {
+            "quote": "However you make your living is where your talent lies.",
+            "author": "ernest hemingway"
+        },
+        {
+            "quote": "We each after a while have to become reconciled to what it is that our talents and appetites lead us to.",
+            "author": "tobias wolff"
+        },
+        {
+            "quote": "Concealed talent brings no reputation.",
+            "author": "desiderius erasmus"
+        },
+        {
+            "quote": "I have had enough success for two lifetimes. My success is talent put together with hard work and luck.",
+            "author": "kareem abdul-jabbar"
+        },
+        {
+            "quote": "Everyone has talent. What is rare is the courage to follow the talent to the dark place where it leads.",
+            "author": "erica jong"
+        },
+        {
+            "quote": "Middle age snuffs out more talent than even wars or sudden death.",
+            "author": "gerald brenan"
+        },
+        {
+            "quote": "To do easily what is difficult for others is the mark of talent. To do what is impossible for talent is the mark of genius.",
+            "author": "henri frederic amiel"
+        },
+        {
+            "quote": "Anyone can be great with money. With money, greatness is not a talent but an obligation. The trick is to be great without money.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Talent isn’t genius, and no amount of energy can make it so. I want to be great, or nothing.",
+            "author": "louisa may alcott"
+        },
+        {
+            "quote": "Talent is never static. It’s always growing or dying.",
+            "author": "stephen king"
+        },
+        {
+            "quote": "Every man has his own vocation, talent is the call.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "Talent is commonly developed at the expense of character.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "Hard work without talent is a shame, but talent without hard work is a tragedy.",
+            "author": "robert half"
+        },
+        {
+            "quote": "It takes little talent to see clearly what lies under one’s nose, a good deal of it to know in which direction to point that organ.",
+            "author": "w. h. auden"
+        },
+        {
+            "quote": "It is unfortunate that superior talent and superior men are so seldom united.",
+            "author": "marie von ebner-eschenbach"
+        },
+        {
+            "quote": "A really great talent finds its happiness in execution.",
+            "author": "goethe"
+        },
+        {
+            "quote": "I believe that every person is born with talent.",
+            "author": "maya angelou"
+        },
+        {
+            "quote": "Talent develops in quiet places, character in the full current of human life.",
+            "author": "goethe"
+        },
+        {
+            "quote": "Talent hits a target no one else can hit; genius hits a target no one else can see.",
+            "author": "arthur schopenhauer"
+        },
+        {
+            "quote": "Genius is the gold in the mine; talent is the miner who works and brings it out.",
+            "author": "marguerite gardiner"
+        },
+        {
+            "quote": "Talent works, genius creates.",
+            "author": "robert schumann"
+        },
+        {
+            "quote": "Where your talents and the needs of the world cross, there lies your vocation.",
+            "author": "aristotle"
+        },
+        {
+            "quote": "To do easily what is difficult for others is the mark of talent.",
+            "author": "henri-frederic amiel"
+        },
+        {
+            "quote": "Talent is only the starting point.",
+            "author": "irving berlin"
+        },
+        {
+            "quote": "Hidden talent counts for nothing.",
+            "author": "nero"
+        },
+        {
+            "quote": "Everyone has talent at twenty-five. The difficulty is to have it at fifty.",
+            "author": "edward degas"
+        },
+        {
+            "quote": "There is no such thing as a great talent without great will-power.",
+            "author": "honore de balzac"
+        },
+        {
+            "quote": "There are two kinds of talent; man-made talent and God-given talent. With man-made talent, you have to work very hard. With God-given talent, you just touch it up once in a while.",
+            "author": "pearl bailey"
+        },
+        {
+            "quote": "It is a happy talent to know how to play.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "Those who are blessed with the most talent don’t necessarily outperform everyone else. It’s the people with follow-through who excel.",
+            "author": "mary kay ash"
+        },
+        {
+            "quote": "Everyone has special talents, and it is our duty to find ours and use them well.",
+            "author": "john templeton"
+        },
+        {
+            "quote": "It is not always the highest talent that thrives best. Mediocrity, with tact, will outweigh talent oftentimes.",
+            "author": "joseph cook"
+        },
+        {
+            "quote": "Your talent is God’s gift to you; what you do with it is your gift to God.",
+            "author": "leo buscaglia"
+        },
+        {
+            "quote": "Talent is nothing but a prolonged period of attention and a shortened period of mental assimilation.",
+            "author": "konstantin stanislavisky"
+        },
+        {
+            "quote": "Talent is always conscious of its own abundance, and does not object to sharing.",
+            "author": "alexander solzhenitsyn"
+        },
+        {
+            "quote": "There is no substitute for talent. Industry and all the virtues are of no avail.",
+            "author": "aldous huxley"
+        },
+        {
+            "quote": "Brevity is the sister of talent.",
+            "author": "anton chekhov"
+        },
+        {
+            "quote": "It takes people a long time to learn the difference between talent and genius, especially ambitious young men and women.",
+            "author": "louisa may alcott"
+        },
+        {
+            "quote": "Use those talents you have. You will make it. You will give joy to the world. Take this tip from nature: the woods would be a very silent place if no birds sang except those who sang best.",
+            "author": "bernard meltzer"
+        },
+        {
+            "quote": "This is how I define talent; it is a gift that God has given us in secret, which we reveal without knowing it.",
+            "author": "charles de montesquieu"
+        },
+        {
+            "quote": "I’d rather have a lot of talent and a little experience than a lot of experience and a little talent.",
+            "author": "john wooden"
+        },
+        {
+            "quote": "Not he deserves praise that has talents, but he that uses them.",
+            "author": "ivan panin"
+        },
+        {
+            "quote": "A talent somewhat above mediocrity, shrewd and not too sensitive, is more likely to rise in the world than genius.",
+            "author": "charles horton cooley"
+        },
+        {
+            "quote": "The true eye for talent presupposes the true reverence for it.",
+            "author": "thomas carlyle"
+        },
+        {
+            "quote": "It is a proof of great talents to recall the mind from the senses, and to separate thought from habit.",
+            "author": "cicero"
+        },
+        {
+            "quote": "Doing easily what others find difficult is talent; doing what is impossible for talent is genius.",
+            "author": "henri-frederic amiel"
+        },
+        {
+            "quote": "Exceptional talent does not always win its reward unless favored by exceptional circumstances.",
+            "author": "mary elizabeth braddon"
+        },
+        {
+            "quote": "Genius does what it must, and Talent does what it can.",
+            "author": "owen meredith"
+        },
+        {
+            "quote": "Talent is a tenant in the house owned by genius.",
+            "author": "austin o’malley"
+        },
+        {
+            "quote": "Some bad qualities form great talents.",
+            "author": "francois de la rochefoucauld"
+        },
+        {
+            "quote": "The man who is born with a talent which he was meant to use finds his greatest happiness in using it.",
+            "author": "goethe"
+        },
+        {
+            "quote": "No one respects a talent that is concealed.",
+            "author": "desiderius erasmus"
+        },
+        {
+            "quote": "I don’t have a lot of respect for talent; talent is genetic. It’s what you do with it that counts.",
+            "author": "martin ritt"
+        },
+        {
+            "quote": "Talent is what you possess; genius is what possesses you.",
+            "author": "malcolm cowley"
+        },
+        {
+            "quote": "Mediocrity knows nothing higher than itself, but talent instantly recognizes genius.",
+            "author": "sir arthur conan doyle"
+        },
+        {
+            "quote": "Talent for talents’ sake is a bauble and a show. Talent working with joy in the cause of universal truth lifts the possessor to new power as a benefactor.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "The talent for being happy is appreciating and liking what you have, instead of what you don’t have.",
+            "author": "woody allen"
+        },
+        {
+            "quote": "A little magic can take you a long way.",
+            "author": "roald dahl"
+        },
+        {
+            "quote": "Parents can plant magic in a child’s mind through certain words spoken with some thrilling quality of voice, some uplift of the heart and spirit.",
+            "author": "robert macneil"
+        },
+        {
+            "quote": "Disbelief in magic can force a poor soul into believing in government and business.",
+            "author": "tom robbins"
+        },
+        {
+            "quote": "Speeches are not magic and there is no great speech without great policy.",
+            "author": "peggy noonan"
+        },
+        {
+            "quote": "Effective magic is transcendent nature.",
+            "author": "george eliot"
+        },
+        {
+            "quote": "The magic formula that successful businesses have discovered is to treat customers like guests and employees like people.",
+            "author": "thomas j. peters"
+        },
+        {
+            "quote": "It’s just like magic. When you live by yourself, all your annoying habits are gone!",
+            "author": "merrill markoe"
+        },
+        {
+            "quote": "A child’s kiss is magic. Why else would they be so stingy with them?",
+            "author": "harvey fierstein"
+        },
+        {
+            "quote": "If we are to have magical bodies, we must have magical minds.",
+            "author": "wayne dyer"
+        },
+        {
+            "quote": "Where there is woman, there is magic.",
+            "author": "ntozake shange"
+        },
+        {
+            "quote": "We do not need magic to change the world. We carry all the power we need inside ourselves already: we have the power to imagine better.",
+            "author": "j. k. rowling"
+        },
+        {
+            "quote": "Real magic in relationships means an absence of judgment of others.",
+            "author": "wayne dyer quotes"
+        },
+        {
+            "quote": "Believe…and the magic will follow.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Magic is the science and art of causing change to occur in conformity with the Will.",
+            "author": "aleister crowley"
+        },
+        {
+            "quote": "Magic is believing in yourself. If you can do that, you can make anything happen.",
+            "author": "foka gomez"
+        },
+        {
+            "quote": "And where does magic come from? I think that magic’s in the learning.",
+            "author": "dar williams"
+        },
+        {
+            "quote": "Mystery is the basic appeal of magic. Once the secrets are known, the magician becomes a mere manipulator, an actor in a suspense drama which has little impact because the audience knows the ending in advance.",
+            "author": "milbourne christopher"
+        },
+        {
+            "quote": "We must not let daylight in upon the magic.",
+            "author": "walter bagehot"
+        },
+        {
+            "quote": "True magic is the art and science of changing states of mind at will.",
+            "author": "douglas monroe"
+        },
+        {
+            "quote": "Believe in love. Believe in magic. Hell, believe in Santa Clause. Believe in others. Believe in yourself. Believe in your dreams. If you don’t, who will?",
+            "author": "jon bon jovi"
+        },
+        {
+            "quote": "Success is neither magical or mysterious. Success is the natural consequence of consistently applying the basic fundamentals.",
+            "author": "jim rohn"
+        },
+        {
+            "quote": "Big dreams create the magic that stir men’s souls to greatness.",
+            "author": "bill mccartney"
+        },
+        {
+            "quote": "The universe is full of magical things patiently waiting for our wits to grow sharper.",
+            "author": "eden phillpotts"
+        },
+        {
+            "quote": "Any sufficiently advanced technology is indistinguishable from magic.",
+            "author": "arthur c. clarke"
+        },
+        {
+            "quote": "True Magic is the greatest of all natural sciences, because it includes a knowledge of visible and invisible nature. It is not only a science but an art, because it cannot be learned out of books and must be acquired by practical experience.",
+            "author": "l. w. de laurence"
+        },
+        {
+            "quote": "Children see magic because they look for it.",
+            "author": "christopher moore"
+        },
+        {
+            "quote": "Christmas waves a magic wand over this world, and behold, everything is softer and more beautiful.",
+            "author": "norman vincent peale"
+        },
+        {
+            "quote": "Whatever deceives men seems to produce a magical enchantment.",
+            "author": "plato"
+        },
+        {
+            "quote": "There is no magic. There is only knowledge, more or less hidden.",
+            "author": "gene wolfe"
+        },
+        {
+            "quote": "There is a real magic in enthusiasm. It spells the difference between mediocrity and accomplishment.",
+            "author": "norman vincent peale"
+        },
+        {
+            "quote": "The power of thought, the magic of the mind.",
+            "author": "lord byron"
+        },
+        {
+            "quote": "Art is a sense of magic.",
+            "author": "stan brakhage"
+        },
+        {
+            "quote": "The magic of first love is our ignorance that it can never end.",
+            "author": "benjamin disraeli"
+        },
+        {
+            "quote": "I don’t want realism. I want magic!",
+            "author": "tennessee williams"
+        },
+        {
+            "quote": "Real magic is not about gaining power over others: it is about gaining power over yourself.",
+            "author": "rosemary guiley"
+        },
+        {
+            "quote": "Real magic can never be made by offering someone else’s liver. You must tear out your own, and not expect to get it back.",
+            "author": "peter s. beagle"
+        },
+        {
+            "quote": "Books are a uniquely portable magic.",
+            "author": "stephen king"
+        },
+        {
+            "quote": "The magic of drama is infinitely more powerful than the magic of trickery. It is as available to the conjurer as it is to the actor. The only difference is that actors take it for granted, whereas few conjurers are even aware that it exists.",
+            "author": "henning nelms"
+        },
+        {
+            "quote": "The magic of the pen lies in the concentration of your thoughts upon one object.",
+            "author": "george henry lewes"
+        },
+        {
+            "quote": "Magic and all that is ascribed to it is a deep presentiment of the powers of science.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "Indubitably, Magic is one of the subtlest and most difficult of the sciences and arts. There is more opportunity for errors of comprehension, judgment and practice than in any other branch of physics.",
+            "author": "aleister crowley"
+        },
+        {
+            "quote": "Success isn’t magic or hocus-pocus — it’s simply learning how to focus.",
+            "author": "jack canfield"
+        },
+        {
+            "quote": "Love and magic have a great deal in common. They enrich the soul, delight the heart. And they both take unrelenting and unabating practice.",
+            "author": "nora roberts"
+        },
+        {
+            "quote": "Magic exists. Who can doubt it, when there are rainbows and wildflowers, the music of the wind and the silence of the stars? Anyone who has loved has been touched by magic. It is such a simple and such an extraordinary part of the lives we live.",
+            "author": "nora roberts"
+        },
+        {
+            "quote": "Every day use your magic to be of service to others.",
+            "author": "marcia wieder"
+        },
+        {
+            "quote": "I would not want to live in a world without dragons, as I would not want to live in a world without magic, for that is a world without mystery, and that is a world without faith.",
+            "author": "r. a. salvatore"
+        },
+        {
+            "quote": "There is magic, but you have to be the magician. You have to make the magic happen.",
+            "author": "sidney sheldon"
+        },
+        {
+            "quote": "Imagination is the true magic carpet.",
+            "author": "norman vincent peale"
+        },
+        {
+            "quote": "Magic is the ancestor of technology, the ancestor of what we call applied science. Medicine springs from it.",
+            "author": "joseph alexander leighton"
+        },
+        {
+            "quote": "Those who don’t believe in magic will never find it.",
+            "author": "roald dahl"
+        },
+        {
+            "quote": "Black magic operates most effectively in preconscious, marginal areas. Casual curses are the most effective.",
+            "author": "william s. burroughs"
+        },
+        {
+            "quote": "The entire sum of existence is the magic of being needed by just one person.",
+            "author": "putnam vi"
+        },
+        {
+            "quote": "It is human nature to want to believe in the wizardry of the magician–but also to turn against him and to scorn him the moment that he commits the slightest error that reveals his trickery. Those in the audience are embarrassed to have been so easily astonished, and they blame the performer for their gullibility.",
+            "author": "dean koontz"
+        },
+        {
+            "quote": "\"Bed is the poor man’s opera.\"",
+            "author": "italian proverb"
+        },
+        {
+            "quote": "\"My worry is that opera will become an historic art form as opposed to a living, breathing thing.\"",
+            "author": "renee fleming"
+        },
+        {
+            "quote": "\"An opera may be allowed to be extravagantly lavish in its decorations, as its only design is to gratify the senses and keep up an indolent attention in the audience.\"",
+            "author": "joseph addison"
+        },
+        {
+            "quote": "\"Opera is a type of drama whose integral existence is determined from point to point and in the whole by musical articulation. Dramma per musica.\"",
+            "author": "joseph kerman"
+        },
+        {
+            "quote": "\"To sing opera, one needs two things: the voice and the passion – and above all, the passion.\"",
+            "author": "andrea bocelli"
+        },
+        {
+            "quote": "\"[Opera] does not call so much for an imaginative ear as for an imaginative eye, an eye which can see beyond little absurdities toward great truths.\"",
+            "author": "george mare"
+        },
+        {
+            "quote": "\"The aim of Opera has ever been, and still is today, confined to Music. Merely so as to afford Music with a colourable pretext for her own excursions, is the purpose of Drama dragged on — naturally, not to curtail the ends of Music, but rather to serve her simply as a means.\"",
+            "author": "richard wagner"
+        },
+        {
+            "quote": "\"The opera is like a husband with a foreign title: expensive to support, hard to understand, and therefore a supreme social challenge.\"",
+            "author": "cleveland amory"
+        },
+        {
+            "quote": "\"Opera in English, is about as sensible as baseball in Italian.\"",
+            "author": "h. l. mencken"
+        },
+        {
+            "quote": "\"Opera is when a guy gets stabbed in the back and, instead of bleeding, he sings.\"",
+            "author": "ed gardner"
+        },
+        {
+            "quote": "\"No good opera plot can be sensible, for people do not sing when they are feeling sensible.\"",
+            "author": "w.h. auden"
+        },
+        {
+            "quote": "\"How wonderful opera would be if there were no singers.\"",
+            "author": "gioacchino antonio rossini"
+        },
+        {
+            "quote": "\"The opera isn’t over till the fat lady sings.\"",
+            "author": "Unknown"
+        },
+        {
+            "quote": "\"No good opera plot can be sensible, for people do not sing when they are feeling sensible.\"",
+            "author": "w. h. auden"
+        },
+        {
+            "quote": "\"I have always believed that opera is a planet where the muses work together, join hands, and celebrate all the arts.\"",
+            "author": "franco zeffirelli"
+        },
+        {
+            "quote": "\"The Opera was a very cold film, a hopeless and dark film, no hope, no love.\"",
+            "author": "dario argento"
+        },
+        {
+            "quote": "\"The Opera is obviously the first draft of a fine spectacle; it suggests the idea of one.\"",
+            "author": "jean de la bruyere"
+        },
+        {
+            "quote": "\"Going to the opera, like getting drunk, is a sin that carries its own punishment with it.\"",
+            "author": "hannah more"
+        },
+        {
+            "quote": "\"Watching Italian opera, all those male sopranos screeching, stupid fat couples rolling their eyes about. That’s not love, it’s just rubbish.\"",
+            "author": "peter shaffer"
+        },
+        {
+            "quote": "\"An opera begins long before the curtain goes up and ends long after it has come down. It starts in my imagination, it becomes my life, and it stays part of my life long after I’ve left the opera house.\"",
+            "author": "maria callas"
+        },
+        {
+            "quote": "\"It is so important for people at a young age to be invited to embrace classical music and opera.\"",
+            "author": "luciano pavarotti"
+        },
+        {
+            "quote": "\"Opera, next to Gothic architecture, is one of the strangest inventions of Western man. It could not have been foreseen by any logical process.\"",
+            "author": "lord clark"
+        },
+        {
+            "quote": "Don’t hate the media, become the media.",
+            "author": "jello biafra"
+        },
+        {
+            "quote": "We don’t like what we don’t know or understand. Parents don’t like the thought of their kids embracing social media because they don’t fully understand the benefits and dangers.",
+            "author": "amy jo martin"
+        },
+        {
+            "quote": "If your music is great, you will have fans, not because you have spent time chatting on social media.",
+            "author": "bryan adams"
+        },
+        {
+            "quote": "The media cause more problems than they do good.",
+            "author": "chris kyle"
+        },
+        {
+            "quote": "The media can be a really strong vehicle.",
+            "author": "cecilia bartoli"
+        },
+        {
+            "quote": "The American mass media have achieved what American political might could not: World domination.",
+            "author": "akbar s. ahmed"
+        },
+        {
+            "quote": "All media exist to invest our lives with artificial perceptions and arbitrary values.",
+            "author": "marshall mcluhan"
+        },
+        {
+            "quote": "With all the mass media concentrated in a few hands, the ancient faith in the competition of ideas in the free market seems like a hollow echo of a much simpler day.",
+            "author": "kingman brewster, jr."
+        },
+        {
+            "quote": "Whoever controls the media, the images, controls the culture.",
+            "author": "allen ginsberg"
+        },
+        {
+            "quote": "The media’s the most powerful entity on earth. They have the power to make the innocent guilty and to make the guilty innocent, and that’s power. Because they control the minds of the masses.",
+            "author": "malcolm x"
+        },
+        {
+            "quote": "Social media is an amazing tool, but it’s really the face-to-face interaction that makes a long-term impact.",
+            "author": "felicia day"
+        },
+        {
+            "quote": "The media transforms the great silence of things into its opposite. Formerly constituting a secret, the real now talks constantly. News reports, information, statistics, and surveys are everywhere.",
+            "author": "michel de certeau"
+        },
+        {
+            "quote": "The media need superheroes in science just as in every sphere of life, but there is really a continuous range of abilities with no clear dividing line.",
+            "author": "stephen hawking"
+        },
+        {
+            "quote": "Social media is just a platform. Twitter is a very simple and immediate broadcast platform. Facebook is a very personal, when it comes to friends and when it comes to fan pages, a little bit less but still somewhat personal way to communicate.",
+            "author": "mark cuban"
+        },
+        {
+            "quote": "The media bring our wars home, but only rarely have they been able to do it in complete freedom.",
+            "author": "bruce jackson"
+        },
+        {
+            "quote": "We have more media than ever and more technology in our lives. It’s supposed to help us communicate, but it has the opposite effect of isolating us.",
+            "author": "tracy chapman"
+        },
+        {
+            "quote": "Whoever controls the media, controls the mind.",
+            "author": "jim morrison"
+        },
+        {
+            "quote": "The more social media we have, the more we think we’re connecting, yet we are really disconnecting from each other.",
+            "author": "jr"
+        },
+        {
+            "quote": "The corporate grip on opinion in the United States is one of the wonders of the Western World. No First World country has ever managed to eliminate so entirely from its media all objectivity — much less dissent.",
+            "author": "gore vidal"
+        },
+        {
+            "quote": "Whether via social media or in person, building your relationships is a long-term process, and the ultimate goal is to strengthen your network one person at a time.",
+            "author": "raymond arroyo"
+        },
+        {
+            "quote": "The dark side of social media is that, within seconds, anything can be blown out of proportion and taken out of context. And it’s very difficult not to get swept up in it all.",
+            "author": "nicola formichetti"
+        },
+        {
+            "quote": "It takes discipline not to let social media steal your time.",
+            "author": "alexis ohanian"
+        },
+        {
+            "quote": "Social media has given us this idea that we should all have a posse of friends when in reality, if we have one or two really good friends, we are lucky.",
+            "author": "brene brown"
+        },
+        {
+            "quote": "If Jesus were here today, he wouldn’t be riding around on a donkey. He’d be taking a plane; he’d be using the media.",
+            "author": "joel osteen"
+        },
+        {
+            "quote": "It’s important for people to talk and get beyond the wall of Facebook and social media.",
+            "author": "billy corgan"
+        },
+        {
+            "quote": "Social media is changing the way we communicate and the way we are perceived, both positively and negatively. Every time you post a photo, or update your status, you are contributing to your own digital footprint and personal brand.",
+            "author": "amy jo martin"
+        },
+        {
+            "quote": "Social media is the ultimate equalizer. It gives a voice and a platform to anyone willing to engage.",
+            "author": "amy jo martin"
+        },
+        {
+            "quote": "There’s a danger in the internet and social media. The notion that information is enough, that more and more information is enough, that you don’t have to think, you just have to get more information – gets very dangerous.",
+            "author": "edward de bono"
+        },
+        {
+            "quote": "Maybe it is the media that has us divided.",
+            "author": "laura bush"
+        },
+        {
+            "quote": "Media, the plural of mediocrity.",
+            "author": "jimmy breslin"
+        },
+        {
+            "quote": "It is advertising and the logic of consumerism that governs the depiction of reality in the mass media.",
+            "author": "christopher lasch"
+        },
+        {
+            "quote": "The information you get from social media is not a substitute for academic discipline at all.",
+            "author": "bill nye"
+        },
+        {
+            "quote": "The first problem of the media is posed by what does not get translated, or even published in the dominant political languages.",
+            "author": "jacques derrida"
+        },
+        {
+            "quote": "The effect of the mass media is not to elicit belief but to maintain the apparatus of addiction.",
+            "author": "christopher lasch"
+        },
+        {
+            "quote": "Smart phones and social media expand our universe. We can connect with others or collect information easier and faster than ever.",
+            "author": "daniel goleman"
+        },
+        {
+            "quote": "\"Opera happens because a large number of things amazingly fail to go wrong.\"",
+            "author": "terry pratchett"
+        },
+        {
+            "quote": "\"The more opera is dead, the more it flourishes.\"",
+            "author": "slavoj zizek"
+        },
+        {
+            "quote": "\"I wish the opera was every night. It is, of all entertainments, the sweetest and most delightful. Some of the songs seemed to melt my very soul.\"",
+            "author": "fanny burney"
+        },
+        {
+            "quote": "\"Of all the noises known to man, opera is the most expensive.\"",
+            "author": "moliere"
+        },
+        {
+            "quote": "There is nothing special in the world. Nothing magic. Just physics.",
+            "author": "chuck palahniuk"
+        },
+        {
+            "quote": "Magic is not done, it’s not performed. Like any performance art, it withers away to nothing if it’s not presented in the grand style. Moving your feet around is not dancing, reading the lyrics is not singing, and pulling a rabbit out of a hat is not magic.",
+            "author": "john cassidy & michael stroud"
+        },
+        {
+            "quote": "One man’s \"magic\" is another man’s engineering.",
+            "author": "robert a. heinlein"
+        },
+        {
+            "quote": "Magic is not a practice. It is a living, breathing web of energy that, with our permission, can encase our every action.",
+            "author": "dorothy morrison"
+        },
+        {
+            "quote": "God doesn’t give people talents that he doesn’t want people to use.",
+            "author": "iron eagle"
+        },
+        {
+            "quote": "I put all my genius into my life; I put only my talent into my works.",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "Talent is a dull knife that will cut nothing unless it is wielded with great force.",
+            "author": "stephen king"
+        },
+        {
+            "quote": "There is no greater joy under the sun than the joy of giving: giving of one’s time, energy, talent, and money to help one’s fellow man.",
+            "author": "william h. taylor"
+        },
+        {
+            "quote": "With God, what is terrible is that one never knows whether it’s not just a trick of the devil.",
+            "author": "jean anouilh"
+        },
+        {
+            "quote": "The trick is to realize that after giving your best, there’s nothing more to give.",
+            "author": "sparky anderson"
+        },
+        {
+            "quote": "Some people are so busy learning the tricks of the trade that they never learn the trade.",
+            "author": "vernon law"
+        },
+        {
+            "quote": "The real trick is to make the moves in your head first, as a way of testing them out.",
+            "author": "juliene berk"
+        },
+        {
+            "quote": "If you’re on thin ice, you might as well dance.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Dance is a delicate balance between perfection and beauty.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The one thing that can solve most of our problems is dancing.",
+            "author": "james brown"
+        },
+        {
+            "quote": "The dance is four-dimensional art in that it moves concretely in both space and time.",
+            "author": "baker brownell"
+        },
+        {
+            "quote": "I would rather dance as a ballerina, though faultily, than as a flawless clown.",
+            "author": "margaret atwood"
+        },
+        {
+            "quote": "Dance light, for my heart it lies under your feet, love.",
+            "author": "john francis waller,"
+        },
+        {
+            "quote": "Custom has made dancing sometimes necessary for a young man. Therefore mind it while you learn it, that you may learn to do it well, and not be ridiculous, though in a ridiculous act.",
+            "author": "philip dormer stanhope chesterfield"
+        },
+        {
+            "quote": "And let the winds of the heavens dance between you.",
+            "author": "kahlil gibran"
+        },
+        {
+            "quote": "Dance is for everybody. I believe that the dance came from the people and that it should always be delivered back to the people.",
+            "author": "alvin ailey"
+        },
+        {
+            "quote": "Dancing is an active motion of the body, which proceedeth from the lightness of the heart.",
+            "author": "a. fandango"
+        },
+        {
+            "quote": "If you look at a dancer in silence, his or her body will be the music. If you turn the music on, that body will become an extension of what you’re hearing.",
+            "author": "judith jamison"
+        },
+        {
+            "quote": "The Dance is love, it is only love, it alone, and that is enough.",
+            "author": "isadora duncan"
+        },
+        {
+            "quote": "Dancing is the world’s favorite metaphor.",
+            "author": "kristy nilsson"
+        },
+        {
+            "quote": "And those who were seen dancing were thought to be insane by those who could not hear the music.",
+            "author": "friedrich wilhelm nietzsche"
+        },
+        {
+            "quote": "Dancing [is] the poetry of the foot.",
+            "author": "john dryden"
+        },
+        {
+            "quote": "Dancing is a vertical expression of a horizontal desire.",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "In a dancer, there is a reverence for such forgotten things as the miracle of the small beautiful bones and their delicate strength.",
+            "author": "martha graham"
+        },
+        {
+            "quote": "There are those who dance to the rhythm that is played to them, those who only dance to their own rhythm, and those who don’t dance at all.",
+            "author": "jose bergamin"
+        },
+        {
+            "quote": "In a society that worships love, freedom and beauty, dance is sacred,It is a prayer for the future, a remembrance of the past and a joyful exclamation of thanks for the present.",
+            "author": "amelia atwater-rhodes"
+        },
+        {
+            "quote": "When you are on the dance floor, there is nothing to do but dance.",
+            "author": "umberto eco"
+        },
+        {
+            "quote": "You can dance anywhere, even if only in your heart.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Always let them think of you as singing and dancing.",
+            "author": "anita brookner"
+        },
+        {
+            "quote": "The body is your instrument in dance, but your art is outside that creature, the body.",
+            "author": "martha graham"
+        },
+        {
+            "quote": "The modern dance is no dance in the first place, and when you’ve finally learned it, it’s not modern any more.",
+            "author": "evan esar"
+        },
+        {
+            "quote": "I have no desire to prove anything by it. I have never used it as an outlet or a means of expressing myself. I just dance.",
+            "author": "fred astaire"
+        },
+        {
+            "quote": "There is a bit of insanity in dancing that does everybody a great deal of good.",
+            "author": "edwin denby"
+        },
+        {
+            "quote": "They who love dancing too much seem to have more brains in their feet than their head, and think to play the fool with reason.",
+            "author": "terence"
+        },
+        {
+            "quote": "Dancing with the feet is one thing, but dancing with the heart is another.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Those move easiest who have learn’d to dance.",
+            "author": "alexander pope"
+        },
+        {
+            "quote": "Life may not be the party we hoped for, but while we’re here we should dance.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I would like to dance. Not professionally, just when everyone else does.",
+            "author": "stephen fry"
+        },
+        {
+            "quote": "To be fond of dancing was a certain step towards falling in love.",
+            "author": "jane austen"
+        },
+        {
+            "quote": "People have asked me why I chose to be a dancer. I did not choose. I was chosen to be a dancer, and with that, you live all your life.",
+            "author": "martha graham"
+        },
+        {
+            "quote": "Kids: they dance before they learn there is anything that isn’t music.",
+            "author": "william stafford"
+        },
+        {
+            "quote": "They love dancing over-much who will dance among thorns.",
+            "author": "capacelli"
+        },
+        {
+            "quote": "Common sense and a sense of humor are the same thing, moving at different speeds. A sense of humor is just common sense, dancing.",
+            "author": "william james"
+        },
+        {
+            "quote": "Anyone who says sunshine brings happiness has never danced in the rain.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I actually grew up break-dancing. When you break-dance you listen to hip-hop and rap, so I’ve been listening to that music since I was a kid.",
+            "author": "matthew morrison"
+        },
+        {
+            "quote": "Dancing: the vertical expression of a horizontal desire legalized by music.",
+            "author": "george bernard shaw"
+        },
+        {
+            "quote": "Wives are people who feel they don’t dance enough.",
+            "author": "groucho marx"
+        },
+        {
+            "quote": "Dancing for the young is dangerous; for the old it is ridiculous.",
+            "author": "bussy-rabutin"
+        },
+        {
+            "quote": "I’m an excellent dancer. I keep up with whatever’s hot. I’ve been break-dancing and pop-locking since back in the day.",
+            "author": "michael strahan"
+        },
+        {
+            "quote": "Beauty seen is never lost, God’s colors all are fast.",
+            "author": "john greenleaf whittier"
+        },
+        {
+            "quote": "Coloring outside the lines is a fine art.",
+            "author": "kim nance"
+        },
+        {
+            "quote": "The colors live a remarkable life of their own after they have been applied to the canvas.",
+            "author": "edvard munch"
+        },
+        {
+            "quote": "Orange is the happiest color.",
+            "author": "frank sinatra"
+        },
+        {
+            "quote": "We may have different religions, different languages, different colored skin, but we all belong to one human race.",
+            "author": "kofi annan"
+        },
+        {
+            "quote": "Colors, like features, follow the changes of the emotions.",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "Colors answer feeling in man; shapes answer thought; and motion answers will.",
+            "author": "john sterling"
+        },
+        {
+            "quote": "Colors fade, temples crumble, empires fall, but wise words endure.",
+            "author": "edward thorndike"
+        },
+        {
+            "quote": "It’s a good thing that when God created the rainbow he didn’t consult a decorator or he would still be picking colors.",
+            "author": "sam levenson"
+        },
+        {
+            "quote": "All the other colors are just colors, but purple seems to have a soul. Purple is not just a noun and an adjective but also a verb – when you look at it, it’s looking back at you.",
+            "author": "uniek swain"
+        },
+        {
+            "quote": "I cannot pretend to feel impartial about colors. I rejoice with the brilliant ones and am genuinely sorry for the poor browns.",
+            "author": "winston churchill"
+        },
+        {
+            "quote": "Lying in bed would be an altogether perfect and supreme experience if only one had a colored pencil long enough to draw on the ceiling.",
+            "author": "g.k. chesterton"
+        },
+        {
+            "quote": "I found I could say things with color and shapes that I couldn’t say any other way – things I had no words for.",
+            "author": "georgia o’keeffe"
+        },
+        {
+            "quote": "It is horrible to see everything that one detested in the past coming back wearing the colors of the future.",
+            "author": "jean rostand"
+        },
+        {
+            "quote": "All colors will agree in the dark.",
+            "author": "francis bacon"
+        },
+        {
+            "quote": "Blueness doth express trueness.",
+            "author": "ben jonson"
+        },
+        {
+            "quote": "How beautifully leaves grow old. How full of light and color are their last days.",
+            "author": "john burroughs"
+        },
+        {
+            "quote": "Light in Nature creates the movement of colors.",
+            "author": "robert delaunay"
+        },
+        {
+            "quote": "As the sun colors flowers, so does art color life.",
+            "author": "john lubbock"
+        },
+        {
+            "quote": "Colors are the smiles of nature.",
+            "author": "leigh hunt"
+        },
+        {
+            "quote": "Green is the prime color of the world, and that from which its loveliness arises.",
+            "author": "pedro calderón de la barca"
+        },
+        {
+            "quote": "Why do two colors, put one next to the other, sing? Can one really explain this? No. Just as one can never learn how to paint.",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "Of all God’s gifts to the sighted man, color is holiest, the most divine, the most solemn.",
+            "author": "john ruskin"
+        },
+        {
+            "quote": "Mere color, unspoiled by meaning, and unallied with definite form, can speak to the soul in a thousand different ways.",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "You look rather rash my dear your colors don’t quite match your face.",
+            "author": "daisy ashford"
+        },
+        {
+            "quote": "Nature always wears the colors of the spirit.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "He had that curious love of green, which in individuals is always the sign of a subtle artistic temperament, and in nations is said to denote a laxity, if not a decadence of morals.",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "The purest and most thoughtful minds are those which love color the most.",
+            "author": "john ruskin"
+        },
+        {
+            "quote": "There are only 3 colors, 10 digits, and 7 notes; it’s what we do with them that’s important.",
+            "author": "ruth ross"
+        },
+        {
+            "quote": "All colors are the friends of their neighbors and the lovers of their opposites.",
+            "author": "marc chagall"
+        },
+        {
+            "quote": "The best color in the whole world, is the one that looks good, on you.",
+            "author": "coco chane"
+        },
+        {
+            "quote": "There is no blue without yellow and without orange.",
+            "author": "vincent van gogh"
+        },
+        {
+            "quote": "There are not more than five primary colors (blue, yellow, red, white, and black), yet in combination they produce more hues than can ever been seen",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Green how I want you green. Green wind. Green branches.",
+            "author": "federico garcia lorca"
+        },
+        {
+            "quote": "Beauty without colour seems somehow to belong to another world.",
+            "author": "murasaki shikibu"
+        },
+        {
+            "quote": "All the other colors are just colors, but purple seems to have a soul — when you look at it, it’s looking back at you.",
+            "author": "uniek swain"
+        },
+        {
+            "quote": "Color possesses me. I don’t have to pursue it. It will possess me always, I know it. That is the meaning of this happy hour: Color and I are one. I am a painter.",
+            "author": "paul klee"
+        },
+        {
+            "quote": "Art is the colors and textures of your imagination.",
+            "author": "meghan"
+        },
+        {
+            "quote": "What I don’t like about office Christmas parties is looking for a job the next day.",
+            "author": "phyllis diller"
+        },
+        {
+            "quote": "It’s just really important that we start celebrating our differences. Let’s start tolerating first, but then we need to celebrate our differences.",
+            "author": "billie jean king"
+        },
+        {
+            "quote": "Christmas is a holiday that we celebrate not as individuals nor as a nation, but as a human family.",
+            "author": "ronald reagan"
+        },
+        {
+            "quote": "An anniversary is a time to celebrate the joys of today, the memories of yesterday, and the hopes of tomorrow.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "At a dinner party one should eat wisely but not too well, and talk well but not too wisely",
+            "author": "william somerset maugham"
+        },
+        {
+            "quote": "If the sight of the blue skies fills you with joy, if a blade of grass springing up in the fields has power to move you, if the simple things of nature have a message that you understand, rejoice, for your soul is alive.",
+            "author": "eleonora duse"
+        },
+        {
+            "quote": "A wedding anniversary is the celebration of love, trust, partnership, tolerance and tenacity. The order varies for any given year.",
+            "author": "paul sweeney"
+        },
+        {
+            "quote": "Put yourself in a state of mind where you say to yourself, \"Here is an opportunity for me to celebrate like never before, my own power, my own ability to get myself to do whatever is necessary.",
+            "author": "anthony robbins"
+        },
+        {
+            "quote": "Whenever, at a party, I have been in the mood to study fools, I have always looked for a great beauty: they always gather round her like flies around a fruit stall.",
+            "author": "jean paul richter"
+        },
+        {
+            "quote": "People wish to be poets more than they wish to write poetry, and that’s a mistake. One should wish to celebrate more than one wishes to be celebrated.",
+            "author": "lucille clifton"
+        },
+        {
+            "quote": "No one has yet computed how many imaginary triumphs are silently celebrated by people each year to keep up their courage.",
+            "author": "henry s. haskins"
+        },
+        {
+            "quote": "Celebrate the happiness that friends are always giving, make every day a holiday and celebrate just living!",
+            "author": "amanda bradley"
+        },
+        {
+            "quote": "I am thankful for the mess to clean after a party because it means I have been surrounded by friends.",
+            "author": "nancie j. carmody"
+        },
+        {
+            "quote": "Never be the first to arrive at a party or the last to go home, and never, ever be both.",
+            "author": "david brown"
+        },
+        {
+            "quote": "Nothing makes you more tolerant of a neighbor’s noisy party than being there.",
+            "author": "franklin p. jones"
+        },
+        {
+            "quote": "Celebrate the happiness that friends are always giving, make every day a holiday and celebrate just living!",
+            "author": "amanda bradley"
+        },
+        {
+            "quote": "At every party there are two kinds of people — those who want to go home and those who don’t. The trouble is, they are usually married to each other.",
+            "author": "ann landers"
+        },
+        {
+            "quote": "A celebrated people lose dignity upon a closer view.",
+            "author": "napoleon bonaparte"
+        },
+        {
+            "quote": "It’s always good to remember where you come from and celebrate it. To remember where you come from is part of where you’re going.",
+            "author": "anthony burgess"
+        },
+        {
+            "quote": "No man does right by a woman at a party.",
+            "author": "harry golden"
+        },
+        {
+            "quote": "All of us celebrate our values in our behavior.",
+            "author": "john w. gardner"
+        },
+        {
+            "quote": "It’s fine to celebrate success but it is more important to heed the lessons of failure.",
+            "author": "bill gates"
+        },
+        {
+            "quote": "Too few rejoice at a friend’s good fortune.",
+            "author": "aeschylus"
+        },
+        {
+            "quote": "[N]o party is any fun unless seasoned with folly.",
+            "author": "desiderius erasmus"
+        },
+        {
+            "quote": "After all, what is your host’s purpose in having a party? Surely not for you to enjoy yourself; if that were their sole purpose, they’d have simply sent champagne and women over to your place by taxi.",
+            "author": "p.j. o’rourke"
+        },
+        {
+            "quote": "Let us celebrate the occasion with wine and sweet words.",
+            "author": "plautus"
+        },
+        {
+            "quote": "I celebrate myself, and sing myself.",
+            "author": "walt whitman"
+        },
+        {
+            "quote": "It’s easy to impress me. I don’t need a fancy party to be happy. Just good friends, good food, and good laughs. I’m happy. I’m satisfied. I’m content.",
+            "author": "maria sharapova"
+        },
+        {
+            "quote": "Drink, and dance and laugh and lie, love the reeling midnight through, for tomorrow we shall die! (But, alas, we never do.)",
+            "author": "dorothy parker"
+        },
+        {
+            "quote": "Cocktail party: A gathering held to enable forty people to talk about themselves at the same time. The man who remains after the liquor is gone is the host.",
+            "author": "fred allen"
+        },
+        {
+            "quote": "What we have to do… is to find a way to celebrate our diversity and debate our differences without fracturing our communities.",
+            "author": "hillary clinton"
+        },
+        {
+            "quote": "To live in Australia permanently is rather like going to a party and dancing all night with one’s mother.",
+            "author": "barry humphries"
+        },
+        {
+            "quote": "We need a day of the dead. That’s a perfect celebration.",
+            "author": "kristin hersh"
+        },
+        {
+            "quote": "I love any and all situations where you celebrate creativity.",
+            "author": "brad paisley"
+        },
+        {
+            "quote": "The more you praise and celebrate your life, the more there is in life to celebrate.",
+            "author": "oprah winfrey"
+        },
+        {
+            "quote": "Life may not be the party we hoped for, but while we’re here we should dance.",
+            "author": "saying"
+        },
+        {
+            "quote": "Celebrate what you want to see more of.",
+            "author": "thomas j. peters"
+        },
+        {
+            "quote": "On with the dance! Let joy be unconfined; no sleep till morn, when Youth and pleasure meet to chase the glowing hours with flying feet.",
+            "author": "george noel gordon"
+        },
+        {
+            "quote": "Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity.",
+            "author": "henry van dyke"
+        },
+        {
+            "quote": "Never celebrate until you are really out of the woods. They might be behind the last tree.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Good parties create a temporary youthfulness.",
+            "author": "mason cooley"
+        },
+        {
+            "quote": "Stop worrying about the potholes in the road and celebrate the journey!",
+            "author": "barbara hoffman"
+        },
+        {
+            "quote": "I believe that if life gives you lemons, you should make lemonade… And try to find somebody whose life has given them vodka, and have a party.",
+            "author": "ron white"
+        },
+        {
+            "quote": "All my life through, the new sights of Nature made me rejoice like a child.",
+            "author": "marie curie"
+        },
+        {
+            "quote": "Share our similarities, celebrate our differences.",
+            "author": "m. scott peck"
+        },
+        {
+            "quote": "If I had a party to attend and didn’t want to be there, I would play the part of someone who was having a lovely time.",
+            "author": "shirley maclaine"
+        },
+        {
+            "quote": "Be content with what you have; rejoice in the way things are. When you realize there is nothing lacking, the whole world belongs to you.",
+            "author": "lao tzu"
+        },
+        {
+            "quote": "Brave men rejoice in adversity, just as brave soldiers triumph in war.",
+            "author": "lucius annaeus seneca"
+        },
+        {
+            "quote": "Spring is nature’s way of saying, \"Let’s party!",
+            "author": "robin williams"
+        },
+        {
+            "quote": "Thanksgiving is the holiday of peace, the celebration of work and the simple life…",
+            "author": "david grayson"
+        },
+        {
+            "quote": "Nurses don’t wait until October to celebrate Make a Difference Day – they make a difference every day!",
+            "author": "Unknown"
+        },
+        {
+            "quote": "You know, we’ve got to do it someday… throw away all the guns and invite all the jokers from the North and the South in here to a cocktail party… last man standing on his feet at the end wins the war.",
+            "author": "hawkeye"
+        },
+        {
+            "quote": "A party without cake is just a meeting.",
+            "author": "julia child"
+        },
+        {
+            "quote": "I used to hang out by the food table at parties because you don’t have to talk to anybody. If you do then you can talk about the food.",
+            "author": "jennifer jason leigh"
+        },
+        {
+            "quote": "Rejoice in the things that are present; all else is beyond thee.",
+            "author": "michel de montaigne"
+        },
+        {
+            "quote": "While we are living in the present, we must celebrate life every day, knowing that we are becoming history with every work, every action, every deed.",
+            "author": "mattie stepanek"
+        },
+        {
+            "quote": "Our wedding was many years ago. The celebration continues to this day.",
+            "author": "gene perret"
+        },
+        {
+            "quote": "Musicians don’t retire; they stop when there’s no more music in them.",
+            "author": "louis armstrong"
+        },
+        {
+            "quote": "Guitar is the best form of self-expression I know.",
+            "author": "slash"
+        },
+        {
+            "quote": "In jazz, you listen to what the bass player is doing and what the drummer is doing, what the pianist and the guitarist is doing, and then you play something that compliments that, so you are thinking simultaneously and thinking ahead.",
+            "author": "david amram"
+        },
+        {
+            "quote": "If we were all determined to play the first violin, we should never have an ensemble; therefore, respect every musician in his proper place.",
+            "author": "robert schumann"
+        },
+        {
+            "quote": "One of my biggest thrills for me still is sitting down with a guitar or a piano and just out of nowhere trying to make a song happen.",
+            "author": "paul mccartney"
+        },
+        {
+            "quote": "Sometimes the nicest thing to do with a guitar is just look at it.",
+            "author": "hom yorke"
+        },
+        {
+            "quote": "Of course the music is a great difficulty. You see, if one plays good music, people don’t listen, and if one plays bad music people don’t talk.",
+            "author": "oscar wilde quotes"
+        },
+        {
+            "quote": "The guitar is harmonic structure.",
+            "author": "paul simon"
+        },
+        {
+            "quote": "You can muffle the drum, and you can loosen the strings of the lyre, but who shall command the skylark not to sing?",
+            "author": "kahlil gibran quotes"
+        },
+        {
+            "quote": "I can whistle with my fingers, especially if I have a whistle.",
+            "author": "mitch hedberg"
+        },
+        {
+            "quote": "As humans we like to laugh at our fears, we like to whistle in the dark.",
+            "author": "jeff dunham"
+        },
+        {
+            "quote": "When I had nothing else, I had my mother and the piano. And you know what? They were all I needed.",
+            "author": "alicia keys"
+        },
+        {
+            "quote": "A jazz musician is a juggler who uses harmonies instead of oranges.",
+            "author": "benny green"
+        },
+        {
+            "quote": "Color is the keyboard, the eyes are the harmonies, the soul is the piano with many strings. The artist is the hand that plays, touching one key or another, to cause vibrations in the soul.",
+            "author": "wassily kandinsky"
+        },
+        {
+            "quote": "There is two kinds of music; the good and bad. I play the good kind.",
+            "author": "louis armstrong"
+        },
+        {
+            "quote": "Some people are drawn naturally – there are natural guitarists, and there are natural piano players, and I think guitar implies travel, a sort of footloose gypsy existence. You grab your bag and you go to the next town.",
+            "author": "hugh laurie"
+        },
+        {
+            "quote": "Play the music, not the instrument.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The classical guitar has a dynamic to it unlike a regular acoustic guitar or an electric guitar. You know, there’s times when you should play and there’s times when you gotta hold back. It’s an extremely dynamic instrument.",
+            "author": "steve vai"
+        },
+        {
+            "quote": "To stay a great singer or guitar player, you’ve got to do it 24/7. That’s what I do.",
+            "author": "sammy hagar"
+        },
+        {
+            "quote": "Life is like a trumpet – if you don’t put anything into it, you don’t get anything out of it.",
+            "author": "william christopher handy"
+        },
+        {
+            "quote": "Playing drums feels like coming home for me. Even during the White Stripes I thought: ‘I’ll do this for now, but I’m really a drummer. That’s what I’ll put on my passport application.",
+            "author": "jack white"
+        },
+        {
+            "quote": "Touch not the flute when drums are sounding around; when fools have the word, the wise will be silent.",
+            "author": "johann gottfried von herder"
+        },
+        {
+            "quote": "My first love was the sound of guitar.",
+            "author": "boz scaggs"
+        },
+        {
+            "quote": "If a composer could say what he had to say in words he would not bother trying to say it in music.",
+            "author": "gustav mahler"
+        },
+        {
+            "quote": "Beethoven can write music, thank God, but he can do nothing else on earth.",
+            "author": "ludwig van beethoven"
+        },
+        {
+            "quote": "We love playing music but we’re too weird to play music.",
+            "author": "wayne coyne"
+        },
+        {
+            "quote": "A painter paints pictures on canvas. But musicians paint their pictures on silence.",
+            "author": "leopold stokowski"
+        },
+        {
+            "quote": "Oh, the brave Music of a distant drum!",
+            "author": "omar khayyam"
+        },
+        {
+            "quote": "The piano is a monster that screams when you touch its teeth.",
+            "author": "andres segovia"
+        },
+        {
+            "quote": "I believe every  guitar player inherently has something unique about their playing. They just have to identify what makes them different and develop it.",
+            "author": "jimmy page"
+        },
+        {
+            "quote": "Sometimes I can only groan, and suffer, and pour out my despair at the piano.",
+            "author": "frederic chopin"
+        },
+        {
+            "quote": "I believe in using the entire piano as a single instrument capable of expressing every possible musical idea.",
+            "author": "oscar peterson"
+        },
+        {
+            "quote": "When you play the 12-string guitar, you spend half your life tuning the instrument and the other half playing it out of tune.",
+            "author": "pete seeger"
+        },
+        {
+            "quote": "I’ve always wanted to smash a guitar over someone’s head. You just can’t do that with a piano.",
+            "author": "elton john"
+        },
+        {
+            "quote": "It’s really important for the bass and the drums to somehow blend.",
+            "author": "mike gordon"
+        },
+        {
+            "quote": "What has keys but can’t listen to the beauty it unlocks? A piano.",
+            "author": "jarod kintz"
+        },
+        {
+            "quote": "Prayer is when you talk to God. Meditation is when you’re listening. Playing the piano allows you to do both at the same time.",
+            "author": "kelsey grammer"
+        },
+        {
+            "quote": "To succeed means that you may have to step out of line and march to the sound of your own drummer.",
+            "author": "keith degreen"
+        },
+        {
+            "quote": "When you play, never mind who listens to you.",
+            "author": "robert schumann"
+        },
+        {
+            "quote": "You know the drum was the first instrument besides the human voice.",
+            "author": "billy higgins"
+        },
+        {
+            "quote": "What we play is life.",
+            "author": "louis armstrong"
+        },
+        {
+            "quote": "These fingers of mine, they got brains in ’em. You don’t tell them what to do – they do it.",
+            "author": "jerry lee lewis"
+        },
+        {
+            "quote": "A musician must make music, an artist must paint, a poet must write, if he to be at peace with himself. What a man can be, he must be.",
+            "author": "abraham h. maslow"
+        },
+        {
+            "quote": "Life is like a piano; the white keys represent happiness and the black show sadness. But as you go through life’s journey, remember that the black keys also create music.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Give me a guitar, give me a piano, give me a broom and string; I wouldn’t get bored anywhere.",
+            "author": "keith richards"
+        },
+        {
+            "quote": "If I’m going to Hell, I’m going there playing the piano.",
+            "author": "jerry lee lewis"
+        },
+        {
+            "quote": "I love power. But it is as an artist that I love it. I love it as a musician loves his violin, to draw out its sounds and chords and harmonies.",
+            "author": "napoleon bonaparte quotes"
+        },
+        {
+            "quote": "The guitar is a small orchestra. It is polyphonic. Every string is a different color, a different voice.",
+            "author": "andres segovia"
+        },
+        {
+            "quote": "Without a piano I don’t know how to stand, don’t know what to do with my hands.",
+            "author": "norah jones"
+        },
+        {
+            "quote": "I just go where the guitar takes me.",
+            "author": "angus young"
+        },
+        {
+            "quote": "What’s really good is African drum music.",
+            "author": "fiona apple"
+        },
+        {
+            "quote": "When you play a guitar for a long time, you get your hand oils in there; it starts feeling good and behaving, and you just don’t want to mess with that.",
+            "author": "mac demarco"
+        },
+        {
+            "quote": "With a guitar I would be able to express the things I felt in sounds.",
+            "author": "william christopher handy"
+        },
+        {
+            "quote": "A guitar is a very personal extension of the person playing it. You have to be emotionally and spiritually connected to your instrument",
+            "author": "eddie van halen"
+        },
+        {
+            "quote": "The piano keys are black and white but they sound like a million colors in your mind.",
+            "author": "maria cristina mena"
+        },
+        {
+            "quote": "A race track is a place where windows clean people.",
+            "author": "danny thomas"
+        },
+        {
+            "quote": "Don’t gamble; take all your savings and buy some good stock and hold it till it goes up. If it don’t go up, don’t buy it.",
+            "author": "will rogers"
+        },
+        {
+            "quote": "In most betting shops you will see three windows marked \"Bet Here,\" but only one window with the legend \"Pay Out.",
+            "author": "jeffrey bernard"
+        },
+        {
+            "quote": "You cannot get anything out of nature or from God by gambling; only out of your neighbor.",
+            "author": "john ruskinpoker is good for you. it enriches the soul, sharpens the intellect, heals the spirit, and – when played well, nourishes the wallet. ~ lou krieger"
+        },
+        {
+            "quote": "Poker’s a day to learn and a lifetime to master.",
+            "author": "robert williamson iii"
+        },
+        {
+            "quote": "Old card players never die, they just shuffle away.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "There is a very easy way to return from a casino with a small fortune: go there with a large one.",
+            "author": "jack yelton"
+        },
+        {
+            "quote": "Poker may be a branch of psychological warfare, an art form or indeed a way of life – but it is also merely a game, in which money is simply the means of keeping score.",
+            "author": "anthony holden"
+        },
+        {
+            "quote": "The world is a gambling table so arranged that all who enter the casino must play and all must lose more or less heavily in the long run, though they win occasionally by the way.",
+            "author": "samuel butler"
+        },
+        {
+            "quote": "If you play bridge badly you make your partner suffer, but if you play poker badly you make everybody happy.",
+            "author": "joe laurie jr."
+        },
+        {
+            "quote": "The cardinal sin in poker, worse than playing did cards, worse even than figuring your odds correctly, is becoming emotionally involved.",
+            "author": "katy lederer"
+        },
+        {
+            "quote": "The strong point in poker is never to lose your temper, either with those you are playing with or, more particularly, with the cards. There is no sympathy in poker. Always keep cool. If you lose your head you will lose all your chips.",
+            "author": "william j. florence"
+        },
+        {
+            "quote": "The commonest mistake in history is underestimating your opponent; it happens at the poker table all the time.",
+            "author": "david shoup"
+        },
+        {
+            "quote": "Most of the money you’ll win at poker comes not from the brilliance of your own play, but from the ineptitude of your opponents.",
+            "author": "lou krieger"
+        },
+        {
+            "quote": "Casinos and prostitutes have the same thing in common; they are both trying to screw you out of your money and send you home with a smile on you face.",
+            "author": "vp pappy"
+        },
+        {
+            "quote": "Poker reveals to the frank observer something else of import—it will teach him about his own nature. Many bad players do not improve because the cannot bear self-knowledge.",
+            "author": "david mamet"
+        },
+        {
+            "quote": "The game [of poker] exemplifies the worst aspects of capitalism that have made our country so great.",
+            "author": "walter matthau"
+        },
+        {
+            "quote": "In a game of poker, I can put the players’ souls in my pocket.",
+            "author": "beausourire"
+        },
+        {
+            "quote": "The guy who invented poker was bright, but the guy who invented the chip was a genius.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "I like to play blackjack. I’m not addicted to gambling. I’m addicted to sitting in a semi-circle.",
+            "author": "mitch hedberg"
+        },
+        {
+            "quote": "When we play, we must realize, before anything else, that we are out to make money.",
+            "author": "david sklansky"
+        },
+        {
+            "quote": "If you ain’t just a little scared when you enter a casino, you are either very rich or you haven’t studied the games enough.",
+            "author": "vp pappy"
+        },
+        {
+            "quote": "Casino gambling is colorful and dramatic and theatrical.",
+            "author": "steve wynn"
+        },
+        {
+            "quote": "I like to play poker with politicians. They are easy to beat. Sometimes in poker is smarter to lose with a winning hand so that you could win later with a losing hand. Politicians can not accept that.",
+            "author": "robert redford"
+        },
+        {
+            "quote": "Poker is… a fascinating, wonderful, intricate adventure on the high seas of human nature.",
+            "author": "david a. daniel"
+        },
+        {
+            "quote": "A weekend in Vegas without gambling and drinking is just like being a born-again Christian.",
+            "author": "artie lange"
+        },
+        {
+            "quote": "You cannot beat a roulette table unless you steal money from it.",
+            "author": "albert einstein"
+        },
+        {
+            "quote": "One should always play fair when one has the winning cards.",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "Baccarat is a game whereby the croupier gathers in money with a flexible sculling oar, then rakes it home. If I could have borrowed his oar I would have stayed.",
+            "author": "mark twain"
+        },
+        {
+            "quote": "Whenever you see a gaming table be sure to know fortune is not there. Rather she is always in the company of industry.",
+            "author": "oliver goldsmith"
+        },
+        {
+            "quote": "No presidential candidate should visit Las Vegas without condemning organized gambling.",
+            "author": "ralph nader"
+        },
+        {
+            "quote": "Your best chance to get a Royal Flush in a casino is in the bathroom.",
+            "author": "v.p. pappy"
+        },
+        {
+            "quote": "There isn’t any luck that enters into anything, unless it’s poker or shooting dice, maybe.",
+            "author": "fred w. fitch"
+        },
+        {
+            "quote": "By gaming we lose both our time and treasure–two things most precious to the life of man.",
+            "author": "owen felltham"
+        },
+        {
+            "quote": "The attraction in this city is money, from gambling. What you are if you work here is a shill.",
+            "author": "joe williams"
+        },
+        {
+            "quote": "One of the worst things that can happen to you in life is to win a bet on a horse at an early age.",
+            "author": "danny mcgoorty"
+        },
+        {
+            "quote": "Italians come to ruin most generally in three ways, women, gambling, and farming. My family chose the slowest one.",
+            "author": "pope john xxiii"
+        },
+        {
+            "quote": "Show me a gambler and I’ll show you a loser.",
+            "author": "mario puzo"
+        },
+        {
+            "quote": "Man is a gaming animal. He must always be trying to get the better in something or other.",
+            "author": "charles lamb"
+        },
+        {
+            "quote": "There is but one good throw upon the dice, which is, to throw them away.",
+            "author": "paul chatfield"
+        },
+        {
+            "quote": "But I used to have a bit of a gambling problem. And that would have been the answer to my prayers. It got worse when I started playing this character, too.",
+            "author": "fisher stevens"
+        },
+        {
+            "quote": "My luck at the gambling table was varied; sometimes I was fifty to a hundred dollars ahead, and at other times I had to borrow money from my fellow workmen to settle my room rent and pay for my meals.",
+            "author": "james weldon johnson"
+        },
+        {
+            "quote": "Without gambling, I would not exist.",
+            "author": "hunter s. thompson"
+        },
+        {
+            "quote": "The President must stop gambling with taxpayers’ money and get the country back on the path of fiscal sanity.",
+            "author": "tom harkin"
+        },
+        {
+            "quote": "No dog can go as fast as the money you bet on him.",
+            "author": "bud flanagan"
+        },
+        {
+            "quote": "The subject of gambling is all encompassing. It combines man’s natural play instinct with his desire to know about his fate and his future.",
+            "author": "franz rosenthal"
+        },
+        {
+            "quote": "The only gambling tip which amounts to anything is to keep out of the game.",
+            "author": "edgar watson howe"
+        },
+        {
+            "quote": "No wife can endure a gambling husband; unless he is a steady winner.",
+            "author": "thomas robert dewar"
+        },
+        {
+            "quote": "Between the daylight gambler and the player at night there is the same difference that lies between a careless husband and the lover swooning under his lady’s window.",
+            "author": "honore de balzac"
+        },
+        {
+            "quote": "Gambling with cards or dice or stocks is all one thing. It’s getting money without giving an equivalent for it.",
+            "author": "henry ward beecher"
+        },
+        {
+            "quote": "Women’s total instinct for gambling is satisfied by marriage.",
+            "author": "gloria steinem"
+        },
+        {
+            "quote": "A racehorse is an animal that can take several thousand people for a ride at the same time.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "The typical gambler might not really understand the probabilistic nuances of the wheel or the dice, but such things seem a bit more tractable than, say, trying to raise a child in this lunatic society of ours.",
+            "author": "arthur s. reber"
+        },
+        {
+            "quote": "Life is a gamble at terrible odds, if it were a bet, you would not take it.",
+            "author": "tom stoppard"
+        },
+        {
+            "quote": "Uncertainty doesn’t make life worth living, quite, but it does make striving and gambling worth attempting.",
+            "author": "walter kirn"
+        },
+        {
+            "quote": "I can’t believe that God plays dice with the universe.",
+            "author": "albert einstein"
+        },
+        {
+            "quote": "It is lost at dice, what ancient honor won.",
+            "author": "william shakespeare"
+        },
+        {
+            "quote": "No horse can go as fast as the money you put on it.",
+            "author": "earl wilson"
+        },
+        {
+            "quote": "If you eliminate smoking and gambling, you will be amazed to find that almost all an Englishman’s pleasures can be, and mostly are, shared by his dog.",
+            "author": "george bernard shaw"
+        },
+        {
+            "quote": "Gambling is legal and betting is legal, for what I bet.",
+            "author": "michael jordan"
+        },
+        {
+            "quote": "Change your life today. Don’t gamble on the future, act now, without delay.",
+            "author": "simone de beauvoir"
+        },
+        {
+            "quote": "There are many harsh lessons to be learned from the gambling experience, but the harshest one of all is the difference between having Fun and being Smart.",
+            "author": "hunter s. thompson"
+        },
+        {
+            "quote": "Gambling is a disease of barbarians superficially civilized.",
+            "author": "dean inge"
+        },
+        {
+            "quote": "The gambler is a moral suicide.",
+            "author": "charles caleb colton"
+        },
+        {
+            "quote": "Gambling: The sure way of getting nothing for something.",
+            "author": "wilson mizner"
+        },
+        {
+            "quote": "Gambling promises the poor what property performs for the rich, something for nothing.",
+            "author": "george bernard shaw"
+        },
+        {
+            "quote": "Traveling is like gambling: it is always connected with winning and losing, and generally where it is least expected we receive, more or less than what we hoped for.",
+            "author": "johann wolfgang von goethe"
+        },
+        {
+            "quote": "The gambling known as business looks with severe disfavor on the business known as gambling.",
+            "author": "ambrose bierce"
+        },
+        {
+            "quote": "One of the healthiest ways to gamble is with a spade and a package of garden seeds.",
+            "author": "dan bennett"
+        },
+        {
+            "quote": "Oh, it’s not really gambling when you never lose.",
+            "author": "jennifer aniston"
+        },
+        {
+            "quote": "Horse racing is animated roulette.",
+            "author": "roger kahn"
+        },
+        {
+            "quote": "Horse sense is a good judgment which keeps horses from betting on people.",
+            "author": "w.c. fields"
+        },
+        {
+            "quote": "Gamblers play just as lovers make love and drunkards drink– blindly and of necessity, under domination of an irresistible force.",
+            "author": "jacques anatole i. france"
+        },
+        {
+            "quote": "In gambling the many must lose in order that the few may win.",
+            "author": "george bernard shaw"
+        },
+        {
+            "quote": "You know horses are smarter than people. You never heard of a horse going broke betting on people.",
+            "author": "will rogers"
+        },
+        {
+            "quote": "Victory is a fleeting thing in the gambling business. Today’s winners are tomorrow’s blinking toads, dumb beasts with no hope.",
+            "author": "hunter s. thompson"
+        },
+        {
+            "quote": "Gambling is part of the human condition. I love it. I have the best time gambling. I’ve been winning fortunes, and I’ve been losing them.",
+            "author": "jerry lewis"
+        },
+        {
+            "quote": "Gambling is the child of avarice, the brother of iniquity, and the father of mischief.",
+            "author": "george washington"
+        },
+        {
+            "quote": "That’s free enterprise, friends: freedom to gamble, freedom to lose. And the great thing — the truly democratic thing about it — is that you don’t even have to be a player to lose.",
+            "author": "barbara ehrenreich"
+        },
+        {
+            "quote": "I want people to understand, gambling is not a bad thing if you do it within the framework of what it’s meant to be, which is fun and entertaining.",
+            "author": "michael jordan"
+        },
+        {
+            "quote": "He was a degenerate gambler. That is, a man who gambled simply to gamble and must lose. As a hero who goes to war must die. Show me a gambler and I’ll show you a loser, show me a hero and I’ll show you a corpse.",
+            "author": "mario puzo"
+        },
+        {
+            "quote": "Betting is the manure to which the enormous crop of horse-races and racehorse breeding in this and other countries is to a large extent due.",
+            "author": "richard blackmore"
+        },
+        {
+            "quote": "A gambler plays even when the odds are immutable and against him.",
+            "author": "lou krieger"
+        },
+        {
+            "quote": "I will never be in the stock market. It’s just gambling. I’m a gambler, but I’ll gamble on the practicality of things.",
+            "author": "jeremy renner"
+        },
+        {
+            "quote": "The better the gambler, the worse the man.",
+            "author": "publius syrus"
+        },
+        {
+            "quote": "The safest way to double your money is to fold it over once and put it in your pocket.",
+            "author": "kin hubbard"
+        },
+        {
+            "quote": "There are three roads to ruin; women, gambling and technicians. The most pleasant is with women, the quickest is with gambling, but the surest is with technicians.",
+            "author": "georges pompidou"
+        },
+        {
+            "quote": "Gambling can turn into a dangerous two-way street when you least expect it. Weird things happen suddenly, and your life can go all to pieces.",
+            "author": "hunter s. thompson"
+        },
+        {
+            "quote": "The race is not always to the swift nor the battle to the strong, but that’s the way to bet.",
+            "author": "hugh e. keough"
+        },
+        {
+            "quote": "It [gaming] is the child of avarice, the brother of iniquity, and the father of mischief.",
+            "author": "george washington"
+        },
+        {
+            "quote": "Gambling is not a vice, it is an expression of our humanness. We gamble. Some do it at the gaming table, some do not. You play, you win, you play, you lose. You play.",
+            "author": "jeanette winterson"
+        },
+        {
+            "quote": "The race is not always to the swift, nor the battle to the strong, but that is the way to bet.",
+            "author": "damon runyon"
+        },
+        {
+            "quote": "He best can paint them who shall feel them most.",
+            "author": "alexander pope"
+        },
+        {
+            "quote": "The painter constructs, the photographer discloses.",
+            "author": "susan sontag"
+        },
+        {
+            "quote": "When I see a white piece of paper, I feel I’ve got to draw. And drawing, for me, is the beginning of everything.",
+            "author": "ellsworth kelly"
+        },
+        {
+            "quote": "A musician must make music, an artist must paint, a poet must write, if he is to be ultimately at peace with himself.",
+            "author": "abraham maslow"
+        },
+        {
+            "quote": "The mind paints before the brush.",
+            "author": "james ellis"
+        },
+        {
+            "quote": "A writer should write with his eyes and a painter paint with his ears.",
+            "author": "gertrude stein"
+        },
+        {
+            "quote": "What is the good of drawing conclusions from experience? I don’t deny we sometimes draw the right conclusions, but don’t we just as often draw the wrong ones?",
+            "author": "georg c. lichtenberg"
+        },
+        {
+            "quote": "One of the pleasant things those of us who write or paint do is to have the daily miracle. It does come.",
+            "author": "gertrude stein"
+        },
+        {
+            "quote": "Painting does not come from intelligence so much, as from sight and feeling and invention.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Some painters transform the sun into a yellow spot; others transform a yellow spot into the sun.",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "Painting is poetry that is seen rather than felt, and poetry is painting that is felt rather than seen.",
+            "author": "leonardo da vinci"
+        },
+        {
+            "quote": "I do not paint a portrait to look like the subject; rather does the person grow to look like his portrait.",
+            "author": "salvador dali"
+        },
+        {
+            "quote": "Painting is silent poetry.",
+            "author": "simonides of ceos"
+        },
+        {
+            "quote": "The first writing of the human being was drawing, not writing.",
+            "author": "marjane satrapi"
+        },
+        {
+            "quote": "Good painters imitate nature, bad ones spew it up.",
+            "author": "miguel de cervantes"
+        },
+        {
+            "quote": "Lovers of painting and lovers of music are people who openly display their preference like a delectable ailment that isolates them and makes them proud.",
+            "author": "maurice blanchot"
+        },
+        {
+            "quote": "Painting doesn’t mean just describing; it’s a state of spirit.",
+            "author": "caryl churchill"
+        },
+        {
+            "quote": "Pure drawing is an abstraction. Drawing and colour are not distinct, everything in nature is coloured.",
+            "author": "paul cezanne"
+        },
+        {
+            "quote": "The painter should not paint what he sees, but what will be seen.",
+            "author": "paul valery"
+        },
+        {
+            "quote": "It’s a small world, but I wouldn’t want to have to paint it.",
+            "author": "steven wright"
+        },
+        {
+            "quote": "It took me four years to paint like Raphael, but a lifetime to paint like a child.",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "It is not hard to understand modern art. If it hangs on a wall it’s a painting, and if you can walk around it it’s a sculpture.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Painting is just another way of keeping a diary.",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "Originality depends only on the character of the drawing and the vision peculiar to each artist.",
+            "author": "georges seurat"
+        },
+        {
+            "quote": "The best portraits are those in which there is a slight mixture of caricature.",
+            "author": "thomas b. macaulay"
+        },
+        {
+            "quote": "All art is exorcism. I paint dreams and visions too; the dreams and visions of my time. Painting is the effort to produce order; order in yourself. There is much chaos in me, much chaos in our time.",
+            "author": "otto dix"
+        },
+        {
+            "quote": "One of the best things about paintings is their silence – which prompts reflection and random reverie.",
+            "author": "mark stevens"
+        },
+        {
+            "quote": "My drawings have been described as pre-internationalist, meaning that they were finished before the ideas for them had occurred to me. I shall not argue the point.",
+            "author": "james thurber"
+        },
+        {
+            "quote": "Painting is easy when you don’t know how, but very difficult when you do.",
+            "author": "edgar degas"
+        },
+        {
+            "quote": "I paint things as they are. I don’t comment. I record.",
+            "author": "henri de toulouse lautrec"
+        },
+        {
+            "quote": "For me, painting is a way to forget life. It is a cry in the night, a strangled laugh.",
+            "author": "georges rouault"
+        },
+        {
+            "quote": "Many are they who have a taste and love for drawing, but no talent; and this will be discernible in boys who are not diligent and never finish their drawings with shading.",
+            "author": "leonardo da vinci"
+        },
+        {
+            "quote": "There is nothing more difficult for a truly creative painter than to paint a rose, because before he can do so he has first to forget all the roses that were ever painted.",
+            "author": "henri matisse"
+        },
+        {
+            "quote": "When I judge art, I take my painting and put it next to a God made object like a tree or flower. If it clashes, it is not art.",
+            "author": "marc chagall"
+        },
+        {
+            "quote": "If you could say it in words there would be no reason to paint.",
+            "author": "edward hopper"
+        },
+        {
+            "quote": "Life is the art of drawing without an eraser.",
+            "author": "john w. gardner"
+        },
+        {
+            "quote": "Life is the art of drawing sufficient conclusions from insufficient premises.",
+            "author": "samuel butler"
+        },
+        {
+            "quote": "It is a mistake for a sculptor or a painter to speak or write very often about his job. It releases tension needed for his work.",
+            "author": "henry moore"
+        },
+        {
+            "quote": "The painter’s work will be of little merit if he takes the painting of others as his standard, but if he studies from nature he will produce good fruits.",
+            "author": "leonardo da vinci"
+        },
+        {
+            "quote": "Only when he no longer knows what he is doing does the painter do good things.",
+            "author": "edgar degas"
+        },
+        {
+            "quote": "Painting was called silent poetry and poetry speaking painting.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "A great artist can paint a great picture on a small canvas.",
+            "author": "charles dudley warner"
+        },
+        {
+            "quote": "The true painter strives to paint what can only be seen through his world.",
+            "author": "andré malraux"
+        },
+        {
+            "quote": "As far as I am concerned, a painting speaks for itself. What is the use of giving explanations, when all is said and done? A painter has only one language.",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "Don’t be an art critic. Paint. There lies salvation.",
+            "author": "paul cezanne"
+        },
+        {
+            "quote": "If I try to articulate every little detail in a drawing, it would be like missing the forest for the trees, so it’s just about getting the outline of the forest.",
+            "author": "jeff koons"
+        },
+        {
+            "quote": "I prefer drawing to talking. Drawing is faster, and leaves less room for lies.",
+            "author": "le corbusier"
+        },
+        {
+            "quote": "Painting is a way to forget life. It is a cry in the night, a strangled laugh.",
+            "author": "georges rouault"
+        },
+        {
+            "quote": "There are only two styles of portrait painting; the serious and the smirk.",
+            "author": "charles dickens"
+        },
+        {
+            "quote": "If you paint in your mind a picture of bright and happy expectations, you put yourself into a condition conducive to your goal.",
+            "author": "norman vincent peale"
+        },
+        {
+            "quote": "Why should I paint dead fish, onions and beer glasses? Girls are so much prettier.",
+            "author": "marie laurencin"
+        },
+        {
+            "quote": "A man paints with his brains and not with his hands.",
+            "author": "michelangelo"
+        },
+        {
+            "quote": "I never felt oppressed because of my gender. When I’m writing a poem or drawing, I’m not a female; I’m an artist.",
+            "author": "patti smith"
+        },
+        {
+            "quote": "There is no way to success in art but to take off your coat, grind paint, and work like a digger on the railroad, all day and every day.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "Every time I paint a portrait I lose a friend.",
+            "author": "john singer sargent"
+        },
+        {
+            "quote": "Sunlight is painting.",
+            "author": "nathaniel hawthorne"
+        },
+        {
+            "quote": "Surely nothing has to listen to so many stupid remarks as a painting in a museum.",
+            "author": "edmond & jules de goncourt"
+        },
+        {
+            "quote": "Everything in creation has its appointed painter or poet and remains in bondage like the princess in the fairy tale ’til its appropriate liberator comes to set it free.",
+            "author": "ralph waldo emerson"
+        },
+        {
+            "quote": "In old times men used their powers of painting to show the objects of faith, in later times they use the objects of faith to show their powers of painting.",
+            "author": "john ruskin"
+        },
+        {
+            "quote": "Modern art is what happens when painters stop looking at girls and persuade themselves that they have a better idea.",
+            "author": "john anthony ciardi"
+        },
+        {
+            "quote": "If you hear a voice within you saying, \"You are not a painter,\" then by all means paint and that voice will be silenced.",
+            "author": "vincent van gogh"
+        },
+        {
+            "quote": "He who pretends to be either painter or engraver without being a master of drawing is an impostor.",
+            "author": "william blake"
+        },
+        {
+            "quote": "I don’t paint things. I only paint the difference between things.",
+            "author": "henri matisse"
+        },
+        {
+            "quote": "Painters and poets have liberty to lie.",
+            "author": "robert burns"
+        },
+        {
+            "quote": "Painting is a blind man’s profession. He paints not what he sees, but what he feels, what he tells himself about what he has seen.",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "Are we to paint what’s on the face, what’s inside the face, or what’s behind it?",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "What a strange vanity painting is; it attracts admiration by resembling the original, we do not admire.",
+            "author": "blaise pascal"
+        },
+        {
+            "quote": "God created paper for the purpose of drawing architecture on it. Everything else is, at least for me, an abuse of paper.",
+            "author": "alvar aalto"
+        },
+        {
+            "quote": "For me, drawing is a way of navigating the imagination, and it remains the fundamental vehicle of my practice. Drawing allows me to be at my most inventive.",
+            "author": "shahzia sikander"
+        },
+        {
+            "quote": "Painting is silent poetry, poetry is eloquent painting.",
+            "author": "plutarch"
+        },
+        {
+            "quote": "Painting is a faith, and it imposes the duty to disregard public opinion.",
+            "author": "vincent van gogh"
+        },
+        {
+            "quote": "If you call painting dumb poetry, the painter may call poetry blind painting.",
+            "author": "leonardo da vinci"
+        },
+        {
+            "quote": "Painting dissolves the forms at its command … it melts them into color.",
+            "author": "alexander eliot"
+        },
+        {
+            "quote": "Every portrait that is painted with feeling is a portrait of the artist, not of the sitter.",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "I paint objects as I think them not as I see them.",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "I hope with all my heart there will be painting in heaven.",
+            "author": "jean-baptiste corot"
+        },
+        {
+            "quote": "Drawing on my fine command of the English language, I said nothing.",
+            "author": "robert benchley"
+        },
+        {
+            "quote": "Drawing makes you see things clearer, and clearer and clearer still, until your eyes ache.",
+            "author": "david hockney"
+        },
+        {
+            "quote": "Drawing is the true test of art.",
+            "author": "horace"
+        },
+        {
+            "quote": "Drawing is the honesty of the art. There is no possibility of cheating. It is either good or bad.",
+            "author": "salvador dali"
+        },
+        {
+            "quote": "Drawing is still basically the same as it has been since prehistoric times. It brings together man and the world. It lives through magic.",
+            "author": "keith haring"
+        },
+        {
+            "quote": "Why do two colors, put one next to the other, sing? Can one really explain this? No. Just as one can never learn how to paint.",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "Style in painting is the same as in writing,–a power over materials, whether words or colors.",
+            "author": "james ellis"
+        },
+        {
+            "quote": "If we could but paint with the hand what we see with the eye.",
+            "author": "honore de balzac"
+        },
+        {
+            "quote": "Drawing is rather like playing chess: your mind races ahead of the moves that you eventually make.",
+            "author": "david hockney"
+        },
+        {
+            "quote": "Drawing is like making an expressive gesture with the advantage of permanence.",
+            "author": "henri matisse"
+        },
+        {
+            "quote": "Art, like morality, consists in drawing the line somewhere.",
+            "author": "gilbert k. chesterton"
+        },
+        {
+            "quote": "Every artist dips his brush in his own soul, and paints his own nature into his pictures.",
+            "author": "henry ward beecher"
+        },
+        {
+            "quote": "I paint my own reality. The only thing I know is that I paint because I need to, and I paint whatever passes through my head without any other consideration.",
+            "author": "frida kahlo"
+        },
+        {
+            "quote": "People don’t have time to wait for somebody to paint their portraits anymore. The money is in photography.",
+            "author": "robert mapplethorpe"
+        },
+        {
+            "quote": "Life is painting a picture, not doing a sum.",
+            "author": "oliver wendell holmes jr."
+        },
+        {
+            "quote": "Drawing is speaking to the eye; talking is painting to the ear.",
+            "author": "joseph joubert"
+        },
+        {
+            "quote": "I adore the theater and I am a painter. I think the two are made for a marriage of love. I will give all my soul to prove this once more.",
+            "author": "marc chagall"
+        },
+        {
+            "quote": "The most effective moments in the theatre are those that appeal to basic and commonplace emotions–love of woman, love of home, love of country, love of right, anger, jealousy, revenge, ambition, lust, and treachery.",
+            "author": "clayton hamilton"
+        },
+        {
+            "quote": "The theatre is the best way of showing the gap between what is said and what is seen to be done, and that is why, ragged and gap-toothed as it is, it has still a far healthier potential than some poorer, abandoned arts.",
+            "author": "david hare"
+        },
+        {
+            "quote": "Theatre is a mirror, a sharp reflection of society.",
+            "author": "yasmina reza"
+        },
+        {
+            "quote": "The theatre, for all its artifices, depicts life in a sense more truly than history, because the medium has a kindred movement to that of real life, though an artificial setting and form.",
+            "author": "george santayana"
+        },
+        {
+            "quote": "I think theatre should always be somewhat suspect.",
+            "author": "vaclav havel"
+        },
+        {
+            "quote": "The theater needs continual reminders that there is nothing more debasing than the work of those who do well what is not worth doing at all.",
+            "author": "gore vidal"
+        },
+        {
+            "quote": "From the start it has been the theatre’s business to entertain people … it needs no other passport than fun.",
+            "author": "bertolt brecht"
+        },
+        {
+            "quote": "It’s one of the tragic ironies of the theatre that only one man in it can count on steady work — the night watchman.",
+            "author": "tallulah bankhead"
+        },
+        {
+            "quote": "The theatre is certainly a place for learning about the brevity of human glory: oh all those wonderful glittering absolutely vanished pantomimes.",
+            "author": "iris murdoch"
+        },
+        {
+            "quote": "Applause begets applause in the theatre, as laughter begets laughter and tears beget tears.",
+            "author": "clayton hamilton"
+        },
+        {
+            "quote": "You need three things in the theater – the play, the actors and the audience, – and each must give something.",
+            "author": "kenneth haigh"
+        },
+        {
+            "quote": "The pit of a theatre is the one place where the tears of virtuous and wicked men alike are mingled.",
+            "author": "denis diderot"
+        },
+        {
+            "quote": "Coughing in the theater is not a respiratory ailment. It is a criticism.",
+            "author": "alan jay lerner"
+        },
+        {
+            "quote": "I think that’s just the dichotomy of the theater, who funds and who comes to watch.",
+            "author": "anna deavere smith"
+        },
+        {
+            "quote": "The theatre is a gross art, built in sweeps and over-emphasis. Compromise is its second name.",
+            "author": "enid bagnold"
+        },
+        {
+            "quote": "To enter a theatre for a performance is to be inducted into a magical space, to be ushered into the sacred arena of the imagination.",
+            "author": "simon callow"
+        },
+        {
+            "quote": "The theater is the only branch of art much cared for by people of wealth; like canasta, it does away with the bother of talk after dinner.",
+            "author": "mary mccarthy"
+        },
+        {
+            "quote": "Many plays, certainly mine, are like blank cheques. The actors and directors put their own signatures on them.",
+            "author": "thornton wilder"
+        },
+        {
+            "quote": "The primary function of a theater is not to please itself, or even to please its audience. It is to serve talent.",
+            "author": "robert brustein"
+        },
+        {
+            "quote": "It isn’t a shortage of good scripts that ails the theater; it is a shortage of producers who know a good script when they see one.",
+            "author": "george jean nathan"
+        },
+        {
+            "quote": "The stage is life, music, beautiful girls, legs, breasts, not talk or intellectualism or dried-up academics.",
+            "author": "harold clurman"
+        },
+        {
+            "quote": "It is a lazy public which promotes a slothful and irresponsible theater.",
+            "author": "edward albee"
+        },
+        {
+            "quote": "I regard the theatre as the greatest of all art forms, the most immediate way in which a human being can share with another the sense of what it is to be a human being.",
+            "author": "thornton wilder"
+        },
+        {
+            "quote": "A theater requires two good producers: one to produce the play, and the other to produce the cash.",
+            "author": "evan esar"
+        },
+        {
+            "quote": "Cinema should make you forget you are sitting in a theater.",
+            "author": "roman polanski"
+        },
+        {
+            "quote": "A theatre, a literature, an artistic expression that does not speak for its own time has no relevance.",
+            "author": "dario fo"
+        },
+        {
+            "quote": "The theater, which is in no thing, but makes use of everything — gestures, sounds, words, screams, light, darkness — rediscovers itself at precisely the point where the mind requires a language to express its manifestations. To break through language in order to touch life is to create or recreate the theatre.",
+            "author": "antonin artaud"
+        },
+        {
+            "quote": "I write plays for people who wouldn’t be seen dead in the theatre.",
+            "author": "barrie keeffe"
+        },
+        {
+            "quote": "In the theater the audience wants to be surprised but by things that they expect.",
+            "author": "tristan bernard"
+        },
+        {
+            "quote": "Theatergoing is a communal act, movie going a solitary one.",
+            "author": "robert brustein"
+        },
+        {
+            "quote": "Movies will make you famous; Television will make you rich; But theatre will make you good.",
+            "author": "terrence mann"
+        },
+        {
+            "quote": "No theater could sanely flourish until there was an umbilical connection between what was happening on the stage and what was happening in the world.",
+            "author": "kenneth tynan"
+        },
+        {
+            "quote": "Theater people are always pining and agonizing because they’re afraid that they’ll be forgotten. And in America they’re quite right. They will be.",
+            "author": "agnes de mille"
+        },
+        {
+            "quote": "We need a type of theatre which not only releases the feelings, insights and impulses possible within the particular historical field of human relations in which the action takes place, but employs and encourages those thoughts and feelings which help transform the field itself.",
+            "author": "bertolt brecht"
+        },
+        {
+            "quote": "I have never regarded any theater as much more than the conclusion to a dinner or the prelude to a supper.",
+            "author": "max beerbohm"
+        },
+        {
+            "quote": "The history of theatre is the history of first nights.",
+            "author": "john lahr"
+        },
+        {
+            "quote": "It is a hopeless Endeavour to attract people to a theatre unless they can be first brought to believe that they will never get in.",
+            "author": "charles dickens quotes"
+        },
+        {
+            "quote": "The center of the stage is where I am.",
+            "author": "martha graham"
+        },
+        {
+            "quote": "We live in what is, but we find 1,000 ways not to face it. Great theatre strengthens our faculty to face it.",
+            "author": "thornton wilder"
+        },
+        {
+            "quote": "Broadway is a place where people spend money they haven’t earned to buy things they don’t need to impress people they don’t like.",
+            "author": "sir henry wotton"
+        },
+        {
+            "quote": "One of the first and most important things for a critic to learn is how to sleep undetected at the theatre.",
+            "author": "william archer"
+        },
+        {
+            "quote": "The truth, the absolute truth, is that the chief beauty for the theatre consists in fine bodily proportions.",
+            "author": "sarah bernhardt"
+        },
+        {
+            "quote": "The theatre is a place where one has time for the problems of people to whom one would show the door if they came to one’s office for a job.",
+            "author": "tennessee williams"
+        },
+        {
+            "quote": "The stage is not merely the meeting place of all the arts, but is also the return of art to life.",
+            "author": "oscar wilde"
+        },
+        {
+            "quote": "The theater is so endlessly fascinating because it’s so accidental. It’s so much like life.",
+            "author": "arthur miller"
+        },
+        {
+            "quote": "As long as more people will pay admission to a theater to see a naked body than to see a naked brain, the drama will languish.",
+            "author": "george bernard shaw quotes"
+        },
+        {
+            "quote": "There is only one necessary condition for the emergence of a new theatre, that the stage and auditorium should be open to the masses, should be able to contain a people and the actions of a people.",
+            "author": "romain rolland"
+        },
+        {
+            "quote": "The play was a great success but the audience was a disaster.",
+            "author": "oscar wilde quotes"
+        },
+        {
+            "quote": "From the viewpoint of analytic psychology, the theatre, aside from any aesthetic value, may be considered as an institution for the treatment of the mass complex.",
+            "author": "carl jung"
+        },
+        {
+            "quote": "Life is a theatre set in which there are but few practicable entrances.",
+            "author": "victor hugo quotes"
+        },
+        {
+            "quote": "A jest is a very serious thing.",
+            "author": "charles churchill"
+        },
+        {
+            "quote": "To smile at the jest which plants a thorn in another’s breast is to become a principal in the mischief.",
+            "author": "richard brinsley sheridan"
+        },
+        {
+            "quote": "A paltry, humbug jest; those who have the least wit make them best.",
+            "author": "william combe"
+        },
+        {
+            "quote": "A lot of truth is said in jest.",
+            "author": "eminem"
+        },
+        {
+            "quote": "Those who can least bear a jest upon themselves, will be most diverted with one passed on others.",
+            "author": "samuel richardson"
+        },
+        {
+            "quote": "Never injure a friend, even in jest.",
+            "author": "marcus tullius cicero"
+        },
+        {
+            "quote": "Jesters do often prove prophets.",
+            "author": "joseph addison"
+        },
+        {
+            "quote": "Beware of biting jests; the more truth they carry with them, the greater wounds they give, the greater smarts they cause, and the greater scars they leave behind them.",
+            "author": "johann kaspar lavater"
+        },
+        {
+            "quote": "I do not like this fooling.",
+            "author": "william shakespeare"
+        },
+        {
+            "quote": "A bitter jest, when the satire comes too near the truth, leaves a sharp sting behind.",
+            "author": "tacitus"
+        },
+        {
+            "quote": "A college joke to cure the dumps.",
+            "author": "jonathan swift"
+        },
+        {
+            "quote": "Jesting and levity accustom a man to lewdness.",
+            "author": "akiva ben joseph"
+        },
+        {
+            "quote": "The squirrel that you kill in jest, dies in earnest.",
+            "author": "henry david thoreau"
+        },
+        {
+            "quote": "Lightness, jesting, and joking, can only be indulged at the expense of barrenness of soul, and the loss of the favor of God.",
+            "author": "ellen g. white"
+        },
+        {
+            "quote": "Jests that give pains are no jests.",
+            "author": "miguel de cervantes"
+        },
+        {
+            "quote": "A jest loses its point when the jester laughs himself.",
+            "author": "johann christoph friedrich von schiller"
+        },
+        {
+            "quote": "Judge of a jest when you have done laughing.",
+            "author": "robert lloyd"
+        },
+        {
+            "quote": "The jest loses its point when he who makes it is the first to laugh.",
+            "author": "friedrich schiller"
+        },
+        {
+            "quote": "Wanton jests make fools laugh, and wise men frown.",
+            "author": "thomas fuller"
+        },
+        {
+            "quote": "Listen closely as those around you speak; great truths are revealed in jest.",
+            "author": "javan"
+        },
+        {
+            "quote": "The jest which is expected is already destroyed.",
+            "author": "samuel johnson"
+        },
+        {
+            "quote": "He that will lose his friend for a jest, deserves to die a beggar by the bargain.",
+            "author": "thomas fuller"
+        },
+        {
+            "quote": "No time to break jests when the heartstrings are about to be broken.",
+            "author": "thomas fuller"
+        },
+        {
+            "quote": "Life is a jest; and all things show it. I thought so once; but now I know it.",
+            "author": "bette davis"
+        },
+        {
+            "quote": "A good jest forever.",
+            "author": "william shakespeare"
+        },
+        {
+            "quote": "Wit loses its respect with the good when seen in company with malice; and to smile at the jest which plants a thorn in another’s breast is to become a principal in the mischief.",
+            "author": "richard brinsley sheridan"
+        },
+        {
+            "quote": "It is good to jest, but not to make a trade of jesting.",
+            "author": "elizabeth i"
+        },
+        {
+            "quote": "Jest not with the two-edged sword of God’s word.",
+            "author": "thomas fuller"
+        },
+        {
+            "quote": "Jest with your equals.",
+            "author": "bion of smyrna"
+        },
+        {
+            "quote": "Jesters do oft prove prophets.",
+            "author": "william shakespeare"
+        },
+        {
+            "quote": "In comedy, reconcilement with life comes at the point when to the tragic sense only an inalienable difference or dissension with life appears.",
+            "author": "constance rourke"
+        },
+        {
+            "quote": "All I need to make a comedy is a park, a policeman and a pretty girl.",
+            "author": "charlie chaplin"
+        },
+        {
+            "quote": "I’m funny how? I mean funny like I’m a clown, like I amuse you? I make you laugh, like I’m here to fuckin’ amuse you? LESS",
+            "author": "nicholas pileggi"
+        },
+        {
+            "quote": "We mustn’t complain too much of being comedians — it’s an honorable profession. If only we could be good ones the world might gain at least a sense of style. We have failed — that’s all. We are bad comedians, we aren’t bad men.",
+            "author": "graham greene"
+        },
+        {
+            "quote": "I think being funny is not anyone’s first choice.",
+            "author": "woody allen"
+        },
+        {
+            "quote": "Dare to wear the foolish clown face.",
+            "author": "frank sinatra"
+        },
+        {
+            "quote": "Comedy just pokes at problems, rarely confronts them squarely. Drama is like a plate of meat and potatoes, comedy is rather the dessert, a bit like meringue.",
+            "author": "woody allen"
+        },
+        {
+            "quote": "A man’s got to take a lot of punishment to write a really funny book.",
+            "author": "ernest hemingway"
+        },
+        {
+            "quote": "The only honest art form is laughter, comedy. You can’t fake it… try to fake three laughs in an hour — ha ha ha ha ha — they’ll take you away, man. You can’t.",
+            "author": "lenny bruce"
+        },
+        {
+            "quote": "Clowns wear a face that’s painted intentionally on them so they appear to be happy or sad. What kind of mask are you wearing today?",
+            "author": "Unknown"
+        },
+        {
+            "quote": "All the world loves a clown.",
+            "author": "cole porter"
+        },
+        {
+            "quote": "A clown is like aspirin, only he works twice as fast.",
+            "author": "groucho marx"
+        },
+        {
+            "quote": "Most comedy is based on getting a laugh at somebody else’s expense. And I find that that’s just a form of bullying in a major way. So I want to be an example that you can be funny and be kind, and make people laugh without hurting somebody else’s feelings.",
+            "author": "ellen degeneres"
+        },
+        {
+            "quote": "Writers are a little below the clowns and a little above the trained seals.",
+            "author": "john steinbeck"
+        },
+        {
+            "quote": "Comedy is simply a funny way of being serious.",
+            "author": "peter ustinov"
+        },
+        {
+            "quote": "A clown sees life simply, without complications.",
+            "author": "george bishop"
+        },
+        {
+            "quote": "I remain just one thing, and one thing only–and that is a clown. It places me on a far higher plane than any politician.",
+            "author": "charlie chaplin"
+        },
+        {
+            "quote": "Comedy naturally wears itself out — destroys the very food on which it lives; and by constantly and successfully exposing the follies and weaknesses of mankind to ridicule, in the end leaves itself nothing worth laughing at.",
+            "author": "william hazlitt"
+        },
+        {
+            "quote": "A clown’s makeup and character, that’s all he has to sell, He loves and believes in that character.",
+            "author": "emmett kelly"
+        },
+        {
+            "quote": "Today’s comedian has a cross to bear that he built himself. A comedian of the older generation did an \"act\" and he told the audience, \"This is my act.\" Today’s comic is not doing an act. The audience assumes he’s telling the truth. What is truth today may be a damn lie next week.",
+            "author": "lenny bruce"
+        },
+        {
+            "quote": "Charlie Chaplin’s genius was in comedy. He has no sense of humor, particularly about himself.",
+            "author": "lita grey chaplin"
+        },
+        {
+            "quote": "There is not one female comic who was beautiful as a little girl.",
+            "author": "joan rivers"
+        },
+        {
+            "quote": "Comedy comes from conflict, from hatred.",
+            "author": "warren mitchell"
+        },
+        {
+            "quote": "Life is a tragedy when seen in close-up, but a comedy in long-shot.",
+            "author": "charlie chaplin"
+        },
+        {
+            "quote": "Tragedy is when I cut my finger. Comedy is when you fall into an open sewer and die.",
+            "author": "mel brooks"
+        },
+        {
+            "quote": "Comedy is an escape, not from truth but from despair; a narrow escape into faith.",
+            "author": "christopher fry"
+        },
+        {
+            "quote": "Comedy deflates the sense precisely so that the underlying lubricity and malice may bubble to the surface.",
+            "author": "paul goodman"
+        },
+        {
+            "quote": "The comic spirit is given to us in order that we may analyze, weigh, and clarify things in us which nettle us, or which we are outgrowing, or trying to reshape.",
+            "author": "thornton wilder"
+        },
+        {
+            "quote": "Comedy, like sodomy, is an unnatural act.",
+            "author": "marty feldman"
+        },
+        {
+            "quote": "Comedy is tragedy that happens to other people.",
+            "author": "angela carter"
+        },
+        {
+            "quote": "We are living in the machine age. For the first time in history the comedian has been compelled to supply himself with jokes and comedy material to compete with the machine. Whether he knows it or not, the comedian is on a treadmill to oblivion.",
+            "author": "fred a. allen"
+        },
+        {
+            "quote": "The only rules comedy can tolerate are those of taste, and the only limitations those of libel.",
+            "author": "james thurber"
+        },
+        {
+            "quote": "Comedy can be a cathartic way to deal with personal trauma.",
+            "author": "robin williams"
+        },
+        {
+            "quote": "Comedy may be big business but it isn’t pretty.",
+            "author": "steve martin"
+        },
+        {
+            "quote": "I see myself as an intelligent, sensitive human, with the soul of a clown which forces me to blow it at the most important moments.",
+            "author": "jim morrison"
+        },
+        {
+            "quote": "My own habitual feeling is that the world is so extremely odd, and everything in it so surprising. Why should there be green grass and liquid water, and why have I got hands and feet.",
+            "author": "john jay chapman"
+        },
+        {
+            "quote": "There is a thin line that separates laughter and pain, comedy and tragedy, humor and hurt.",
+            "author": "erma bombeck"
+        },
+        {
+            "quote": "Making eye contact with adults while dressed as a clown is risky.",
+            "author": "doug coupland"
+        },
+        {
+            "quote": "I always loved comedy, but I never knew it was something you could learn to do. I always thought that some people are born comedians … just like some people are born dentists.",
+            "author": "paul reiser"
+        },
+        {
+            "quote": "Comedy is tragedy plus time.",
+            "author": "carol burnett"
+        },
+        {
+            "quote": "Comedy is the art of making people laugh without making them puke.",
+            "author": "steve martin"
+        },
+        {
+            "quote": "Never contend with one that is foolish, proud, positive, testy, or with a superior, or a clown, in matter of argument.",
+            "author": "thomas fuller"
+        },
+        {
+            "quote": "The test of a real comedian is whether you laugh at him before he opens his mouth.",
+            "author": "george jean nathan"
+        },
+        {
+            "quote": "By blood a king, in heart a clown.",
+            "author": "lord alfred tennyson"
+        },
+        {
+            "quote": "Humorists can never start to take themselves seriously. It’s literary suicide.",
+            "author": "erma bombeck"
+        },
+        {
+            "quote": "This world is a comedy to those that think, a tragedy to those that feel.",
+            "author": "horace walpole"
+        },
+        {
+            "quote": "Life is a dream for the wise, a game for the fool, a comedy for the rich, a tragedy for the poor.",
+            "author": "sholom aleichem"
+        },
+        {
+            "quote": "Our comedies are not to be laughed at.",
+            "author": "samuel goldwyn"
+        },
+        {
+            "quote": "Jesting, often, only proves a want of intellect.",
+            "author": "jean de la bruyere"
+        },
+        {
+            "quote": "Jesting is frequently an evidence of the poverty of the understanding.",
+            "author": "voltaire"
+        },
+        {
+            "quote": "If you want to help the American theater, don’t be an actress, be an audience.",
+            "author": "tallulah bankhead"
+        },
+        {
+            "quote": "I believe that in a great city, or even in a small city or a village, a great theater is the outward and visible sign of an inward and probable culture.",
+            "author": "sir laurence olivier"
+        },
+        {
+            "quote": "Theater is, of course, a reflection of life. Maybe we have to improve life before we can hope to improve theater.",
+            "author": "w r inge"
+        },
+        {
+            "quote": "I think the theatre is as essential to civilization as safe, pure water.",
+            "author": "vanessa redgrave"
+        },
+        {
+            "quote": "The world today doesn’t make sense, so why should I paint pictures that do?",
+            "author": "pablo picasso"
+        },
+        {
+            "quote": "A drawing is simply a line going for a walk.",
+            "author": "paul klee"
+        },
+        {
+            "quote": "A drawing is always dragged down to the level of its caption.",
+            "author": "james thurber"
+        },
+        {
+            "quote": "When one paints an ideal, one does not need to limit one’s imagination.",
+            "author": "ellen key"
+        },
+        {
+            "quote": "There is no gambling like politics. Nothing in which the power of circumstance is more evident.",
+            "author": "benjamin disraeli"
+        },
+        {
+            "quote": "The gambler is more wicked as he is a greater proficient in his art.",
+            "author": "syrus"
+        },
+        {
+            "quote": "I do not have a problem, I enjoy gambling, but I think people are trying to make it seem like I have a problem, because people really don’t know.",
+            "author": "michael jordan"
+        },
+        {
+            "quote": "A gambler is nothing but a man who makes his living out of hope.",
+            "author": "william bolitho"
+        },
+        {
+            "quote": "Life is like a piano. What you get out of it depends on how you play it.",
+            "author": "tom lehrer"
+        },
+        {
+            "quote": "The best music happens when you have a personal connection to it. That same philosophy can extend to the instrument you hold in your hands: if a guitar means something special, you’re bound to do great things with it.",
+            "author": "frank iero"
+        },
+        {
+            "quote": "When I listen to music these days, and I hear Pro Tools and drums that sound like a machine – it kinda sucks the life out of music.",
+            "author": "dave grohl"
+        },
+        {
+            "quote": "I’m not a singer who plays a bit of drums. I’m a drummer that sings a bit.",
+            "author": "phil collins"
+        },
+        {
+            "quote": "To one who loves his country in all its parts, it is natural to rejoice in whatever contributes to the prosperity and honor and marks the stability and progress of any portion of its people.",
+            "author": "jefferson davis"
+        },
+        {
+            "quote": "Tolerance and celebration of individual differences is the fire that fuels lasting love.",
+            "author": "tom hannah"
+        },
+        {
+            "quote": "Like a ten-ton cake, the world is more than anyone can eat at one sitting. Select a piece of it, then enjoy the party.",
+            "author": "samuel m silver"
+        },
+        {
+            "quote": "We do not celebrate the death of our enemies.",
+            "author": "yitzhak rabin"
+        },
+        {
+            "quote": "A Picture of many colors proclaims images of many Thoughts.",
+            "author": "donna a. favors"
+        },
+        {
+            "quote": "Some colors reconcile themselves to one another, others just clash.",
+            "author": "edvard munch"
+        },
+        {
+            "quote": "Sit in reverie, and watch the changing color of the waves that break upon the idle seashore of the mind",
+            "author": "henry wadsworth longfellow"
+        },
+        {
+            "quote": "The beggar wears all colors fearing none.",
+            "author": "charles lamb"
+        },
+        {
+            "quote": "Many children appear graceful enough until they begin to learn to dance.",
+            "author": "s. t. coleridge"
+        },
+        {
+            "quote": "Don’t sing for me, dance for me.",
+            "author": "Unknown"
+        },
+        {
+            "quote": "Dancing is wonderful training for girls, it’s the first way you learn to guess what a man is going to do before he does it.",
+            "author": "christopher morley"
+        },
+        {
+            "quote": "A perpendicular expression of a horizontal desire.",
+            "author": "george bernard shaw"
+        },
+        {
+            "quote": "Swans sing before they die — t’were no bad thing did certain persons die before they sing.",
+            "author": "samuel taylor coleridge"
+        },
+        {
+            "quote": "I sing like I feel.",
+            "author": "ella fitzgerald"
+        },
+        {
+            "quote": "The total person sings not just the vocal chords.",
+            "author": "esther broner"
+        },
+        {
+            "quote": "This is a fault common to all singers, that among their friends they will never sing when they are asked; unasked, they will never desist.",
+            "author": "horace"
+        },
+        {
+            "quote": "Always be a first-rate version of yourself, instead of a second-rate version of somebody else.",
+            "author": "judy garland"
+        },
+        {
+            "quote": "Most people think an artist tries to be original, but originality is the last thing that develops in the artist.",
+            "author": "lukas foss"
+        },
+        {
+            "quote": "Great success in examinations does naturally not as a rule go with originality of thought.",
+            "author": "edward carpenter"
+        },
+        {
+            "quote": "Be what you are. This is the first step toward becoming better than you are.",
+            "author": "julius charles hare"
+        },
+        {
             "quote": "Every man is a damn fool for at least five minutes every day; wisdom consists in not exceeding the limit.",
             "author": "elbert hubbard"
         },
