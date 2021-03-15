@@ -32,6 +32,11 @@ export const css = (colorOptions: ColorOptions): string => {
         font-style: italic;
         color: ${fontColor};
       }
+      .subhead::first-letter {
+        font-size: 130%;
+        color: #903;
+        font-family: Georgia;
+      }
       .quote-wrapper {
         background: ${backgroundColor};
         background-image: ${backgroundPattern};

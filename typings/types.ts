@@ -157,11 +157,11 @@ export interface ParsedRequest {
     /**
      * Quote category
      */
-    category?: CategoryPattern | undefined
+    category?: Optional<CategoryPattern>
     /**
      * Quote image background pattern
      */
-    pattern?: HeroPattern | undefined
+    pattern?: Optional<HeroPattern>
     /**
      * Quote image width
      */
@@ -212,7 +212,7 @@ export interface ColorOptions {
     /**
      * Image background pattern
      */
-    readonly pattern?: HeroPattern | undefined
+    readonly pattern?: Optional<HeroPattern>
 }
 
 export interface ImageOptions {

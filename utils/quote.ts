@@ -57,7 +57,7 @@ const getImageContent = (
               <div class="quote-wrapper">
                 <div class="quote-wrapper-desc">
                   <div class="line"></div>
-                  <p class="font-monserratRegular">${quoteData.quote}</p>
+                  <p class="font-monserratRegular subhead">${quoteData.quote}</p>
                   <div class="line"></div>
                   <h3 class="font-monserrat700">${capitalize(quoteData.author)}</h3>
                 </div>
@@ -84,7 +84,7 @@ const getQuoteById = (value: string): QuoteData => {
     return quotes[data[0]][data[1]]
 }
 
-const getQuoteByCategory = async (category: string | undefined): Promise<QuoteData> => {
+const getQuoteByCategory = async (category: Optional<CategoryPattern>): Promise<QuoteData> => {
     const data: QuoteData[] = category ? quotes[category] : quotes[randomEnum(CategoryPattern)]
 
     return randomElement(data)
