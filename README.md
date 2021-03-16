@@ -298,6 +298,10 @@ See also the list of [contributors][contributors] who participated in this proje
 
 [![Forkers repo roster for @AlexRogalskiy/quotes](https://reporoster.com/forks/AlexRogalskiy/quotes)][forkers]
 
+## _Issues_
+
+[![issuehunt-to-marktext](https://issuehunt.io/static/embed/issuehunt-button-v1.svg)](https://issuehunt.io/r/AlexRogalskiy/quotes)
+
 ## _Development Support_
 
 Like _**Styled Quotes**_ ? Consider buying me a coffee :\)
