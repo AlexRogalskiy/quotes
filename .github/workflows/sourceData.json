@@ -157,7 +157,7 @@
     },
     {
         "sourceFile": "./data/thinking_quotes.json",
-        "jsonPath": "$.thinking_[*]"
+        "jsonPath": "$.thinking[*]"
     },
     {
         "sourceFile": "./data/time_quotes.json",
