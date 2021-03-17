@@ -132,7 +132,7 @@
         "jsonPath": "$.responsibility[*]"
     },
     {
-        "sourceFile": "./data/romance_quote.json",
+        "sourceFile": "./data/romance_quotes.json",
         "jsonPath": "$.romance[*]"
     },
     {
