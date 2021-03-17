@@ -14,6 +14,8 @@
 ![GitHub search hit counter](https://img.shields.io/github/search/AlexRogalskiy/quotes/goto)
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/quotes)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/quotes)
+
+[![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16317/branches/347287/badge/grade.svg)](https://deepscan.io/dashboard#view=project&tid=11946&pid=16317&bid=347287)
 [![Tokei](https://tokei.rs/b1/github/AlexRogalskiy/quotes?category=lines)](https://github.com/XAMPPRocky/tokei)
 ![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/AlexRogalskiy/quotes)
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
