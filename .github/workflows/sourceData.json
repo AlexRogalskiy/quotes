@@ -97,19 +97,19 @@
     },
     {
         "sourceFile": "./data/portuguese2_quotes.json",
-        "jsonPath": "$.portuguese2[*]"
+        "jsonPath": "$.portuguese[*]"
     },
     {
         "sourceFile": "./data/portuguese3_quotes.json",
-        "jsonPath": "$.portuguese3[*]"
+        "jsonPath": "$.portuguese[*]"
     },
     {
         "sourceFile": "./data/portuguese4_quotes.json",
-        "jsonPath": "$.portuguese4[*]"
+        "jsonPath": "$.portuguese[*]"
     },
     {
         "sourceFile": "./data/portuguese5_quotes.json",
-        "jsonPath": "$.portuguese5[*]"
+        "jsonPath": "$.portuguese[*]"
     },
     {
         "sourceFile": "./data/portuguese_quotes.json",
