@@ -1,0 +1,182 @@
+[
+    {
+        "sourceFile": "./data/anger_quotes.json",
+        "jsonPath": "$.anger[*]"
+    },
+    {
+        "sourceFile": "./data/books_quotes.json",
+        "jsonPath": "$.books[*]"
+    },
+    {
+        "sourceFile": "./data/courage_quotes.json",
+        "jsonPath": "$.courage[*]"
+    },
+    {
+        "sourceFile": "./data/death_quotes.json",
+        "jsonPath": "$.death[*]"
+    },
+    {
+        "sourceFile": "./data/entrepreneurship_quotes.json",
+        "jsonPath": "$.entrepreneurship[*]"
+    },
+    {
+        "sourceFile": "./data/faith_quotes.json",
+        "jsonPath": "$.faith[*]"
+    },
+    {
+        "sourceFile": "./data/french_quotes.json",
+        "jsonPath": "$.french[*]"
+    },
+    {
+        "sourceFile": "./data/fun_quotes.json",
+        "jsonPath": "$.fun[*]"
+    },
+    {
+        "sourceFile": "./data/general_quotes.json",
+        "jsonPath": "$.general[*]"
+    },
+    {
+        "sourceFile": "./data/god_quotes.json",
+        "jsonPath": "$.god[*]"
+    },
+    {
+        "sourceFile": "./data/gratitude_quotes.json",
+        "jsonPath": "$.gratitude[*]"
+    },
+    {
+        "sourceFile": "./data/happiness_quotes.json",
+        "jsonPath": "$.happiness[*]"
+    },
+    {
+        "sourceFile": "./data/health_quotes.json",
+        "jsonPath": "$.health[*]"
+    },
+    {
+        "sourceFile": "./data/hope_quotes.json",
+        "jsonPath": "$.hope[*]"
+    },
+    {
+        "sourceFile": "./data/humor_quotes.json",
+        "jsonPath": "$.humor[*]"
+    },
+    {
+        "sourceFile": "./data/inspire_quotes.json",
+        "jsonPath": "$.inspire[*]"
+    },
+    {
+        "sourceFile": "./data/knowledge_quotes.json",
+        "jsonPath": "$.knowledge[*]"
+    },
+    {
+        "sourceFile": "./data/life_quotes.json",
+        "jsonPath": "$.life[*]"
+    },
+    {
+        "sourceFile": "./data/love_quotes.json",
+        "jsonPath": "$.love[*]"
+    },
+    {
+        "sourceFile": "./data/motivation_quotes.json",
+        "jsonPath": "$.motivation[*]"
+    },
+    {
+        "sourceFile": "./data/movie_quotes.json",
+        "jsonPath": "$.movie[*]"
+    },
+    {
+        "sourceFile": "./data/philosophy_quotes.json",
+        "jsonPath": "$.philosophy[*]"
+    },
+    {
+        "sourceFile": "./data/poetry_quotes.json",
+        "jsonPath": "$.poetry[*]"
+    },
+    {
+        "sourceFile": "./data/popular_quotes.json",
+        "jsonPath": "$.popular[*]"
+    },
+    {
+        "sourceFile": "./data/portuguese2_quotes.json",
+        "jsonPath": "$.portuguese2[*]"
+    },
+    {
+        "sourceFile": "./data/portuguese3_quotes.json",
+        "jsonPath": "$.portuguese3[*]"
+    },
+    {
+        "sourceFile": "./data/portuguese4_quotes.json",
+        "jsonPath": "$.portuguese4[*]"
+    },
+    {
+        "sourceFile": "./data/portuguese5_quotes.json",
+        "jsonPath": "$.portuguese5[*]"
+    },
+    {
+        "sourceFile": "./data/portuguese_quotes.json",
+        "jsonPath": "$.portuguese[*]"
+    },
+    {
+        "sourceFile": "./data/programming_quotes.json",
+        "jsonPath": "$.programming[*]"
+    },
+    {
+        "sourceFile": "./data/relationships_quotes.json",
+        "jsonPath": "$.relationships[*]"
+    },
+    {
+        "sourceFile": "./data/religion_quotes.json",
+        "jsonPath": "$.religion[*]"
+    },
+    {
+        "sourceFile": "./data/responsibility_quotes.json",
+        "jsonPath": "$.responsibility[*]"
+    },
+    {
+        "sourceFile": "./data/romance_quote.json",
+        "jsonPath": "$.romance[*]"
+    },
+    {
+        "sourceFile": "./data/sadness_quotes.json",
+        "jsonPath": "$.sadness[*]"
+    },
+    {
+        "sourceFile": "./data/science_quotes.json",
+        "jsonPath": "$.science[*]"
+    },
+    {
+        "sourceFile": "./data/spirituality_quotes.json",
+        "jsonPath": "$.spirituality[*]"
+    },
+    {
+        "sourceFile": "./data/stress_quotes.json",
+        "jsonPath": "$.stress[*]"
+    },
+    {
+        "sourceFile": "./data/success_quotes.json",
+        "jsonPath": "$.success[*]"
+    },
+    {
+        "sourceFile": "./data/thinking_quotes.json",
+        "jsonPath": "$.thinking_[*]"
+    },
+    {
+        "sourceFile": "./data/time_quotes.json",
+        "jsonPath": "$.time[*]"
+    },
+    {
+        "sourceFile": "./data/travel_quotes.json",
+        "jsonPath": "$.travel[*]"
+    },
+    {
+        "sourceFile": "./data/truth_quotes.json",
+        "jsonPath": "$.truth[*]"
+    },
+    {
+        "sourceFile": "./data/wisdom_quotes.json",
+        "jsonPath": "$.wisdom[*]"
+    },
+    {
+        "sourceFile": "./data/writing_quotes.json",
+        "jsonPath": "$.writing[*]"
+    }
+]
