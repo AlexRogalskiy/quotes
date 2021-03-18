@@ -36,6 +36,7 @@
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/quotes)
 [![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/quotes)](https://hitsofcode.com/github/AlexRogalskiy/quotes/view)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][tags]
+![Website](https://img.shields.io/website?url=https://img.shields.io/website?url=https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
 
 [![CI](https://github.com/AlexRogalskiy/proverbs/workflows/test/badge.svg)](https://github.com/AlexRogalskiy/proverbs/workflows/test)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/quotes/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
