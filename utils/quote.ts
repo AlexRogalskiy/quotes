@@ -1,13 +1,14 @@
+import gradient from 'gradient-string'
+import randomColor from 'randomcolor'
+
+import { Optional } from '../typings/standard-types'
 import {
     CategoryPattern,
     ColorOptions,
     ImageOptions,
-    Optional,
     ParsedRequest,
     QuoteData,
 } from '../typings/types'
-import gradient from 'gradient-string'
-import randomColor from 'randomcolor'
 
 import { getSearchResults, idx } from './search'
 import { capitalize, delim, mergeProps, randomElement, randomEnum, toFormatString } from './commons'

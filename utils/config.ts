@@ -1,4 +1,6 @@
-import { ConfigOptions } from '../typings/types'
+import { Profile, ProfileOptions } from '../typings/types'
+
+export type ConfigOptions = Record<Profile, ProfileOptions>
 
 export const CONFIG: Readonly<ConfigOptions> = {
     dev: {

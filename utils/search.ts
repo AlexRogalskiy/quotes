@@ -4,11 +4,11 @@ import { join } from 'path'
 import boxen from 'boxen'
 import cron from 'node-cron'
 
-import { quotes } from './quotes'
-
 import { CategoryPattern } from '../typings/types'
 import { ensureDirExists, tempDir } from './commons'
 import { profile } from './env'
+
+import { quotes } from './quotes'
 
 const task = cron.schedule('0 * * * *', () => {
     console.log(

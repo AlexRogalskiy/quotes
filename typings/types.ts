@@ -1,28 +1,19 @@
+import { Optional } from './standard-types'
+
 export enum HeroPattern {
-    plus = 'plus',
-    topography = 'topography',
-    texture = 'texture',
-    hideout = 'hideout',
-    fallingTriangles = 'fallingTriangles',
-    iLikeFood = 'iLikeFood',
-    fourPointStars = 'fourPointStars',
-    brickWall = 'brickWall',
-    wiggle = 'wiggle',
     jigsaw = 'jigsaw',
-    bubbles = 'bubbles',
-    floatingCogs = 'floatingCogs',
-    leaf = 'leaf',
-    rain = 'rain',
-    polkaDots = 'polkaDots',
-    ticTacToe = 'ticTacToe',
     overcast = 'overcast',
     formalInvitation = 'formalInvitation',
+    topography = 'topography',
+    texture = 'texture',
     jupiter = 'jupiter',
     architect = 'architect',
     cutout = 'cutout',
+    hideout = 'hideout',
     graphPaper = 'graphPaper',
     yyy = 'yyy',
     squares = 'squares',
+    fallingTriangles = 'fallingTriangles',
     pianoMan = 'pianoMan',
     pieFactory = 'pieFactory',
     dominos = 'dominos',
@@ -33,6 +24,7 @@ export enum HeroPattern {
     stampCollection = 'stampCollection',
     deathStar = 'deathStar',
     churchOnSunday = 'churchOnSunday',
+    iLikeFood = 'iLikeFood',
     overlappingHexagons = 'overlappingHexagons',
     bamboo = 'bamboo',
     bathroomFloor = 'bathroomFloor',
@@ -47,25 +39,32 @@ export enum HeroPattern {
     xEquals = 'xEquals',
     anchorsAway = 'anchorsAway',
     bevelCircle = 'bevelCircle',
+    brickWall = 'brickWall',
     fancyRectangles = 'fancyRectangles',
     heavyRain = 'heavyRain',
     overlappingCircles = 'overlappingCircles',
+    plus = 'plus',
     roundedPlusConnected = 'roundedPlusConnected',
     volcanoLamp = 'volcanoLamp',
+    wiggle = 'wiggle',
+    bubbles = 'bubbles',
     cage = 'cage',
     connections = 'connections',
     current = 'current',
     diagonalStripes = 'diagonalStripes',
     flippedDiamonds = 'flippedDiamonds',
+    floatingCogs = 'floatingCogs',
     glamorous = 'glamorous',
-    houndstooth = 'houndstooth',
+    leaf = 'leaf',
     linesInMotion = 'linesInMotion',
     moroccan = 'moroccan',
     morphingDiamonds = 'morphingDiamonds',
     rails = 'rails',
+    rain = 'rain',
     skulls = 'skulls',
     squaresInSquares = 'squaresInSquares',
     stripes = 'stripes',
+    ticTacToe = 'ticTacToe',
     zigZag = 'zigZag',
     aztec = 'aztec',
     bankNote = 'bankNote',
@@ -83,6 +82,7 @@ export enum HeroPattern {
     overlappingDiamonds = 'overlappingDiamonds',
     parkayFloor = 'parkayFloor',
     pixelDots = 'pixelDots',
+    polkaDots = 'polkaDots',
     signal = 'signal',
     slantedStars = 'slantedStars',
     wallpaper = 'wallpaper',
@@ -131,11 +131,6 @@ export enum CategoryPattern {
     portuguese = 'portuguese',
 }
 
-/**
- * Optional {@link T} or null/undefined type
- */
-export type Optional<T> = T | null | undefined
-
 export type QuoteData = {
     /**
      * Quote identifier
@@ -150,8 +145,6 @@ export type QuoteData = {
      */
     author: string
 }
-
-export type QuoteMapper = { [K in CategoryPattern]: QuoteData[] }
 
 export interface ParsedRequest {
     /**
@@ -259,11 +252,4 @@ export interface ProfileOptions {
      * Index configuration options.
      */
     readonly indexOptions: IndexOptions
-}
-
-/**
- * Profile configuration options.
- */
-export type ConfigOptions = {
-    readonly [K in Profile]: ProfileOptions
 }
