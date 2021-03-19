@@ -14,7 +14,7 @@
         "lint": "eslint --cache --fix --quiet --format codeframe --ext js,ts .",
         "markdown": "markdown-link-check ./README.md ./SECURITY.md",
         "remark": "remark -q -f .",
-        "docs": "typedoc --out docs/ts api typings utils --excludeNotDocumented --tsconfig tsconfig.json",
+        "docs": "typedoc",
         "reinstall": "del-cli ./node_modules ./package-lock.json ./yarn.lock",
         "index": "node scripts/createIndex.js",
         "postreinstall": "yarn setup",
