@@ -1,6 +1,7 @@
 import { NowRequest, NowResponse, VercelResponse } from '@vercel/node'
 
-import { CategoryPattern, HeroPattern } from '../typings/types'
+import { CategoryPattern, HeroPattern } from '../typings/enum-types'
+
 import { quoteRenderer } from '../utils/quote'
 import { toString } from '../utils/commons'
 

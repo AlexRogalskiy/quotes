@@ -1,6 +1,7 @@
 import { describe, expect, test } from '@jest/globals'
 
-import { HeroPattern } from '../typings/types'
+import { HeroPattern } from '../typings/enum-types'
+
 import { css } from '../utils/getCss'
 
 describe('Testing CSS style', () => {

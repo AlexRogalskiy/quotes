@@ -45,9 +45,11 @@ import * as wisdom from '../data/wisdom_quotes.json'
 import * as writing from '../data/writing_quotes.json'
 
 import { mergeProps } from './commons'
-import { CategoryPattern, QuoteData } from '../typings/types'
 
-export type QuoteMapper = Record<CategoryPattern, QuoteData[]>
+import { TemplateData } from '../typings/types'
+import { CategoryPattern } from '../typings/enum-types'
+
+export type QuoteMapper = Record<CategoryPattern, TemplateData[]>
 
 const getQuotes = (): QuoteMapper =>
     mergeProps<QuoteMapper>(

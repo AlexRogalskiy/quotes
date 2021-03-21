@@ -1,225 +1,115 @@
 import { Optional } from './standard-types'
+import { CategoryPattern, HeroPattern } from './enum-types'
 
-export enum HeroPattern {
-    jigsaw = 'jigsaw',
-    overcast = 'overcast',
-    formalInvitation = 'formalInvitation',
-    topography = 'topography',
-    texture = 'texture',
-    jupiter = 'jupiter',
-    architect = 'architect',
-    cutout = 'cutout',
-    hideout = 'hideout',
-    graphPaper = 'graphPaper',
-    yyy = 'yyy',
-    squares = 'squares',
-    fallingTriangles = 'fallingTriangles',
-    pianoMan = 'pianoMan',
-    pieFactory = 'pieFactory',
-    dominos = 'dominos',
-    hexagons = 'hexagons',
-    charlieBrown = 'charlieBrown',
-    autumn = 'autumn',
-    temple = 'temple',
-    stampCollection = 'stampCollection',
-    deathStar = 'deathStar',
-    churchOnSunday = 'churchOnSunday',
-    iLikeFood = 'iLikeFood',
-    overlappingHexagons = 'overlappingHexagons',
-    bamboo = 'bamboo',
-    bathroomFloor = 'bathroomFloor',
-    corkScrew = 'corkScrew',
-    happyIntersection = 'happyIntersection',
-    kiwi = 'kiwi',
-    lips = 'lips',
-    lisbon = 'lisbon',
-    randomShapes = 'randomShapes',
-    steelBeams = 'steelBeams',
-    tinyCheckers = 'tinyCheckers',
-    xEquals = 'xEquals',
-    anchorsAway = 'anchorsAway',
-    bevelCircle = 'bevelCircle',
-    brickWall = 'brickWall',
-    fancyRectangles = 'fancyRectangles',
-    heavyRain = 'heavyRain',
-    overlappingCircles = 'overlappingCircles',
-    plus = 'plus',
-    roundedPlusConnected = 'roundedPlusConnected',
-    volcanoLamp = 'volcanoLamp',
-    wiggle = 'wiggle',
-    bubbles = 'bubbles',
-    cage = 'cage',
-    connections = 'connections',
-    current = 'current',
-    diagonalStripes = 'diagonalStripes',
-    flippedDiamonds = 'flippedDiamonds',
-    floatingCogs = 'floatingCogs',
-    glamorous = 'glamorous',
-    leaf = 'leaf',
-    linesInMotion = 'linesInMotion',
-    moroccan = 'moroccan',
-    morphingDiamonds = 'morphingDiamonds',
-    rails = 'rails',
-    rain = 'rain',
-    skulls = 'skulls',
-    squaresInSquares = 'squaresInSquares',
-    stripes = 'stripes',
-    ticTacToe = 'ticTacToe',
-    zigZag = 'zigZag',
-    aztec = 'aztec',
-    bankNote = 'bankNote',
-    boxes = 'boxes',
-    circlesAndSquares = 'circlesAndSquares',
-    circuitBoard = 'circuitBoard',
-    curtain = 'curtain',
-    diagonalLines = 'diagonalLines',
-    endlessClouds = 'endlessClouds',
-    eyes = 'eyes',
-    floorTile = 'floorTile',
-    groovy = 'groovy',
-    intersectingCircles = 'intersectingCircles',
-    melt = 'melt',
-    overlappingDiamonds = 'overlappingDiamonds',
-    parkayFloor = 'parkayFloor',
-    pixelDots = 'pixelDots',
-    polkaDots = 'polkaDots',
-    signal = 'signal',
-    slantedStars = 'slantedStars',
-    wallpaper = 'wallpaper',
-}
-
-export enum CategoryPattern {
-    general = 'general',
-    life = 'life',
-    love = 'love',
-    success = 'success',
-    motivation = 'motivation',
-    fun = 'fun',
-    movie = 'movie',
-    programming = 'programming',
-    entrepreneurship = 'entrepreneurship',
-    popular = 'popular',
-    humor = 'humor',
-    philosophy = 'philosophy',
-    god = 'god',
-    inspire = 'inspire',
-    truth = 'truth',
-    wisdom = 'wisdom',
-    poetry = 'poetry',
-    romance = 'romance',
-    death = 'death',
-    happiness = 'happiness',
-    faith = 'faith',
-    hope = 'hope',
-    writing = 'writing',
-    religion = 'religion',
-    relationships = 'relationships',
-    spirituality = 'spirituality',
-    time = 'time',
-    knowledge = 'knowledge',
-    science = 'science',
-    books = 'books',
-    health = 'health',
-    gratitude = 'gratitude',
-    courage = 'courage',
-    responsibility = 'responsibility',
-    anger = 'anger',
-    stress = 'stress',
-    sadness = 'sadness',
-    thinking = 'thinking',
-    french = 'french',
-    portuguese = 'portuguese',
-}
-
-export type QuoteData = {
+/**
+ * TemplateData
+ * @desc Type representing template data
+ */
+export type TemplateData = {
     /**
-     * Quote identifier
+     * Template data identifier
      */
     id?: string
     /**
-     * Quote text
+     * Template data text
      */
     quote: string
     /**
-     * Quote author
+     * Template data author
      */
     author: string
 }
 
-export interface ParsedRequest {
+/**
+ * ParsedRequest
+ * @desc Type representing parsed request data
+ */
+export type ParsedRequestData = {
     /**
-     * Quote category
+     * Template image category
      */
     category?: Optional<CategoryPattern>
     /**
-     * Quote image background pattern
+     * Template image background pattern
      */
     pattern?: Optional<HeroPattern>
     /**
-     * Quote image width
+     * Template image width
      */
     width?: string
     /**
-     * Quote image height
+     * Template image height
      */
     height?: string
     /**
-     * Quote keywords
+     * Request keywords
      */
     keywords?: string | string[]
     /**
-     * Quote image color pattern
+     * Template image color pattern
      */
     colorPattern?: string | string[]
     /**
-     * Quote text font color
+     * Template image text font color
      */
     fontColor?: string | string[]
     /**
-     * Quote image background color
+     * Template image background color
      */
     backgroundColor?: string | string[]
     /**
-     * Quote image background opacity
+     * Template image background opacity
      */
     opacity?: string | string[]
 }
 
-export interface ColorOptions {
+/**
+ * ColorOptions
+ * @desc Type representing template color options
+ */
+export type ColorOptions = {
     /**
-     * Image color pattern
+     * Template image color pattern
      */
     readonly colorPattern: string | string[]
     /**
-     * Image text font color
+     * Template image text font color
      */
     readonly fontColor: string | string[]
     /**
-     * Image background color
+     * Template image background color
      */
     readonly backgroundColor: string | string[]
     /**
-     * Image background opacity
+     * Template image background opacity
      */
     readonly opacity: string | string[]
     /**
-     * Image background pattern
+     * Template image background pattern
      */
     readonly pattern?: Optional<HeroPattern>
 }
 
-export interface ImageOptions {
+/**
+ * ImageOptions
+ * @desc Type representing template image options
+ */
+export type ImageOptions = {
     /**
-     * Image width
+     * Template image width
      */
     readonly width: string
     /**
-     * Image height
+     * Template image height
      */
     readonly height: string
 }
 
-export interface IndexOptions {
+/**
+ * ImageOptions
+ * @desc Type representing template index options
+ */
+export type IndexOptions = {
     /**
      * Index identifier delimiter
      */
@@ -234,12 +124,11 @@ export interface IndexOptions {
     readonly name: string
 }
 
-export enum Profile {
-    dev = 'dev',
-    prod = 'prod',
-}
-
-export interface ProfileOptions {
+/**
+ * ProfileOptions
+ * @desc Type representing template profile options
+ */
+export type ProfileOptions = {
     /**
      * Color configuration options.
      */

@@ -1,7 +1,8 @@
 import * as pattern from 'hero-patterns'
 
 import { Optional } from '../typings/standard-types'
-import { HeroPattern } from '../typings/types'
+import { HeroPattern } from '../typings/enum-types'
+
 import { randomEnum, strToEnum } from './commons'
 
 type PatternOperator = (fill: string, opacity: string) => string

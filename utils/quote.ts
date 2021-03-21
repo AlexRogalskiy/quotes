@@ -2,7 +2,8 @@ import gradient from 'gradient-string'
 import randomColor from 'randomcolor'
 
 import { Optional } from '../typings/standard-types'
-import { CategoryPattern, ColorOptions, ImageOptions, ParsedRequest, QuoteData } from '../typings/types'
+import { CategoryPattern } from '../typings/enum-types'
+import { ColorOptions, ImageOptions, ParsedRequestData, TemplateData } from '../typings/types'
 
 import { getSearchResults, idx } from './search'
 import { capitalize, delim, mergeProps, randomElement, randomEnum, toFormatString } from './commons'
@@ -11,7 +12,7 @@ import { profile } from './env'
 
 import { quotes } from './quotes'
 
-export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<string> {
+export async function quoteRenderer(parsedRequest: ParsedRequestData): Promise<string> {
     const { category, keywords, width, height, ...rest } = parsedRequest
 
     const colorOptions: ColorOptions = mergeProps(profile.colorOptions, rest)
@@ -29,7 +30,7 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
         `
     )
 
-    const quoteData: Optional<QuoteData> = keywords
+    const quoteData: Optional<TemplateData> = keywords
         ? await getQuoteByKeywords(keywords)
         : await getQuoteByCategory(category)
 
@@ -37,7 +38,7 @@ export async function quoteRenderer(parsedRequest: ParsedRequest): Promise<strin
 }
 
 const getImageContent = (
-    quoteData: Optional<QuoteData>,
+    quoteData: Optional<TemplateData>,
     colorOptions: ColorOptions,
     imageOptions: ImageOptions
 ): string => {
@@ -65,7 +66,7 @@ const getImageContent = (
         : ''
 }
 
-const getQuoteByKeywords = async (keywords: string | string[]): Promise<Optional<QuoteData>> => {
+const getQuoteByKeywords = async (keywords: string | string[]): Promise<Optional<TemplateData>> => {
     const searchKeys = typeof keywords === 'string' ? keywords.split(',') : keywords
     const searchResults = getSearchResults(idx(), searchKeys.join(' '))
     const searchData = randomElement(searchResults)
@@ -73,14 +74,14 @@ const getQuoteByKeywords = async (keywords: string | string[]): Promise<Optional
     return searchData ? getQuoteById(searchData.ref) : null
 }
 
-const getQuoteById = (value: string): QuoteData => {
+const getQuoteById = (value: string): TemplateData => {
     const data = value.split(profile.indexOptions.delimiter)
 
     return quotes[data[0]][data[1]]
 }
 
-const getQuoteByCategory = async (category: Optional<CategoryPattern>): Promise<QuoteData> => {
-    const data: QuoteData[] = category ? quotes[category] : quotes[randomEnum(CategoryPattern)]
+const getQuoteByCategory = async (category: Optional<CategoryPattern>): Promise<TemplateData> => {
+    const data: TemplateData[] = category ? quotes[category] : quotes[randomEnum(CategoryPattern)]
 
     return randomElement(data)
 }

@@ -4,8 +4,9 @@ import { join } from 'path'
 import boxen from 'boxen'
 import cron from 'node-cron'
 
-import { CategoryPattern } from '../typings/types'
-import { ensureDirExists, tempDir } from './commons'
+import { CategoryPattern } from '../typings/enum-types'
+
+import { ensureDirExists, tempDir } from './files'
 import { profile } from './env'
 
 import { quotes } from './quotes'
