@@ -3,6 +3,9 @@ import { Profile } from '../typings/enum-types'
 
 export type ConfigOptions = Record<Profile, ProfileOptions>
 
+/**
+ * Configuration options
+ */
 export const CONFIG: Readonly<ConfigOptions> = {
     dev: {
         colorOptions: {
