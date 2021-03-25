@@ -8,50 +8,36 @@ export const random = (max: number): number => Math.floor(Math.random() * max)
 
 export const randomElement = <T>(arr: T[]): T => arr[random(arr.length)]
 
-export const workerTs = (file: string, wkOpts: WorkerOptions): any => {
-    wkOpts['eval'] = true
-    if (!wkOpts['workerData']) {
-        wkOpts['workerData'] = {}
-    }
-    wkOpts['workerData'].__filename = file
-    return new Worker(
-        `
-            const wk = require('worker_threads');
-            require('ts-node').register();
-            let file = wk.workerData.__filename;
-            delete wk.workerData.__filename;
-            require(file);
-        `,
-        wkOpts
-    )
-}
-
-export const makeBackgroundable = <T extends (...args: any[]) => any>(
-    pool,
-    func: T
-): ((...funcArgs: Parameters<T>) => Promise<ReturnType<T>>) => {
-    const funcName = func.name
-
-    return (...args: Parameters<T>): ReturnType<T> => {
-        return pool.exec(funcName, args)
-    }
-}
-
-export const toString = (value: string | string[]): string => (Array.isArray(value) ? value[0] : value)
-
 export const randomEnum = <T>(value: T): T[keyof T] => {
     const enumValues = (Object.values(value) as unknown) as T[keyof T][]
     const randomIndex = random(enumValues.length)
     return enumValues[randomIndex]
 }
 
+export const toStringArray = (value: string | string[], delim = ','): string[] => {
+    return _.isArray(value) ? value : value.split(delim)
+}
+
+export const toString = (value: string | string[]): string => (Array.isArray(value) ? value[0] : value)
+
+export const getFunctionArgs = (func: any): string[] => {
+    const args = func.toString().match(/(function\s)?.*?\(([^)]*)\)/)[2]
+
+    return args
+        .split(',')
+        .map(arg => arg.replace(/\/\*.*\*\//, '').trim())
+        .filter(arg => arg)
+}
+
 export const toFormatString = (obj): string => {
     return `(${objToString(obj)})`
 }
 
-const objToString = (obj): string => {
+const objToString = (obj: any, defaultValue = 'null'): string => {
     let res = ''
     let i = 0
+
+    if (!obj) return defaultValue
 
     const entries = Object.entries(obj)
     for (const [key, value] of entries) {
@@ -88,6 +74,17 @@ export const mergeProps = <T>(...obj: unknown[]): T =>
     _.mergeWith({}, ...obj, (o, s) => {
         return _.isArray(s) && _.isArray(o) ? _.union(o, s) : _.isNull(s) ? o : s
     })
+
+export const hasPrototypeProperty = (obj: any, name: string): boolean => {
+    return !obj.hasOwnProperty(name) && name in obj
+}
+
+export const hasProperty = (obj: any, prop: PropertyKey): boolean => {
+    const proto = obj.__proto__ || obj.constructor.prototype
+
+    //return (prop in obj) && (!(prop in proto) || proto[prop] !== obj[prop]);
+    return prop in obj || prop in proto || proto[prop] === obj[prop]
+}
 
 /**
  * Utility function to create a K:V from a list of strings

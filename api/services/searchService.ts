@@ -1,15 +1,16 @@
 import lunr from 'lunr'
-import { readFileSync, writeFileSync } from 'fs'
-import { join } from 'path'
 import boxen from 'boxen'
 import cron from 'node-cron'
 
-import { CategoryPattern } from '../typings/enum-types'
+import { readFileSync, writeFileSync } from 'fs'
+import { join } from 'path'
 
-import { ensureDirExists, tempDir } from './files'
-import { profile } from './env'
+import { CategoryPattern } from '../../typings/enum-types'
 
-import { quotes } from './quotes'
+import { ensureDirExists, tempDir } from '../utils/files'
+import { profile } from '../utils/profiles'
+
+import { quotes } from '../quotes/quotes'
 
 const task = cron.schedule('0 * * * *', () => {
     console.log(
@@ -113,11 +114,11 @@ export const idx = (): lunr.Index => {
     }
 }
 
-export const getSearchResultSet = <T>(
+export function getSearchResultSet<T>(
     data: T[],
     index: lunr.Index,
     query: lunr.Index.QueryString
-): (T | undefined)[] => {
+): (T | undefined)[] {
     const results = getSearchResults(index, query)
 
     return results.map(result => {
@@ -125,14 +126,14 @@ export const getSearchResultSet = <T>(
     })
 }
 
-export const getSearchResults = (index: lunr.Index, query: lunr.Index.QueryString): lunr.Index.Result[] => {
+export function getSearchResults(index: lunr.Index, query: lunr.Index.QueryString): lunr.Index.Result[] {
     return index.search(query)
 }
 
-export const getSearchResultsByTerm = (
+export function getSearchResultsByTerm(
     index: lunr.Index,
     term: string | object | object[]
-): lunr.Index.Result[] => {
+): lunr.Index.Result[] {
     return index.query(q => {
         q.term(lunr.tokenizer(term), {
             wildcard: lunr.Query.wildcard.TRAILING,
