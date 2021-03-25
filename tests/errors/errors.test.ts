@@ -9,8 +9,7 @@ export namespace Errors_Test {
         }
     }
 
-    class SubTestError extends TestError {
-    }
+    class SubTestError extends TestError {}
 
     beforeAll(() => {
         console.log('Errors test suite started')
