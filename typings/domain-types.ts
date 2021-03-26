@@ -11,8 +11,8 @@ import {
 } from './enum-types'
 
 /**
- * FontData
- * @desc Type representing font data
+ * FontOptions
+ * @desc Type representing font options
  */
 export type FontOptions = {
     /**
@@ -176,19 +176,19 @@ export type TemplateData = {
     /**
      * Template layout options
      */
-    layout: LayoutOptions
+    readonly layout: LayoutOptions
     /**
      * Template style options
      */
-    style: StyleOptions
+    readonly style: StyleOptions
     /**
      * Template image options
      */
-    image: ImageOptions
+    readonly image: ImageOptions
     /**
-     * Template quote options
+     * Template template options
      */
-    quote: TemplateOptions
+    readonly quote: TemplateOptions
 }
 
 /**
@@ -197,81 +197,77 @@ export type TemplateData = {
  */
 export type ParsedRequestData = {
     /**
+     * Request image options
+     */
+    readonly imageOptions: ImageOptions
+    /**
      * Request theme pattern
      */
-    themePattern?: Optional<ThemePattern>
+    readonly themePattern?: Optional<ThemePattern>
     /**
      * Request layout pattern
      */
-    layoutPattern?: Optional<LayoutPattern>
+    readonly layoutPattern?: Optional<LayoutPattern>
     /**
      * Request animation pattern
      */
-    animationPattern?: Optional<AnimationPattern>
-    /**
-     * Request font pattern
-     */
-    fontPattern?: Optional<FontPattern>
+    readonly animationPattern?: Optional<AnimationPattern>
     /**
      * Request category pattern
      */
-    categoryPattern?: Optional<CategoryPattern>
+    readonly categoryPattern?: Optional<CategoryPattern>
+    /**
+     * Request font pattern
+     */
+    readonly fontPattern?: Optional<FontPattern>
     /**
      * Request keywords
      */
-    keywords?: string | string[]
-    /**
-     * Request image width
-     */
-    width?: string
-    /**
-     * Request image height
-     */
-    height?: string
+    readonly keywords?: string | string[]
 }
 
-/**
- * ParsedRequest
- * @desc Type representing parsed request data
- */
-export type ParsedRequestData2 = {
-    /**
-     * Template image category
-     */
-    category?: Optional<CategoryPattern>
-    /**
-     * Template image background pattern
-     */
-    pattern?: Optional<HeroPattern>
-    /**
-     * Template image width
-     */
-    width?: string
-    /**
-     * Template image height
-     */
-    height?: string
-    /**
-     * Request keywords
-     */
-    keywords?: string | string[]
-    /**
-     * Template image color pattern
-     */
-    colorPattern?: string | string[]
-    /**
-     * Template image text font color
-     */
-    fontColor?: string | string[]
-    /**
-     * Template image background color
-     */
-    backgroundColor?: string | string[]
-    /**
-     * Template image background opacity
-     */
-    opacity?: string | string[]
-}
+// /**
+//  * ParsedRequest
+//  * @desc Type representing parsed request data
+//  */
+// export type ParsedRequestData2 = {
+//     /**
+//      * Template image category
+//      */
+//     category?: Optional<CategoryPattern>
+//     /**
+//      * Template image background pattern
+//      */
+//     pattern?: Optional<HeroPattern>
+//     /**
+//      * Template image width
+//      */
+//     width?: string
+//     /**
+//      * Template image height
+//      */
+//     height?: string
+//     /**
+//      * Request keywords
+//      */
+//     keywords?: string | string[]
+//     /**
+//      * Template image color pattern
+//      */
+//     colorPattern?: string | string[]
+//     /**
+//      * Template image text font color
+//      */
+//     fontColor?: string | string[]
+//     /**
+//      * Template image background color
+//      */
+//     backgroundColor?: string | string[]
+//     /**
+//      * Template image background opacity
+//      */
+//     opacity?: string | string[]
+// }
 
 /**
  * ImageOptions

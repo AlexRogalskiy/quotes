@@ -23,11 +23,8 @@ export async function templateRenderer(requestData: ParsedRequestData): Promise<
         layoutPattern,
         categoryPattern,
         keywords,
-        width,
-        height,
+        imageOptions,
     } = requestData
-
-    // const colorOptions: ColorOptions = mergeProps(profile.colorOptions, rest)
 
     const layout = getLayout(layoutPattern)
 
@@ -36,9 +33,7 @@ export async function templateRenderer(requestData: ParsedRequestData): Promise<
     const animation = getAnimation(animationPattern)
 
     const style: StyleOptions = { font, theme, animation }
-    const image: ImageOptions = mergeProps(profile.imageOptions, { width, height })
-
-    // const weather: QuoteOptions = await weatherClient.getWeatherDataByQuery(query)
+    const image: ImageOptions = mergeProps(profile.imageOptions, imageOptions)
 
     const quote: Optional<TemplateOptions> = keywords
         ? await quoteService.getQuoteByKeywords(keywords)
@@ -59,5 +54,5 @@ export async function templateRenderer(requestData: ParsedRequestData): Promise<
         )
     )
 
-    return quote ? await getSvgTemplate({ layout, style, quote, image }) : ''
+    return quote ? await getSvgTemplate({ layout, style, image, quote }) : ''
 }
