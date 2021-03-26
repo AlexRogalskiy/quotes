@@ -233,6 +233,13 @@ const themes: Readonly<ThemeRecord> = {
         authorColor: 'd9c8a9',
         bgColor: '402b23',
     },
+    'arabesque': {
+        quoteColor: '0a83dc',
+        authorColor: 'd9c8a9',
+        bgColor: 'ffffff',
+        colorPattern: 'ffe0e9',
+        opacity: '0.3',
+    },
 }
 
 /**

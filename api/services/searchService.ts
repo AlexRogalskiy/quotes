@@ -20,9 +20,9 @@ const task = cron.schedule('0 * * * *', () => {
 
 task.start()
 
-const filePath: string = join(tempDir, `${profile.indexOptions.path}`)
+const filePath: string = join(tempDir, profile.indexOptions.path)
 
-const getIndexPath = (filePath: string): string => join(filePath, `${profile.indexOptions.name}`)
+const getIndexPath = (filePath: string): string => join(filePath, profile.indexOptions.name)
 
 const storeIndex = (): lunr.Index => {
     try {

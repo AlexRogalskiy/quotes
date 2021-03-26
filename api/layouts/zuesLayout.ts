@@ -1,7 +1,7 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
-export const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
+const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
     zues: {
         style: (options: StyleOptions) => {
             const { animation, keyframes } = options.animation
@@ -112,3 +112,5 @@ export const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
         },
     },
 }
+
+export default zuesLayout

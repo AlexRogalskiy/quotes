@@ -1,7 +1,7 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
-export const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
+const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
     default: {
         style: (options: StyleOptions) => {
             const {
@@ -61,3 +61,5 @@ export const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
         },
     },
 }
+
+export default defaultLayout

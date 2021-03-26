@@ -167,7 +167,7 @@ export enum LayoutPattern {
     churchill = 'churchill',
     samuel = 'samuel',
     zues = 'zues',
-    fantasy = 'fantasy',
+    pluto = 'pluto',
 }
 
 /**
@@ -228,6 +228,7 @@ export enum ThemePattern {
     blueberry = 'blueberry',
     slateorange = 'slateorange',
     kacho_ga = 'kacho-ga',
+    arabesque = 'arabesque',
 }
 
 /**

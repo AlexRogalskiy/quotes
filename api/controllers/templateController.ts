@@ -1,6 +1,12 @@
 import { NowRequest, NowResponse, VercelResponse } from '@vercel/node'
 
-import { AnimationPattern, CategoryPattern, LayoutPattern, ThemePattern } from '../../typings/enum-types'
+import {
+    AnimationPattern,
+    CategoryPattern,
+    HeroPattern,
+    LayoutPattern,
+    ThemePattern,
+} from '../../typings/enum-types'
 
 import * as templateService from '../services/templateService'
 
@@ -19,7 +25,7 @@ export async function templateController(req: NowRequest, res: NowResponse): Pro
             fontColor: toString(fontColor),
             colorPattern: toString(colorPattern),
             opacity: toString(opacity),
-            pattern: toString(pattern),
+            pattern: HeroPattern[toString(pattern)],
         }
 
         const svgResponse = await templateService.templateRenderer({

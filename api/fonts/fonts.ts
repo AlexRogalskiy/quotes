@@ -17,15 +17,17 @@ export type FontRecord = Record<FontPattern, FontOptions>
 const fonts: Readonly<FontRecord> = {
     'default': {
         fontFamily: 'Montserrat',
-        fontSrc: readFileSync(`${__dirname}/../fonts/montserrat-v15-latin-700.woff2`).toString('base64'),
+        fontSrc: readFileSync(`${__dirname}/../../fonts/montserrat-v15-latin-700.woff2`).toString('base64'),
     },
     'monserrat-700': {
         fontFamily: 'Montserrat',
-        fontSrc: readFileSync(`${__dirname}/../fonts/montserrat-v15-latin-700.woff2`).toString('base64'),
+        fontSrc: readFileSync(`${__dirname}/../../fonts/montserrat-v15-latin-700.woff2`).toString('base64'),
     },
     'monserrat-regular': {
         fontFamily: 'Montserrat',
-        fontSrc: readFileSync(`${__dirname}/../fonts/montserrat-v15-latin-regular.woff2`).toString('base64'),
+        fontSrc: readFileSync(`${__dirname}/../../fonts/montserrat-v15-latin-regular.woff2`).toString(
+            'base64'
+        ),
     },
 }
 

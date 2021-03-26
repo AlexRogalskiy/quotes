@@ -5,13 +5,15 @@ import {
     ImageOptions,
     LayoutOptions,
     ParsedRequestData,
-    TemplateData,
     TemplateOptions,
     ThemeOptions,
 } from '../../typings/domain-types'
 
 import { mergeProps } from '../utils/commons'
 import { serialize } from '../utils/serializers'
+import { profile } from '../utils/profiles'
+import { boxenLogs } from '../utils/loggers'
+
 import { getTheme } from '../themes/themes'
 import { getLayout } from '../layouts/layouts'
 import { getFont } from '../fonts/fonts'
@@ -19,9 +21,6 @@ import { getAnimation } from '../animations/animations'
 import { getSvgTemplate } from '../models/template'
 
 import * as quoteService from './quoteService'
-
-import { profile } from '../utils/profiles'
-import { boxenLogs } from '../utils/loggers'
 
 export async function templateRenderer(requestData: ParsedRequestData): Promise<string> {
     const {
@@ -42,28 +41,22 @@ export async function templateRenderer(requestData: ParsedRequestData): Promise<
         profile.styleOptions?.animation,
         getAnimation(animationPattern)
     )
+    const style = { font, theme, animation }
     const image = mergeProps<ImageOptions>(profile.imageOptions, imageOptions)
 
     const template: Optional<TemplateOptions> = keywords
         ? await quoteService.getQuoteByKeywords(keywords)
         : await quoteService.getQuoteByCategory(categoryPattern)
 
-    const templateData: TemplateData = {
-        layout,
-        style: { font, theme, animation },
-        image,
-        template,
-    }
-
     boxenLogs(
         `
                Generating image view with parameters:
                category=${categoryPattern},
                keywords=${keywords},
-               layout=${layout},
-               template data=${serialize(templateData)}
+               image options=${serialize(image)}
+               theme options=${serialize(theme)}
            `
     )
 
-    return template ? await getSvgTemplate(templateData) : ''
+    return template ? await getSvgTemplate({ layout, style, image, template }) : ''
 }

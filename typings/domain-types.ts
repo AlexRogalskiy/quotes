@@ -58,10 +58,6 @@ export type ThemeOptions = {
      */
     readonly bgColor?: string
     /**
-     * Theme text font color
-     */
-    readonly fontColor?: string
-    /**
      * Theme color pattern
      */
     readonly colorPattern?: string
@@ -100,15 +96,15 @@ export type StyleOptions = {
  */
 export type TemplateOptions = {
     /**
-     * Template data identifier
+     * Template identifier
      */
     id?: string
     /**
-     * Template data text
+     * Template quote text
      */
     quote: string
     /**
-     * Template data author
+     * Template quote author
      */
     author: string
 }
@@ -192,7 +188,7 @@ export type TemplateData = {
     /**
      * Template data options
      */
-    readonly template: Optional<TemplateOptions>
+    readonly template: TemplateOptions
 }
 
 /**

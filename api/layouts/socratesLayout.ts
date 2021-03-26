@@ -1,7 +1,7 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
-export const socratesLayout: Record<LayoutPattern.socrates, LayoutOptions> = {
+const socratesLayout: Record<LayoutPattern.socrates, LayoutOptions> = {
     socrates: {
         style: (options: StyleOptions) => {
             const {
@@ -64,3 +64,5 @@ export const socratesLayout: Record<LayoutPattern.socrates, LayoutOptions> = {
         },
     },
 }
+
+export default socratesLayout

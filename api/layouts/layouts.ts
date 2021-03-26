@@ -2,12 +2,12 @@ import { Optional } from '../../typings/standard-types'
 import { LayoutPattern } from '../../typings/enum-types'
 import { LayoutOptions } from '../../typings/domain-types'
 
-import { defaultLayout } from './defaultLayout'
-import { socratesLayout } from './socratesLayout'
-import { churchillLayout } from './churchillLayout'
-import { samuelLayout } from './samuelLayout'
-import { fantasyLayout } from './fantasyLayout'
-import { zuesLayout } from './zuesLayout'
+import defaultLayout from './defaultLayout'
+import socratesLayout from './socratesLayout'
+import churchillLayout from './churchillLayout'
+import samuelLayout from './samuelLayout'
+import plutoLayout from './plutoLayout'
+import zuesLayout from './zuesLayout'
 
 /**
  * LayoutRecord
@@ -24,7 +24,7 @@ const layouts: Readonly<LayoutRecord> = {
     ...socratesLayout,
     ...churchillLayout,
     ...samuelLayout,
-    ...fantasyLayout,
+    ...plutoLayout,
     ...zuesLayout,
 }
 

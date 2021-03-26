@@ -1,7 +1,7 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
-export const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
+const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
     churchill: {
         style: (options: StyleOptions) => {
             const {
@@ -123,3 +123,5 @@ export const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
         },
     },
 }
+
+export default churchillLayout

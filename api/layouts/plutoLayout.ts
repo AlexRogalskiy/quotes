@@ -5,13 +5,13 @@ import { getFont } from '../fonts/fonts'
 import { getHeroPattern } from '../patterns/patterns'
 import { capitalize } from '../utils/commons'
 
-export const fantasyLayout: Record<LayoutPattern.fantasy, LayoutOptions> = {
-    fantasy: {
+const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
+    pluto: {
         style: (options: StyleOptions) => {
-            const { fontColor, bgColor, pattern, opacity, colorPattern } = options.theme
+            const { quoteColor, authorColor, bgColor, pattern, opacity, colorPattern } = options.theme
 
-            const fontRegular = getFont[FontPattern.monserrat_regular]
-            const font700 = getFont[FontPattern.monserrat_700]
+            const fontRegular = getFont(FontPattern.monserrat_regular)
+            const font700 = getFont(FontPattern.monserrat_700)
 
             const backgroundPattern = getHeroPattern(pattern, String(opacity), String(colorPattern))
 
@@ -33,17 +33,17 @@ export const fantasyLayout: Record<LayoutPattern.fantasy, LayoutOptions> = {
                         font-weight: bold;
                         src: url(data:font/woff2;charset=utf-8;base64,${font700.fontSrc}) format('woff2');
                     }
-                    .font-monserratRegular {
+                    .quote {
                         font-family: ${fontRegular.fontFamily}, sans-serif;
                         font-style: italic;
-                        color: ${fontColor};
+                        color: #${quoteColor};
                     }
-                    .font-monserrat700 {
+                    .author {
                         font-family: ${font700.fontFamily}, sans-serif;
                         font-weight: bold;
-                        color: ${fontColor};
                         text-align: right;
                         margin: 3% 3% 0% 0%;
+                        color: #${authorColor};
                     }
                     .subhead::first-letter {
                         font-size: 130%;
@@ -88,12 +88,14 @@ export const fantasyLayout: Record<LayoutPattern.fantasy, LayoutOptions> = {
                 <div class="quote-wrapper">
                     <div class="quote-wrapper-desc">
                         <div class="line"></div>
-                        <p class="font-monserratRegular subhead">${options.quote}</p>
+                        <p class="quote subhead">${options.quote}</p>
                         <div class="line"></div>
-                        <h3 class="font-monserrat700">${capitalize(options.author)}</h3>
+                        <h3 class="author">${capitalize(options.author)}</h3>
                     </div>
                 </div>
                 `
         },
     },
 }
+
+export default plutoLayout

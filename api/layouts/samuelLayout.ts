@@ -1,7 +1,7 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
-export const samuelLayout: Record<LayoutPattern.samuel, LayoutOptions> = {
+const samuelLayout: Record<LayoutPattern.samuel, LayoutOptions> = {
     samuel: {
         style: (options: StyleOptions) => {
             const {
@@ -65,3 +65,5 @@ export const samuelLayout: Record<LayoutPattern.samuel, LayoutOptions> = {
         },
     },
 }
+
+export default samuelLayout
