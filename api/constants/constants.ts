@@ -1,6 +1,6 @@
 import boxen from 'boxen'
 
-import { ImageOptions } from '../../typings/domain-types'
+import { ImageOptions, IndexOptions } from '../../typings/domain-types'
 
 /**
  * Output configuration options
@@ -18,4 +18,13 @@ export const OUTPUT_OPTIONS: Readonly<boxen.Options> = {
 export const IMAGE_OPTIONS: Readonly<ImageOptions> = {
     width: '100%',
     height: '100%',
+}
+
+/**
+ * Index configuration options
+ */
+export const INDEX_OPTIONS: Readonly<IndexOptions> = {
+    delimiter: '_',
+    path: '.cache',
+    name: 'lunr-index.json',
 }

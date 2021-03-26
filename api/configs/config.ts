@@ -1,7 +1,9 @@
 import { Profile } from '../../typings/enum-types'
 import { ProfileOptions } from '../../typings/domain-types'
 
-import { OUTPUT_OPTIONS } from '../constants/constants'
+import { IMAGE_OPTIONS, INDEX_OPTIONS, OUTPUT_OPTIONS } from '../constants/constants'
+
+import { mergeProps } from '../utils/commons'
 
 /**
  * ConfigRecord
@@ -14,39 +16,18 @@ export type ConfigRecord = Record<Profile, ProfileOptions>
  */
 export const CONFIG: Readonly<ConfigRecord> = {
     dev: {
-        imageOptions: {
-            width: '100%',
-            height: '100%',
-        },
-        indexOptions: {
-            delimiter: '_',
-            path: '.cache',
-            name: 'lunr-index.json',
-        },
+        imageOptions: IMAGE_OPTIONS,
+        indexOptions: INDEX_OPTIONS,
         outputOptions: OUTPUT_OPTIONS,
     },
     prod: {
-        imageOptions: {
-            width: '100%',
-            height: '100%',
-        },
-        indexOptions: {
-            delimiter: '_',
-            path: '.cache',
-            name: 'lunr-index.json',
-        },
+        imageOptions: IMAGE_OPTIONS,
+        indexOptions: mergeProps(INDEX_OPTIONS, { delimiter: '__' }),
         outputOptions: OUTPUT_OPTIONS,
     },
     test: {
-        imageOptions: {
-            width: '100%',
-            height: '100%',
-        },
-        indexOptions: {
-            delimiter: '_',
-            path: '.cache',
-            name: 'lunr-index.json',
-        },
+        imageOptions: IMAGE_OPTIONS,
+        indexOptions: INDEX_OPTIONS,
         outputOptions: OUTPUT_OPTIONS,
     },
 }

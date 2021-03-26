@@ -1,6 +1,7 @@
 import fetch from 'isomorphic-unfetch'
 
 import { ResponseError } from '../errors/errors'
+import { errorLogs } from './loggers'
 
 export const getApiUrl = (baseUrl: string, query: string, appId?: string, units = 'metric'): string =>
     `${baseUrl}?q=${query}&appid=${appId}&units=${units}`
@@ -22,7 +23,7 @@ export const fetchAsJson = async (url: string, options: RequestInit = {}): Promi
 
         return await data.json()
     } catch (e) {
-        console.error(`Cannot fetch request by url: ${url}, message: ${e.message}`)
+        errorLogs(`Cannot fetch request by url: ${url}, message: ${e.message}`)
         throw e
     }
 }

@@ -1,6 +1,6 @@
 import { TemplateData } from '../../typings/domain-types'
 
-export const getSvgTemplate = async ({ layout, style, image, quote }: TemplateData): Promise<string> => {
+export const getSvgTemplate = async ({ layout, style, image, template }: TemplateData): Promise<string> => {
     return `
         <svg width="${image.width}"
              height="${image.height}"
@@ -10,7 +10,7 @@ export const getSvgTemplate = async ({ layout, style, image, quote }: TemplateDa
                     <style>
                         ${layout.style(style)}
                     </style>
-                    ${layout.template(quote)}
+                    ${layout.template(template)}
                 </div>
             </foreignObject>
         </svg>

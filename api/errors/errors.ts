@@ -1,4 +1,5 @@
 import { hasProperty } from '../utils/commons'
+import { errorLogs } from '../utils/loggers'
 
 /**
  * ErrorType
@@ -89,7 +90,7 @@ export class GeneralError extends ExtendableError {
      * @protected
      */
     protected logMessage(): void {
-        console.error(this.message, this.args)
+        errorLogs(this.message, this.args)
     }
 }
 

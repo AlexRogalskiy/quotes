@@ -8,8 +8,19 @@ import { toString } from '../utils/commons'
 
 export async function templateController(req: NowRequest, res: NowResponse): Promise<VercelResponse> {
     try {
-        const { theme, layout, animation, category, keywords, width, height } = req.query
+        const { theme, layout, animation, category, keywords, width, height, ...rest } = req.query
+        const { quoteColor, authorColor, bgColor, fontColor, colorPattern, opacity, pattern } = rest
+
         const imageOptions = { width: toString(width), height: toString(height) }
+        const themeOptions = {
+            quoteColor: toString(quoteColor),
+            authorColor: toString(authorColor),
+            bgColor: toString(bgColor),
+            fontColor: toString(fontColor),
+            colorPattern: toString(colorPattern),
+            opacity: toString(opacity),
+            pattern: toString(pattern),
+        }
 
         const svgResponse = await templateService.templateRenderer({
             themePattern: ThemePattern[toString(theme)],
@@ -18,6 +29,7 @@ export async function templateController(req: NowRequest, res: NowResponse): Pro
             categoryPattern: CategoryPattern[toString(category)],
             keywords,
             imageOptions,
+            themeOptions,
         })
 
         res.setHeader('Cache-Control', 'no-cache,max-age=0,no-store,s-maxage=0,proxy-revalidate')

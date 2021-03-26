@@ -1,5 +1,4 @@
 import lunr from 'lunr'
-import boxen from 'boxen'
 import cron from 'node-cron'
 
 import { readFileSync, writeFileSync } from 'fs'
@@ -8,19 +7,13 @@ import { join } from 'path'
 import { CategoryPattern } from '../../typings/enum-types'
 
 import { ensureDirExists, tempDir } from '../utils/files'
+import { boxenErrorLogs, boxenLogs } from '../utils/loggers'
 import { profile } from '../utils/profiles'
 
 import { quotes } from '../quotes/quotes'
 
 const task = cron.schedule('0 * * * *', () => {
-    console.log(
-        boxen('Running task every 60 minutes on index search', {
-            padding: 1,
-            margin: 1,
-            borderStyle: 'single',
-            borderColor: 'yellow',
-        })
-    )
+    boxenLogs('Running task every 60 minutes on index search')
 
     storeIndex()
 })
@@ -38,27 +31,13 @@ const storeIndex = (): lunr.Index => {
         const index = createIndex()
         const indexPath = getIndexPath(filePath)
 
-        console.log(
-            boxen(`Storing index file by path=${indexPath}`, {
-                padding: 1,
-                margin: 1,
-                borderStyle: 'single',
-                borderColor: 'yellow',
-            })
-        )
+        boxenLogs(`Storing index file by path=${indexPath}`)
 
         writeFileSync(indexPath, JSON.stringify(index))
 
         return index
     } catch (e) {
-        console.error(
-            boxen(`Failed to store index file, message=${e.message}`, {
-                padding: 1,
-                margin: 1,
-                borderStyle: 'double',
-                borderColor: 'red',
-            })
-        )
+        boxenErrorLogs(`Failed to store index file, message=${e.message}`)
         throw e
     }
 }
@@ -67,27 +46,13 @@ const restoreIndex = (): lunr.Index => {
     try {
         const indexPath = getIndexPath(filePath)
 
-        console.log(
-            boxen(`Restoring index file from path=${indexPath}`, {
-                padding: 1,
-                margin: 1,
-                borderStyle: 'single',
-                borderColor: 'yellow',
-            })
-        )
+        boxenLogs(`Restoring index file from path=${indexPath}`)
 
         const index = readFileSync(indexPath, 'utf-8')
 
         return lunr.Index.load(JSON.parse(index))
     } catch (e) {
-        console.error(
-            boxen(`Failed to restore index file, message=${e.message}`, {
-                padding: 1,
-                margin: 1,
-                borderStyle: 'double',
-                borderColor: 'red',
-            })
-        )
+        boxenErrorLogs(`Failed to restore index file, message=${e.message}`)
         throw e
     }
 }

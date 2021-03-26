@@ -1,7 +1,14 @@
-import boxen from 'boxen'
-
 import { Optional } from '../../typings/standard-types'
-import { ImageOptions, ParsedRequestData, StyleOptions, TemplateOptions } from '../../typings/domain-types'
+import {
+    AnimationOptions,
+    FontOptions,
+    ImageOptions,
+    LayoutOptions,
+    ParsedRequestData,
+    TemplateData,
+    TemplateOptions,
+    ThemeOptions,
+} from '../../typings/domain-types'
 
 import { mergeProps } from '../utils/commons'
 import { serialize } from '../utils/serializers'
@@ -14,6 +21,7 @@ import { getSvgTemplate } from '../models/template'
 import * as quoteService from './quoteService'
 
 import { profile } from '../utils/profiles'
+import { boxenLogs } from '../utils/loggers'
 
 export async function templateRenderer(requestData: ParsedRequestData): Promise<string> {
     const {
@@ -24,35 +32,38 @@ export async function templateRenderer(requestData: ParsedRequestData): Promise<
         categoryPattern,
         keywords,
         imageOptions,
+        themeOptions,
     } = requestData
 
-    const layout = getLayout(layoutPattern)
+    const layout = mergeProps<LayoutOptions>(profile.layoutOptions, getLayout(layoutPattern))
+    const font = mergeProps<FontOptions>(profile.styleOptions?.font, getFont(fontPattern))
+    const theme = mergeProps<ThemeOptions>(profile.styleOptions?.theme, getTheme(themePattern), themeOptions)
+    const animation = mergeProps<AnimationOptions>(
+        profile.styleOptions?.animation,
+        getAnimation(animationPattern)
+    )
+    const image = mergeProps<ImageOptions>(profile.imageOptions, imageOptions)
 
-    const font = getFont(fontPattern)
-    const theme = getTheme(themePattern)
-    const animation = getAnimation(animationPattern)
-
-    const style: StyleOptions = { font, theme, animation }
-    const image: ImageOptions = mergeProps(profile.imageOptions, imageOptions)
-
-    const quote: Optional<TemplateOptions> = keywords
+    const template: Optional<TemplateOptions> = keywords
         ? await quoteService.getQuoteByKeywords(keywords)
         : await quoteService.getQuoteByCategory(categoryPattern)
 
-    console.log(
-        boxen(
-            `
+    const templateData: TemplateData = {
+        layout,
+        style: { font, theme, animation },
+        image,
+        template,
+    }
+
+    boxenLogs(
+        `
                Generating image view with parameters:
                category=${categoryPattern},
                keywords=${keywords},
                layout=${layout},
-               style options=${serialize(style)},
-               image options=${serialize(image)},
-               quote options=${serialize(quote)}
-           `,
-            profile.outputOptions
-        )
+               template data=${serialize(templateData)}
+           `
     )
 
-    return quote ? await getSvgTemplate({ layout, style, image, quote }) : ''
+    return template ? await getSvgTemplate(templateData) : ''
 }

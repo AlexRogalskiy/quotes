@@ -48,29 +48,29 @@ export type ThemeOptions = {
     /**
      * Theme quote text color
      */
-    readonly quoteColor: string
+    readonly quoteColor?: string
     /**
      * Theme author text color
      */
-    readonly authorColor: string
+    readonly authorColor?: string
     /**
      * Theme background color
      */
-    readonly bgColor: string
-    /**
-     * Theme color pattern
-     */
-    readonly colorPattern?: string | string[]
+    readonly bgColor?: string
     /**
      * Theme text font color
      */
     readonly fontColor?: string
     /**
+     * Theme color pattern
+     */
+    readonly colorPattern?: string
+    /**
      * Theme background opacity
      */
     readonly opacity?: string
     /**
-     * Template image background pattern
+     * Template background pattern
      */
     readonly pattern?: Optional<HeroPattern>
 }
@@ -163,6 +163,10 @@ export type ProfileOptions = {
      */
     readonly styleOptions?: StyleOptions
     /**
+     * Layout configuration options.
+     */
+    readonly layoutOptions?: LayoutOptions
+    /**
      * Output options
      */
     readonly outputOptions?: boxen.Options
@@ -186,9 +190,9 @@ export type TemplateData = {
      */
     readonly image: ImageOptions
     /**
-     * Template template options
+     * Template data options
      */
-    readonly quote: TemplateOptions
+    readonly template: Optional<TemplateOptions>
 }
 
 /**
@@ -200,6 +204,10 @@ export type ParsedRequestData = {
      * Request image options
      */
     readonly imageOptions: ImageOptions
+    /**
+     * Request theme options
+     */
+    readonly themeOptions: ThemeOptions
     /**
      * Request theme pattern
      */
@@ -225,49 +233,6 @@ export type ParsedRequestData = {
      */
     readonly keywords?: string | string[]
 }
-
-// /**
-//  * ParsedRequest
-//  * @desc Type representing parsed request data
-//  */
-// export type ParsedRequestData2 = {
-//     /**
-//      * Template image category
-//      */
-//     category?: Optional<CategoryPattern>
-//     /**
-//      * Template image background pattern
-//      */
-//     pattern?: Optional<HeroPattern>
-//     /**
-//      * Template image width
-//      */
-//     width?: string
-//     /**
-//      * Template image height
-//      */
-//     height?: string
-//     /**
-//      * Request keywords
-//      */
-//     keywords?: string | string[]
-//     /**
-//      * Template image color pattern
-//      */
-//     colorPattern?: string | string[]
-//     /**
-//      * Template image text font color
-//      */
-//     fontColor?: string | string[]
-//     /**
-//      * Template image background color
-//      */
-//     backgroundColor?: string | string[]
-//     /**
-//      * Template image background opacity
-//      */
-//     opacity?: string | string[]
-// }
 
 /**
  * ImageOptions
