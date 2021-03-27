@@ -1,6 +1,8 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
+import { capitalize } from '../utils/commons'
+
 const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
     zues: {
         style: (options: StyleOptions) => {
@@ -53,7 +55,7 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                         bottom:-25px;
                         line-height: 70px;
                     }
-                    .quote4 .first, .quote4 .txt{
+                    .quote4 .first, .quote4 .text{
                         width:90%;
                         margin:auto;
                         transform: skew(.312rad);
@@ -64,15 +66,15 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                         color: #DAB49D;
                         font-size:14px;
                         font-family: 'Dosis', sans-serif;
-                        text-transform:uppercase;
+                        text-transform: uppercase;
                         letter-spacing:1px;
                     }
-                    .quote4 .txt{
+                    .quote4 .text{
                         color:#F3E9DC;
                         font-size:16px;
                         font-family: 'Roboto Slab', serif;
                     }
-                    .quote4 .from{
+                    .quote4 .author{
                         text-align:center;
                         margin-top:15px;
                         font-size:13px;
@@ -104,8 +106,8 @@ const zuesLayout: Record<LayoutPattern.zues, LayoutOptions> = {
                     <div class="container">
                         <div class="quote4">
                             <div class="border"></div>
-                            <div class="txt">${options.quote}</div>
-                            <div class="from">${options.author}</div>
+                            <div class="text">${options.quote}</div>
+                            <div class="author">${capitalize(options.author)}</div>
                         </div>
                     </div>
                 `

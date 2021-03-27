@@ -15,14 +15,13 @@ import { toString } from '../utils/commons'
 export async function templateController(req: NowRequest, res: NowResponse): Promise<VercelResponse> {
     try {
         const { theme, layout, animation, category, keywords, width, height, ...rest } = req.query
-        const { quoteColor, authorColor, bgColor, fontColor, colorPattern, opacity, pattern } = rest
+        const { quoteColor, authorColor, bgColor, colorPattern, opacity, pattern } = rest
 
         const imageOptions = { width: toString(width), height: toString(height) }
         const themeOptions = {
             quoteColor: toString(quoteColor),
             authorColor: toString(authorColor),
             bgColor: toString(bgColor),
-            fontColor: toString(fontColor),
             colorPattern: toString(colorPattern),
             opacity: toString(opacity),
             pattern: HeroPattern[toString(pattern)],

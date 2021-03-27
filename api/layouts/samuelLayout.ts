@@ -1,6 +1,8 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
+import { capitalize } from '../utils/commons'
+
 const samuelLayout: Record<LayoutPattern.samuel, LayoutOptions> = {
     samuel: {
         style: (options: StyleOptions) => {
@@ -58,7 +60,7 @@ const samuelLayout: Record<LayoutPattern.samuel, LayoutOptions> = {
                     <div class="quote">
                         <blockquote>
                             <p>${options.quote}</p>
-                            <cite>${options.author}</cite>
+                            <cite>${capitalize(options.author)}</cite>
                         </blockquote>
                     </div>
                 `

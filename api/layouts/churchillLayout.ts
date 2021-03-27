@@ -1,6 +1,8 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
+import { capitalize } from '../utils/commons'
+
 const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
     churchill: {
         style: (options: StyleOptions) => {
@@ -114,7 +116,7 @@ const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
                         <div id="borderRight"></div>
                         <div id="borderBottom"></div>
                         <div id="borderTop"></div>
-                        <span>${options.author}</span>
+                        <span>${capitalize(options.author)}</span>
                         <blockquote>
                             <p><i>${options.quote}</i></p>
                         </blockquote>

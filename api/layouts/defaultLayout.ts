@@ -1,6 +1,8 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
 import { LayoutPattern } from '../../typings/enum-types'
 
+import { capitalize } from '../utils/commons'
+
 const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
     default: {
         style: (options: StyleOptions) => {
@@ -55,7 +57,7 @@ const defaultLayout: Record<LayoutPattern.default, LayoutOptions> = {
             return `
                     <div class="container">
                         <h3> ${options.quote} </h3>
-                        <p>- ${options.author} </p>
+                        <p>- ${capitalize(options.author)} </p>
                     </div>
                 `
         },

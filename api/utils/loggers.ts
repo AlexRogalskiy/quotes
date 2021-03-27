@@ -1,7 +1,7 @@
 import dateFormat from 'dateformat'
 import boxen from 'boxen'
 
-import { BiConsumer, Processor } from '../../typings/standard-types'
+import { Processor } from '../../typings/standard-types'
 
 import { profile } from './profiles'
 
@@ -47,12 +47,9 @@ export const toLog = (message: string, ...args: any[]): void => {
     console.groupEnd()
 }
 
-export const createLogger = <T>(
-    logger: BiConsumer<T, any[]>,
-    processor?: Processor<T, T>
-): Logger<T, any> => {
+export const createLogger = <T>(logger: Logger<T, any>, processor?: Processor<T, T>): Logger<T, any> => {
     return (message, ...args) => {
-        logger(processor ? processor(message) : message, args)
+        logger(processor ? processor(message) : message, ...args)
     }
 }
 
