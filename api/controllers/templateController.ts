@@ -12,7 +12,7 @@ import * as templateService from '../services/templateService'
 
 import { toString } from '../utils/commons'
 
-export async function templateController(req: NowRequest, res: NowResponse): Promise<VercelResponse> {
+export const templateController = async (req: NowRequest, res: NowResponse): Promise<VercelResponse> => {
     try {
         const { theme, layout, animation, category, keywords, width, height, ...rest } = req.query
         const { quoteColor, authorColor, bgColor, colorPattern, opacity, pattern } = rest

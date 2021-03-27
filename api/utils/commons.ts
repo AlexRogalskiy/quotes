@@ -70,7 +70,7 @@ export const iterateAsync = async <T>(
     await Promise.all(obj.map(async (item: T, index?: number) => await func(item, index)))
 }
 
-export const mergeProps = <T>(...obj: unknown[]): T =>
+export const mergeProps = <T>(...obj: any[]): T =>
     _.mergeWith({}, ...obj, (o, s) => {
         return _.isArray(s) && _.isArray(o) ? _.union(o, s) : _.isNull(s) ? o : s
     })

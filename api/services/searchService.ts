@@ -79,11 +79,11 @@ export const idx = (): lunr.Index => {
     }
 }
 
-export function getSearchResultSet<T>(
+export const getSearchResultSet = <T>(
     data: T[],
     index: lunr.Index,
     query: lunr.Index.QueryString
-): (T | undefined)[] {
+): (T | undefined)[] => {
     const results = getSearchResults(index, query)
 
     return results.map(result => {
@@ -91,14 +91,14 @@ export function getSearchResultSet<T>(
     })
 }
 
-export function getSearchResults(index: lunr.Index, query: lunr.Index.QueryString): lunr.Index.Result[] {
+export const getSearchResults = (index: lunr.Index, query: lunr.Index.QueryString): lunr.Index.Result[] => {
     return index.search(query)
 }
 
-export function getSearchResultsByTerm(
+export const getSearchResultsByTerm = (
     index: lunr.Index,
     term: string | object | object[]
-): lunr.Index.Result[] {
+): lunr.Index.Result[] => {
     return index.query(q => {
         q.term(lunr.tokenizer(term), {
             wildcard: lunr.Query.wildcard.TRAILING,
