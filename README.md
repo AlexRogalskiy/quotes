@@ -36,7 +36,7 @@
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/quotes)
 [![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/quotes)](https://hitsofcode.com/github/AlexRogalskiy/quotes/view)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][tags]
-![Website](https://img.shields.io/website?url=https://img.shields.io/website?url=https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF\&opacity=0.3\&colorPattern=%23FFE0E9\&fontColor=%230A83DC)
+![Website](https://img.shields.io/website?url=https://img.shields.io/website?url=https://styled-quotes.vercel.app/api?theme=default_repocard&layout=churchill)
 
 [![CI](https://github.com/AlexRogalskiy/proverbs/workflows/test/badge.svg)](https://github.com/AlexRogalskiy/proverbs/workflows/test)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/quotes/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
@@ -95,7 +95,7 @@ For the tech stack, ***Styled Quotes*** using Typescript and serverless function
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=[value]&opacity=[value]&colorPattern=[value]&fontColor=[value]&pattern=[pattern]&category=[value]&width=[width]&height=[height]&keywords=[keywords])
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=[value]&layout=[value]&animation=[value]&bgColor=[value]&opacity=[value]&colorPattern=[value]&quoteColor=[value]&authorColor=[value]&pattern=[pattern]&category=[value]&width=[width]&height=[height]&keywords=[keywords])
 ```
 
 There are several options you can use from the list:
@@ -326,13 +326,13 @@ Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/her
 This is example of using ***Styled Quotes***:
 
 ```
-![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=default_repocard&layout=churchill)
 ```
 
 Result:
 
 <div align="center" style="align-content: center">
-    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/?theme=default_repocard&layout=churchill" alt="Quotes" />
 </div>
 
 ## *Visitor stats*
