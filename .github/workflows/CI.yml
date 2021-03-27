@@ -10,9 +10,12 @@ on:
 jobs:
   test:
     runs-on: ubuntu-latest
+    timeout-minutes: 30
     strategy:
+      max-parallel: 2
       matrix:
         node: [ "12", "13", "14" ]
+
     steps:
       - uses: actions/checkout@v2
 
@@ -48,6 +51,7 @@ jobs:
       - name: coverage
         uses: codecov/codecov-action@v1
         with:
+          token: ${{ secrets.CODECOV_TOKEN }}
           name: actions ${{ matrix.node }}
           file: ./coverage/coverage-final.json
           fail_ci_if_error: true
