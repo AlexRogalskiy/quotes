@@ -2,6 +2,8 @@ name: Process JSON fields
 
 on:
   push:
+    branches:
+      - master
     paths:
       - 'data/**.json'
 
