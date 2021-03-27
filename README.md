@@ -39,15 +39,10 @@
 ![Website](https://img.shields.io/website?url=https://img.shields.io/website?url=https://styled-quotes.vercel.app/api?theme=default_repocard\&layout=churchill)
 
 [![codecov](https://codecov.io/gh/AlexRogalskiy/quotes/branch/master/graph/badge.svg?token=F69zGy8tiW)](https://codecov.io/gh/AlexRogalskiy/quotes)
-[![CI](https://github.com/AlexRogalskiy/proverbs/workflows/test/badge.svg)](https://github.com/AlexRogalskiy/proverbs/workflows/test)
+[![CI](https://github.com/AlexRogalskiy/quotes/workflows/CI/badge.svg)](https://github.com/AlexRogalskiy/quotes/actions/workflows/build.yml)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/quotes/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![GitHub JSON-Validator](https://github.com/AlexRogalskiy/quotes/workflows/Validate%20JSONs/badge.svg)](https://github.com/OrRosenblatt/validate-json-action)
 [![BCH compliance](https://bettercodehub.com/edge/badge/AlexRogalskiy/quotes?branch=master)](https://bettercodehub.com/)
-
-[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AlexRogalskiy/quotes)
-[![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/quotes/discussions)
-[![Open questions](https://img.shields.io/badge/Open-questions-blue.svg?style=flat-curved)](https://github.com/AlexRogalskiy/quotes/labels/question)
-[![Open bugs](https://img.shields.io/badge/Open-bugs-red.svg?style=flat-curved)](https://github.com/AlexRogalskiy/quotes/labels/bug)
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AlexRogalskiy/quotes)
 [![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/quotes/discussions)

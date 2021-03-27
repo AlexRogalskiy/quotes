@@ -10,7 +10,7 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
         style: (options: StyleOptions) => {
             const { quoteColor, authorColor, bgColor, pattern, opacity, colorPattern } = options.theme
 
-            const fontRegular = getFont(FontPattern.monserrat_regular)
+            const fontRegular = getFont(FontPattern.monserrat)
             const font700 = getFont(FontPattern.monserrat_700)
 
             const backgroundPattern = getHeroPattern(pattern, String(opacity), String(colorPattern))

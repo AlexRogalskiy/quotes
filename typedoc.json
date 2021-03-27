@@ -1,6 +1,7 @@
 {
-    "name": "Style Quotes TypeDoc",
+    "name": "Styled Quotes TypeDoc",
     "entryPoints": [
+        "./api",
         "./src",
         "./typings"
     ],
