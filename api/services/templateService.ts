@@ -50,12 +50,12 @@ export const templateRenderer = async (requestData: ParsedRequestData): Promise<
 
     boxenLogs(
         `
-               Generating image view with parameters:
-               category=${categoryPattern},
-               keywords=${keywords},
-               image options=${serialize(image)}
-               theme options=${serialize(theme)}
-           `
+        Generating image view with parameters:
+        category=${categoryPattern},
+        keywords=${keywords},
+        image options=${serialize(image)}
+        theme options=${serialize(theme)}
+        `
     )
 
     return template ? await getSvgTemplate({ layout, style, image, template }) : ''
