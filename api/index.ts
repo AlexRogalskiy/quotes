@@ -1,43 +1,18 @@
 import { NowRequest, NowResponse, VercelResponse } from '@vercel/node'
 
-import { CategoryPattern, HeroPattern } from '../typings/enum-types'
+import { RoutePattern } from '../typings/enum-types'
 
-import { quoteRenderer } from '../utils/quote'
-import { toString } from '../utils/commons'
+import { toString } from './utils/commons'
+
+import { getRoute } from './routes/routes'
 
 export default async function render(req: NowRequest, res: NowResponse): Promise<VercelResponse> {
     try {
-        const {
-            category,
-            keywords,
-            pattern,
-            width,
-            height,
-            backgroundColor,
-            fontColor,
-            opacity,
-            colorPattern,
-        } = req.query
+        const routePattern = RoutePattern[toString(req.query.operation)]
 
-        const quote = await quoteRenderer({
-            category: CategoryPattern[toString(category)] as CategoryPattern,
-            pattern: HeroPattern[toString(pattern)] as HeroPattern,
-            width: toString(width),
-            height: toString(height),
-            keywords,
-            backgroundColor,
-            fontColor,
-            opacity,
-            colorPattern,
-        })
+        const route = getRoute(routePattern)
 
-        res.setHeader('Cache-Control', 'no-cache,max-age=0,no-store,s-maxage=0,proxy-revalidate')
-        res.setHeader('Pragma', 'no-cache')
-        res.setHeader('Expires', '-1')
-        res.setHeader('Content-type', 'image/svg+xml')
-        res.setHeader('X-Powered-By', 'Vercel')
-
-        return res.send(quote)
+        return await route(req, res)
     } catch (error) {
         return res.send({
             status: 'Error',

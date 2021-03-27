@@ -36,12 +36,17 @@
 [![NewReleases](https://newreleases.io/badge.svg)](https://newreleases.io/github/AlexRogalskiy/quotes)
 [![Hits-of-Code](https://hitsofcode.com/github/AlexRogalskiy/quotes)](https://hitsofcode.com/github/AlexRogalskiy/quotes/view)
 [![ComVer](https://img.shields.io/badge/ComVer-compliant-brightgreen.svg)][tags]
-![Website](https://img.shields.io/website?url=https://img.shields.io/website?url=https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF\&opacity=0.3\&colorPattern=%23FFE0E9\&fontColor=%230A83DC)
+![Website](https://img.shields.io/website?url=https://img.shields.io/website?url=https://styled-quotes.vercel.app/api?theme=default_repocard\&layout=churchill)
 
 [![CI](https://github.com/AlexRogalskiy/proverbs/workflows/test/badge.svg)](https://github.com/AlexRogalskiy/proverbs/workflows/test)
 [![GitHub Super-Linter](https://github.com/AlexRogalskiy/quotes/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 [![GitHub JSON-Validator](https://github.com/AlexRogalskiy/quotes/workflows/Validate%20JSONs/badge.svg)](https://github.com/OrRosenblatt/validate-json-action)
 [![BCH compliance](https://bettercodehub.com/edge/badge/AlexRogalskiy/quotes?branch=master)](https://bettercodehub.com/)
+
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AlexRogalskiy/quotes)
+[![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/quotes/discussions)
+[![Open questions](https://img.shields.io/badge/Open-questions-blue.svg?style=flat-curved)](https://github.com/AlexRogalskiy/quotes/labels/question)
+[![Open bugs](https://img.shields.io/badge/Open-bugs-red.svg?style=flat-curved)](https://github.com/AlexRogalskiy/quotes/labels/bug)
 
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/AlexRogalskiy/quotes)
 [![Chat](https://img.shields.io/badge/chat-discussions-success.svg)](https://github.com/AlexRogalskiy/quotes/discussions)
@@ -90,24 +95,96 @@ For the tech stack, ***Styled Quotes*** using Typescript and serverless function
 It's simple, you can copy paste this markdown content, like this one:
 
 ```
-![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=[value]&opacity=[value]&colorPattern=[value]&fontColor=[value]&pattern=[pattern]&category=[value]&width=[width]&height=[height]&keywords=[keywords])
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=[value]&layout=[value]&animation=[value]&bgColor=[value]&opacity=[value]&colorPattern=[value]&quoteColor=[value]&authorColor=[value]&pattern=[pattern]&category=[value]&width=[width]&height=[height]&keywords=[keywords])
 ```
 
 There are several options you can use from the list:
 
-|  **Options**           | **Description**                        |   **Type**                     | **Example**   | **Query Params**               |
-| ---------------------- | -------------------------------------- | ------------------------------ | ------------- | ------------------------------ |
-| **\[Background Color]** | Background color for the quote image   | <code>Hex color code</code>    | %23ffffff     | `?backgroundColor=[value]` |
-| **\[Opacity Pattern]**  | Background opacity of the pattern      | <code>Float number</code>      | 0 - 1         | `&opacity=[value]`         |
-| **\[Color Pattern]**    | Color pattern for the signage          | <code>Hex color code</code>    | %231abc9c     | `&colorPattern=[value]`    |
-| **\[Font Color]**       | Font color for the quote text          | <code>Hex color code</code>    | %23000000     | `&fontColor=[value]`       |
-| **\[Pattern]**          | Pattern for the background             | <code>String constant</code>   | plus          | `&pattern=[value]`         |
-| **\[Category]**         | Quote category                         | <code>String constant</code>   | programming   | `&category=[value]`        |
-| **\[Width]**            | Quote image width                      | <code>String</code>            | 100%          | `&width=[value]`           |
-| **\[Height]**           | Quote image height                     | <code>String</code>            | 100%          | `&height=[value]`          |
-| **\[Keywords]**         | Quote keywords                         | <code>String/String\[]</code>   | love          | `&keywords=[value]`        |
+| **Options**               | **Description**                    | **Type**                          | **Example**        | **Query Params**         |
+| ------------------------- | ---------------------------------- | --------------------------------- | ------------------ | ------------------------ |
+| **\[Theme]**              | Theme of the image                 | <code>String</code>               | default_repocard   | `?theme=[value]`         |
+| **\[Layout]**             | Layout of the image                | <code>String</code>               | churchill          | `&layout=[value]`        |
+| **\[Animation]**          | Animation of the image             | <code>String</code>               | grow_out_in        | `&animation=[value]`     |
+| **\[Background Color]**   | Background color of the image      | <code>Hex color code</code>       | ffffff             | `&bgColor=[value]`       |
+| **\[Opacity Pattern]**    | Opacity of the background pattern  | <code>Float number</code>         | 0 - 1              | `&opacity=[value]`       |
+| **\[Color Pattern]**      | Color of the background pattern    | <code>Hex color code</code>       | 1abc9c             | `&colorPattern=[value]`  |
+| **\[Quote Font Color]**   | Font color of the quote text       | <code>Hex color code</code>       | 000000             | `&quoteColor=[value]`    |
+| **\[Author Font Color]**  | Font color of the author text      | <code>Hex color code</code>       | 000000             | `&authorColor=[value]`   |
+| **\[Pattern]**            | Background pattern                 | <code>String constant</code>      | plus               | `&pattern=[value]`       |
+| **\[Category]**           | Quote category                     | <code>String constant</code>      | programming        | `&category=[value]`      |
+| **\[Width]**              | Image width                        | <code>String</code>               | 100%               | `&width=[value]`         |
+| **\[Height]**             | Image height                       | <code>String</code>               | 100%               | `&height=[value]`        |
+| **\[Keywords]**           | Quote keywords                     | <code>String/String Array</code>  | love               | `&keywords=[value]`      |
 
-Here is a list of categories supported by Quotes API:
+Here is a list of supported image themes:
+
+| **Name**                          | **Value**                     |
+| --------------------------------- | ----------------------------- |
+| **Default**                       | default                       |
+| **Default repocard**              | default_repocard              |
+| **Dark**                          | dark                          |
+| **Radical**                       | radical                       |
+| **Merko**                         | merko                         |
+| **Gruvbox**                       | gruvbox                       |
+| **Tokyo night**                   | tokyonight                    |
+| **One dark**                      | onedark                       |
+| **Cobalt**                        | cobalt                        |
+| **Synth wave**                    | synthwave                     |
+| **High contrast**                 | highcontrast                  |
+| **Dracula**                       | dracula                       |
+| **Prussian**                      | prussian                      |
+| **Monokai**                       | monokai                       |
+| **Vue**                           | vue                           |
+| **Vue dark**                      | vue_dark                      |
+| **Shades of purple**              | shades_of_purple              |
+| **Night owl**                     | nightowl                      |
+| **Buefy**                         | buefy                         |
+| **Blue green**                    | blue_green                    |
+| **Algolia**                       | algolia                       |
+| **Great Gatsby**                  | great_gatsby                  |
+| **Darcula**                       | darcula                       |
+| **Bear**                          | bear                          |
+| **Solarized dark**                | solarized_dark                |
+| **Solarized light**               | solarized_light               |
+| **Chartreuse dark**               | chartreuse_dark               |
+| **Nord**                          | nord                          |
+| **Gotham**                        | gotham                        |
+| **Material pale night**           | material_palenight            |
+| **Gray white**                    | graywhite                     |
+| **Vision friendly dark**          | vision_friendly_dark          |
+| **Ayu mirage**                    | ayu_mirage                    |
+| **Midnight purple**               | midnight_purple               |
+| **Calm**                          | calm                          |
+| **Flag India**                    | flag_india                    |
+| **Omni**                          | omni                          |
+| **React**                         | react                         |
+| **Jolly**                         | jolly                         |
+| **Maroongold**                    | maroongold                    |
+| **Yeblu**                         | yeblu                         |
+| **Blueberry**                     | blueberry                     |
+| **State orange**                  | slateorange                   |
+| **Kacho ga**                      | kacho_ga                      |
+| **Arabesque**                     | arabesque                     |
+
+List of supported image layouts:
+
+| **Name**                          | **Value**                     |
+| --------------------------------- | ----------------------------- |
+| **Default**                       | default                       |
+| **Churchill**                     | churchill                     |
+| **Pluto**                         | pluto                         |
+| **Samuel**                        | samuel                        |
+| **Socrates**                      | socrates                      |
+| **Zues**                          | zues                          |
+
+List of supported image animations:
+
+| **Name**                          | **Value**                     |
+| --------------------------------- | ----------------------------- |
+| **Default**                       | default                       |
+| **Grow-out-in**                   | grow_out_in                   |
+
+List of categories supported by Quotes API:
 
 | **Name**                          | **Value**                     |
 | --------------------------------- | ----------------------------- |
@@ -249,13 +326,13 @@ Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/her
 This is example of using ***Styled Quotes***:
 
 ```
-![Styled Quotes](https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC)
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=default_repocard&layout=churchill)
 ```
 
 Result:
 
 <div align="center" style="align-content: center">
-    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?backgroundColor=%23FFFFFF&opacity=0.3&colorPattern=%23FFE0E9&fontColor=%230A83DC" alt="Quotes" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/?theme=default_repocard&layout=churchill" alt="Quotes" />
 </div>
 
 ## *Visitor stats*

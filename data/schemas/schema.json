@@ -1,6 +1,6 @@
 {
     "$id": "https://github.com/AlexRogalskiy/quotes/blob/master/data/schemas.json",
-    "description": "A representation of a collection of quote data objects",
+    "description": "A representation of a collection of quotes data objects",
     "type": "object",
     "patternProperties": {
         "^[a-zA-Z0-9-_]+$": {
@@ -14,6 +14,7 @@
     },
     "$defs": {
         "quote": {
+            "description": "Quote data",
             "type": "object",
             "properties": {
                 "quote": {
