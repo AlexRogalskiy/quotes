@@ -22,7 +22,7 @@ import { getSvgTemplate } from '../models/template'
 
 import * as quoteService from './quoteService'
 
-export const templateRenderer = async (requestData: ParsedRequestData): Promise<string> => {
+export async function templateRenderer(requestData: ParsedRequestData): Promise<string> {
     const {
         fontPattern,
         themePattern,

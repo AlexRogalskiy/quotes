@@ -162,6 +162,7 @@
     "files": [
         "data/**",
         "api/**",
+        "src/**",
         "typings/**"
     ]
 }

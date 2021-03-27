@@ -10,7 +10,7 @@ import { ensureDirExists, tempDir } from '../utils/files'
 import { boxenErrorLogs, boxenLogs } from '../utils/loggers'
 import { profile } from '../utils/profiles'
 
-import { quotes } from '../quotes/quotes'
+import quotes from '../quotes/quotes'
 
 const task = cron.schedule('0 * * * *', () => {
     boxenLogs('Running task every 60 minutes on index search')
