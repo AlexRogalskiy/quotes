@@ -1,6 +1,6 @@
-const fs = require('fs')
 const _ = require('lodash')
 
+const fs = require('fs')
 const lunr = require('lunr')
 const os = require('os')
 const path = require('path')
