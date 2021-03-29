@@ -395,9 +395,9 @@ See also the list of [contributors][contributors] who participated in this proje
 
 ***Styled Quotes*** has experimental support for Gitpod, a pre-configured development environment that runs in your browser. To use Gitpod, click the button below and sign in with GitHub. Gitpod also offers a browser add-on, though it is not required.
 
-[![alt tag](https://lunrjs.com/images/moon.jpg)](https://lunrjs.com/guides/getting_started.html)
+[![alt tag](https://seeklogo.com/images/L/lunr-js-logo-A67AC78ECF-seeklogo.com.png)](https://lunrjs.com/guides/getting_started.html)
 
-***Styled Quotes*** project is using Lunr search tool to index and query text data by provided keywords.
+***Styled Quotes*** project is using Lunr search tool to index and query text data by keywords.
 
 ## *OpenGraph Card*
 
