@@ -54,7 +54,7 @@ const writing = require('../data/writing_quotes.json')
 
 function getConfig() {
     return process.env.AWS_LAMBDA_FUNCTION_VERSION
-        ? { path: '.cache', name: 'lunr-index.json', delimiter: '_' }
+        ? { path: '.cache', name: 'lunr-index.json', delimiter: '__' }
         : { path: '.cache', name: 'lunr-index.json', delimiter: '_' }
 }
 
@@ -86,12 +86,10 @@ function createIndex(args) {
 }
 
 function ensureDirExists(dir) {
-    if (!fs.existsSync(dir)) {
-        fs.mkdirSync(dir, { recursive: true })
-    }
+    fs.existsSync(dir) || fs.mkdirSync(dir, { recursive: true })
 }
 
-;(function () {
+;( function () {
     try {
         const path = filePath()
         ensureDirExists(path)
@@ -167,4 +165,4 @@ function ensureDirExists(dir) {
         )
         throw e
     }
-})()
+} )()

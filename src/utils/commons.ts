@@ -18,7 +18,11 @@ export const toStringArray = (value: string | string[], delim = ','): string[] =
     return _.isArray(value) ? value : value.split(delim)
 }
 
-export const toString = (value: string | string[]): string => (Array.isArray(value) ? value[0] : value)
+export const join = (value?: string | string[], delim = ','): string => {
+    return value ? `(${_.isArray(value) ? value.join(delim) : value})` : ''
+}
+
+export const toString = (value: string | string[]): string => (_.isArray(value) ? value[0] : value)
 
 export const getFunctionArgs = (func: any): string[] => {
     const args = func.toString().match(/(function\s)?.*?\(([^)]*)\)/)[2]

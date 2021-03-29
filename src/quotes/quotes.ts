@@ -49,9 +49,13 @@ import { mergeProps } from '../utils/commons'
 import { TemplateOptions } from '../../typings/domain-types'
 import { CategoryPattern } from '../../typings/enum-types'
 
-export type QuoteMapper = Record<CategoryPattern, TemplateOptions[]>
+/**
+ * TemplateRecord
+ * @desc Type representing category template record
+ */
+type TemplateRecord = Record<CategoryPattern, TemplateOptions[]>
 
-const quotes: QuoteMapper = mergeProps<QuoteMapper>(
+const quotes: TemplateRecord = mergeProps<TemplateRecord>(
     anger,
     books,
     courage,
