@@ -328,7 +328,7 @@ This is example of using ***Styled Quotes***:
 Result:
 
 <div align="center" style="align-content: center">
-    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/?theme=default_repocard&layout=churchill" alt="Quotes" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=default_repocard&layout=churchill" alt="Styled quotes" />
 </div>
 
 ## *Visitor stats*
