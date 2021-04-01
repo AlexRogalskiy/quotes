@@ -134,6 +134,7 @@ export enum CategoryPattern {
     time = 'time',
     knowledge = 'knowledge',
     science = 'science',
+    social = 'social',
     books = 'books',
     health = 'health',
     gratitude = 'gratitude',

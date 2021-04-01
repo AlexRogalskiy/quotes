@@ -213,6 +213,7 @@ List of categories supported by Quotes API:
 | **Time**                          | time                          |
 | **Knowledge**                     | knowledge                     |
 | **Science**                       | science                       |
+| **Social**                        | social                        |
 | **Books**                         | books                         |
 | **Health**                        | health                        |
 | **Gratitude**                     | gratitude                     |

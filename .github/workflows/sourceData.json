@@ -144,6 +144,10 @@
         "jsonPath": "$.science[*]"
     },
     {
+        "sourceFile": "./data/social_quotes.json",
+        "jsonPath": "$.social[*]"
+    },
+    {
         "sourceFile": "./data/spirituality_quotes.json",
         "jsonPath": "$.spirituality[*]"
     },
