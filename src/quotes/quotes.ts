@@ -35,6 +35,9 @@ import * as romance from '../../data/romance_quotes.json'
 import * as sadness from '../../data/sadness_quotes.json'
 import * as science from '../../data/science_quotes.json'
 import * as social from '../../data/social_quotes.json'
+import * as social2 from '../../data/social2_quotes.json'
+import * as social3 from '../../data/social3_quotes.json'
+import * as social4 from '../../data/social4_quotes.json'
 import * as spirituality from '../../data/spirituality_quotes.json'
 import * as stress from '../../data/stress_quotes.json'
 import * as success from '../../data/success_quotes.json'
@@ -94,6 +97,9 @@ const quotes: TemplateRecord = mergeProps<TemplateRecord>(
     sadness,
     science,
     social,
+    social2,
+    social3,
+    social4,
     spirituality,
     stress,
     success,

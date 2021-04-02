@@ -43,6 +43,9 @@ const romance = require('../data/romance_quotes.json')
 const sadness = require('../data/sadness_quotes.json')
 const science = require('../data/science_quotes.json')
 const social = require('../data/social_quotes.json')
+const social2 = require('../data/social2_quotes.json')
+const social3 = require('../data/social3_quotes.json')
+const social4 = require('../data/social4_quotes.json')
 const spirituality = require('../data/spirituality_quotes.json')
 const stress = require('../data/stress_quotes.json')
 const success = require('../data/success_quotes.json')
@@ -133,6 +136,9 @@ function ensureDirExists(dir) {
             sadness,
             science,
             social,
+            social2,
+            social3,
+            social4,
             spirituality,
             stress,
             success,

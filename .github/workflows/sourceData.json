@@ -148,6 +148,18 @@
         "jsonPath": "$.social[*]"
     },
     {
+        "sourceFile": "./data/social2_quotes.json",
+        "jsonPath": "$.social[*]"
+    },
+    {
+        "sourceFile": "./data/social3_quotes.json",
+        "jsonPath": "$.social[*]"
+    },
+    {
+        "sourceFile": "./data/social4_quotes.json",
+        "jsonPath": "$.social[*]"
+    },
+    {
         "sourceFile": "./data/spirituality_quotes.json",
         "jsonPath": "$.spirituality[*]"
     },
