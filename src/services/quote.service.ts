@@ -2,7 +2,7 @@ import { TemplateOptions } from '../../typings/domain-types'
 import { Optional } from '../../typings/standard-types'
 import { CategoryPattern } from '../../typings/enum-types'
 
-import { getSearchResults, idx } from './searchService'
+import { getSearchResults, idx } from './search.service'
 
 import { randomElement, randomEnum, toStringArray } from '../utils/commons'
 import { profile } from '../utils/profiles'

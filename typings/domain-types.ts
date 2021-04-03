@@ -64,7 +64,7 @@ export type ThemeOptions = {
     /**
      * Theme background opacity
      */
-    readonly opacity?: string
+    readonly opacity?: Optional<number>
     /**
      * Template background pattern
      */

@@ -1,4 +1,5 @@
 import _ from 'lodash'
+import { Optional } from '../../typings/standard-types'
 
 export const delimiterBy = (value = '>', num = 80): string => value.repeat(num)
 
@@ -23,6 +24,14 @@ export const join = (value?: string | string[], delim = ','): string => {
 }
 
 export const toString = (value: string | string[]): string => (_.isArray(value) ? value[0] : value)
+
+export const toInt = (str: string, defaultValue?: number): Optional<number> => {
+    try {
+        return parseInt(str) || defaultValue
+    } catch (error) {
+        return defaultValue
+    }
+}
 
 export const getFunctionArgs = (func: any): string[] => {
     const args = func.toString().match(/(function\s)?.*?\(([^)]*)\)/)[2]

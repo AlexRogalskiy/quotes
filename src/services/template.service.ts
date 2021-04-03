@@ -20,7 +20,7 @@ import { getFont } from '../fonts/fonts'
 import { getAnimation } from '../animations/animations'
 import { getSvgTemplate } from '../models/template'
 
-import * as quoteService from './quoteService'
+import * as quoteService from './quote.service'
 
 export async function templateRenderer(requestData: ParsedRequestData): Promise<string> {
     const {

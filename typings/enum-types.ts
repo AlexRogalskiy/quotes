@@ -226,6 +226,7 @@ export enum LayoutPattern {
     samuel = 'samuel',
     zues = 'zues',
     pluto = 'pluto',
+    sophocles = 'sophocles',
 }
 
 /**

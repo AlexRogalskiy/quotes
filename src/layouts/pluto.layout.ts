@@ -51,7 +51,7 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
                         font-family: Georgia;
                     }
                     .quote-wrapper {
-                        background: ${bgColor};
+                        background: #${bgColor};
                         background-image: ${backgroundPattern};
                         margin: 0;
                         box-sizing: border-box;
