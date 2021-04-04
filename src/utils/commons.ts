@@ -1,4 +1,5 @@
 import _ from 'lodash'
+
 import { Optional } from '../../typings/standard-types'
 
 export const delimiterBy = (value = '>', num = 80): string => value.repeat(num)
