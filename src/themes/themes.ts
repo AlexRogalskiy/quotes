@@ -23,9 +23,9 @@ const themes: Readonly<ThemeRecord> = {
     'default-repocard': {
         quoteColor: '2f80ed',
         authorColor: '333',
-        bgColor: 'fffefe',
+        bgColor: 'fff8dc',
         colorPattern: 'ffe0e9',
-        opacity: 0.3,
+        opacity: 0.7,
     },
     'dark': {
         quoteColor: 'fff',

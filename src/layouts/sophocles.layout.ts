@@ -1,28 +1,44 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
-import { LayoutPattern } from '../../typings/enum-types'
+import { FontPattern, LayoutPattern } from '../../typings/enum-types'
 
 import { capitalize } from '../utils/commons'
+
+import { getFont } from '../fonts/fonts'
 
 const sophoclesLayout: Record<LayoutPattern.sophocles, LayoutOptions> = {
     sophocles: {
         style: (options: StyleOptions) => {
             const { quoteColor, authorColor, bgColor, opacity } = options.theme
 
+            const fontText = getFont(FontPattern.stylish)
+            const fontCategory = getFont(FontPattern.stylish)
+
             return `
-                    @import 'https://fonts.googleapis.com/css?family=Lato:300';
                     @import 'https://cdnjs.cloudflare.com/ajax/libs/weather-icons/2.0.9/css/weather-icons.min.css';
 
-                    html, body, .background {
-                        width: 100%;
-                        height: 100%;
-                        margin: 0;
-                        padding: 0;
-                        font-family: "Lato", sans-serif;
+                    @font-face{
+                        font-family: ${fontText.fontFamily};
+                        font-style: normal;
+                        font-weight: normal;
+                        src: url(data:font/woff2;charset=utf-8;base64,${fontText.fontSrc}) format('woff2');
                     }
-
-                    .background {
-                        background: #eee;
-                        background: linear-gradient(120deg, rgba(50, 150, 100, 0.2), rgba(0, 0, 100, 0));
+                    @font-face{
+                        font-family: ${fontCategory.fontFamily};
+                        font-style: normal;
+                        font-weight: normal;
+                        src: url(data:font/woff2;charset=utf-8;base64,${fontCategory.fontSrc}) format('woff2');
+                    }
+                    .text {
+                        font-family: ${fontText.fontFamily}, sans-serif;
+                        font-style: italic;
+                        color: #${quoteColor};
+                    }
+                    .category {
+                        font-family: ${fontCategory.fontFamily}, sans-serif;
+                        font-weight: bold;
+                        text-align: right;
+                        margin: 3% 3% 0% 0%;
+                        color: #${authorColor};
                     }
 
                     .container {
@@ -36,8 +52,6 @@ const sophoclesLayout: Record<LayoutPattern.sophocles, LayoutOptions> = {
                         width: 100%;
                         overflow: auto;
                         position: relative;
-                        background: #eee;
-                        background: linear-gradient(240deg, rgba(150, 50, 50, 0.3), rgba(0, 0, 200, 0));
                     }
 
                     #card {
@@ -74,7 +88,7 @@ const sophoclesLayout: Record<LayoutPattern.sophocles, LayoutOptions> = {
                     #card .details #summary {
                         font-weight: 200;
                         font-style: italic;
-                        font-size: 15px;
+                        font-size: 18px;
                         color: #${quoteColor};
                         text-align: justify;
                     }
@@ -92,6 +106,7 @@ const sophoclesLayout: Record<LayoutPattern.sophocles, LayoutOptions> = {
 
                     .quote-wrapper {
                         background: #${bgColor};
+                        background: linear-gradient(240deg, rgba(150, 50, 50, 0.3), rgba(0, 0, 200, 0));
                         opacity: ${opacity};
                         transition: background-color 2s ease;
                     }
@@ -99,12 +114,14 @@ const sophoclesLayout: Record<LayoutPattern.sophocles, LayoutOptions> = {
         },
         template: (options: TemplateOptions) => {
             return `
-                    <div class="container background">
+                    <div class="container">
                         <div id="card" class="quote-wrapper">
                             <div class="details">
                                 <div class="right">
-                                    <div id="author">${capitalize(options.author)}</div>
-                                    <div id="summary">${options.quote}</div>
+                                    <div id="author" class="category">
+                                        ${capitalize(options.author)}
+                                    </div>
+                                    <div id="summary" class="text">${options.quote}</div>
                                 </div>
                             </div>
                         </div>

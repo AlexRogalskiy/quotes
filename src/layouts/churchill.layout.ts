@@ -1,25 +1,56 @@
 import { LayoutOptions, StyleOptions, TemplateOptions } from '../../typings/domain-types'
-import { LayoutPattern } from '../../typings/enum-types'
+import { FontPattern, LayoutPattern } from '../../typings/enum-types'
 
 import { capitalize } from '../utils/commons'
+
+import { getFont } from '../fonts/fonts'
 
 const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
     churchill: {
         style: (options: StyleOptions) => {
             const {
-                theme: { quoteColor, bgColor, authorColor },
+                theme: { quoteColor, authorColor, bgColor },
                 animation: { animation, keyframes },
             } = options
 
+            const fontQuote = getFont(FontPattern.bellota)
+            const fontAuthor = getFont(FontPattern.bellota)
+
             return `
+                    @font-face{
+                        font-family: ${fontQuote.fontFamily};
+                        font-style: normal;
+                        font-weight: normal;
+                        src: url(data:font/woff2;charset=utf-8;base64,${fontQuote.fontSrc}) format('woff2');
+                    }
+                    @font-face {
+                        font-family: ${fontAuthor.fontFamily};
+                        font-style: normal;
+                        font-weight: bold;
+                        src: url(data:font/woff2;charset=utf-8;base64,${fontAuthor.fontSrc}) format('woff2');
+                    }
+                    .text {
+                        font-family: ${fontQuote.fontFamily}, sans-serif;
+                        font-style: italic;
+                        color: #${quoteColor};
+                    }
+                    .category {
+                        font-family: ${fontAuthor.fontFamily}, sans-serif;
+                        font-weight: bold;
+                        border-radius: 50%;
+                        border-top: 1px solid #f1c40f;
+                        text-align: center;
+                        color: #${authorColor};
+                    }
+
                     #ct{
-                        height:auto;
-                        width:600px;
-                        margin: 20px 50px 20px 10px;
-                        text-align:center;
-                        position:relative;
-                        color:#${quoteColor};
-                        padding:15px;
+                        height: auto;
+                        width: auto;
+                        margin: 5% 5%;
+                        text-align: center;
+                        position: relative;
+                        color: #${quoteColor};
+                        padding: 15px;
 
                         background: radial-gradient(circle at top left, transparent 15px, #${bgColor} 0) top left,
                           radial-gradient(circle at top right, transparent 15px, #${bgColor} 0) top right,
@@ -31,52 +62,52 @@ const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
                     }
                     ${keyframes}
                     span{
-                        background:#${bgColor};
-                        color:#${authorColor};
-                        padding:0 10px;
-                        font-size:20px;
-                        position:relative;
-                        top:-28px;
+                        background: #${bgColor};
+                        color: #${authorColor};
+                        padding: 1% 10%;
+                        font-size: 20px;
+                        position: relative;
+                        top: -25px;
                     }
                     .corner{
-                        height:30px;
-                        width:30px;
-                        border-radius:50%;
-                        border:1px solid #fff;
-                        transform:rotate(-45deg);
-                        position:absolute;
-                        background:#fff;
+                        height: 30px;
+                        width: 30px;
+                        border-radius: 50%;
+                        border: 1px solid #fff;
+                        transform: rotate(-45deg);
+                        position: absolute;
+                        background: #fff;
                     }
                     #left_top{
-                        top:-16px;
-                        left:-16px;
+                        top: -16px;
+                        left: -16px;
                         background: transparent;
-                        border-color:transparent transparent #f1c40f transparent;
+                        border-color: transparent transparent #f1c40f transparent;
                     }
                     #right_top{
-                        top:-16px;
-                        right:-16px;
+                        top: -16px;
+                        right: -16px;
                         background: transparent;
-                        border-color:transparent transparent transparent #f1c40f;
+                        border-color: transparent transparent transparent #f1c40f;
                     }
                     #left_bottom{
-                        bottom:-16px;
-                        left:-16px;
+                        bottom: -16px;
+                        left: -16px;
                         background: transparent;
-                        border-color:transparent #f1c40f transparent transparent ;
+                        border-color: transparent #f1c40f transparent transparent ;
                     }
                     #right_bottom{
-                        bottom:-16px;
-                        right:-16px;
+                        bottom: -16px;
+                        right: -16px;
                         background: transparent;
-                        border-color:#f1c40f transparent transparent transparent;
+                        border-color: #f1c40f transparent transparent transparent;
                     }
                     #borderLeft {
                         border-left: 1px solid #f1c40f;
                         position: absolute;
                         top: 15px;
                         bottom: 15px;
-                        left:-1px;
+                        left: -1px;
                     }
                     #borderTop {
                         border-top: 1px solid #f1c40f;
@@ -100,8 +131,8 @@ const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
                         bottom: -1px;
                     }
                     p{
-                        padding-top:0px;
-                        font-size:17px
+                        padding-top: 0px;
+                        font-size: 17px
                     }
                 `
         },
@@ -116,9 +147,9 @@ const churchillLayout: Record<LayoutPattern.churchill, LayoutOptions> = {
                         <div id="borderRight"></div>
                         <div id="borderBottom"></div>
                         <div id="borderTop"></div>
-                        <span>${capitalize(options.author)}</span>
+                        <span class="category">${capitalize(options.author)}</span>
                         <blockquote>
-                            <p><i>${options.quote}</i></p>
+                            <p class="text"><i>${options.quote}</i></p>
                         </blockquote>
                     </div>
                 `

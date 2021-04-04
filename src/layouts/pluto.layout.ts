@@ -10,36 +10,36 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
         style: (options: StyleOptions) => {
             const { quoteColor, authorColor, bgColor, pattern, opacity, colorPattern } = options.theme
 
-            const fontRegular = getFont(FontPattern.monserrat)
-            const font700 = getFont(FontPattern.monserrat_700)
+            const fontQuote = getFont(FontPattern.monserrat)
+            const fontAuthor = getFont(FontPattern.monserrat_700)
 
             const backgroundPattern = getHeroPattern(pattern, String(opacity), String(colorPattern))
 
             return `
-                    * {
+* {
                         padding: 0;
                         margin: 0;
                         box-sizing: border-box;
                     }
                     @font-face{
-                        font-family: ${fontRegular.fontFamily};
+                        font-family: ${fontQuote.fontFamily};
                         font-style: normal;
                         font-weight: normal;
-                        src: url(data:font/woff2;charset=utf-8;base64,${fontRegular.fontSrc}) format('woff2');
+                        src: url(data:font/woff2;charset=utf-8;base64,${fontQuote.fontSrc}) format('woff2');
                     }
                     @font-face {
-                        font-family: ${font700.fontFamily};
+                        font-family: ${fontAuthor.fontFamily};
                         font-style: normal;
                         font-weight: bold;
-                        src: url(data:font/woff2;charset=utf-8;base64,${font700.fontSrc}) format('woff2');
+                        src: url(data:font/woff2;charset=utf-8;base64,${fontAuthor.fontSrc}) format('woff2');
                     }
                     .quote {
-                        font-family: ${fontRegular.fontFamily}, sans-serif;
+                        font-family: ${fontQuote.fontFamily}, sans-serif;
                         font-style: italic;
                         color: #${quoteColor};
                     }
                     .author {
-                        font-family: ${font700.fontFamily}, sans-serif;
+                        font-family: ${fontAuthor.fontFamily}, sans-serif;
                         font-weight: bold;
                         text-align: right;
                         margin: 3% 3% 0% 0%;
@@ -85,14 +85,14 @@ const plutoLayout: Record<LayoutPattern.pluto, LayoutOptions> = {
         },
         template: (options: TemplateOptions) => {
             return `
-                <div class="quote-wrapper">
-                    <div class="quote-wrapper-desc">
-                        <div class="line"></div>
-                        <p class="quote subhead">${options.quote}</p>
-                        <div class="line"></div>
-                        <h3 class="author">${capitalize(options.author)}</h3>
+                    <div class="quote-wrapper">
+                        <div class="quote-wrapper-desc">
+                            <div class="line"></div>
+                            <p class="quote subhead">${options.quote}</p>
+                            <div class="line"></div>
+                            <h3 class="author">${capitalize(options.author)}</h3>
+                        </div>
                     </div>
-                </div>
                 `
         },
     },
