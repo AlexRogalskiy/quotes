@@ -320,16 +320,62 @@ Patterns in Quotes are provided by [Hero Pattern](https://github.com/lowmess/her
 
 ## *Example*
 
-This is example of using ***Styled Quotes***:
+These are examples of using ***Styled Quotes***:
 
 ```
 ![Styled Quotes](https://styled-quotes.vercel.app/api?theme=default_repocard&layout=churchill)
 ```
 
-Result:
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=default_repocard&layout=churchill" alt="Styled quotes" />
+</div>
+
+```
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=buefy&layout=default)
+```
 
 <div align="center" style="align-content: center">
-    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=default_repocard&layout=churchill" alt="Styled quotes" />
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=buefy&layout=default" alt="Styled quotes" />
+</div>
+
+```
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=arabesque&layout=pluto)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=arabesque&layout=pluto" alt="Styled quotes" />
+</div>
+
+```
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=veblu&layout=samuel)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=veblu&layout=samuel" alt="Styled quotes" />
+</div>
+
+```
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=jolly&layout=socrates)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=jolly&layout=socrates" alt="Styled quotes" />
+</div>
+
+```
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=buefy&layout=sophocles)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=buefy&layout=sophocles" alt="Styled quotes" />
+</div>
+
+```
+![Styled Quotes](https://styled-quotes.vercel.app/api?theme=nightowl&layout=zues)
+```
+
+<div align="center" style="align-content: center">
+    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=nightowl&layout=zues" alt="Styled quotes" />
 </div>
 
 ## *Visitor stats*
