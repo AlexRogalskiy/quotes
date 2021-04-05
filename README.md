@@ -375,7 +375,7 @@ These are examples of using ***Styled Quotes***:
 ```
 
 <div align="center" style="align-content: center">
-    <img width="100%" height="200px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=nightowl&layout=zues" alt="Styled quotes" />
+    <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=nightowl&layout=zues" alt="Styled quotes" />
 </div>
 
 ## *Visitor stats*

@@ -149,7 +149,7 @@ export type ProfileOptions = {
     /**
      * Image configuration options.
      */
-    readonly imageOptions: ImageOptions
+    readonly imageOptions: Partial<ImageOptions>
     /**
      * Index configuration options.
      */
@@ -157,15 +157,15 @@ export type ProfileOptions = {
     /**
      * Style configuration options.
      */
-    readonly styleOptions?: StyleOptions
+    readonly styleOptions?: Partial<StyleOptions>
     /**
      * Layout configuration options.
      */
-    readonly layoutOptions?: LayoutOptions
+    readonly layoutOptions?: Partial<LayoutOptions>
     /**
      * Output options
      */
-    readonly outputOptions?: boxen.Options
+    readonly outputOptions?: Partial<boxen.Options>
 }
 
 /**
