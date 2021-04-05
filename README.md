@@ -15,12 +15,14 @@
 ![GitHub Repository branches](https://badgen.net/github/branches/AlexRogalskiy/quotes)
 ![GitHub Repository dependents](https://badgen.net/github/dependents-repo/AlexRogalskiy/quotes)
 
+[![DeepSource](https://deepsource.io/gh/AlexRogalskiy/quotes.svg/?label=active+issues\&show_trend=true)](https://deepsource.io/gh/AlexRogalskiy/quotes/?ref=repository-badge)
 [![DeepScan grade](https://deepscan.io/api/teams/11946/projects/16317/branches/347287/badge/grade.svg)](https://deepscan.io/dashboard#view=project\&tid=11946\&pid=16317\&bid=347287)
 [![Tokei](https://tokei.rs/b1/github/AlexRogalskiy/quotes?category=lines)](https://github.com/XAMPPRocky/tokei)
 ![Mergify Status](https://img.shields.io/endpoint.svg?url=https://gh.mergify.io/badges/AlexRogalskiy/quotes)
 [![Reviewed by Hound](https://img.shields.io/badge/Reviewed_by-Hound-8E64B0.svg)](https://houndci.com)
 [![DOI](https://zenodo.org/badge/334777292.svg)](https://zenodo.org/badge/latestdoi/334777292)
 [![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/quotes.svg)](https://david-dm.org/AlexRogalskiy/quotes)
+[![dependencies Status](https://status.david-dm.org/gh/AlexRogalskiy/quotes.svg)](https://david-dm.org/AlexRogalskiy/quotes?type=dev)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://raw.githubusercontent.com/alexrogalskiy/quotes/master/LICENSE?token=AH44ZFH7IF2KSEDK7LSIW3C7YOFYC)
 [![Issue](https://img.shields.io/github/issues/alexrogalskiy/quotes)](https://img.shields.io/github/issues/alexrogalskiy/quotes)
