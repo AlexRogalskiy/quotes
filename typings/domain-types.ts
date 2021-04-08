@@ -24,7 +24,7 @@ export type FontOptions = {
      */
     readonly fontSrc: string
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * AnimationOptions
  * @desc Type representing animation options
@@ -39,7 +39,7 @@ export type AnimationOptions = {
      */
     readonly keyframes: string
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * ThemeOptions
  * @desc Type representing theme options
@@ -70,7 +70,7 @@ export type ThemeOptions = {
      */
     readonly pattern?: Optional<HeroPattern>
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * StyleOptions
  * @desc Type representing style options
@@ -89,7 +89,7 @@ export type StyleOptions = {
      */
     readonly animation: AnimationOptions
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * TemplateOptions
  * @desc Type representing template options
@@ -108,7 +108,7 @@ export type TemplateOptions = {
      */
     author: string
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * LayoutOptions
  * @desc Type representing layout options
@@ -125,7 +125,7 @@ export type LayoutOptions = {
      */
     readonly template: (options: TemplateOptions) => string
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * ImageOptions
  * @desc Type representing image options
@@ -140,7 +140,7 @@ export type ImageOptions = {
      */
     readonly height: string
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * ProfileOptions
  * @desc Type representing profile options
@@ -167,7 +167,7 @@ export type ProfileOptions = {
      */
     readonly outputOptions?: Partial<boxen.Options>
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * TemplateData
  * @desc Type representing template data
@@ -190,7 +190,7 @@ export type TemplateData = {
      */
     readonly template: TemplateOptions
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * ParsedRequestData
  * @desc Type representing parsed request data
@@ -229,7 +229,7 @@ export type ParsedRequestData = {
      */
     readonly keywords?: string | string[]
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * ImageOptions
  * @desc Type representing index options
@@ -248,3 +248,4 @@ export type IndexOptions = {
      */
     readonly name: string
 }
+//--------------------------------------------------------------------------------------------------

@@ -7,7 +7,7 @@ export enum Profile {
     prod = 'prod',
     test = 'test',
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * HeroPattern
  * @desc Enumeration type representing supported background patterns
@@ -99,7 +99,7 @@ export enum HeroPattern {
     slantedStars = 'slantedStars',
     wallpaper = 'wallpaper',
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * CategoryPattern
  * @desc Enumeration type representing supported category patterns
@@ -147,7 +147,7 @@ export enum CategoryPattern {
     french = 'french',
     portuguese = 'portuguese',
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * FontPattern
  * @desc Enumeration type representing supported font patterns
@@ -214,7 +214,7 @@ export enum FontPattern {
     vibur = 'vibur',
     yesteryear = 'yesteryear',
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * LayoutPattern
  * @desc Enumeration type representing supported layout patterns
@@ -228,7 +228,7 @@ export enum LayoutPattern {
     pluto = 'pluto',
     sophocles = 'sophocles',
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * AnimationPattern
  * @desc Enumeration type representing supported animation patterns
@@ -237,7 +237,7 @@ export enum AnimationPattern {
     default = 'default',
     grow_out_in = 'grow-out-in',
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * ThemePattern
  * @desc Enumeration type representing supported theme patterns
@@ -289,7 +289,7 @@ export enum ThemePattern {
     kacho_ga = 'kacho-ga',
     arabesque = 'arabesque',
 }
-
+//--------------------------------------------------------------------------------------------------
 /**
  * RoutePattern
  * @desc Enumeration type representing supported route patterns
@@ -297,3 +297,4 @@ export enum ThemePattern {
 export enum RoutePattern {
     default = 'default',
 }
+//--------------------------------------------------------------------------------------------------
