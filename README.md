@@ -33,6 +33,7 @@
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/AlexRogalskiy/quotes.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/quotes/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/AlexRogalskiy/quotes.svg?logo=lgtm\&logoWidth=18)](https://lgtm.com/projects/g/AlexRogalskiy/quotes/context:javascript)
 
+[![Codeac](https://static.codeac.io/badges/2-334777292.svg)](https://app.codeac.io/github/AlexRogalskiy/quotes)
 [![codebeat badge](https://codebeat.co/badges/47a2e243-2741-4164-afb5-b24cbdd5843d)](https://codebeat.co/projects/github-com-alexrogalskiy-quotes-master)
 [![Renovatebot](https://badgen.net/badge/renovate/enabled/green?cache=300)](https://renovatebot.com/)
 [![Dependabot](https://img.shields.io/badge/dependabot-enabled-1f8ceb.svg?style=flat-square)](https://dependabot.com/)
