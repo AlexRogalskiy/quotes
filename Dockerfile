@@ -21,8 +21,8 @@ ARG APP_DIR="/usr/src/app"
 ARG DATA_DIR="/usr/src/data"
 
 ## General metadata
-LABEL "com.github.repository"="https://github.com/AlexRogalskiy/java-patterns"
-LABEL "com.github.homepage"="https://github.com/AlexRogalskiy/java-patterns"
+LABEL "com.github.repository"="https://github.com/AlexRogalskiy/quotes"
+LABEL "com.github.homepage"="https://github.com/AlexRogalskiy/quotes"
 LABEL "com.github.maintainer"="Sensiblemetrics, Inc. <hello@sensiblemetrics.io> (https://sensiblemetrics.io)"
 
 LABEL "com.github.version"="$VERSION"
