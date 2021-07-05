@@ -20,7 +20,7 @@ jobs:
 
       - id: file_changes
         if: "!contains(github.event.head_commit.message, 'SKIP JSON SCRIPTS')"
-        uses: trilom/file-changes-action@v1.2.3
+        uses: trilom/file-changes-action@v1.2.4
         with:
           output: ','
           fileOutput: ','
