@@ -11,7 +11,7 @@ export const random = (max: number): number => Math.floor(Math.random() * max)
 export const randomElement = <T>(arr: T[]): T => arr[random(arr.length)]
 
 export const randomEnum = <T>(value: T): T[keyof T] => {
-    const enumValues = (Object.values(value) as unknown) as T[keyof T][]
+    const enumValues = Object.values(value) as unknown as T[keyof T][]
     const randomIndex = random(enumValues.length)
     return enumValues[randomIndex]
 }
@@ -28,8 +28,8 @@ export const toString = (value: string | string[]): string => (_.isArray(value) 
 
 export const toInt = (str: string, defaultValue?: number): Optional<number> => {
     try {
-        return parseInt(str) || defaultValue
-    } catch (error) {
+        return Number.parseInt(str) || defaultValue
+    } catch {
         return defaultValue
     }
 }
