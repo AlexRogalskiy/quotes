@@ -1,8 +1,8 @@
 import lunr, { Index, Query, tokenizer } from 'lunr'
 import cron from 'node-cron'
 
-import { readFileSync, writeFileSync } from 'node:fs'
-import { join } from 'node:path'
+import { readFileSync, writeFileSync } from 'fs'
+import { join } from 'path'
 
 import { CategoryPattern } from '../../typings/enum-types'
 
