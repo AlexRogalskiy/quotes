@@ -23,7 +23,7 @@ ARG PACKAGE="AlexRogalskiy/quotes"
 ARG DESCRIPTION="Automatically generate styled SVG quotes upon request"
 
 ## Vercel token
-ARG TOKEN
+ARG VERCEL_TOKEN
 
 ## Working directories
 ARG APP_DIR="/usr/src/app"
@@ -65,7 +65,7 @@ ENV TZ=UTC \
 ENV PIP_DISABLE_PIP_VERSION_CHECK=1
 ENV PIP_NO_CACHE_DIR=1
 
-ENV VERCEL_TOKEN $TOKEN
+ENV VERCEL_TOKEN $VERCEL_TOKEN
 
 ENV USER=$USER \
     UID=$UID \
@@ -122,7 +122,7 @@ RUN echo "PYTHON version: $(python3 --version)"
 RUN npm install
 
 ## Run format checking & linting
-RUN npm run test:all
+RUN npm run test:license
 
 ## Run vercel integration
 RUN yes | vercel --confirm --token $VERCEL_TOKEN

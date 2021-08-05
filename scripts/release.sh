@@ -3,7 +3,7 @@
 # build images & push to hub
 
 TAG=$(node -p "require('./package.json').version")
-IMAGE="nullablesio/styled-quotes"
+IMAGE="sensiblemetrics/styled-quotes"
 
 echo "Building $IMAGE:$TAG"
 
