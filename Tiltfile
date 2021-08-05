@@ -16,11 +16,11 @@ tilt_inspector()
 
 conftest(path='k8s/deployment.yaml', namespace='main')
 k8s_yaml('k8s/deployment.yaml')
-k8s_resource('styled-charts', port_forwards=3000, resource_deps=['conftest'])
+k8s_resource('styled-quotes', port_forwards=3000, resource_deps=['conftest'])
 
 # Add a live_update rule to our docker_build
 congrats = "🎉 Congrats, you ran a live_update! 🎉"
-docker_build_with_restart('styled-charts', '.', build_args={'IMAGE_SOURCE': 'node', 'IMAGE_TAG': '12-buster'},
+docker_build_with_restart('styled-quotes', '.', build_args={'IMAGE_SOURCE': 'node', 'IMAGE_TAG': '12-buster'},
     dockerfile='./Dockerfile',
     entrypoint=['npm', 'run', 'develop:docker'],
     live_update=[

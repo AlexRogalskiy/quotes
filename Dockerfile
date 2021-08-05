@@ -90,7 +90,7 @@ RUN addgroup --gid "$GID" "$USER" \
 
 ## Installing dependencies
 RUN apt-get update \
-    && apt-get install --assume-yes \
+    && apt-get install --assume-yes --no-install-recommends \
     git \
     curl \
     locales \
