@@ -1,0 +1,27 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: styled-quotes
+  labels:
+    app.kubernetes.io/name: styled-quotes
+    app.kubernetes.io/instance: styled-quotes
+    app.kubernetes.io/version: "0.0.0"
+    app.kubernetes.io/component: function
+    app.kubernetes.io/part-of: serverless
+    app.kubernetes.io/managed-by: tilt
+
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: styled-quotes
+  template:
+    metadata:
+      labels:
+        app: styled-quotes
+    spec:
+      containers:
+        - name: styled-quotes
+          image: styled-quotes
+          ports:
+            - containerPort: 3000

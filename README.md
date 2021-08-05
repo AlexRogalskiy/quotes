@@ -428,6 +428,8 @@ See also the list of [contributors][contributors] who participated in this proje
 
 [![Stargazers repo roster for @AlexRogalskiy/quotes](https://reporoster.com/stars/AlexRogalskiy/quotes)][stars]
 
+[![Stargazers over time](https://starchart.cc/AlexRogalskiy/quotes.svg)][stars_chart]
+
 ## *Forks*
 
 [![Forkers repo roster for @AlexRogalskiy/quotes](https://reporoster.com/forks/AlexRogalskiy/quotes)][forkers]
@@ -481,6 +483,8 @@ Like ***Styled Quotes*** ? Consider buying me a coffee :)
 [wiki]: https://github.com/AlexRogalskiy/quotes/wiki
 
 [stars]: https://github.com/AlexRogalskiy/quotes/stargazers
+
+[stars_chart]: https://starchart.cc/AlexRogalskiy/quotes
 
 [forkers]: https://github.com/AlexRogalskiy/quotes/network/members
 
