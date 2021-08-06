@@ -1,7 +1,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: styled-quotes
+  name: styled-quotes-node-port
   labels:
     app.kubernetes.io/name: styled-quotes
     app.kubernetes.io/instance: styled-quotes
@@ -11,10 +11,10 @@ metadata:
     app.kubernetes.io/managed-by: tilt
 
 spec:
-  type: LoadBalancer
+  type: NodePort
   ports:
     - port: 3000
       targetPort: 3000
-  clusterIP: None
+      nodePort: 31515
   selector:
-    app: styled-quotes
+    component: styled-quotes

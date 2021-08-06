@@ -43,9 +43,9 @@ services:
     <<: *deploy-template
     <<: *logging-template
     <<: *restart-template
-    container_name: ${APP_CONTAINER_NAME:-'styled-charts'}
-    image: ${APP_IMAGE_NAME:-'styled-charts'}
-    hostname: ${APP_HOST_NAME:-'styled-charts'}
+    container_name: ${APP_CONTAINER_NAME:-'styled-quotes'}
+    image: ${APP_IMAGE_NAME:-'styled-quotes'}
+    hostname: ${APP_HOST_NAME:-'styled-quotes'}
     build:
       context: './'
       dockerfile: Dockerfile
@@ -55,9 +55,14 @@ services:
       args:
         IMAGE_SOURCE: "$IMAGE_SOURCE"
         IMAGE_TAG: "$IMAGE_TAG"
-        VERCEL_TOKEN: "$VERCEL_TOKEN"
+        VERCEL_TOKEN: "/run/secrets/vercel_token"
+    secrets:
+      - vercel_token
+    entrypoint: ./scripts/entrypoint.sh
     env_file:
       - .env
+    environment:
+      VERCEL_TOKEN: /run/secrets/vercel_token
     volumes:
       - type: volume
         source: appvolume
@@ -68,7 +73,7 @@ services:
         source: ./data
         target: /usr/src/data
     healthcheck:
-      test: ['CMD-SHELL', 'nc', '-vz', 'localhost', '3000']
+      test: [ 'CMD-SHELL', 'nc', '-vz', 'localhost', '3000' ]
       interval: 3s
       retries: 15
       start_period: 30s
@@ -90,3 +95,7 @@ volumes:
       o: bind
       type: none
       device: ./
+
+secrets:
+  vercel_token:
+    file: ./vercel_token.txt # put vercel token to this file

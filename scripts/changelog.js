@@ -8,7 +8,7 @@ process.chdir(join(__dirname, '..'));
 
 async function main() {
     const res = await fetch(
-        'https://api.github.com/repos/AlexRogalskiy/charts/releases/latest',
+        'https://api.github.com/repos/AlexRogalskiy/quotes/releases/latest',
     );
     const { tag_name } = await res.json();
 

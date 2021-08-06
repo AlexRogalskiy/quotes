@@ -20,7 +20,7 @@ k8s_resource('styled-quotes', port_forwards=3000, resource_deps=['conftest'])
 
 # Add a live_update rule to our docker_build
 congrats = "🎉 Congrats, you ran a live_update! 🎉"
-docker_build_with_restart('styled-quotes', '.', build_args={'IMAGE_SOURCE': 'node', 'IMAGE_TAG': 'lts', 'VERCEL_TOKEN': 'YAa5OepbZEgNH35yU2AeLVaE'},
+docker_build_with_restart('styled-quotes', '.', build_args={'IMAGE_SOURCE': 'node', 'IMAGE_TAG': 'lts', 'VERCEL_TOKEN': ''},
     dockerfile='./Dockerfile',
     entrypoint=['npm', 'run', 'develop:docker'],
     live_update=[
