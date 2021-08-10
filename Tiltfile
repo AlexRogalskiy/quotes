@@ -14,9 +14,13 @@ tilt_inspector()
 #load('ext://min_k8s_version', 'min_k8s_version')
 #min_k8s_version('1.21.1')
 
-conftest(path='k8s/deployment.yaml', namespace='main')
-k8s_yaml('k8s/deployment.yaml')
-k8s_resource('styled-quotes', port_forwards=3000, resource_deps=['conftest'])
+load('ext://namespace', 'namespace_create', 'namespace_inject')
+namespace_create('webapp')
+
+conftest(path='k8s/backend/deployment.yaml', namespace='main')
+# k8s_yaml('k8s/backend/deployment.yaml')
+k8s_yaml(namespace_inject(read_file('k8s/backend/deployment.yaml'), 'webapp'), allow_duplicates=False)
+k8s_resource('backend', port_forwards=3000, resource_deps=['conftest'])
 
 # Add a live_update rule to our docker_build
 congrats = "🎉 Congrats, you ran a live_update! 🎉"

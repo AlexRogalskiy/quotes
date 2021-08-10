@@ -34,6 +34,11 @@
       "Name": "tilt_inspector",
       "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
       "TimeFetched": "2021-08-05T17:19:16.46853+03:00"
+    },
+    {
+      "Name": "namespace",
+      "ExtensionRegistry": "https://github.com/tilt-dev/tilt-extensions",
+      "TimeFetched": "2021-08-10T12:22:09.3244207+03:00"
     }
   ]
 }
