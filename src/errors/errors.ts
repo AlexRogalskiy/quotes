@@ -1,5 +1,5 @@
 import { hasProperty } from '../utils/commons'
-import { errorLogs } from '../utils/loggers'
+import { boxenErrorLogs, errorLogs } from '../utils/loggers'
 
 /**
  * ErrorType
@@ -196,26 +196,21 @@ export type RequestErrorConstructor = typeof RequestError
 export type ResponseErrorConstructor = typeof ResponseError
 export type UnsupportedParameterErrorConstructor = typeof UnsupportedParameterError
 
-export const valueError = (message: string, ...args: any[]): ValueError => {
-    return new ValueError(message, args)
-}
+export const valueError = (message: string, ...args: any[]): ValueError => new ValueError(message, args)
 
-export const typeError = (message: string, ...args: any[]): TypeError => {
-    return new TypeError(message, args)
-}
+export const typeError = (message: string, ...args: any[]): TypeError => new TypeError(message, args)
 
-export const validationError = (message: string, ...args: any[]): ValidationError => {
-    return new ValidationError(message, args)
-}
+export const validationError = (message: string, ...args: any[]): ValidationError =>
+    new ValidationError(message, args)
 
-export const responseError = (param: string, ...args: any[]): ResponseError => {
-    return new ResponseError(param, args)
-}
+export const responseError = (param: string, ...args: any[]): ResponseError => new ResponseError(param, args)
 
-export const requestError = (param: string, ...args: any[]): RequestError => {
-    return new RequestError(param, args)
-}
+export const requestError = (param: string, ...args: any[]): RequestError => new RequestError(param, args)
 
-export const unsupportedParamError = (param: string, ...args: any[]): UnsupportedParameterError => {
-    return new UnsupportedParameterError(param, args)
+export const unsupportedParamError = (param: string, ...args: any[]): UnsupportedParameterError =>
+    new UnsupportedParameterError(param, args)
+
+export const handleError = (err: any): void => {
+    boxenErrorLogs(`Unhandled error: ${err}`)
+    throw err
 }

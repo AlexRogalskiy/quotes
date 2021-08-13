@@ -231,7 +231,7 @@ export type ParsedRequestData = {
 }
 //--------------------------------------------------------------------------------------------------
 /**
- * ImageOptions
+ * IndexOptions
  * @desc Type representing index options
  */
 export type IndexOptions = {
