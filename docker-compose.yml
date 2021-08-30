@@ -62,7 +62,7 @@ services:
     secrets:
       - vercel_token
     env_file:
-      - .env
+      - .env.example
     #    environment:
     #      VERCEL_TOKEN: /run/secrets/vercel_token
     volumes:

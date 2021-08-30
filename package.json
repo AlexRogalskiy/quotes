@@ -41,6 +41,7 @@
         "prepare": "del-cli .cache && npm run index",
         "postpublish": "git push && git push --tags",
         "setup": "yarn",
+        "name": "node ./scripts/rootAppName.js",
         "semantic-release": "semantic-release",
         "gitlog": "node ./scripts/changelog.js",
         "bump:patch": "npm version patch --no-git-tag-version",
