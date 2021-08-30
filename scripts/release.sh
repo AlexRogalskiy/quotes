@@ -1,9 +1,12 @@
 #!/bin/bash
 
-# build images & push to hub
+set -e
 
+cd "$(dirname "$0")" || exit 1
+
+# build images & push to hub
 TAG=$(node -p "require('./package.json').version")
-IMAGE="sensiblemetrics/styled-quotes"
+IMAGE="io.sensiblemetrics/styled-quotes"
 
 echo "Building $IMAGE:$TAG"
 
