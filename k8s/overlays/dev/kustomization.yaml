@@ -5,3 +5,10 @@ resources:
   - namespace.yaml
 transformers:
   - labels.yaml
+
+secretGenerator:
+  - name: quotes-config
+    files:
+      - config.yaml
+  generatorOptions:
+    disableNameSuffixHash: true

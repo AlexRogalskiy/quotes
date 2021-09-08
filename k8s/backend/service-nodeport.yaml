@@ -14,7 +14,8 @@ metadata:
 spec:
   type: NodePort
   ports:
-    - port: 3000
+    - name: quotes
+      port: 3000
       targetPort: 3000
       nodePort: 31515
   selector:

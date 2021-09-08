@@ -132,6 +132,8 @@ spec:
               mountPath: "/data"
             - name: data-tmp
               mountPath: "/tmp"
+#             - name: quotes-config
+#               mountPath: /etc/quotes
           resources:
             requests:
               cpu: 1
@@ -152,3 +154,7 @@ spec:
           emptyDir: {}
         - name: data-tmp
           emptyDir: {}
+#         - name: quotes-config
+#           secret:
+#             secretName: quotes-config
+#             defaultMode: 0444
