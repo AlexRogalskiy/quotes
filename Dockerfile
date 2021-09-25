@@ -197,6 +197,8 @@ FROM base AS release
 ## setup release stage
 RUN echo "**** Release stage ****"
 
+SHELL ["/bin/bash", "-o", "pipefail", "-c"]
+
 ## copy dependencies
 #COPY --from=node-dependencies ${APP_DIR}/prod_node_modules ./node_modules
 COPY --from=node-dependencies ${APP_DIR}/node_modules ./node_modules
