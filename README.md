@@ -445,6 +445,8 @@ See also the list of [contributors][contributors] who participated in this proje
 
 [![Stargazers over time](https://starchart.cc/AlexRogalskiy/quotes.svg)][stars_chart]
 
+[![Statistics report](https://cauldron.io/project/5116/stats.svg)][stats_chart]
+
 ## *Forks*
 
 [![Forkers repo roster for @AlexRogalskiy/quotes](https://reporoster.com/forks/AlexRogalskiy/quotes)][forkers]
@@ -500,6 +502,8 @@ Like ***Styled Quotes*** ? Consider buying me a coffee :)
 [stars]: https://github.com/AlexRogalskiy/quotes/stargazers
 
 [stars_chart]: https://starchart.cc/AlexRogalskiy/quotes
+
+[stats_chart]: https://cauldron.io/project/5116
 
 [forkers]: https://github.com/AlexRogalskiy/quotes/network/members
 
