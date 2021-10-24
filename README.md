@@ -93,7 +93,7 @@ For the tech stack, ***Styled Quotes*** using Typescript and serverless function
 
 ## *How to use*
 
-It's simple, you can copy paste this markdown content, like this one:
+It's simple, you can copy-aste this markdown content, like this one:
 
 ```
 ![Styled Quotes](https://styled-quotes.vercel.app/api?theme=[value]&layout=[value]&animation=[value]&bgColor=[value]&opacity=[value]&colorPattern=[value]&quoteColor=[value]&authorColor=[value]&pattern=[pattern]&category=[value]&width=[width]&height=[height]&keywords=[keywords])
@@ -382,6 +382,10 @@ These are examples of using ***Styled Quotes***:
 <div align="center" style="align-content: center">
     <img width="100%" height="300px" style="min-height: 250px" src="https://styled-quotes.vercel.app/api?theme=nightowl&layout=zues" alt="Styled quotes" />
 </div>
+
+## *CI/CD*
+
+[![CI/CD Workflow](https://www.plantuml.com/plantuml/png/ZP1BRzD04CVFxAUObekH7AzuWAeUK5lRGcrI6-9QubQvzZGnMU-QVG0HuhipVYH685Jl8HdF_pUF_rmOMsZh6i5EAdoi9KAuIlCe_P3dwnLihMtDEUUw-1viQhjr3ywWBfMqA6rGgeQNGhbARHnlHI6xFej3Pc5QNLiql2cCHSrEQbaALw7JuiyPdBeqIWOjrVwNwVeP_WNbhfPc3chAPXQcPA6_kWUS0qlyuPuORfKIXk_EPc6LAdUe1v8bga8u3Qzv645SAhCt5fjJ-CcUTKNtDt6ol4uoRpo13pT3y0AUF_PlvBBmrYFlFb2mk2raiK7zDvF4d_FCwztuIVSx0J2-kpHTtKTfk8pNth2c7_L__wB3s3IvN7_AhsBlU55QuH1EHRyOwrilppAFhkJ3acGjqQAP87PPMgKXmcyeL8kQiMC8Y_T0zk0SNWRmqPajewykETw5X5S1tEbwGxxP8KdwSIqYNa_4b2PcC4h0cm2kN2qgDcP8wwz5qji0CbeEfzuaaXEItWMqSYlKdbsWh5mZVWC0)](https://www.plantuml.com/plantuml/png/ZP1BRzD04CVFxAUObekH7AzuWAeUK5lRGcrI6-9QubQvzZGnMU-QVG0HuhipVYH685Jl8HdF_pUF_rmOMsZh6i5EAdoi9KAuIlCe_P3dwnLihMtDEUUw-1viQhjr3ywWBfMqA6rGgeQNGhbARHnlHI6xFej3Pc5QNLiql2cCHSrEQbaALw7JuiyPdBeqIWOjrVwNwVeP_WNbhfPc3chAPXQcPA6_kWUS0qlyuPuORfKIXk_EPc6LAdUe1v8bga8u3Qzv645SAhCt5fjJ-CcUTKNtDt6ol4uoRpo13pT3y0AUF_PlvBBmrYFlFb2mk2raiK7zDvF4d_FCwztuIVSx0J2-kpHTtKTfk8pNth2c7_L__wB3s3IvN7_AhsBlU55QuH1EHRyOwrilppAFhkJ3acGjqQAP87PPMgKXmcyeL8kQiMC8Y_T0zk0SNWRmqPajewykETw5X5S1tEbwGxxP8KdwSIqYNa_4b2PcC4h0cm2kN2qgDcP8wwz5qji0CbeEfzuaaXEItWMqSYlKdbsWh5mZVWC0)
 
 ## *Visitor stats*
 
