@@ -105,7 +105,7 @@
         "gradient-string": "^1.2.0",
         "husky": "^7.0.1",
         "jest": "^27.0.6",
-        "jest-circus": "^27.0.6",
+        "jest-circus": "^29.0.0",
         "jsonlint": "^1.6.3",
         "license-checker": "^25.0.1",
         "markdown-link-check": "^3.8.7",
